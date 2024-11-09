@@ -1,5 +1,0 @@
-
-CC(Coordinate Conjunctions) = [or, and, but, nor, or, yet, so, still, besides,otherwise, or else, nevertheless]
-IN(Subordinate Conjunctions) = [Simple: after, although, as, because, before, despite, if, since, that,
-though, unless, until, when, where, whereas, whether, as if, as long as,
-even if, even though, in order that, rather than, so that, ]
