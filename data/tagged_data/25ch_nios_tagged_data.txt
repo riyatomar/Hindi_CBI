@@ -1,0 +1,11205 @@
+<sent_id=Geo_nios_25ch_0001>
+पिछले	JJ
+पाठ	NN
+में	PSP
+आप	PRP
+ने	PSP
+खनिज	NNPC
+एवं	NNPC
+ऊर्जा	NNC
+शक्ति	NN
+के	PSP
+आवश्यक	JJ
+आधारभूत	JJ
+ढाँचा	NN
+को	PSP
+संसाधन	NN
+के	PSP
+रूप	PSP
+में	PSP
+पढा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0002>
+इसी	DEM
+प्रकार	NN
+परिवहन	NN
+,	SYM
+संचार	NN
+एवं	CC
+व्यापार	NN
+भी	RP
+महत्वपूर्ण	JJ
+सेवा	NNC
+सुविधाओं	NN
+के	PSP
+अन्तर्गत	PSP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0003>
+परिवहन	NN
+,	SYM
+संचार	NN
+एवं	NNPC
+व्यापार	NNPC
+कृषि	NNPC
+एवं	CC
+उद्योग	NN
+दोनों	QC
+क्षेत्रों	NN
+की	PSP
+अभिवृद्धि	NN
+करने	VM
+में	PSP
+सहायक	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0004>
+परिवहन	NN
+के	PSP
+साधन	NN
+लोगों	NN
+और	CC
+उनके	PRP
+सामानों	NN
+को	PSP
+एक	QC
+स्थान	NN
+से	PSP
+दूसरे	QO
+स्थान	NN
+पर	PSP
+लाने	VM
+ले	VM
+जाने	VAUX
+में	PSP
+सहायक	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0005>
+परिवहन	NN
+इस	DEM
+प्रकार	NN
+से	PSP
+उत्पादन	NN
+,	SYM
+वितरण	NN
+एवं	CC
+उनके	PRP
+खपत	NN
+के	PSP
+लिए	PSP
+सहायक	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0006>
+संचार	NNC
+माध्यमों	NN
+द्वारा	PSP
+दो	QC
+व्यक्तियों	NN
+अथवा	CC
+संस्थाओं	NN
+के	PSP
+बीच	NST
+संदेशों	NN
+के	PSP
+आदान-प्रदान	NN
+करने	VM
+में	PSP
+दूरी	NN
+और	CC
+समय	NN
+दोनो	NN
+की	PSP
+बचत	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0007>
+रेडियो	NN
+और	CC
+टेलीविजन	NN
+ऐसे	DEM
+संचार	NN
+माध्यम	NN
+हैं	VM
+जिनके	PRP
+द्वारा	PSP
+सामूहिक-सन्देश	NN
+जिनमे	DEM
+जानकारी	NN
+,	SYM
+समाचार	NN
+,	SYM
+मनोरंजन	NN
+इत्यादि	RP
+शामिल	JJ
+होते	VM
+हैं	VAUX
+दूर	NST
+-दराज	SYM
+के	PSP
+क्षेत्रों	NN
+में	PSP
+लोगों	NN
+तक	PSP
+पहुँचाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0008>
+टेलिफोन	NNPC
+एव	CC
+तार	NN
+(	SYM
+टेलीग्राफ	NN
+)	SYM
+सेवाएँ	NN
+लोगों	NN
+की	PSP
+नजदीकियाँ	NN
+बढाती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0009>
+इससे	PRP
+व्यापार-वाणिज्य	NN
+को	PSP
+प्रोत्साहन	NN
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0010>
+व्यापार	NN
+के	PSP
+अन्तर्गत	PSP
+दूर-दराज	JJ
+क्षेत्रों	NN
+में	PSP
+उत्पादित	JJ
+वस्तुओं	NN
+का	PSP
+क्रय-विक्रय	NN
+व	CC
+विनिमय	NN
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0011>
+इस	DEM
+प्रकार	NN
+व्यापार	NNPC
+कृषि	NNC
+उत्पादन	NN
+अथवा	CC
+उद्योग	NNC
+उत्पादन	NN
+दोनों	NN
+की	PSP
+प्रगति	NN
+को	PSP
+त्वरित	JJ
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0012>
+इस	DEM
+पाठ	NN
+में	PSP
+आप	PRP
+परिवहन	NN
+,	SYM
+संचार	NN
+एवं	CC
+व्यापार	NN
+की	PSP
+भारत	NNP
+में	PSP
+सापेक्ष	JJ
+महत्ता	NN
+के	PSP
+बारे	PSP
+से	PSP
+पढेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0013>
+आप	PRP
+परिवहन	NNPC
+एवं	CC
+संचार	NN
+के	PSP
+वितरण	NN
+एवं	CC
+इसके	PRP
+घनत्व	NN
+के	PSP
+बारे	PSP
+में	PSP
+सीखेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0014>
+इसके	PRP
+साथ	NST
+ही	RP
+व्यापार	NN
+की	PSP
+व्यापकता	NN
+एवं	CC
+दिशा	NN
+के	PSP
+बारे	PSP
+में	PSP
+भी	RP
+जानकारी	NN
+प्राप्त	JJ
+करेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0015>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+आधारभूत	JJ
+संरचना	NN
+को	PSP
+परिभाषित	JJ
+कर	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0016>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+क्षेत्राय	JJ
+विकास	NN
+में	PSP
+आधारभूत	JJ
+संरचना	NN
+की	PSP
+भूमिका	NN
+को	PSP
+समझा	VM
+सकेंगें	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0017>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+परिवहन	NN
+की	PSP
+आवश्यकताओं	NN
+एवं	CC
+प्रकारों	NN
+के	PSP
+बीच	NST
+संबंध	NN
+स्थापित	JJ
+कर	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0018>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+महत्वपूर्ण	JJ
+सडकों	NN
+,	SYM
+रेल	NNC
+मार्गों	NN
+,	SYM
+वायु	NNC
+मार्गों	NN
+,	SYM
+जल	NNC
+मार्गों	NN
+,	SYM
+की	PSP
+प्रणालियों	NN
+तथा	CC
+व्यवस्था	NNC
+तंत्र	NN
+को	PSP
+पहचान	NN
+सकेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0019>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+आधुनिक	NNPC
+संचार	NNPC
+व्यवस्था	NN
+के	PSP
+विभिन्न	JJ
+माध्यमों	NN
+की	PSP
+भूमिका	NN
+का	PSP
+वर्णन	NN
+कर	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0020>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+ग्रामीण	NN
+एवं	CC
+शहरी	JJ
+क्षेत्रों	NN
+में	PSP
+रहने	VM
+वाले	PSP
+लोगों	NN
+की	PSP
+जीवन	NNC
+शैली	NN
+को	PSP
+बदलने	VM
+में	PSP
+परिवहन	NNPC
+एवं	CC
+संचार	NN
+की	PSP
+भूमिका	NN
+को	PSP
+बता	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0021>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+क्षेत्रीय	JJ
+आश्रय	NNPC
+एवं	CC
+राष्ट्रीय	JJ
+एकता	NN
+में	PSP
+व्यापार	NN
+के	PSP
+महत्व	NN
+को	PSP
+दैनिक	JJ
+जीवन	NN
+में	PSP
+समझा	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0022>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+बदलते	VM
+व्यापार	NN
+को	PSP
+दर्शाने	VM
+वाले	PSP
+ग्राफों	NN
+,	SYM
+चित्रों	NN
+एवं	CC
+आकडों	NN
+को	PSP
+अच्छी	JJ
+तरह	NN
+प्रस्तुत	JJ
+कर	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0023>
+आधारभूत	JJ
+संरचनाः	NNC
+परिभाषा	NN
+एवं	CC
+क्षेत्रीय	JJ
+विकास	NN
+में	PSP
+भूमिका	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0024>
+विश्व	NNC
+पुस्तक	NNPC
+शब्दकोष	NN
+के	PSP
+अनुसार	PSP
+‘‘इन्फ्रास्ट्रक्चर’’	JJ
+शब्द	NN
+उन	DEM
+आवश्यक	JJ
+घटकों	NN
+को	PSP
+दर्शाता	VM
+है	VAUX
+जिनके	PRP
+द्वारा	PSP
+किसी	PRP
+संरचना	NN
+अथवा	CC
+व्यवस्था	NN
+का	PSP
+गठन	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0025>
+इन्फ्रास्ट्रक्चर	NNP
+शब्द	NN
+के	PSP
+अन्तर्गत	PSP
+वे	PRP
+सभी	QF
+संसाधन	NN
+शामिल	JJ
+हैं	VM
+जो	PRP
+देश	NN
+की	PSP
+आर्थिक	JJ
+स्थिति	NN
+के	PSP
+आधार	NN
+को	PSP
+सुदृढ	JJ
+करने	VM
+में	PSP
+सहायक	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0026>
+अच्छे	JJ
+आधारभूत	JJ
+संरचना	NN
+एवं	CC
+सेवाओं	NN
+में	PSP
+परिवहन	NN
+(	SYM
+सडक	NN
+,	SYM
+रेल	NNC
+यातायात	NN
+,	SYM
+बन्दरगाह	NN
+,	SYM
+नागरिक	NNC
+उड्यन	NNPC
+इत्यादि	RP
+)	SYM
+,	SYM
+संचार	NN
+(	SYM
+दूरसंचार	NN
+,	SYM
+टेलीग्राफ	NN
+,	SYM
+टेलीफोन	NN
+,	SYM
+डाक-तार	NNPC
+व्यवस्था	NN
+इत्यादि	RP
+)	SYM
+और	CC
+विद्युत	NNPC
+सम्प्रेषण	NN
+(	SYM
+ट्रांसमिशन	NNP
+)	SYM
+एवं	CC
+वितरण	NNC
+देश	NN
+के	PSP
+विकास	NN
+में	PSP
+निर्णायक	JJ
+भूमिका	NN
+निभाते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0027>
+क्षेत्रीय	JJ
+विकास	NN
+की	PSP
+किसी	PRP
+भी	RP
+परियोजना	NN
+की	PSP
+तैयारी	NN
+करने	VM
+में	PSP
+आधारभूत	JJ
+सुविधाएँ	NN
+एवं	CC
+सेवाएँ	NN
+महत्वपूर्ण	JJ
+निर्णायक	JJ
+तत्त्च	NN
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0028>
+उत्कृष्ट	JJ
+आधारभूत	JJ
+सेवाओं	NN
+में	PSP
+परिवहन	NN
+,	SYM
+संचार	NN
+,	SYM
+विद्युत	NNC
+सम्प्रेषण	NN
+एवं	CC
+वितरण	NN
+के	PSP
+अलावा	PSP
+संचार	NNC
+व्यवस्था	NN
+,	SYM
+जल	NNC
+आपूर्ति	NNPC
+एवं	CC
+स्वच्छता	NN
+,	SYM
+साफ-सफाई	NNC
+सेवाएँ	NN
+,	SYM
+ठोस	JJ
+अपशिष्टों	NN
+की	PSP
+निष्कासन	NNC
+व्यवस्था	NN
+इत्यादि	RP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0029>
+इन	DEM
+सुविधाओं	NN
+एवं	CC
+सेवाओं	NN
+से	PSP
+युक्त	JJ
+किसी	PRP
+भी	RP
+क्षेत्र	NN
+का	PSP
+विकास	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0030>
+पिछडे	JJ
+हुए	VM
+राज्यों	NN
+में	PSP
+गरीबी	NNC
+उन्मूलन	NN
+में	PSP
+ये	PRP
+बहुत	INTF
+सहायक	JJ
+सिद्ध	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0031>
+किसी	PRP
+भी	RP
+अविकसित	JJ
+एवं	CC
+अर्ध-विकसित	JJ
+क्षेत्र	NN
+का	PSP
+आधारभूत	JJ
+सेवाओं	NN
+की	PSP
+मौजूदगी	NN
+में	PSP
+विकास	NN
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0032>
+इसीलिए	PRP
+क्षेत्रीय	JJ
+विकास	NN
+की	PSP
+योजना	NN
+बनाने	VM
+वाला	PSP
+अधिकारी	NN
+इन	DEM
+सेवाओं	NN
+की	PSP
+उपयुक्तता	NN
+तथा	CC
+उनके	PRP
+बीच	NST
+तारतम्यता	NN
+को	PSP
+हमेशा	RB
+ध्यान	NN
+में	PSP
+रखता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0033>
+भारत	NNP
+एक	QC
+विशाल	JJ
+देश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0034>
+सामाजिक	JJ
+सम्बद्धता	NN
+को	PSP
+बढाने	VM
+,	SYM
+आर्थिक	JJ
+सम्पन्नता	NN
+को	PSP
+तेज	JJ
+करने	VM
+,	SYM
+देश	NN
+की	PSP
+प्रतिरक्षा	NN
+को	PSP
+सुनिश्चित	JJ
+करने	VM
+के	PSP
+लिए	PSP
+सक्षम	JJ
+एवं	CC
+सघन	JJ
+परिवहन	NNC
+जाल	NN
+की	PSP
+आवश्यकता	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0035>
+परिवहन	NN
+की	PSP
+तीन	QC
+प्रमुख	JJ
+विधाएँ	NN
+हैं-	NNPC
+स्थल	NN
+,	SYM
+जल	NN
+और	CC
+वायु	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0036>
+इन	DEM
+तीनों	QC
+विधाओं	NN
+में	PSP
+प्रत्येक	NN
+के	PSP
+कुछ	QF
+गुण	NN
+और	CC
+दोष	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0037>
+वे	PRP
+एक	PRPC
+दूसरे	PRP
+से	PSP
+सदैव	RB
+प्रतिस्पर्धायुक्त	JJ
+रहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0038a>
+इससे	PRP
+भी	RP
+ज्यादा	QF
+महत्वपूर्ण	JJ
+पक्ष	NN
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0038b>
+कि	CC
+इन	DEM
+विधाओं	NN
+के	PSP
+बीच	NST
+पारस्परिक	JJ
+एवं	CC
+परिपूरक	NNC
+संबंध	NN
+बना	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0039>
+इसलिए	PRP
+ये	DEM
+सुप्रबंधित	JJ
+एवं	CC
+एकीकृत	JJ
+परिवहन	NNC
+जाल	NN
+के	PSP
+रूप	PSP
+में	PSP
+एक	QC
+संगठित	JJ
+तंत्र	NN
+का	PSP
+निर्माण	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0040a>
+वायु-परिवहन	NN
+नवीनतम	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0040b>
+जबकि	CC
+स्थल	NN
+एवं	NNPC
+जल	NNC
+परिवहन	NNP
+अनादि	NN
+काल	NN
+से	PSP
+प्रचलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0041>
+स्थल	NNPC
+परिवहन	NN
+के	PSP
+अन्तर्गत	PSP
+सडक	NN
+एवं	CC
+रेलमार्ग	NN
+द्वारा	PSP
+आवागमन	NN
+सम्मिलित	JJ
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0042>
+इन	DEM
+दोनों	NN
+के	PSP
+बीच	NST
+रेल	NNC
+परिवहन	NN
+अपेक्षाकृत	INTF
+अधिक	QF
+नूतन	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0043>
+भारी	JJ
+वस्तुओं	NN
+को	PSP
+लम्बी	JJ
+दूरियों	NN
+तक	PSP
+ले	VM
+जाने	VAUX
+के	PSP
+किए	VM
+यह	PRP
+कम	QF
+लागत	NN
+का	PSP
+उत्कृष्ट	JJ
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0044>
+यात्रियों	NN
+को	PSP
+दूर-दूर	NN
+के	PSP
+स्थानों	NN
+की	PSP
+यात्रा	NN
+करने	VM
+में	PSP
+सबसे	INTF
+कम	QF
+खर्च	NN
+मे	PSP
+अधिक	QF
+प्रभावशाली	JJ
+परिवहन	NNC
+माध्यम	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0045>
+इसकी	PRP
+तुलना	PSP
+में	PSP
+,	SYM
+सडक	NNC
+परिवहन	NN
+छोटी-छोटी	JJ
+दूरियाँ	NN
+तय	JJ
+करने	VM
+मे	PSP
+तथा	INTF
+कम	QF
+दूरी	NN
+पर	PSP
+स्थित	JJ
+स्थानों	NN
+में	PSP
+आने-जाने	VM
+एवं	CC
+वस्तुओं	NN
+के	PSP
+परिवहन	NN
+के	PSP
+लिए	PSP
+सुगम	JJ
+,	SYM
+सस्ता	JJ
+एवं	CC
+सुविधा	NN
+युक्त	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0046>
+उचित	JJ
+लागत	NN
+पर	PSP
+घरेलू	JJ
+काम	NN
+की	PSP
+चीजों	NN
+को	PSP
+आप	PRP
+के	PSP
+घर	NN
+तक	PSP
+पहुँचाने	VM
+में	PSP
+सडक	NNC
+परिवहन	NN
+ही	RP
+अपनाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0047>
+जल	NNC
+परिवहन	NN
+अब	PRP
+यात्रियों	NN
+के	PSP
+लिए	PSP
+आकर्षण	NN
+का	PSP
+माध्यम	NN
+नहीं	NEG
+रहा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0048>
+परन्तु	CC
+फिर	RB
+भी	RP
+भारी	JJ
+सामानों	NN
+को	PSP
+परिवहन	NN
+योग्य	JJ
+नदी	NNC
+मार्गों	NN
+द्वारा	PSP
+तथा	CC
+विश्व	NN
+के	PSP
+अन्य	JJ
+देशों	NN
+को	PSP
+सामुद्रिक	JJ
+मार्गो	NN
+द्वारा	PSP
+परिवहन	NN
+करने	VM
+का	PSP
+सर्वथा	NN
+उपयुक्त	JJ
+साधन	NN
+आज	NN
+भी	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0049a>
+यद्यपि	CC
+परिवहन	NN
+की	PSP
+गति	NN
+अपेक्षाकृत	JJ
+धीमी	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0049b>
+परन्तु	CC
+यह	PRP
+सबसे	INTF
+सस्ता	JJ
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0050>
+वायु	NNC
+परिवहन	NN
+आजकल	RB
+बहुत	INTF
+लोकप्रिय	JJ
+हो	VM
+चुका	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0051>
+उन	DEM
+व्यक्तियों	NN
+को	PSP
+जिन्हें	PRP
+अचानक	RB
+सूचना	NN
+प्राप्त	JJ
+होते	VM
+ही	RP
+विश्व	NN
+के	PSP
+अनेक	QF
+भागों	NN
+में	PSP
+कार्य	NNC
+सम्पादन	NN
+करना	VM
+हो	VAUX
+,	SYM
+वायु	NNC
+परिवहन	NN
+ही	RP
+एकमात्र	JJ
+विकल्प	NN
+रहता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0052>
+हवाई	NNC
+यात्रा	NN
+बहुत	INTF
+महँगी	JJ
+होने	VM
+के	PSP
+बावजूद	PSP
+भी	RP
+यात्रियों	NN
+के	PSP
+बहुमूल्य	JJ
+समय	NN
+एवं	CC
+शारीरिक	JJ
+ऊर्जा	NN
+की	PSP
+बचत	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0053>
+आजकल	NN
+वायु	NNPC
+परिवहन	NNP
+द्वारा	PSP
+शीघ्र	RB
+खराब	JJ
+होने	VM
+वाले	PSP
+सामान	NN
+,	SYM
+नाशवान	JJ
+वस्तुओं	NN
+तथा	CC
+बहुमूल्य	JJ
+वस्तुओं	NN
+को	PSP
+विश्व	NN
+के	PSP
+एक	QC
+भाग	NN
+से	PSP
+दूसरे	QO
+भाग	NN
+में	PSP
+पहुँचाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0054>
+निजी	JJ
+हवाई	NNC
+कम्पनियों	NN
+के	PSP
+प्रारम्भ	NN
+होने	VM
+के	PSP
+कारण	PSP
+घरेलू	JJ
+या	CC
+अन्तर्राष्ट्रीय	JJ
+उडानों	NN
+के	PSP
+किराये	NN
+में	PSP
+भारी	JJ
+कमी	NN
+आयी	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0055>
+परिवहन	NNPC
+तंत्र	NNC
+उत्पादन	NNC
+केन्द्रों	NN
+एवं	CC
+उपभोक्ता	NNC
+केन्द्रों	NN
+को	PSP
+जोडते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0056>
+ये	PRP
+स्थानीय	JJ
+,	SYM
+क्षेत्रीय	JJ
+,	SYM
+राष्ट्रीय	JJ
+एवं	CC
+अन्तर्राष्ट्रीय	JJ
+स्तर	NN
+पर	PSP
+वस्तुओं	NN
+,	SYM
+सेवाओं	NN
+और	CC
+लोगों	NN
+को	PSP
+आने-जाने	VM
+में	PSP
+मदद	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0057>
+प्रभावशील	JJ
+परिवहन	NNC
+तन्त्र	NN
+आर्थिक	JJ
+सम्पन्नता	NN
+को	PSP
+प्राप्त	JJ
+करने	VM
+तथा	CC
+देश	NN
+की	PSP
+प्रतिरक्षा	NN
+कायम	JJ
+रखने	VM
+के	PSP
+लिए	PSP
+आवश्यक	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0058>
+परिवहन	NN
+की	PSP
+तीन	QC
+प्रमुख	JJ
+विधाएँ	NN
+हैं-	NNPC
+स्थल	NN
+,	SYM
+जल	NN
+और	CC
+वायु	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0059>
+भारतीय	NNPC
+रेल	NNPC
+तंत्र	NN
+रूस	NNP
+,	SYM
+संयुक्त	NNPC
+राज्य	NNP
+अमेरिका	NNP
+तथा	CC
+कनाडा	NNP
+के	PSP
+बाद	NST
+विश्व	NN
+का	PSP
+चौथा	QO
+सबसे	INTF
+बडा	JJ
+रेल	NNC
+तंत्र	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0060>
+भारत	NNP
+जैसे	PSP
+विशाल	JJ
+देश	NN
+में	PSP
+रेल	NNC
+परिवहन	NNC
+देश	NN
+के	PSP
+दूर-दराज	NNP
+स्थित	JJ
+,	SYM
+कोने-कोने	NN
+से	PSP
+आने	VM
+वाले	PSP
+यात्रियों	NN
+में	PSP
+मेल-जोल	NN
+बढाता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0061>
+रेल	NNC
+तंत्र	NN
+लम्बी	JJ
+दूरियों	NN
+तक	PSP
+यात्रियों	NN
+एवं	CC
+उनके	PRP
+सामानों	NN
+को	PSP
+पहुँचाने	VM
+का	PSP
+सबसे	INTF
+आदर्श	JJ
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0062>
+यह	PRP
+केन्द्रीय	NNPC
+सरकार	NN
+के	PSP
+विभिन्न	JJ
+स्थानीय	NN
+की	PSP
+अपेक्षा	PSP
+सबसे	INTF
+अधिक	QF
+लोगों	NN
+को	PSP
+रोजगार	NN
+प्रदान	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0063a>
+भारत	NNP
+में	PSP
+सबसे	INTF
+पहली	QO
+ट्रेन	NN
+वर्ष	NN
+1853	NNP
+में	PSP
+मुम्बई	NNP
+से	PSP
+थाणे	NNP
+के	PSP
+बीच	NST
+चली	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0063b>
+और	CC
+34	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+की	PSP
+दूरी	NN
+तय	JJ
+की	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0064>
+इस	DEM
+बीच	NST
+भारतीय	NNPC
+रेल	NNPC
+तंत्र	NNP
+में	PSP
+बहुत	INTF
+ज्यादा	QF
+विकास	NN
+तथा	CC
+अभिवृद्धि	NN
+हुई	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0065>
+उपरोक्त	JJ
+सारिणी	NN
+पिछले	JJ
+50	QC
+वर्षो	NN
+में	PSP
+भारतीय	JJ
+रेलवे	NN
+की	PSP
+संख्यात्मक	JJ
+अभिवृद्धियों	NN
+को	PSP
+दर्शाती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0066>
+सर्वप्रथम	NN
+,	SYM
+भारतीय	NNPC
+रेल	NNC
+लाइन	NN
+की	PSP
+लम्बाई	NN
+में	PSP
+वृद्धि	NNC
+दर	NN
+कम	QF
+रही	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0067>
+इस	DEM
+रेल	NNC
+लाइन	NN
+की	PSP
+28	QC
+प्रतिशत	NN
+लम्बाई	NN
+का	PSP
+विद्युतीकरण	NN
+हो	VM
+चुका	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0068a>
+इसका	PRP
+अर्थ	NN
+यह	PRP
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0068b>
+कि	CC
+इन	DEM
+विद्युत	NN
+से	PSP
+संचालित	JJ
+रेलमार्ग	NN
+पर	PSP
+रेलों	NN
+के	PSP
+यातायात	NN
+प्रदूषणमुक्त	NN
+एवं	CC
+तेजी	NN
+से	PSP
+संचालित	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0069>
+रेल	NNC
+इंजनो	NN
+के	PSP
+वाष्प	NN
+चलित	JJ
+होने	VM
+से	PSP
+कोयले	NN
+की	PSP
+खपत	NN
+ज्यादा	QF
+होती	VM
+थी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0070>
+विद्युत	JJC
+चालित	JJ
+होने	VM
+से	PSP
+कोयले	NN
+की	PSP
+खपत	NN
+में	PSP
+जबरदस्त	JJ
+बचत	NN
+हुई	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0071a>
+दूसरा	QO
+फायदा	NN
+यह	PRP
+भी	RP
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0071b>
+कि	CC
+जिन	DEM
+रेल	NNC
+डिब्बों	NN
+का	PSP
+इस्तेमाल	NN
+स्वयं	PRP
+के	PSP
+उपयोग	NN
+के	PSP
+लिए	PSP
+कोयला	NN
+ढोने	VM
+में	PSP
+किया	VM
+जाता	VAUX
+था	VAUX
+,	SYM
+वे	PRP
+अब	PRP
+ग्राहकों	NN
+के	PSP
+सामानों	NN
+की	PSP
+ढुलाई	NN
+में	PSP
+प्रयोग	NN
+होने	VM
+लगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0071c>
+इससे	PRP
+रेलवे	NN
+की	PSP
+आमदनी	NN
+में	PSP
+वृद्धि	NN
+हुई	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0072a>
+इसी	DEM
+प्रकार	NN
+,	SYM
+रेलवे	NNC
+लाइन	NN
+की	PSP
+लम्बाई	NN
+में	PSP
+भले	RB
+ही	RP
+वृद्धि	NN
+ज्यादा	QF
+नहीं	NEG
+हुई	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0072b>
+परन्तु	CC
+यात्रा-किलोमीटर	NN
+में	PSP
+8	QC
+गुना	NN
+वृद्धि	NN
+हुई	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0073>
+इसी	DEM
+प्रकार	NN
+माल	NNC
+ढुलाई	NNPC
+यातायात	NN
+(	SYM
+टन-किलोमीटर	NNP
+)	SYM
+में	PSP
+10	QC
+गुना	NN
+की	PSP
+वृद्धि	NN
+दर्ज	JJ
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0074a>
+ये	DEM
+सब	PRP
+स्पष्ट	JJ
+यह	PRP
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0074b>
+कि	CC
+रेल	NN
+की	PSP
+कौशलयुक्त	JJ
+गुणात्मक	JJ
+दक्षता	NN
+में	PSP
+वृद्धि	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0075>
+ये	DEM
+सभी	QF
+गुणात्मक	JJ
+अभिवृद्धि	NN
+रेल	NNC
+लाइनों	NN
+पर	PSP
+चलने	VM
+वाले	PSP
+विद्युत	NNC
+इंजनों	NN
+एवं	CC
+डीजल	NNC
+इंजनों	NN
+के	PSP
+कारण	PSP
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0076a>
+वाष्प	NNC
+इंजनो	NN
+की	PSP
+संख्या	NN
+घटकर	VM
+केवल	RP
+45	QC
+(	SYM
+2003-04	NNP
+में	PSP
+)	SYM
+रह	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0076b>
+जबकि	CC
+इनकी	PRP
+संख्या	NN
+1950-51	NNP
+में	PSP
+8120	QC
+थी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0077>
+इसी	DEM
+प्रकार	NN
+डीजल	NNC
+इंजन	NN
+की	PSP
+संख्या	NN
+जो	DEM
+वर्ष	NN
+1950-51	NNP
+में	PSP
+केवल	RP
+17	QC
+थी	VM
+,	SYM
+वे	PRP
+अब	PRP
+बढकर	VM
+4769	NNP
+(	SYM
+2003-04	NNP
+)	SYM
+हो	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0078>
+विद्युत	NNC
+इंजन	NN
+की	PSP
+संख्या	NN
+जो	PRP
+पहले	NST
+केवल	RP
+72	QC
+थी	VM
+वे	PRP
+अब	PRP
+बढकर	VM
+2003-04	NNP
+में	PSP
+3003	QC
+तक	PSP
+पहुँच	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0079a>
+पहले	NST
+यह	PRP
+बताया	VM
+जा	VAUX
+चुका	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0079b>
+कि	CC
+रेल	NNC
+लाइनों	NN
+की	PSP
+लम्बाई	NN
+में	PSP
+या	CC
+नई	JJ
+रेल	NNC
+लाइन	NN
+बिछाने	VM
+में	PSP
+मामूली	JJ
+सी	RP
+वृद्धि	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0079c>
+किन्तु	CC
+रेल-पटरियों	NN
+पर	CC
+यातायात	NN
+की	PSP
+व्यस्तता	NN
+बहुत	INTF
+बढी	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0080>
+1950-51	NNP
+में	PSP
+रेल-पटरियों	NN
+की	PSP
+कुल	QF
+लम्बाई	NN
+59	QC
+,	SYM
+000	QC
+कि	CC
+.	SYM
+मी	VAUX
+.	SYM
+थी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0081>
+2003-04	NNP
+तक	PSP
+यह	DEM
+84	QC
+,	SYM
+000	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+तक	PSP
+ही	RP
+बढ	VM
+पाई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0082a>
+इससे	PRP
+निष्कर्ष	NN
+यह	PRP
+निकलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0082b>
+कि	CC
+जहाँ	PRP
+रेल-पटरियाँ	NN
+थी	VM
+,	SYM
+उन	DEM
+क्षेत्रों	NN
+में	PSP
+दोहरे	JJ
+या	CC
+कभी-कभी	PRP
+तिहरे	JJ
+रेलमार्ग	NN
+विस्तृत	JJ
+किए	VM
+गए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0083a>
+इससे	PRP
+सबसे	INTF
+बडा	JJ
+लाभ	NN
+यह	PRP
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0083b>
+कि	CC
+यात्रा	NNC
+रेलगाडियों	NN
+एवं	CC
+मालगाडियों	NN
+की	PSP
+संख्या	NN
+एवं	CC
+रफ्तार	NN
+दोनों	NN
+में	PSP
+सुधार	NN
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0084a>
+भारतीय	NNPC
+रेलवे	NN
+ने	PSP
+दूसरा	QO
+मुख्य	JJ
+कार्य	NN
+यह	PRP
+किया	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0084b>
+कि	CC
+मीटर	NN
+गेज	NN
+की	PSP
+लाइन	NN
+को	PSP
+ब्रॉड	NNPC
+गेज	NN
+(	SYM
+गेज	NN
+1	QC
+.	SYM
+68	QC
+मीटर	NN
+)	SYM
+में	PSP
+बदलने	VM
+की	PSP
+योजना	NN
+को	PSP
+कार्यान्वित	JJ
+किया	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0085>
+इससे	PRP
+यात्रा	NN
+गाडियों	NN
+तथा	CC
+माल	NN
+ढोने	VM
+वाली	PSP
+गाडियो	NN
+की	PSP
+संख्या	NN
+एवं	CC
+क्षमता	NN
+दोनों	NN
+में	PSP
+वृद्धि	NN
+हुई	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0086>
+लम्बी	JJ
+दूरी	NN
+वाले	PSP
+प्रमुख	JJ
+रेल	NNC
+मार्गो	NN
+की	PSP
+पटरियों	NN
+की	PSP
+क्षमता	NN
+एवं	CC
+भार-वहन	NN
+कर	VM
+सकने	VAUX
+की	PSP
+शक्ति	NN
+में	PSP
+सुधार	NN
+किए	VM
+गए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0087>
+पहले	NST
+की	PSP
+गतिमान	JJ
+रेलगाडियों	NN
+,	SYM
+पैसेंजर	NN
+,	SYM
+एक्सप्रेस	NNP
+या	CC
+मेलयात्रा	NNC
+गाडियाँ	NN
+होती	VM
+थी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0088>
+अब	PRP
+साथ	NST
+ही	RP
+साथ	NST
+रेल	NNC
+विभाग	NNP
+सुपरफास्ट	NNPC
+राजधानी	NNPC
+एक्सप्रेस	NNP
+,	SYM
+शताब्दि	NNPC
+एक्सप्रेस	NNP
+जैसी	PSP
+अति	INTF
+द्रुतगामी	JJ
+यात्रा-गाडियाँ	NN
+इन्ही	DEM
+व्यस्त	JJ
+रेलमार्गो	NN
+पर	PSP
+चला	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0089>
+भारतीय	NNPC
+रेल	NN
+अपनी	PRP
+क्षमता	NN
+और	CC
+उपयोगिता	NN
+की	PSP
+वृद्धि	NN
+में	PSP
+लगातार	RB
+प्रयत्नशील	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0090>
+इसी	DEM
+संदर्भ	NN
+में	PSP
+भारतीय	JJ
+रेल	NN
+के	PSP
+आधुनिकीकरण	NN
+के	PSP
+नए	JJ
+प्रतिमान	NN
+‘‘मेट्रो-रेल’’	NN
+के	PSP
+रूप	PSP
+में	PSP
+उभर	VM
+कर	VAUX
+आया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0091a>
+मेट्रो-रेल	NN
+का	PSP
+मुख्य	JJ
+उद्देश्य	NN
+महानगरों	NN
+में	PSP
+द्रुत	JJ
+परिवहन	NN
+की	PSP
+सुविधा	NN
+उपलब्ध	JJ
+कराना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0091b>
+तथा	CC
+बढते	VM
+यातायात	NN
+के	PSP
+दबाव	NN
+को	PSP
+नियन्त्रित	JJ
+करना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0092>
+इस	DEM
+दिशा	NN
+में	PSP
+दिल्ली	NNP
+पहला	QO
+उदाहरण	NN
+है	VM
+जहाँ	PRP
+मेट्रो	NNC
+रेल	NNC
+सफलतापूर्वक	NN
+दौड	VM
+रही	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0093>
+भारतीय	NNPC
+रेल	NN
+ने	PSP
+अपनी	PRP
+उपयोगिता	NN
+तथा	CC
+क्षमता	NN
+में	PSP
+सुधार	NN
+एवं	CC
+अभिवृद्धि	NN
+लाने	VM
+के	PSP
+लिए	PSP
+निम्नलिखित	JJ
+उपायों	NN
+को	PSP
+अपनाया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0094>
+कार्य-शील	NNPC
+रेलवे	NNC
+लाइन	NN
+की	PSP
+लम्बाई	NN
+में	PSP
+काफी	QF
+विस्तार	NN
+करना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0095>
+व्यस्त	JJ
+यातायात	NN
+के	PSP
+प्रमुख	JJ
+रेलमार्गो	NN
+का	PSP
+शीघ्रता	NN
+से	PSP
+विद्युतीकरण	NN
+करना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0096>
+मीटर	NN
+गेज	NNC
+रेल	NNC
+मार्गो	NN
+को	PSP
+ब्रॉड	NNPC
+गेज	NNPC
+रेल	NNC
+मार्गों	NN
+में	PSP
+बदलना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0097>
+द्रुतगामी	JJ
+एवं	CC
+अतिद्रुतगामी	JJ
+रेलगाडियाँ	NN
+को	PSP
+चलाना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0098>
+खाद्य-सामग्रियाँ	NN
+ढोने	VM
+वाली	PSP
+विशिष्ट	JJ
+द्रुतगामी	JJ
+रेलगाडियों	NN
+को	PSP
+चलाना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0099>
+रेल	NNC
+गाडियों	NN
+में	PSP
+आरक्षण	NN
+की	PSP
+अच्छी	JJ
+और	CC
+सुविधायुक्त	JJ
+प्रणाली	NN
+को	PSP
+अपनाना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0100>
+’’इन्टरनेट‘‘	NNP
+पर	CC
+आरक्षण	NN
+की	PSP
+सुविधा	NN
+उपलब्ध	JJ
+कराना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0101>
+ग्राहक	NNPC
+सेवा	NNC
+केन्द्र	NNP
+का	PSP
+खोला	VM
+जाना	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0102>
+आइये	VM
+भारतीय	JJ
+रेलमार्गो	NN
+के	PSP
+जाल	NN
+पर	PSP
+चर्चा	NN
+करें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0103>
+देश	NN
+में	PSP
+इन्हें	PRP
+सघन	JJ
+,	SYM
+सामान्य	JJ
+एवं	CC
+विरल	JJ
+जालतंत्र	NN
+में	PSP
+विभक्त	JJ
+कर	VM
+चर्चा	NN
+की	VM
+जाएगी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0104>
+भारत	NNP
+के	PSP
+उत्तरी	JJ
+मैदानी	NN
+एवं	CC
+पूर्व-तटीय	JJ
+क्षेत्रों	NN
+में	PSP
+सघन	JJ
+रेल	NNC
+परिवहन	NNPC
+जाल	NN
+पाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0105>
+इस	DEM
+सघन	JJ
+परिवहन	NNC
+जाल	NN
+के	PSP
+निर्माण	NN
+में	PSP
+इस	DEM
+क्षेत्र	NN
+में	PSP
+विद्यमान	JJ
+समतल	JJ
+भूमि	NN
+,	SYM
+उपजाऊ	JJ
+मिट्टियाँ	NN
+,	SYM
+सघन	JJ
+जनसंख्या	NN
+और	CC
+औद्योगिक	JJ
+इकाइयों	NN
+का	PSP
+क्षेत्रीय	JJ
+विस्तार	NN
+आदि	RP
+प्रमुख	JJ
+कारक	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0106>
+इसी	DEM
+प्रकार	NN
+अन्य	JJ
+भागों	NN
+के	PSP
+अन्तर्गत	PSP
+गुजरात	NNP
+तथा	CC
+सौराष्ट्र	NNP
+के	PSP
+सपाट	JJ
+मैदानी	JJ
+क्षेत्र	NN
+,	SYM
+मध्यवर्ती	JJ
+तमिलनाडु	NNP
+तथा	CC
+छोटानागपुर	NNP
+का	PSP
+विशाल	JJ
+पठारी	NNP
+भाग	NN
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0107>
+इन	DEM
+क्षेत्रों	NN
+में	PSP
+अधिक	QF
+विकसित	JJ
+उद्योग	NN
+मौजूद	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0108>
+तमिलनाडु	NNP
+एवं	CC
+छोटानागपुर	NNP
+के	PSP
+भागों	NN
+को	PSP
+छोडकर	VM
+पूरे	JJ
+भारतीय	JJ
+प्रायद्वीपीय	NNPC
+पठारी	NNP
+क्षेत्र	NN
+में	PSP
+सामान्य	JJ
+रेल	NNC
+परिवहन	NNPC
+जाल	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0109>
+यह	DEM
+विशाल	JJ
+भाग	NN
+पहाडियों	NN
+तथा	CC
+ऊँची-नीची	JJ
+पथरीली	JJ
+पठारी	JJ
+जमीन	NN
+से	PSP
+बना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0110>
+इन	DEM
+कारणों	NN
+से	PSP
+रेल	NNC
+पटरियाँ	NN
+बिछाना	VM
+दुष्कर	JJ
+कार्य	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0111>
+फिर	RB
+भी	RP
+कुछ	QF
+प्रमुख	JJ
+रेल	NNC
+मार्ग	NN
+हैं	VM
+जो	PRP
+बडे	JJ
+महत्वपूर्ण	JJ
+उद्योग	NNC
+केन्द्रों	NN
+एवं	CC
+बन्दरगाहों	NN
+को	PSP
+जोडते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0112>
+पटरियाँ	NN
+दो	QC
+पहाडियों	NN
+के	PSP
+बीच	NST
+से	PSP
+अथवा	CC
+उनके	PRP
+भीतर	NST
+सुरंगे	NN
+बनाकर	VM
+बिछाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0113>
+हिमालय	NNPC
+पर्वतीय	JJ
+क्षेत्र	NN
+के	PSP
+अन्तर्गत	PSP
+जम्मू-कश्मीर	NNP
+,	SYM
+हिमाचल	NNPC
+प्रदेश	NNP
+,	SYM
+उत्तराखण्ड	NNP
+,	SYM
+सिक्किम	NNP
+और	CC
+अरूणाचल	NNPC
+प्रदेश	NNP
+में	PSP
+रेल	NNC
+मार्ग	NN
+नहीं	NEG
+के	PSP
+बराबर	PSP
+विकसित	JJ
+हो	VM
+सके	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0114>
+यहाँ	PRP
+की	PSP
+उबड-खाबड	NNPC
+भू-आकृतियाँ	NN
+और	CC
+पर्वतीय	JJ
+क्षेत्र	NN
+असुविधाजनक	JJ
+कारक	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0115>
+पर्वतों	NN
+के	PSP
+पाद-स्थल	NN
+अर्थात	CC
+तलहटी	NN
+में	PSP
+बसे	VM
+हिमालय	NNP
+पर्वत-पदीय	JJ
+भागों	NN
+में	PSP
+कुछ	QF
+महत्वपूर्ण	JJ
+शहर	NN
+जैसे	PSP
+जम्मू	NNP
+,	SYM
+काठगोदाम	NNP
+,	SYM
+कोट्द्वार	NNP
+और	CC
+देहरादून	NNP
+रेलमार्ग	NN
+के	PSP
+अन्तिम	JJ
+सिरे	NN
+के	PSP
+रूप	PSP
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0116>
+हाल	NN
+ही	RP
+में	PSP
+जम्मू	NNP
+तक	PSP
+पहुँचने	VM
+वाली	PSP
+रेल	NNC
+लाइन	NN
+,	SYM
+ऊधमपुर	NNP
+(	SYM
+जम्मू-कश्मीर	NNP
+)	SYM
+तक	PSP
+बढाई	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0117>
+इस	DEM
+क्षेत्र	NN
+में	PSP
+दो	QC
+प्रमुख	JJ
+संकरे	JJ
+(	SYM
+नैरो	NNP
+)	SYM
+गेज	NNP
+की	PSP
+रेल	NNC
+लाइनें	NN
+कालका	NNP
+से	PSP
+शिमला	NNP
+तथा	CC
+सिलीगुडी	NNP
+से	PSP
+दार्जिलिंग	NNP
+शहरों	NN
+को	PSP
+जोडती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0118>
+भारत	NNP
+के	PSP
+पूर्वोत्तर	JJ
+क्षेत्र	NN
+में	PSP
+भी	RP
+रेल	NNPC
+परिवहन	NNC
+तंत्र	NNP
+विरल	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0119>
+असम	NNPC
+राज्य	NN
+के	PSP
+केवल	RP
+ब्रह्मपुत्र	NNP
+घाटी	NN
+में	PSP
+ही	RP
+रेल	NNC
+मार्ग	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0120>
+अन्य	JJ
+पर्वतीय	NNPC
+राज्य	NNPC
+रेल	NNC
+यातायात	NNC
+सुविधा	NN
+सेवंचित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0121>
+घने	JJ
+जंगल	NN
+,	SYM
+भारी	JJ
+वर्षा	NN
+,	SYM
+उबड-खाबड	JJ
+भूसंरचना	NNP
+,	SYM
+विरल	JJ
+जनसंख्या	NN
+केसाथ	PSP
+क्षेत्र	NN
+में	PSP
+निम्न	JJ
+आर्थिक	JJ
+एवं	CC
+औद्योगिक	JJ
+विकास	NN
+विरल	JJ
+रेल-परिवहन	NNC
+तंत्र	NN
+के	PSP
+प्रमुख	JJ
+कारण	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0122>
+इसी	DEM
+प्रकार	NN
+राजस्थान	NNP
+के	PSP
+पश्चिमी	JJ
+मरूस्थलीय	JJ
+क्षेत्र	NN
+में	PSP
+रेल	NNC
+परिवहन	NNPC
+जाल	NN
+विरल	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0123>
+इस	DEM
+क्षेत्र	NN
+के	PSP
+बडे	JJ
+शहरों	NN
+को	PSP
+मीटर	NN
+गेज	NNC
+रेल	NNC
+लाइनें	NN
+जोडती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0124>
+भारतीय	NNPC
+रेल	NNPC
+अबइन	NNPC
+मीटर	NN
+गेज	NNC
+रेल	NNC
+लाइनों	NN
+में	PSP
+से	PSP
+अधिकांश	NN
+को	PSP
+ब्रॉड	NNC
+गेज	NNPC
+रेललाइनो	NNP
+में	PSP
+बदल	VM
+चुकी	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0125>
+यह	DEM
+मरूस्थलीय	JJ
+क्षेत्र	NN
+विरल	JJ
+आबादी	NN
+के	PSP
+साथ	NST
+ही	RP
+औद्योगिक	JJ
+विकास	NN
+में	PSP
+भी	RP
+पीछे	NST
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0126>
+इसके	PRP
+अलावा	PSP
+इस	DEM
+क्षेत्र	NN
+की	PSP
+जलवायु	NN
+भी	RP
+गर्म	JJ
+व	CC
+शुष्क	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0127>
+शुष्क	JJ
+रेतीली	JJ
+आँधियों	NN
+से	PSP
+अक्सर	RB
+रेल	NNC
+लाइन	NN
+आच्छादित	JJ
+हो	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0128>
+इन्हीं	DEM
+सब	QF
+कारणों	NN
+से	PSP
+रेल-पटरियाँ	NN
+बिछाना	VM
+और	CC
+उनकी	PRP
+देखभाल	NN
+करना	VM
+कठिन	JJ
+कार्य	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0129>
+व्यस्त	JJ
+रेल	NNC
+मार्ग	NN
+दिल्ली	NNP
+से	PSP
+शुरू	NN
+हो	VM
+कर	VAUX
+मुम्बई	NNP
+,	SYM
+चेन्नई	NNP
+,	SYM
+कोलकाता	NNP
+को	PSP
+जोडते	VM
+हुए	VAUX
+पुनः	RB
+वापस	JJ
+दिल्ली	NNP
+पहुँचता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0130a>
+विकर्ण	NNC
+रेखाएँ	NN
+एक	QC
+तरफ	NST
+मुम्बई	NNP
+को	PSP
+कोलकाता	NNP
+से	PSP
+जोडती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0130b>
+दूसरी	QO
+तरफ	NST
+दिल्ली	NNP
+और	CC
+चेन्नई	NNP
+को	PSP
+जोडती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0131>
+ये	PRP
+जुडी	VM
+हुई	VAUX
+रेल	NNC
+लाइनें	NN
+पतंगनुमा	NNP
+या	CC
+हीरे	NN
+की	PSP
+आकृति	NN
+का	PSP
+प्रारूप	NN
+दर्शाती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0132>
+ये	DEM
+रेलमार्ग	NN
+एक	QC
+प्रकार	NN
+से	PSP
+भारतीय	NNPC
+रेल	NNPC
+तंत्र	NNP
+का	PSP
+मेरूदंड	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0133>
+इस	DEM
+मौजूदा	JJ
+प्रारूप	NN
+में	PSP
+दो	QC
+और	QF
+प्रमुख	JJ
+रेल-परिवहन	NNC
+जाल	NN
+का	PSP
+उल्लेख	NN
+करने	VM
+की	PSP
+आवश्यकता	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0134>
+पहला	QO
+,	SYM
+सतलज	NNP
+नदी	NNPC
+बेसिन	NNP
+(	SYM
+पंजाब	NNPC
+राज्य	NN
+का	PSP
+पश्चिमोत्तर	JJ
+सपाट	JJ
+मैदानी	JJ
+भाग	NN
+)	SYM
+है	VM
+जिनमें	PRP
+पठानकोट	NNP
+,	SYM
+अमतसर	NNP
+,	SYM
+वाघा	NNP
+,	SYM
+फिरोजपुर	NNP
+,	SYM
+जैसे	PSP
+महत्वपूर्ण	JJ
+लाइनों	NN
+को	PSP
+दिल्ली	NNP
+से	PSP
+जोडा	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0135>
+दूसरा	QO
+रेल	NNPC
+परिवहन	NNPC
+तंत्र	NN
+असम	NNP
+के	PSP
+ब्रह्मपुत्र	NNP
+घाटी	NN
+का	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0136>
+ये	DEM
+भाग	NN
+बिहार	NNP
+के	PSP
+पूर्वोत्तर	JJ
+क्षेत्र	NN
+और	CC
+पश्चिम	NNPC
+बंगाल	NNP
+के	PSP
+उत्तरी	JJ
+भाग	NN
+,	SYM
+असम	NNP
+के	PSP
+पूर्वी	JJ
+भाग	NN
+में	PSP
+स्थित	JJ
+डिब्रूगढ	NNP
+से	PSP
+जुडे	VM
+हुए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0137a>
+ये	DEM
+सभी	QF
+रेलमार्ग	NN
+ब्रॉड	NNPC
+गेज	NNP
+पटरियों	NN
+वाले	PSP
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0137b>
+तथा	CC
+सभी	QF
+दिल्ली	NNP
+से	PSP
+जुडते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0138>
+इन	DEM
+मार्गो	NN
+का	PSP
+अधिकांश	QF
+लम्बाइयों	NN
+में	PSP
+विद्युतीकरण	NN
+हो	VM
+चुका	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0139>
+रेल	NN
+द्वारा	PSP
+वस्तुओं	NN
+की	PSP
+ढुलाई	NN
+में	PSP
+कोयला	NNC
+सबसे	INTF
+प्रमुख	JJ
+वस्तु	NN
+रहा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0140>
+रेल	NNPC
+परिवहन	NNPC
+सेवा	NNP
+ने	PSP
+कोयला	JJC
+विहीन	JJ
+क्षेत्रों	NN
+में	PSP
+भी	RP
+औद्योगिक	JJ
+विकास	NN
+को	PSP
+बढाया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0141>
+औद्योगिक	JJ
+केन्द्रों	NN
+पर	PSP
+कच्चे	JJ
+माल	NN
+की	PSP
+ढुलाई	NN
+कर	VM
+रेलवे	NN
+ने	PSP
+उद्योगों	NN
+को	PSP
+बढावा	NN
+दिया	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0142>
+द्वितीयक	JJ
+उद्योगों	NN
+को	PSP
+विकसित	JJ
+करने	VM
+में	PSP
+रेलवे	NN
+का	PSP
+योगदान	NN
+महत्वपूर्ण	JJ
+रहा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0143>
+यह	PRP
+अर्ध-निर्मित	JJ
+तथा	CC
+पूर्ण	JJ
+तैयार	JJ
+उत्पादों	NN
+को	PSP
+परिवहन	NN
+करके	VM
+वितरित	JJ
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0144>
+रेल	NNPC
+परिवहन	NNPC
+तंत्र	NNP
+ने	PSP
+निर्यात	NN
+की	PSP
+वस्तुओं	NN
+जैसे	PSP
+लौह-अयस्क	NN
+,	SYM
+सीमेन्ट	NN
+,	SYM
+खाद्यान्न	NN
+इत्यादि	RP
+का	PSP
+उत्पादन	NN
+क्षेत्र	NN
+से	PSP
+निर्यात	NNC
+स्थान	NN
+तक	PSP
+पहुँचाने	VM
+तथा	CC
+विदेशी	JJ
+मुद्रा	NN
+अर्जित	JJ
+करने	VM
+में	PSP
+सहायता	NN
+पहुँचाई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0145>
+सीमेन्ट	NN
+का	PSP
+परिवहन	NN
+कर	VM
+देश	NN
+के	PSP
+दूर-दूर	JJ
+क्षेत्रो	NN
+में	PSP
+भवन-निर्माण	NNC
+प्रक्रिया	NN
+को	PSP
+प्रोन्नत	JJ
+करने	VM
+में	PSP
+रेलवे	NN
+का	PSP
+योगदान	NN
+रहा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0146>
+देश	NN
+के	PSP
+एक	QC
+क्षेत्र	NN
+से	PSP
+दूसरे	QO
+क्षेत्र	NN
+में	PSP
+उर्वरकों	NN
+का	PSP
+परिवहन	NN
+करके	VM
+कृषि-उत्पादन	NN
+के	PSP
+विकास	NN
+में	PSP
+रेलवे	NN
+का	PSP
+विशेष	JJ
+योगदान	NN
+रहा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0147>
+भारतीय	NNPC
+रेल	NNPC
+परिवहन	NNP
+द्वारा	PSP
+खनिज-तेल	NNPC
+बन्दरगाह	NN
+तथा	CC
+तेल	NNC
+शोधक	NNC
+संयत्रो	NN
+से	PSP
+देश	NN
+के	PSP
+आन्तरिक	JJ
+भागों	NN
+तक	PSP
+पहुँचाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0148a>
+इन	DEM
+उपरोक्त	DEM
+तथ्यों	NN
+से	PSP
+स्पष्ट	JJ
+यह	PRP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0148b>
+कि	CC
+क्यों	WQ
+भारतीय	JJ
+रेल	NNPC
+देश	NN
+की	PSP
+प्रमुख	JJ
+परिवहन	NNC
+सेवा	NN
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0149>
+निम्नलिखित	JJ
+प्रश्नों	NN
+के	PSP
+उत्तर	NN
+संक्षेप	NN
+में	PSP
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0150>
+किन्ही	DEM
+दो	QC
+आधारभूत	JJ
+सेवाओं	NN
+का	PSP
+उल्लेख	NN
+कीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0151>
+वर्ष	NN
+2003-04	NNP
+में	PSP
+भारतीय	NNPC
+रेल	NNC
+मार्ग	NNP
+की	PSP
+कुल	QF
+लम्बाई	NN
+कितनी	WQ
+थी	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0152>
+रेल	NNC
+परिवहन	NN
+के	PSP
+दो	QC
+प्रमुख	JJ
+लाभ	NN
+बताइये	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0153>
+भारत	NNP
+के	PSP
+दो	QC
+क्षेत्रों	NN
+के	PSP
+नाम	NN
+बताइये	VM
+जहाँ	PRP
+रेल	NNPC
+परिवहन	NNPC
+तंत्र	NN
+सघन	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0154>
+भारत	NNP
+के	PSP
+पूर्वोत्तर	JJ
+क्षेत्रो	NN
+में	PSP
+विरल	JJ
+रेल	NNPC
+परिवहन	NNPC
+तंत्र	NN
+होने	VM
+के	PSP
+दो	QC
+सबसे	INTF
+महत्वपूर्ण	JJ
+कारणों	NN
+को	PSP
+स्पष्ट	JJ
+कीजिये	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0155>
+प्रायद्वीपीय	NNPC
+पठारी	NNP
+क्षेत्र	NN
+में	PSP
+रेल	NNC
+लाइन	NN
+बिछाने	VM
+की	PSP
+प्रमुख	JJ
+समस्याओं	NN
+का	PSP
+उल्लेख	NN
+कीजिये	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0156>
+परिवहन	NN
+का	PSP
+सबसे	INTF
+प्राचीन	JJ
+साधन	NN
+सडक	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0157>
+यह	DEM
+रेल	NNC
+परिवहन	NN
+की	PSP
+अपेक्षा	NN
+अधिक	QF
+विस्तृत	JJ
+एवं	CC
+सुलभ	JJ
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0158>
+ग्रामीण	NNPC
+अर्थ	NNC
+व्यवस्था	NN
+तो	RP
+सडक	NNC
+परिवहन	NN
+पर	PSP
+ही	RP
+अधिक	QF
+निर्भर	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0159>
+मोटरकार	NN
+के	PSP
+आविष्कार	NN
+के	PSP
+बाद	NST
+तो	RP
+सडक	NN
+का	PSP
+महत्व	NN
+और	INTF
+भी	RP
+बढ	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0160>
+रेल	NNC
+परिवहन	NN
+की	PSP
+तुलना	PSP
+में	PSP
+सडक	NNC
+परिवहन	NN
+की	PSP
+श्रेष्ठता	NN
+निम्न	JJ
+तथ्यों	NN
+से	PSP
+स्पष्ट	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0161a>
+सडकें	NN
+ग्राहक	NN
+के	PSP
+दरवाजे	NN
+तक	PSP
+सेवा	NN
+प्रदान	NN
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0161b>
+जबकि	CC
+रेल	NNC
+परिवहन	NN
+की	PSP
+सेवाएँ	NN
+रेलवे	NNC
+स्टेशन	NN
+पर	PSP
+आकर	VM
+समाप्त	JJ
+हो	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0162>
+सडक	NNC
+मार्गो	NN
+को	PSP
+पहाडी	JJ
+क्षेत्रों	NN
+के	PSP
+अधिक	QF
+ढलान	NN
+वाले	PSP
+भागों	NN
+में	PSP
+भी	RP
+बनाया	VM
+जा	VAUX
+सकता	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0163>
+पहाड	NN
+को	PSP
+बिना	RP
+सुरंग	NN
+बनाए	VM
+घुमावदार	JJ
+सडके	NN
+बनाकर	VM
+पहाड	NN
+को	PSP
+पार	NN
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0164>
+पहाडी	JJ
+क्षेत्रों	NN
+में	PSP
+रेल	NNC
+लाइन	NN
+बिछाना	VM
+अधिक	QF
+खर्चीला	JJ
+तथा	CC
+कठिनाई	NN
+भरा	VM
+होता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0165>
+सडक	NNC
+परिवहन	NNPC
+सुगम्य	JJ
+,	SYM
+विश्वसनीय	JJ
+एवं	CC
+द्रुतगामी	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0166>
+शीघ्र	RB
+खराब	JJ
+होने	VM
+वाली	PSP
+वस्तुओं	NN
+जैसे	PSP
+दूध	NN
+,	SYM
+मछली	NN
+,	SYM
+सब्जी	NN
+,	SYM
+फल	NN
+इत्यादि	RP
+का	PSP
+परिवहन	NN
+सडक	NN
+द्वारा	PSP
+अधिक	QF
+सुविधाजनक	JJ
+होता	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0167>
+रेल	NNC
+परिवहन	NN
+की	PSP
+अपेक्षा	NN
+सडकों	NN
+का	PSP
+निर्माण	NN
+एवं	CC
+देखभाल	NN
+अधिक	QF
+आसान	JJ
+एवं	CC
+कम	QF
+लागत	NN
+में	PSP
+संभव	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0168>
+कम	QF
+दूरी	NN
+के	PSP
+लिए	PSP
+सडक	NNPC
+परिवहन	NNPC
+आदर्श	JJ
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0169>
+सडकें	NN
+रेल	NNC
+स्टेशनों	NN
+को	PSP
+आन्तरिक	JJ
+नगरों	NN
+,	SYM
+कस्बों	NN
+,	SYM
+गाँवो	NN
+से	PSP
+जोडने	VM
+में	PSP
+महत्वपूर्ण	JJ
+योगदान	NN
+देती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0170>
+देश	NN
+में	PSP
+पर्यटन	NNPC
+उद्योग	NN
+को	PSP
+प्रोत्साहित	JJ
+करने	VM
+में	PSP
+सडकें	NN
+बहुत	INTF
+ही	RP
+महत्वपूर्ण	JJ
+योगदान	NN
+देती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0171H>
+पक्की	JJ
+तथा	CC
+कच्ची	JJ
+सडकें	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0171>
+पक्की	JJ
+सडकें	NN
+सीमेंट	NN
+व	CC
+क्राँकीट	NN
+अथवा	CC
+गिट्टी	NN
+बिछाकर	VM
+कोलतार	NN
+से	PSP
+आच्छादित	JJ
+कर	VM
+बनाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0172>
+पक्की	JJ
+सडकों	NN
+पर	PSP
+यातायात	NN
+सालभर	NN
+चलता	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0173>
+इन	PRP
+पर	PSP
+मौसम	NN
+का	PSP
+प्रभाव	NN
+ज्यादा	QF
+नहीं	NEG
+पडता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0174>
+मार्च	NNPC
+1997	NNP
+तक	PSP
+पक्की	JJ
+सडकों	NN
+की	PSP
+कुल	QF
+लम्बाई	NN
+13	QC
+,	SYM
+94	QC
+,	SYM
+067	QC
+कि	CC
+.	SYM
+मी	VAUX
+.	SYM
+थी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0175>
+कच्ची	JJ
+सडकें	NN
+मिट्टी	NN
+से	PSP
+बनाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0176>
+इन	DEM
+सडकों	NN
+पर	PSP
+बैल	NNC
+गाडियाँ	NN
+,	SYM
+साइकिल	NN
+,	SYM
+ट्रैक्टर	NN
+इत्यादि	RP
+चला	VM
+करते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0177>
+गाँवो	NN
+को	PSP
+एक	PRPC
+दूसरे	PRP
+से	PSP
+जोडने	VM
+में	PSP
+तथा	CC
+गाँवों	NN
+को	PSP
+शहर	NN
+से	PSP
+जोडने	VM
+में	PSP
+भी	RP
+इनका	PRP
+महत्वपूर्ण	JJ
+योगदान	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0178>
+ग्रामीण	JJ
+अर्थव्यवस्था	NN
+को	PSP
+विकसित	JJ
+एवं	CC
+मजबूत	JJ
+करने	VM
+में	PSP
+इनकी	PRP
+भूमिका	NN
+अहम	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0179>
+वर्षा	NN
+के	PSP
+दिनों	NN
+में	PSP
+कच्ची	JJ
+सडकों	NN
+पर	PSP
+यातायात	NN
+अवरूद्ध	JJ
+हो	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0180>
+इन	DEM
+कच्ची	JJ
+सडकों	NN
+की	PSP
+लम्बाई	NN
+मार्च	NNPC
+1997	NNP
+तक	PSP
+10	QC
+,	SYM
+71	NNP
+,	SYM
+816	QC
+किमी	NN
+.	SYM
+थी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0181>
+भारत	NNP
+में	PSP
+स्वतंत्रता	NN
+के	PSP
+पश्चात	NST
+सडकों	NN
+की	PSP
+लम्बाई	NN
+में	PSP
+भारी	JJ
+वृद्धि	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0182>
+पक्की	JJ
+सडकों	NN
+की	PSP
+लम्बाई	NN
+1950-51	NNP
+में	PSP
+1	QC
+.	SYM
+57	QCC
+लाख	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+से	PSP
+बढकर	VM
+वर्ष	NN
+1997	NNP
+में	PSP
+13	QC
+.	SYM
+94	QCC
+लाख	QC
+.	SYM
+किमी	NN
+.	SYM
+हो	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0183>
+इसी	DEM
+अवधि	NN
+में	PSP
+कच्ची	JJ
+सडकों	NN
+की	PSP
+लम्बाई	NN
+2	QC
+.	SYM
+42	QCC
+लाख	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+से	PSP
+बढकर	VM
+10	QC
+.	SYM
+71	QCC
+लाख	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+से	PSP
+भी	RP
+ज्यादा	QF
+हो	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0184a>
+इन	DEM
+वर्षों	NN
+में	PSP
+केवल	RP
+सडकों	NN
+की	PSP
+लम्बाई	NN
+ही	RP
+नहीं	NEG
+बढी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0184b>
+यातायात	NN
+में	PSP
+प्रयुक्त	JJ
+होने	VM
+वाले	PSP
+वाहन	NN
+गाडियाँ	NN
+जैसे	PSP
+बसों	NN
+,	SYM
+ट्रकों	NN
+की	PSP
+संख्या	NN
+में	PSP
+भी	RP
+बहुत	QF
+वृद्धि	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0185>
+जहाँ	PRP
+एक	QC
+ओर	NST
+व्यापारिक	JJ
+एवं	CC
+सामान्य	JJ
+वाहनों	NN
+की	PSP
+संख्या	NN
+में	PSP
+बढोत्तरी	NN
+देश	NN
+के	PSP
+विकास	NN
+का	PSP
+परिचायक	NN
+है	VM
+,	SYM
+वहीं	RB
+बढते	VM
+वाहनों	NN
+से	PSP
+सडक	NNC
+यातायात	NN
+के	PSP
+समक्ष	NST
+अनेकों	QF
+समस्याएँ	NN
+भी	RP
+उत्पन्न	JJ
+हुई	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0186>
+सडकों	NN
+पर	PSP
+होने	VM
+वाली	PSP
+दुर्घटनाओं	NN
+में	PSP
+भी	RP
+बहुत	QF
+वृद्धि	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0187>
+बढते	VM
+यातायात	NN
+से	PSP
+सडकों	NN
+पर	PSP
+चलने	VM
+वाले	PSP
+वाहनों	NN
+द्वारा	PSP
+निष्कासित	JJ
+धुआँ	NN
+वायु	NNC
+प्रदूषण	NN
+को	PSP
+बढा	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0188>
+सडक	NNC
+घनत्व	NN
+का	PSP
+आशय	NN
+प्रति	RP
+100	QC
+वर्ग	NN
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+क्षेत्र	NN
+पर	PSP
+सडकों	NN
+की	PSP
+कुल	QF
+लम्बाई	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0189>
+विकसित	JJ
+देशों	NN
+के	PSP
+मुकाबले	PSP
+भारत	NNP
+में	PSP
+सडक	NNC
+घनत्व	NN
+अभी	PRP
+भी	RP
+बहुत	INTF
+कम	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0190>
+सडकों	NN
+की	PSP
+जाल	NNC
+सघनता	NN
+भारत	NNP
+के	PSP
+उत्तरी	JJ
+मैदानी	JJ
+भागों	NN
+में	PSP
+ज्यादा	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0191>
+इसका	PRP
+मुख्य	JJ
+कारण	NN
+समतल	JJ
+भूमि	NN
+,	SYM
+उपजाऊ	JJ
+मृदा	NN
+एवं	CC
+सघन	JJ
+जनसंख्या	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0192>
+इन	DEM
+प्रदेशों	NN
+में	PSP
+पक्की	JJ
+सडकों	NN
+की	PSP
+तुलना	PSP
+में	PSP
+कच्ची	JJ
+सडकें	NN
+ज्यादा	QF
+प्रचलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0193a>
+भारत	NNP
+के	PSP
+प्रायद्वीपीय	JJ
+पठार	NN
+में	PSP
+पक्की	JJ
+सडकों	NN
+का	PSP
+अनुपात	NN
+ज्यादा	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0193b>
+क्योंकि	CC
+सडक	NNC
+निर्माण	NN
+में	PSP
+उपयोगी	JJ
+वस्तुएँ	NN
+आसानी	NN
+से	PSP
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0194a>
+उत्तर	NNPC
+पूर्वी	JJ
+राज्यों	NN
+में	PSP
+धरातलीय	JJ
+बनावट	NN
+पहाडी	NN
+,	SYM
+पर्वतीय	NN
+,	SYM
+उबड-खाबड	JJ
+तो	RP
+है	VM
+ही	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0194b>
+इसके	PRP
+साथ	NST
+इस	DEM
+क्षेत्र	NN
+में	PSP
+भारी	JJ
+वर्षा	NN
+,	SYM
+सघन	JJ
+जंगल	NN
+तथा	CC
+बार-बार	RB
+बाढ	NN
+आना	VM
+,	SYM
+भूस्खलन	NN
+इत्यादि	RP
+सडक	NNC
+निर्माण	NN
+में	PSP
+बाधा	NN
+उत्पन्न	JJ
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0195>
+सबसे	INTF
+महत्वपूर्ण	JJ
+कारण	NN
+यहाँ	PRP
+की	PSP
+विरल	JJ
+आबादी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0196>
+भारत	NNP
+में	PSP
+सडक	NNC
+घनत्व	NN
+का	PSP
+प्रतिरूप	NN
+भी	RP
+असमान	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0197>
+तमिलनाडु	NNP
+,	SYM
+केरल	NNP
+,	SYM
+पंजाब	NNP
+तथा	CC
+हरियाणा	NNP
+राज्यों	NN
+में	PSP
+सडक	NNC
+घनत्व	NN
+सब	NN
+से	PSP
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0198>
+इसका	PRP
+मुख्य	JJ
+कारण	NN
+इन	DEM
+क्षेत्रों	NN
+में	PSP
+कृषि	NN
+,	SYM
+निर्माण	NNC
+उद्योग	NNP
+,	SYM
+शहरीकरण	NN
+का	PSP
+विकास	NN
+एवं	CC
+सघन	JJ
+जनसंख्या	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0199>
+इसी	DEM
+प्रकार	NN
+अधिक	QF
+सडक	NNC
+घनत्व	NN
+वाले	PSP
+क्षेत्र	NN
+कर्नाटक	NNP
+,	SYM
+महाराष्ट्र	NNP
+,	SYM
+गुजरात	NNP
+,	SYM
+आन्ध्रप्रदेश	NNP
+,	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+,	SYM
+पश्चिम	NNPC
+बंगाल	NNP
+राज्यों	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0200>
+सामान्य	JJ
+सडक	NNC
+घनत्व	NN
+के	PSP
+क्षेत्र	NN
+मध्यप्रदेश	NNP
+,	SYM
+उडीसा	NNPC
+छत्तीसगढ	NNP
+,	SYM
+राजस्थान	NNP
+,	SYM
+झारखण्ड	NNP
+,	SYM
+बिहार	NNP
+,	SYM
+असम	NNP
+राज्यों	NN
+के	PSP
+अन्तर्गत	PSP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0201>
+हिमालय	NNPC
+पर्वतीय	JJ
+क्षेत्रों	NN
+एवं	CC
+उत्तर-पूर्वी	JJ
+राज्यों	NN
+में	PSP
+सडक	NNC
+घनत्व	NN
+बहुत	INTF
+कम	QF
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0202>
+यहाँ	PRP
+प्रति	RP
+100	QC
+वर्ग	NN
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+क्षेत्र	NN
+में	PSP
+20	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+से	PSP
+भी	RP
+कम	QF
+सडकें	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0203>
+उत्तर	NNP
+में	PSP
+पंजाब	NNP
+,	SYM
+हरियाणा	NNP
+,	SYM
+दिल्ली	NNP
+तथा	CC
+दक्षिण	NNP
+में	PSP
+तमिलनाडु	NNP
+,	SYM
+केरल	NNP
+में	PSP
+पक्की	JJ
+सडकों	NN
+का	PSP
+सार्वाधिक	JJ
+घनत्व	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0204>
+सम्पूर्ण	JJ
+दक्षिण	NNPC
+भारत	NNP
+में	PSP
+पक्की	JJ
+सडकों	NN
+का	PSP
+घना	JJ
+जाल	NN
+बिछा	VM
+हुआ	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0205>
+यहाँ	PRP
+पक्की	JJ
+सडकों	NN
+तथा	CC
+समस्त	JJ
+सडक	NNC
+घनत्व	NN
+के	PSP
+प्रतिरूप	NN
+में	PSP
+बहुत	INTF
+अधिक	QF
+समरूपता	NN
+मिलती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0206>
+भारत	NNP
+में	PSP
+सडक-घनत्व	NN
+में	PSP
+एकरूपता	NN
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0207>
+प्रमुख	JJ
+कारणों	NN
+में	PSP
+स्थान	NN
+विशेष	JJ
+की	PSP
+धरातलीय	JJ
+बनावट	NN
+तथा	CC
+जलवायु	NN
+,	SYM
+जनसंख्या	NNC
+घनत्व	NN
+,	SYM
+आर्थिक	JJ
+विकास	NN
+इत्यादि	RP
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0208>
+भारत	NNP
+में	PSP
+सडकों	NN
+को	PSP
+तीन	QC
+वर्गों	NN
+में	PSP
+रखा	VM
+जाता	VAUX
+है	VAUX
+,	SYM
+जैसे-	NNPC
+राष्ट्रीय	NNPC
+महामार्ग	NN
+,	SYM
+राज्य	NNPC
+महामार्ग	NN
+,	SYM
+जिला	NN
+व	CC
+ग्रामीण	JJ
+सडक	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0209>
+राष्ट्रीय	NNPC
+महामार्ग	NNPC
+प्रमुख	JJ
+मार्ग	NN
+है	VM
+जो	PRP
+देश	NN
+के	PSP
+बडे	JJ
+शहरों	NN
+को	PSP
+जोडते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0210>
+इन	DEM
+सडकों	NN
+का	PSP
+निर्माण	NN
+,	SYM
+रख-रखाव	NN
+,	SYM
+मरम्मत	NN
+इत्यादि	RP
+का	PSP
+संचालन	NN
+केन्द्रीय	NNPC
+सरकार	NNP
+द्वारा	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0211>
+राष्ट्रीय	JJ
+महामार्गो	NN
+की	PSP
+सकल	NNC
+लम्बाई	NN
+65	QC
+,	SYM
+500	QC
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0212>
+भारत	NNP
+में	PSP
+219	QC
+राष्ट्रीय	NNPC
+महामार्ग	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0213a>
+यद्यपि	CC
+महामार्गो	NN
+की	PSP
+लम्बाई	NN
+भारत	NNP
+की	PSP
+कुल	QF
+पक्की	JJ
+सडकों	NN
+की	PSP
+लम्बाई	NN
+का	PSP
+केवल	RP
+2	QC
+प्रतिशत	NN
+ही	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0213b>
+तथापि	CC
+पक्की	JJ
+सडकों	NN
+पर	PSP
+होने	VM
+वाले	PSP
+सभी	QF
+प्रकार	NN
+के	PSP
+यातायात	NN
+का	PSP
+40	QC
+प्रतिशत	NN
+भाग	NN
+इन्ही	DEM
+महामार्गो	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0214>
+भारत	NNP
+का	PSP
+राष्ट्रीय	NNPC
+महामार्ग	NN
+क्र	VM
+.	SYM
+7	QC
+सबसे	INTF
+लम्बा	JJ
+है	VM
+जो	PRP
+उत्तर	NNP
+में	PSP
+वाराणसी	NNP
+(	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+)	SYM
+को	PSP
+दक्षिण	NNP
+में	PSP
+कन्या	NNPC
+कुमारी	NNP
+से	PSP
+जोडता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0215>
+इसकी	PRP
+कुल	QF
+लम्बाई	NN
+2683	QC
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0216>
+राज्य	NNC
+महामार्ग	NNP
+राज्यों	NN
+द्वारा	PSP
+बनाए	VM
+तथा	CC
+देख-रेख	NN
+किये	VM
+जाते	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0217>
+राज्य	NNC
+सडक	NNPC
+परिवहन	NNPC
+विभाग	NNP
+,	SYM
+राज्य	NN
+के	PSP
+लोक	NNPC
+निर्माण	NNPC
+विभाग	NNP
+इन	DEM
+सडकों	NN
+का	PSP
+निर्माण	NN
+,	SYM
+रख-रखाव	NN
+व	CC
+मरम्मत	NN
+इत्यादि	RP
+का	PSP
+संचालन	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0218>
+इसी	DEM
+प्रकार	NN
+जिला	NN
+व	CC
+ग्रामीण	JJ
+सडकों	NN
+का	PSP
+निर्माण	NN
+,	SYM
+परिवहन-संचालन	NN
+,	SYM
+रख-रखाव	NN
+,	SYM
+मरम्मत	NN
+इत्यादि	RP
+का	PSP
+प्रबंध	NN
+जिला	NNC
+पंचायत	NNP
+,	SYM
+जनपद	NNC
+पंचायत	NNP
+एवं	CC
+ग्राम	NN
+पंचायत	NN
+जैसे	PSP
+स्वायत्त्	NNC
+संस्थानों	NN
+द्वारा	PSP
+किया	VM
+जाता	VAUX
+है	VAUX
+जिन्हे	PRP
+आर्थिक	JJ
+सहायता	NN
+राज्य-कोष	NN
+से	PSP
+उपलब्ध	JJ
+कराई	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0219>
+अन्तर्राष्ट्रीय	JJ
+सीमाओं	NN
+से	PSP
+सटे	PSP
+सुदूर	JJ
+सीमावर्ती	JJ
+क्षेत्रों	NN
+में	PSP
+सडकों	NN
+का	PSP
+निर्माण	NN
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0220>
+ये	DEM
+सडकें	NN
+सुदूर	JJ
+क्षेत्रो	NN
+में	PSP
+रहने	VM
+वाले	PSP
+लोगों	NN
+को	PSP
+प्रमुख	JJ
+नगरों	NN
+से	PSP
+जोडने	VM
+और	CC
+प्रतिरक्षा	NN
+प्रदान	NN
+करने	VM
+में	PSP
+महत्वपूर्ण	JJ
+भूमिका	NN
+निभाती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0221>
+सीमा	NNC
+सडक	NNC
+मार्गो	NN
+के	PSP
+निर्माण	NN
+,	SYM
+मरम्मत	NN
+तथा	CC
+रख-रखाव	NN
+का	PSP
+संचालन	NN
+एवं	CC
+नियन्त्राण	NN
+‘‘सीमा	NNP
+सडक	NN
+संगठन’’	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0222>
+इन	DEM
+सडक	NNC
+मार्गो	NN
+का	PSP
+सामारिक	JJ
+एवं	CC
+आर्थिक	JJ
+महत्व	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0223>
+पूरे	JJ
+विश्व	NN
+का	PSP
+सबसे	INTF
+ऊँचा	JJ
+सडक	NNC
+मार्ग	NN
+लेह	NNP
+और	CC
+मनाली	NNP
+के	PSP
+बीच	NST
+बनाया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0224>
+समुद्र	NNC
+तल	NN
+से	PSP
+इसकी	PRP
+ऊँचाई	NN
+4270	QC
+मीटर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0225>
+इस	DEM
+सडक	NNC
+निर्माण	NN
+में	PSP
+भारतीय	JJ
+सीमा	NNPC
+सडक	NNC
+संगठन	NNP
+के	PSP
+इंजीनियरों	NN
+ने	PSP
+कुशलता	NN
+एवं	CC
+साहस	NN
+का	PSP
+परिचय	NN
+दिया	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0226>
+भारत	NNP
+की	PSP
+अधिकांश	JJ
+सीमावर्ती	JJ
+सडकें	NN
+उन	DEM
+क्षेत्रो	NN
+में	PSP
+बनाई	VM
+गई	VAUX
+है	VAUX
+जहाँ	PRP
+की	PSP
+जलवायु	JJC
+दुष्कर	JJ
+एवं	CC
+असह्य	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0227>
+भौगोलिक	JJ
+संरचना	NN
+बीहड	NN
+,	SYM
+पहाडी	NN
+,	SYM
+उबड-खाबड	NN
+,	SYM
+वीरान	NN
+तथा	CC
+जल	NN
+विहीन	JJ
+मरूस्थलीय	JJ
+प्रदेश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0228a>
+राष्ट्रीय	NNPC
+महामार्ग	NNPC
+देश	NNP
+के	PSP
+नगरों	NN
+,	SYM
+महानगरों	NN
+को	PSP
+जोडते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0228b>
+यद्यपि	CC
+इनकी	PRP
+कुल	QF
+लम्बाई	NN
+पूरी	JJ
+पक्की	JJ
+सडकों	NN
+की	PSP
+लम्बाई	NN
+का	PSP
+मात्र	RP
+2	QC
+प्रतिशत	NN
+ही	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0228c>
+किन्तु	CC
+देश	NN
+का	PSP
+40	QC
+प्रतिशत	NN
+यातायात	NN
+इन्ही	DEM
+राष्ट्रीय	JJ
+महामार्गो	NN
+पर	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0229>
+राज्य	NNPC
+महामार्ग	NNPC
+राज्य	NNP
+की	PSP
+राजधानी	NN
+को	PSP
+राज्य	NN
+के	PSP
+सभी	QF
+जिला	NNC
+मुख्यालयों	NN
+से	PSP
+जोडते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0230>
+जिला	NN
+तथा	CC
+ग्रामीण	JJ
+सडकें	NN
+जिला	NNC
+मुख्यालय	NN
+,	SYM
+छोटे	JJ
+कस्बों	NN
+और	CC
+ग्रामों	NN
+को	PSP
+परस्पर	JJ
+जोडती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0231>
+राष्ट्रीय	NNPC
+महामार्ग	NNPC
+विकास	NNPC
+परियोजना	NNP
+(	SYM
+एन	NNPC
+.	SYM
+एच	NNPC
+.	SYM
+डी	NNPC
+.	SYM
+पी	NNPC
+.	SYM
+)	SYM
+के	PSP
+अंतर्गत	PSP
+सडकों	NN
+का	PSP
+नवीन	JJ
+विकास	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0232>
+इस	DEM
+परियोजना	NN
+के	PSP
+अन्तर्गत	PSP
+हाल	NN
+ही	RP
+में	PSP
+कई	QF
+सडकों	NN
+का	PSP
+विकास	NN
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0233>
+भारत	NNPC
+सरकार	NNP
+ने	PSP
+देश	NN
+के	PSP
+आर्थिक	JJ
+विकास	NN
+को	PSP
+प्रोन्नत	JJ
+एवं	CC
+गतिमान	JJ
+करने	VM
+के	PSP
+उद्देश्य	NN
+से	PSP
+जिस	DEM
+परियोजना	NN
+को	PSP
+संचालित	JJ
+किया	VM
+उसे	PRP
+‘‘राष्ट्रीय	NNPC
+महामार्ग	NNPC
+विकास	NNPC
+कार्यक्रम’’	NNP
+(	SYM
+एन	NNPC
+.	SYM
+एच	NNPC
+.	SYM
+डीपी	NNP
+)	SYM
+कहा	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0234a>
+इस	DEM
+कार्यक्रम	NN
+के	PSP
+अन्तर्गत	PSP
+प्रथम	QO
+दो	QC
+चरणों	NN
+के	PSP
+लक्ष्यो	NN
+को	PSP
+प्राप्त	JJ
+किया	VM
+जा	VAUX
+चुका	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0234b>
+तथा	CC
+अब	PRP
+तृतीय	QO
+चरण	NN
+में	PSP
+सुनिश्चित	JJ
+लक्ष्यों	NN
+को	PSP
+प्राप्त	JJ
+करने	VM
+की	PSP
+दिशा	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0235>
+प्रथम	QO
+दो	QC
+चरणों	NN
+में	PSP
+प्राप्त	JJ
+किए	VM
+गए	VAUX
+उपलब्धियों	NN
+का	PSP
+ब्योरा	NN
+इस	DEM
+प्रकार	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0236>
+इसके	PRP
+अन्तर्गत	PSP
+चार	QC
+लेन	NN
+वाली	PSP
+चौडी	NN
+पक्की	JJ
+सडक	NN
+का	PSP
+निर्माण	NN
+किया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0237>
+यह	PRP
+देश	NN
+के	PSP
+चार	QC
+महानगरों	NN
+दिल्ली	NNP
+,	SYM
+मुम्बई	NNP
+,	SYM
+चेन्नई	NNP
+तथा	CC
+कोलकाता	NNP
+को	PSP
+वापस	JJ
+दिल्ली	NNP
+से	PSP
+जोडता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0238>
+इस	DEM
+चतुर्भुजाकार	JJ
+सडक	NN
+की	PSP
+कुल	QF
+लम्बाई	NN
+5846	QC
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0239>
+31	NNPC
+मई	NNPC
+2005	NNP
+तक	PSP
+5846	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+में	PSP
+से	PSP
+4856	QC
+कि	CC
+.	SYM
+मी	NNPC
+मार्ग	NN
+पर	PSP
+निर्माण	NNC
+कार्य	NN
+पूरा	JJ
+कर	VM
+लिया	VAUX
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0240>
+दूसरा	QO
+प्रमुख	JJ
+लक्ष्य	NN
+देश	NN
+के	PSP
+उत्तर	NNP
+से	PSP
+दक्षिण	NNP
+और	CC
+पूर्व	NST
+से	PSP
+पश्चिम	JJ
+दिशाओं	NN
+में	PSP
+गलियारे	NN
+का	PSP
+निर्माण	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0241a>
+इसके	PRP
+अन्तर्गत	PSP
+राष्ट्रीय	JJ
+महामार्गो	NN
+का	PSP
+निर्माण	NN
+कर	VM
+श्रीनगर	NNP
+को	PSP
+कन्याकुमारी	NNP
+से	PSP
+जोडना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0241b>
+इसे	PRP
+कोचीन	NNP
+तथा	CC
+सलेम	NNP
+से	PSP
+भी	RP
+जोडा	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0242>
+इसमें	PRP
+पश्चिम	NNP
+में	PSP
+पोरबंदर	NNP
+से	PSP
+पूर्व	NST
+में	PSP
+सिलचर	NNP
+तक	PSP
+का	PSP
+सडक	NNC
+निर्माण	NN
+भी	RP
+शामिल	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0243>
+इस	DEM
+सडक	NN
+की	PSP
+कुल	QF
+लम्बाई	NN
+7300	QC
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0244>
+परन्तु	CC
+31	NNPC
+मई	NNPC
+2005	NNP
+तक	PSP
+चार	QC
+/	SYM
+छः	QC
+लेन	NN
+वाली	PSP
+सडक	NN
+केवल	RP
+707	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+तक	PSP
+ही	RP
+बन	VM
+पाई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0245>
+भारत	NNPC
+सरकार	NNP
+के	PSP
+अनुसार	PSP
+इस	DEM
+महती	JJ
+परियोजना	NN
+को	PSP
+दिसंबर	NNPC
+2007	NNP
+तक	PSP
+पूरा	JJ
+करने	VM
+की	PSP
+योजना	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0246>
+तीसरा	QO
+महत्वपूर्ण	JJ
+लक्ष्य	NN
+12	QC
+प्रमुख	JJ
+बन्दरगाहों	NN
+को	PSP
+जोडने	VM
+वाले	PSP
+महामार्गो	NN
+के	PSP
+356	QC
+किमी	NN
+.	SYM
+लम्बाई	NN
+को	PSP
+चार	QC
+लेन	NN
+में	PSP
+तब्दील	JJ
+करना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0247>
+दूसरे	QO
+महामार्गो	NN
+के	PSP
+कुल	QF
+777	QC
+किमी	NN
+.	SYM
+लम्बाई	NN
+को	PSP
+भी	RP
+चार	QC
+लेन	NN
+वाली	PSP
+सडकों	NN
+में	PSP
+बदलना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0248a>
+31	NNPC
+मई	NNPC
+2005	NNP
+तकबन्दरगाहो	NNP
+को	PSP
+जोडने	VM
+वाले	PSP
+महामार्गो	NN
+की	PSP
+चार	QC
+लेन	NN
+वाली	PSP
+सडक	NN
+में	PSP
+तब्दीली	NN
+केवल	RP
+69	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+तक	PSP
+हो	VM
+पाई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0248b>
+तथा	CC
+अन्य	JJ
+महामार्गों	NN
+पर	PSP
+मात्रा	NN
+287	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+की	PSP
+लम्बाई	NN
+को	PSP
+ही	RP
+चार	QC
+लेन	NN
+में	PSP
+परिवर्तित	JJ
+किया	VM
+जा	VAUX
+सका	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0249>
+इसके	PRP
+अतिरिक्त	PSP
+’भारतीय	NNPC
+राष्ट्रीय	NNPC
+महामार्ग	NNPC
+प्राधिकरण‘	NNP
+ने	PSP
+महामार्गो	NN
+के	PSP
+विकास	NN
+की	PSP
+पाँच	QC
+चरणों	NN
+में	PSP
+परियोजना	NN
+बनाई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0250>
+वे	PRP
+इस	DEM
+प्रकार	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0251>
+निर्माण-परिचालन-हस्तांरण	NNP
+(	SYM
+बी	NNPC
+.	SYM
+ओ	NNPC
+.	SYM
+टी	NNPC
+.	SYM
+)	SYM
+के	PSP
+आधार	NN
+पर	PSP
+राष्ट्रीय	JJ
+महामार्गो	NN
+के	PSP
+करीब	RP
+10	QC
+,	SYM
+000	QC
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+लम्बाई	NN
+की	PSP
+सडको	NN
+को	PSP
+चार	QC
+लेन	NN
+वाली	PSP
+सडकों	NN
+में	PSP
+तब्दील	JJ
+करना	VM
+(	SYM
+तृतीय	QO
+चरण	NN
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0252>
+राष्ट्रीय	NNPC
+महामार्ग	NN
+के	PSP
+दो	QC
+लेन	NN
+वाली	PSP
+सडक	NN
+पर	PSP
+खंडजा	NN
+डाल	VM
+कर	VAUX
+20	QC
+,	SYM
+000	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+की	PSP
+लम्बाई	NN
+पूरी	JJ
+करना	VM
+(	SYM
+चतुर्थ	NNC
+चरण	NN
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0253>
+5000	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+की	PSP
+लम्बाई	NN
+में	PSP
+राष्ट्रीय	JJ
+महामार्ग	NN
+को	PSP
+छः	QC
+लेन	NN
+वाली	PSP
+सडको	NN
+में	PSP
+तब्दील	JJ
+करना	VM
+(	SYM
+पांचवा	QO
+चरण	NN
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0254>
+1000	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+की	PSP
+लम्बाई	NN
+में	PSP
+राष्ट्रीय	JJ
+महामार्ग	NN
+की	PSP
+चुनिन्दा	JJ
+सडकों	NN
+को	PSP
+अतिद्रुतगामी	NNC
+यातायात	NNC
+प्रवाह	NN
+(	SYM
+एक्सप्रेस	NNP
+)	SYM
+वाली	PSP
+सडक	NN
+में	PSP
+तब्दील	JJ
+करना	VM
+(	SYM
+छठवाँ	QO
+चरण	NN
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0255>
+रिंग	NNPC
+रोड	NNP
+,	SYM
+बाइपास	NN
+,	SYM
+फ्लाई-ओवर	NN
+इत्यादि	RP
+का	PSP
+निर्माण	NN
+करना	VM
+ताकि	CC
+राष्ट्रीय	JJ
+महामार्गो	NN
+पर	PSP
+मार्ग-अवरोध	NN
+की	PSP
+समस्याओं	NN
+से	PSP
+निपटा	VM
+जा	VAUX
+सके	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0256>
+इन	DEM
+सब	PRP
+के	PSP
+अतिरिक्त	PSP
+उत्तर-पूर्वी	JJ
+भारत	NNP
+के	PSP
+क्षेत्रों	NN
+में	PSP
+राष्ट्रीय	JJ
+महामार्ग	NN
+तथा	CC
+अन्य	JJ
+मार्गो	NN
+के	PSP
+विकास	NN
+का	PSP
+कार्यक्रम	NN
+बनाया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0257>
+इसका	PRP
+संचालन	NN
+‘‘उत्तर-पूर्वी	NNP
+क्षेत्र	NN
+में	PSP
+विशेष	JJ
+त्वरित	JJ
+सडक	NNC
+विकास	NNPC
+कार्यक्रम‘‘	NNP
+(	SYM
+SARDP-NE	SYM
+)	SYM
+के	PSP
+तहत	PSP
+किए	VM
+जाने	VAUX
+की	PSP
+योजना	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0258>
+निम्नलिखित	JJ
+प्रश्नों	NN
+के	PSP
+उत्तर	NN
+संक्षेप	NN
+में	PSP
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0259>
+वर्ष	NN
+1997	NNP
+में	PSP
+पक्की	JJ
+सडकों	NN
+की	PSP
+कुल	QF
+लम्बाई	NN
+कितनी	WQ
+थी	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0260>
+राष्ट्रीय	NNPC
+महामार्ग	NNPC
+संख्या	NN
+7	NNP
+के	PSP
+अन्तिम	JJ
+छोरों	NN
+के	PSP
+नाम	NN
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0261>
+भारत	NNP
+के	PSP
+उन	DEM
+दो	QC
+राज्यों	NN
+के	PSP
+नाम	NN
+बताइये	VM
+जहाँ	PRP
+सबसे	INTF
+अधिक	QF
+सडक-घनत्व	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0262>
+विश्व	NN
+की	PSP
+सबसे	INTF
+ऊँची	JJ
+सडक	NN
+के	PSP
+दोनो	QC
+छोरों	NN
+का	PSP
+नाम	NN
+लिखिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0263>
+किन	WQ
+क्षेत्रों	NN
+मे	PSP
+कच्ची	JJ
+सडकों	NN
+का	PSP
+महत्व	NN
+अधिक	QF
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0264>
+भारत	NNP
+के	PSP
+उत्तर-पूर्वी	JJ
+भागों	NN
+में	PSP
+विरल	JJ
+सडक-घनत्व	NN
+होने	VM
+का	PSP
+सबसे	INTF
+अधिक	QF
+प्रमुख	JJ
+कारण	NN
+का	PSP
+उल्लेख	NN
+कीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0265>
+‘‘स्वर्णिम-चतुर्भुज	NNPC
+महामार्ग’’	NNP
+की	PSP
+कुल	QF
+लम्बाई	NN
+कितनी	WQ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0266>
+भारत	NNP
+में	PSP
+पाइप	NNC
+लाइन	NNC
+परिवहन	NN
+का	PSP
+प्रचलन	NN
+अभी	PRP
+हाल	NN
+ही	RP
+में	PSP
+शुरू	NN
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0267>
+खनिज	NNC
+तेल	NN
+,	SYM
+पेट्रोलियम	NN
+के	PSP
+अन्य	JJ
+तरल	NNC
+पदार्थ	NN
+एवं	CC
+प्राकृतिक	JJ
+गैस	NN
+को	PSP
+उत्पादन	NN
+क्षेत्रों	NN
+से	PSP
+सीधे	RB
+तेलशोधक	NNC
+संयंत्रों	NN
+तक	PSP
+या	CC
+विपणन	NNC
+केन्द्रो	NN
+तक	PSP
+सुविधा	NN
+पूर्वक	JJ
+पहुँचाने	VM
+में	PSP
+पाइप-लाइन	NNC
+परिवहन	NNPC
+भरोसेमन्द	JJ
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0268>
+अब	PRP
+ठोस	JJ
+पदार्थ	NN
+को	PSP
+भी	RP
+अर्ध-तरल	JJ
+अवस्था	NN
+में	PSP
+बदलकर	VM
+पाइप	NNC
+लाइनों	NN
+में	PSP
+परिवहित	JJ
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0269>
+दूसरे	QO
+परिवहन	NN
+के	PSP
+साधनो	NN
+की	PSP
+तुलना	PSP
+में	PSP
+पाइप	NNC
+लाइन	NNC
+परिवहन	NN
+के	PSP
+कुछ	QF
+विशेष	JJ
+लाभ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0270>
+पाइप	NNC
+लाइनों	NN
+को	PSP
+दुर्गम	JJ
+,	SYM
+कठिन	JJ
+,	SYM
+उबड-खाबड	JJ
+भूभागों	NN
+तथा	CC
+मार्ग	NN
+में	PSP
+पडने	VM
+वाले	PSP
+जलाशयो	NN
+के	PSP
+पानी	NN
+के	PSP
+नीचे	NST
+से	PSP
+भी	RP
+बिछाया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0271a>
+यद्यपि	CC
+पाइप	NN
+बिछाने	VM
+की	PSP
+प्रारंभिक	JJ
+लागत	NN
+बहुत	INTF
+अधिक	QF
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0271b>
+परन्तु	CC
+बाद	NST
+में	PSP
+इसके	PRP
+रख-रखाव	NN
+की	PSP
+लागत	NN
+कम	QF
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0272>
+पाइप	NNC
+लाइन	NNC
+परिवहन	NN
+द्वारा	PSP
+पदार्थो	NN
+की	PSP
+आपूर्ति	NN
+अनवरत	JJ
+रूप	NN
+से	PSP
+सुनिश्चित	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0273a>
+इस	DEM
+परिवहन	NNC
+साधन	NN
+में	PSP
+तरल	JJ
+पदार्थो	NN
+के	PSP
+वाहनान्तरण	NNC
+प्रक्रिया	NN
+में	PSP
+समय	NN
+भी	RP
+बहुत	QF
+बचता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0273b>
+तथा	CC
+परिवहन	NN
+के	PSP
+पदार्थो	NN
+का	PSP
+नुक्सान	NN
+भी	RP
+कम	QF
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0274>
+पाइप	NNC
+लाइन	NNC
+परिवहन	NN
+में	PSP
+ऊर्जा	NN
+की	PSP
+खपत	NN
+भी	RP
+बहुत	INTF
+कम	QF
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0275a>
+उपरोक्त	DEM
+लाभों	NN
+के	PSP
+बावजूद	PSP
+इस	DEM
+परिवहन	NNC
+प्रणाली	NN
+की	PSP
+कुछ	QF
+सीमाएँ	NN
+हैं-	VM
+जैसे	PSP
+एक	QC
+बारनिश्चित	NNC
+व्यास	NN
+की	PSP
+पाइप	NNC
+लाइन	NN
+डाल	VM
+दी	VAUX
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0275b>
+तो	CC
+फिर	RB
+उसकी	PRP
+परिवहन	NNC
+क्षमता	NN
+भविष्य	NN
+में	PSP
+बढाई	VM
+नहीं	NEG
+जा	VM
+सकती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0276>
+कुछ	QF
+क्षेत्रों	NN
+में	PSP
+पाइप	NNC
+लाइन	NN
+की	PSP
+सुरक्षा	NN
+सुनिश्चित	JJ
+करना	VM
+कठिन	JJ
+कार्य	NN
+होता	VM
+है	VAUX
+,	SYM
+तथा	CC
+पाइप	NNC
+लाइनों	NN
+में	PSP
+रिसाव	NN
+का	PSP
+पता	NN
+लगाना	VM
+भी	RP
+कठिन	JJ
+कार्य	NN
+हो	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0277>
+असम	NNPC
+राज्य	NN
+के	PSP
+पेट्रोलियम	NNC
+उत्पादन	NNC
+क्षेत्रों	NN
+को	PSP
+पाइप	NNC
+लाइनों	NN
+द्वारा	PSP
+असम	NNP
+तथा	CC
+बिहार	NNP
+स्थित	JJ
+तेलशोधक	NNC
+संयंत्रों	NN
+से	PSP
+जोड	VM
+दिया	VAUX
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0278>
+कान्दला	NNP
+(	SYM
+गुजरात	NNP
+)	SYM
+से	PSP
+मथुरा	NNP
+स्थित	JJ
+तेल-शोधक	JJ
+संयन्त्रा	NN
+तक	PSP
+बिछाई	VM
+गई	VAUX
+पाइप	NNC
+लाइन	NN
+की	PSP
+लम्बाई	NN
+(	SYM
+1220	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+)	SYM
+सबसे	INTF
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0279>
+गुजरात	NNP
+और	CC
+महाराष्ट्र	NNP
+राज्यों	NN
+में	PSP
+बहुत	INTF
+सी	RP
+पाइप	NNC
+लाइने	NN
+बिछी	VM
+हैं	VAUX
+जो	PRP
+खनिज	NNC
+तेल	NN
+को	PSP
+उत्पादन	NN
+कूपों	NN
+से	PSP
+सीधे	RB
+तेल	NNC
+शोधक	NNPC
+संयन्त्रा	NNP
+को	PSP
+या	CC
+विपणन	NNC
+केंद्रो	NN
+को	PSP
+जोडती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0280>
+प्राकृतिक	JJ
+गैस	NN
+का	PSP
+परिवहन	NN
+पाइप	NNC
+लाइनों	NN
+से	PSP
+भी	RP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0281>
+भारत	NNP
+की	PSP
+सबसे	INTF
+लम्बी	JJ
+गैस	NNC
+पाइप	NNPC
+लाइन	NNP
+(	SYM
+1730	NNP
+कि	CC
+.	SYM
+मी	NNP
+)	SYM
+गुजरात	NNP
+के	PSP
+हजीरा	NNP
+से	PSP
+शुरू	NN
+होकर	VM
+मध्य	NNPC
+प्रदेश	NNP
+के	PSP
+विजयपुर	NNP
+होते	VM
+हुए	VAUX
+उत्तर	NNPC
+प्रदेश	NNP
+के	PSP
+जगदीशपुर	NNP
+तक	PSP
+बिछाई	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0282>
+यह	DEM
+गैस	NNC
+पाइप	NNPC
+लाइन	NN
+एच	NNPC
+.	SYM
+बीजे	NNP
+.	SYM
+कहलाती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0283>
+इसके	PRP
+द्वारा	PSP
+6	QC
+उर्वरक	NNC
+कारखानों	NN
+तथा	CC
+दो	QC
+ताप-विद्युत	NNC
+केन्द्रों	NN
+को	PSP
+गैस	NN
+की	PSP
+आपूर्ति	NN
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0284>
+पाइप	NNC
+लाइनों	NN
+के	PSP
+परिवहन	NN
+ने	PSP
+रेलों	NN
+पर	PSP
+भार	NN
+ढोने	VM
+के	PSP
+बढते	VM
+दबाव	NN
+को	PSP
+बहुत	INTF
+कम	QF
+कर	VM
+दिया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0285a>
+पाइप	NNC
+लाइन	NNC
+परिवहन	NN
+के	PSP
+महत्वपूर्ण	JJ
+योगदान	NN
+को	PSP
+ध्यान	NN
+में	PSP
+रखकर	VM
+यह	PRP
+तय	JJ
+किया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0285b>
+कि	CC
+देश	NN
+में	PSP
+गैस	NN
+व	CC
+खनिज-तेल	NN
+की	PSP
+आपूर्ति	NN
+को	PSP
+अनवरत	NN
+को	PSP
+अविरक्त	NN
+बनाए	VM
+रखने	VAUX
+के	PSP
+लिए	PSP
+अधिक	QF
+पाइप	NNC
+लाइन	NN
+बिछाना	VM
+होगा	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0286>
+पाइप	NNC
+लाइन	NNPC
+परिवहन	NNC
+व्यवस्था	NN
+के	PSP
+द्वारा	PSP
+गैस	NN
+की	PSP
+आपूर्ति	NN
+सुनिश्चित	JJ
+हो	VM
+जाने	VAUX
+से	PSP
+भारत	NNP
+के	PSP
+दुर्गम	JJ
+क्षेत्रों	NN
+में	PSP
+भी	RP
+गैस	NNC
+इंजन	NN
+पर	PSP
+आधारित	JJ
+ताप-विद्युत	NNC
+संयन्त्रों	NN
+की	PSP
+स्थापना	NN
+की	VM
+जा	VAUX
+रही	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0287>
+इससे	PRP
+इन	DEM
+उपेक्षित	JJ
+क्षेत्रों	NN
+में	PSP
+औद्योगिक	JJ
+विकास	NN
+को	PSP
+नई	JJ
+दिशा	NN
+मिलेगी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0288>
+पाइप	NNC
+लाइन	NNC
+परिवहन	NNC
+सबसे	INTF
+सुविधाजनक	JJ
+प्रणाली	NN
+है	VM
+जिसके	PRP
+द्वारा	PSP
+खनिज	NNC
+तेल	NN
+व	CC
+गैस	NN
+की	PSP
+अनवरत	JJ
+आपूर्ति	NN
+सुनिश्चित	JJ
+की	VM
+जा	VAUX
+सकती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0289>
+भारतीय	JJ
+मुख्यभूमि	NN
+तथा	CC
+उसके	PRP
+द्वीप-समूहों	NN
+को	PSP
+मिलाकर	VM
+भारतीय	JJ
+समुद्र-तट	NN
+रेखा	NNPC
+कीलम्बाई	NNP
+6100	QC
+किलोमीटर	NN
+से	PSP
+कुछ	QF
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0290>
+इन	DEM
+लम्बी	JJ
+तट	NNC
+रेखाओ	NN
+पर	PSP
+12	QC
+प्रमुख	JJ
+बन्दरगाह	NN
+हैं	VM
+जिनका	PRP
+प्रबन्धन	NN
+केन्द्र	NNPC
+सरकार	NNP
+द्वारा	PSP
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0291>
+इनके	PRP
+अतिरिक्त	PSP
+186	QC
+छोटे	JJ
+बन्दरगाह	NN
+है	VM
+जिनका	PRP
+नियंत्रण	NN
+राज्य	NNPC
+सरकार	NN
+करती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0292>
+इन	DEM
+12	QC
+प्रमुख	JJ
+बन्दरगाहों	NN
+से	PSP
+3840	QCC
+लाख	QC
+टन	NN
+सामान	NN
+का	PSP
+सामुद्रिक	JJ
+आयात-निर्यात	NN
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0293>
+ये	PRP
+12	QC
+प्रमुख	JJ
+बन्दरगाह	NN
+देश	NN
+के	PSP
+अन्तर्राष्ट्रीय	JJ
+जल	NNPC
+जनित	NNPC
+व्यापार	NN
+का	PSP
+90	QC
+प्रतिशत	NN
+व्यापार	NN
+संभालते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0294>
+पश्चिमी	JJ
+समुद्री	JJ
+तट	NN
+पर	PSP
+प्रमुख	JJ
+बन्दरगाह	NN
+कान्दला	NNP
+,	SYM
+मुम्बई	NNP
+,	SYM
+जवाहर	NNPC
+लाल	NNPC
+नेहरू	NNPC
+पत्तन	NNPC
+नाव्हाशेवा	NNP
+,	SYM
+(	SYM
+मुम्बई	NNP
+पोताश्रय	NNP
+के	PSP
+ठीक	RP
+विपरीत	JJ
+स्थित	JJ
+)	SYM
+,	SYM
+मारमागोवा	NNP
+,	SYM
+न्यू	NNPC
+मँगलोर	NNP
+और	CC
+कोची	NNP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0295a>
+इस	DEM
+प्रकार	NN
+यह	PRP
+स्पष्ट	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0295b>
+कि	CC
+पश्चिमी	JJ
+समुद्रतट	NN
+वाले	PSP
+प्रत्येक	QF
+राज्य	NN
+के	PSP
+अन्तर्गत	PSP
+कम	QF
+से	RP
+कम	QF
+एक	QC
+बन्दरगाह	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0296>
+अन्य	JJ
+पाँच	QC
+बन्दरगाह	NN
+पूर्वी	JJ
+समुद्रतट	NN
+पर	PSP
+स्थित	JJ
+हैं	VM
+जो	PRP
+क्रमशः	RB
+तूतीकोरिन	NNP
+,	SYM
+चेन्नई	NNP
+,	SYM
+विशाखापट्टनम	NNP
+,	SYM
+पारादीप	NNP
+,	SYM
+हल्दिया-कोलकाता	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0297>
+पूर्वी	JJ
+तटवर्ती	JJ
+राज्यों	NN
+में	PSP
+भी	RP
+कम	QF
+से	RP
+कम	QF
+एक	QC
+बन्दरगाह	NN
+प्रत्येक	QF
+राज्य	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0298>
+इन	DEM
+सभी	QF
+12	QC
+प्रमुख	JJ
+बन्दरगाहों	NN
+में	PSP
+नवी	NNPC
+मुम्बई	NNP
+स्थित	JJ
+जवाहर	NNPC
+लाल	NNPC
+नेहरू	NNPC
+बन्दरगाह	NNP
+सबसे	INTF
+आधुनिक	JJ
+एवं	CC
+साज-सज्जा	NN
+सम्पन्न	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0299>
+जल	NNC
+परिवहन	NN
+एक	QC
+सस्ता	JJ
+साधन	NN
+है	VM
+जो	PRP
+विदेशी	JJ
+व्यापार	NN
+के	PSP
+विकास	NN
+में	PSP
+सहायक	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0300>
+भारत	NNP
+के	PSP
+समुद्र	NNC
+तटों	NN
+से	PSP
+होने	VM
+वाले	PSP
+अन्तर्राष्ट्रीय	JJ
+व्यापार	NN
+में	PSP
+आयात-निर्यात	NN
+का	PSP
+90	QC
+प्रतिशत	NN
+भाग	NN
+इन्ही	DEM
+12	QC
+प्रमुख	JJ
+पत्तनों	NN
+से	PSP
+सम्पन्न	JJ
+किए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0301>
+भारत	NNP
+में	PSP
+अन्त	NN
+स्थलीय	JJ
+जलमार्गो	NN
+की	PSP
+स्थिति	NN
+संतोषजनक	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0302a>
+भारतीय	NNPC
+अन्तः	NNPC
+स्थलीय	NNPC
+जलमार्ग	NNP
+यद्यपि	CC
+14	NNP
+,	SYM
+500	QC
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0302b>
+परन्तु	CC
+केवल	RP
+2	QC
+,	SYM
+700	QC
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+लम्बाई	NN
+के	PSP
+जलमार्ग	NN
+में	PSP
+मशीनीकृत	JJ
+नौकाएँ	NN
+एवं	CC
+स्टीमर	NN
+चलाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0303>
+भारत	NNP
+के	PSP
+कुछ	QF
+अन्तःस्थलीय	JJ
+जलमार्ग	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0304>
+इलाहाबाद	NNP
+से	PSP
+हल्दिया	NNP
+के	PSP
+बीच	NST
+गंगा	NNP
+नदी	NN
+में	PSP
+जलमार्ग	NN
+करीब	RP
+1620	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+की	PSP
+लम्बाई	NN
+में	PSP
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0305>
+इसमें	PRP
+हल्दिया	NNP
+से	PSP
+पटना	NNP
+तक	PSP
+बडे	JJ
+जलयान	NN
+(	SYM
+स्टीमर	NN
+)	SYM
+चलाए	VM
+जा	VAUX
+सकते	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0306>
+इस	DEM
+जलमार्ग	NN
+को	PSP
+राष्ट्रीय	JJ
+जलमार्ग	NNC
+संख्या	NN
+1	SYM
+घोषित	JJ
+किया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0307>
+ब्रह्मपुत्र	NNP
+नदी	NN
+में	PSP
+भी	RP
+नौवहन	NNPC
+योग्य	NNPC
+जल	NNC
+मार्ग	NN
+1384	NNP
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+की	PSP
+लम्बाई	NN
+में	PSP
+डिब्रूगढ	NNP
+तक	PSP
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0308>
+इस	DEM
+लम्बाई	NN
+का	PSP
+केवल	RP
+891	QC
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+भारत	NNP
+के	PSP
+क्षेत्र	NN
+में	PSP
+आता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0309>
+बाकी	JJ
+बँगलादेश	NNP
+के	PSP
+अन्तर्गत	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0310>
+कोल्लम	NNP
+एवं	CC
+कोटपुरम	NNP
+होती	VM
+हुई	VAUX
+पश्चिमी	JJ
+तटवर्ती	NNPC
+नहर	NN
+तथा	CC
+चम्पाकार	NNP
+और	CC
+उद्योगमण्डल	NNPC
+नहर	NNP
+(	SYM
+केरल	NNP
+)	SYM
+की	PSP
+कुल	QF
+लम्बाई	NN
+205	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+तक	PSP
+है	VM
+,	SYM
+जिसमें	PRP
+जल-मार्ग	NN
+उपलब्ध	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0311>
+दक्षिण	NNPC
+भारत	NNP
+में	PSP
+कृष्णा	NNP
+,	SYM
+गोदावरी	NNP
+तथा	CC
+महानदी	NNP
+के	PSP
+निचले	JJ
+प्रवाह	NN
+क्षेत्रों	NN
+में	PSP
+भी	RP
+अन्तः	JJ
+स्थलीय	NNPC
+जलमार्ग	NN
+बनाए	VM
+जा	VAUX
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0312>
+आन्ध्रप्रदेश	NNP
+तथा	CC
+तमिलनाडु	NNP
+के	PSP
+बीच	NST
+मौजूद	JJ
+बकिंघम	NNP
+नहर	NN
+जो	DEM
+पहले	NST
+जलमार्ग	NN
+के	PSP
+रूप	PSP
+में	PSP
+प्रयुक्त	JJ
+थी	VM
+अब	PRP
+अप्रयुक्त	JJ
+स्थिति	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0313>
+भारत	NNP
+में	PSP
+अन्तःस्थलीय	JJ
+जलमार्ग	NNC
+परिवहन	NN
+को	PSP
+प्रभावित	JJ
+करने	VM
+वाले	PSP
+निम्नलिखित	JJ
+कारक	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0314>
+नदियों	NN
+के	PSP
+जल	NN
+का	PSP
+अधिकांश	JJ
+भाग	NN
+सिंचाई	NN
+के	PSP
+लिए	PSP
+प्रयुक्त	JJ
+किया	VM
+जाना	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0315>
+नदियों	NN
+के	PSP
+तल	NN
+में	PSP
+निरन्तर	JJ
+अवसाद	NN
+जमा	JJ
+होते	VM
+रहने	VAUX
+से	PSP
+जल	NN
+की	PSP
+गहराई	NN
+का	PSP
+कम	QF
+होना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0316>
+नदी	NNC
+जल	NN
+के	PSP
+स्तर	NN
+में	PSP
+मौसम	NN
+के	PSP
+अनुसार	PSP
+उतार-चढाव	NN
+होते	VM
+रहना	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0317>
+नदी	NNC
+मार्ग	NN
+में	PSP
+पुलों	NN
+,	SYM
+छोटे	JJ
+तथा	CC
+बडे	JJ
+जलप्रपात	NN
+की	PSP
+मौजूदगी	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0318>
+रेल	NNC
+परिवहन	NN
+,	SYM
+सडक	NNC
+परिवहन	NN
+की	PSP
+दिनों-दिन	NN
+बढती	VM
+सुविधाओं	NN
+ने	PSP
+असमान्य	JJ
+प्रतिस्पर्धा	NN
+स्थापित	JJ
+कर	VM
+दी	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0319a>
+इसलिए	PRP
+भारत	NNP
+के	PSP
+अन्तः	JJ
+स्थलीय	JJ
+जलमार्गों	NN
+का	PSP
+उचित	JJ
+विकास	NN
+नहीं	NEG
+पा	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0319b>
+क्योंकि	CC
+इन	DEM
+मार्गो	NN
+से	PSP
+परिवहन	NN
+,	SYM
+व्यापार	NN
+या	CC
+यातायात	NNC
+रेल	NN
+और	CC
+सडक	NNC
+परिवहन	NN
+के	PSP
+सामने	NST
+प्रतिस्पर्धा	NN
+में	PSP
+सक्षम	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0320>
+निम्न	JJ
+प्रश्नों	NN
+के	PSP
+उत्तर	NN
+संक्षेप	NN
+में	PSP
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0321>
+दो	QC
+प्रमुख	JJ
+पदार्थो	NN
+के	PSP
+नाम	NN
+बताइए	VM
+जिनका	PRP
+परिवहन	NN
+पाइप-लाइनों	NN
+द्वारा	PSP
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0322>
+भारत	NNP
+की	PSP
+कौन	WQ
+सी	NNPC
+गैस	NNC
+पाइप	NNC
+लाइन	NN
+सबसे	INTF
+अधिक	QF
+लम्बी	JJ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0323>
+भारत	NNP
+का	PSP
+कौन	WQ
+सा	RP
+बन्दरगाह	NN
+सबसे	INTF
+ज्यादा	QF
+समुद्रिक	JJ
+व्यापार	NN
+के	PSP
+यातायात	NN
+का	PSP
+संचालन	NN
+करता	VM
+है	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0324>
+नौकायन	NNPC
+जलमार्ग	NN
+के	PSP
+लिए	PSP
+उपयुक्त	JJ
+भारत	NNP
+की	PSP
+दो	QC
+नदियों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0325>
+वायु	NNC
+परिवहन	NN
+सर्वाधिक	INTF
+गतिशील	JJ
+एवं	CC
+सुविधायुक्त	JJ
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0326>
+यह	DEM
+अन्य	JJ
+परिवहन	NNC
+साधनों	NN
+के	PSP
+मुकाबले	PSP
+बहुत	INTF
+महँगा	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0327a>
+दिल्ली	NNP
+से	PSP
+बैंगलौर	NNP
+की	PSP
+यात्रा	NN
+हवाई	NNC
+जहाज	NN
+द्वारा	PSP
+मात्रा	NN
+ढाई	QC
+घंटों	NN
+में	PSP
+सम्पन्न	JJ
+की	VM
+जा	VAUX
+सकती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0327b>
+जबकि	CC
+रेल	NNC
+यात्रा	NN
+में	PSP
+इतनी	QF
+दूरी	NN
+तय	JJ
+करने	VM
+में	PSP
+42	QC
+घंटे	NN
+लगते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0328>
+वायु	NNC
+परिवहन	NN
+उन	DEM
+क्षेत्रों	NN
+के	PSP
+लिए	PSP
+अधिक	QF
+उपयुक्त	JJ
+हैं	VM
+जहाँ	PRP
+उबड-खाबड	JJ
+धरातलीय	JJ
+आकृतियों	NN
+के	PSP
+कारण	PSP
+सडक	NNC
+परिवहन	NN
+विकसित	JJ
+करना	VM
+कठिन	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0329>
+इन	DEM
+दुर्गम	JJ
+स्थलों	NN
+में	PSP
+घने	JJ
+जंगल	NN
+,	SYM
+दलदली	JJ
+जमीन	NN
+,	SYM
+ऊँचे	JJ
+पर्वतीय	JJ
+क्षेत्र	NN
+,	SYM
+बीहड	JJ
+पहाड	NN
+भी	RP
+वायु	NNC
+परिवहन	NN
+में	PSP
+अवरोध	NN
+नहीं	NEG
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0330a>
+भारत	NNP
+की	PSP
+अन्तर्राष्ट्रीय	JJ
+वायु	NNC
+मार्गो	NN
+में	PSP
+स्थिति	NN
+बहुत	INTF
+अनुकूल	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0330b>
+क्योंकि	CC
+एक	QC
+ओर	NST
+उत्तरी	JJ
+अमेरिका	NNP
+,	SYM
+यूरोप	NNP
+तथा	CC
+दक्षिण-पश्चिम	NNPC
+एशिया	NNP
+तथा	CC
+दूसरी	QO
+ओर	NST
+पूर्वी	JJ
+एवं	CC
+दक्षिण-पूर्वी	NNPC
+एशिया	NNP
+एवं	CC
+आस्ट्रेलिया	NNP
+सहित	PSP
+सबको	PRP
+जोडता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0331>
+भारत	NNP
+में	PSP
+वायु	NNC
+परिवहन	NN
+का	PSP
+संचालन	NN
+मुख्यतः	RB
+सार्वजनिक	JJ
+क्षेत्र	NN
+के	PSP
+इन्डियन	NNPC
+एयरलाइन्स	NNP
+,	SYM
+एयर	NNPC
+इंडिया	NNP
+,	SYM
+एयर	NNPC
+इंडिया	NNPC
+चार्टर्स	NNPC
+लिमिटेड	NNP
+(	SYM
+एयर	NNPC
+इंडिया	NNPC
+एक्सप्रेस	NNP
+)	SYM
+और	CC
+एलाएंस	NNPC
+एयर	NNPC
+प्रतिष्ठानों	NN
+द्वारा	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0332>
+निजी	JJ
+क्षेत्र	NN
+में	PSP
+7	QC
+अनुसूचित	JJ
+कंपनियाँ	NN
+यात्रा	NNC
+विमानों	NN
+का	PSP
+संचालन	NN
+करती	VM
+हैं	VAUX
+,	SYM
+जैसे-जेट	NNPC
+एयरवेज	NN
+,	SYM
+सहारा	NNPC
+एयरलाइन्स	NNP
+,	SYM
+डक्कन	NNPC
+एविहएशन	NNP
+,	SYM
+स्पाइसजेट	NN
+,	SYM
+गो	NNPC
+एयरवेज	NN
+,	SYM
+किंगफिशर	NNPC
+एयर	NNPC
+लाइन्स	NNP
+,	SYM
+पैरामाउन्ट	NNPC
+एयरवेज	NN
+और	CC
+इन्डिगो	NNP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0333>
+निजी	JJ
+क्षेत्र	NN
+के	PSP
+अन्तर्गत	PSP
+सामान	NNC
+परिवहन	NNPC
+एयर	NNC
+लाइन्स	NNP
+भी	RP
+है	VM
+जिसे	PRP
+‘‘ब्लू	NNP
+डार्ट	NNPC
+एविहएशन’’	NNPC
+कम्पनी	NN
+संचालित	JJ
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0334>
+वर्तमान	NN
+में	PSP
+करीब	RP
+46	QC
+निजी	JJ
+कम्पनियाँ	NN
+भारत	NNP
+में	PSP
+है	VM
+जिनके	PRP
+पास	NST
+वायु	NNPC
+परिवहन	NNPC
+चालन	NN
+का	PSP
+अनुज्ञा	NNC
+पत्रा	NN
+प्राप्त	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0335>
+एयर	NNPC
+इंडिया	NNPC
+अन्तर्राष्ट्रीय	NNPC
+वायु	NNC
+सेवाओं	NN
+के	PSP
+लिए	PSP
+उत्तरदायी	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0336>
+यह	PRP
+विदेशी	JJ
+यात्रियों	NN
+तथा	CC
+उनके	PRP
+सामानों	NN
+का	PSP
+वायुमार्ग	NN
+से	PSP
+परिवहन	NN
+का	PSP
+संचालन	NN
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0337>
+एयर	NNPC
+इंडिया	NNP
+नियमित	JJ
+तथा	CC
+अधिकाधिक	QF
+उडानें	NN
+संयुक्त	NNPC
+राज्य	NNPC
+अमेरिका	NNP
+,	SYM
+कनाडा	NNP
+एवं	CC
+यूरोपीय	JJ
+देशों	NN
+के	PSP
+लिए	PSP
+संचालित	JJ
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0338>
+इस	DEM
+समय	NN
+एयर	NNPC
+इन्डिया	NNP
+के	PSP
+पास	NST
+37	QC
+विमान	NN
+है	VM
+,	SYM
+जिनमें	PRP
+अधिकांश	JJ
+विमान	NN
+बोइंग	NNPC
+747	NNP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0339a>
+वर्ष	NN
+2004-05	NNP
+के	PSP
+दौरान	NST
+एयर	NNPC
+इंडिया	NNP
+द्वारा	PSP
+44	QCC
+लाख	QC
+यात्रियों	NN
+को	PSP
+वायु	NNC
+सेवा	NN
+प्रदान	NN
+की	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0339b>
+भारत	NNP
+में	PSP
+11	QC
+अन्तर्राष्ट्रीय	JJ
+हवाई	NNC
+अड्डे	NN
+हैं	VM
+जो	PRP
+दिल्ली	NNP
+,	SYM
+मुम्बई	NNP
+,	SYM
+कोलकाता	NNP
+,	SYM
+चेन्नई	NNP
+,	SYM
+थिरुवनन्तपुरम	NNP
+,	SYM
+बैंगलौर	NNP
+,	SYM
+हैदराबाद	NNP
+,	SYM
+गुवाहाटी	NNP
+,	SYM
+अमृतसर	NNP
+,	SYM
+जयपुर	NNP
+एवं	CC
+लखनऊ	NNP
+महानगरों	NN
+में	PSP
+अवस्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0340>
+इन्डियन	NNPC
+एयरलाइन्स	NNP
+भारत	NNP
+में	PSP
+घरेलू	JJ
+उडानो	NN
+द्वारा	PSP
+वायु	NNC
+यातायात	NN
+को	PSP
+संचालित	JJ
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0341>
+भारत	NNP
+के	PSP
+प्रत्येक	QF
+राज्य	NN
+की	PSP
+राजधानी	NN
+एवं	CC
+अन्य	JJ
+प्रमुख	JJ
+नगरों	NN
+के	PSP
+लिए	PSP
+नियमित	JJ
+रूप	NN
+से	PSP
+उडानें	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0342>
+पयर्टकों	NN
+के	PSP
+रूचिकर	JJ
+स्थानों	NN
+पर	PSP
+भी	RP
+इनकी	PRP
+सेवायें	NN
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0343>
+इस	DEM
+संस्थान	NN
+द्वारा	PSP
+55	QC
+घरेलू	JJ
+विमान	NNC
+स्थलों	NN
+तथा	CC
+18	QC
+अन्तर्राष्ट्रीय	JJ
+विमान	NNC
+स्थलों	NN
+का	PSP
+भी	RP
+संचालन	NN
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0344>
+पडोसी	JJ
+देशों	NN
+जैसे	PSP
+श्रीलंका	NNP
+,	SYM
+नेपाल	NNP
+,	SYM
+बाँग्लादेश	NNP
+,	SYM
+पाकिस्तान	NNP
+,	SYM
+मलेशिया	NNP
+,	SYM
+सिंगापुर	NNP
+,	SYM
+माले	NNP
+एवं	CC
+मध्य-पूर्व	NNP
+खाडी	NNP
+देशो	NN
+को	PSP
+वायु	NNC
+सेवाएं	NN
+उपलब्ध	JJ
+कराई	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0345>
+इस	DEM
+समय	NN
+इस	DEM
+संस्थान	NN
+के	PSP
+पास	NST
+73	QC
+विमान	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0346>
+पवन	NNPC
+हँस	NNPC
+हेलीकाप्टर	NNPC
+लिमिटेड	NNP
+एक	QC
+सार्वजनिक	JJ
+क्षेत्र	NN
+की	PSP
+कम्पनी	NN
+है	VM
+जो	PRP
+ओ	VM
+.	SYM
+एन	NNPC
+.	SYM
+जी	NNP
+.	SYM
+सी	VM
+.	SYM
+के	PSP
+द्वारा	PSP
+अपतट	NNC
+क्षेत्रों	NN
+में	PSP
+किए	VM
+जा	VAUX
+रहे	VAUX
+कार्यों	NN
+के	PSP
+लिए	PSP
+हेलीकॉप्टर	NNC
+सेवाए	NN
+उपलब्ध	JJ
+कराती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0347>
+इसका	PRP
+उपयोग	NN
+यदा-कदा	RB
+विभिन्न	JJ
+राज्य	NNC
+सरकारों	NN
+द्वारा	PSP
+भी	RP
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0348>
+उत्तर-पूर्वी	JJ
+क्षेत्रों	NN
+के	PSP
+लिए	PSP
+वायु	NNPC
+परिवहन	NN
+एक	QC
+जरूरत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0349>
+इसका	PRP
+कारण	NN
+वहाँ	PRP
+के	PSP
+विपरीत	PSP
+भौतिक	JJ
+कारक	NN
+जैसे	PSP
+पर्वतीय	JJ
+इलाका	NN
+,	SYM
+घने	JJ
+जंगल	NN
+,	SYM
+बार-बार	RB
+बाढ	NN
+लाने	VM
+वाली	PSP
+बडी	JJ
+नदियाँ	NN
+आदि	RP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0350>
+सामाजिक	JJ
+एवं	CC
+आर्थिक	JJ
+आधार	NN
+पर	PSP
+भी	RP
+भारत	NNP
+के	PSP
+अन्य	JJ
+भागों	NN
+की	PSP
+तरह	PSP
+इन्हें	PRP
+और	QF
+नजदीक	NST
+करने	VM
+का	PSP
+पर्यत्न	NN
+करने	VM
+की	PSP
+आवश्यकता	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0351>
+वायु	NNC
+परिवहन	NN
+महंगा	JJ
+परन्तु	CC
+सबसे	INTF
+तेज	JJ
+गति	NN
+वाला	PSP
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0352>
+वायु	NNC
+परिवहन	NNPC
+दुनिया	NN
+के	PSP
+लोगों	NN
+को	PSP
+एक	PRPC
+दूसरे	PRP
+के	PSP
+नजदीक	NST
+लाया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0353>
+एयर	NNPC
+इंडिया	NNPC
+एव	CC
+इन्डियन	NNPC
+एयरलाइन्स	NNP
+देश	NN
+के	PSP
+दो	QC
+प्रमुख	JJ
+सार्वजनिक	JJ
+क्षेत्र	NN
+के	PSP
+प्रतिष्ठान	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0354>
+सात	QC
+वायुयान	NNC
+कंपनियाँ	NN
+निजी	JJ
+क्षेत्र	NN
+में	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0355>
+निम्नलिखित	JJ
+प्रश्नों	NN
+के	PSP
+उत्तर	NN
+संक्षेप	NN
+में	PSP
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0356>
+भारती	NNP
+की	PSP
+अन्तर्राष्ट्रीय	JJ
+वायुसेवा	NN
+प्रदान	NN
+करने	VM
+वाली	PSP
+कंपनी	NNC
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0357>
+सार्वजनिक	JJ
+क्षेत्र	NN
+के	PSP
+घरेलू	JJ
+वायु	NNPC
+परिवहन	NNPC
+सेवा	NNP
+के	PSP
+लिए	PSP
+वायु	NNPC
+परिवहन	NNPC
+कम्पनी	NNP
+का	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0358>
+भारत	NNP
+के	PSP
+किस	WQ
+भाग	NN
+में	PSP
+वायु	NNPC
+परिवहन	NN
+आवश्यक	JJ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0359>
+भारत	NNP
+के	PSP
+पांच	QC
+अन्तर्राष्ट्रीय	JJ
+हवाई	NNC
+अड्डों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0360>
+किन	WQ
+दो	QC
+तरीकों	NN
+में	PSP
+वायु	NNC
+परिवहन	NN
+,	SYM
+परिवहन	NN
+के	PSP
+अन्य	JJ
+प्रकारों	NN
+से	PSP
+अलग	JJ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0361>
+निजी	JJ
+क्षेत्र	NN
+की	PSP
+किन्ही	JJ
+दो	QC
+वायु	NNPC
+परिवहन	NNPC
+कम्पनी	NNP
+के	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0362>
+संचार	NNC
+व्यवस्था	NN
+का	PSP
+सबसे	INTF
+महत्वपूर्ण	JJ
+योगदान	NN
+आर्थिक	JJ
+विकास	NN
+,	SYM
+सामाजिक	JJ
+संबंधों	NN
+में	PSP
+वृद्धि	NN
+तथा	CC
+सांस्कृतिक	JJ
+एकता	NN
+को	PSP
+कायम	JJ
+करने	VM
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0363>
+संचार	NN
+के	PSP
+साधन	NN
+परस्पर	JJ
+विरोधी	JJ
+तथा	CC
+बेमेल	JJ
+लोगों	NN
+को	PSP
+अन्तर्राष्ट्रीय	JJ
+मंच	NN
+पर	PSP
+लाकर	VM
+परस्पर	JJ
+सौहार्द्र	NN
+बढाने	VM
+में	PSP
+सहायक	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0364a>
+किसी	PRP
+प्रत्याशित	JJ
+विनाशकारी	JJ
+दुर्घटना	NN
+हो	VM
+जाने	VAUX
+पर	PSP
+अथवा	CC
+आपातकालीन	JJ
+परिस्थितियों	NN
+में	PSP
+संचार	NN
+के	PSP
+तात्कालिक	JJ
+साधन	NN
+आसानी	NN
+से	PSP
+विपदाओं	NN
+का	PSP
+समाचार	NN
+तत्काल	RB
+पूरे	JJ
+विश्व	NN
+में	PSP
+प्रसारित	JJ
+कर	VM
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0364b>
+ताकि	CC
+राहत	NN
+व	CC
+सहायतार्थ	NNC
+साज-समान	NN
+एवं	CC
+लोग	NN
+घटनास्थल	NN
+पर	PSP
+पहुँच	VM
+सके	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0365>
+यह	PRP
+सब	PRP
+से	PSP
+अधिक	QF
+प्रयुक्त	JJ
+संचार	NN
+का	PSP
+माध्यम	NN
+रहा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0366>
+हमारे	PRP
+देश	NN
+में	PSP
+डाक	NNC
+सेवा	NN
+ग्रामीण	JJ
+क्षेत्रों	NN
+में	PSP
+बहुत	INTF
+महत्वपूर्ण	JJ
+भूमिका	NN
+निभाती	VM
+रही	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0367>
+आज	NN
+भी	RP
+करीब	RP
+99	QC
+प्रतिशत	NN
+ग्रामीण	JJ
+क्षेत्रो	NN
+में	PSP
+डाक	NNC
+सेवाओं	NN
+का	PSP
+लाभ	NN
+मिल	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0368>
+वर्तमान	NN
+में	PSP
+करीब	RP
+1	QC
+.	SYM
+55	QCC
+लाख	QC
+पोस्ट	NNC
+आफिस	NN
+पूरे	JJ
+देश	NN
+में	PSP
+हैं	VM
+जो	PRP
+देश	NN
+के	PSP
+कोने-कोने	NN
+में	PSP
+डाक-सेवाएँ	NN
+उपलब्ध	JJ
+करा	VM
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0369>
+विश्व	NN
+के	PSP
+भिन्न	JJ
+भागों	NN
+में	PSP
+हो	VM
+रहे	VAUX
+आधुनिकीकरण	NN
+के	PSP
+तारतम्य	NN
+में	PSP
+भारतीय	NNPC
+डाक	NNC
+सेवाओं	NN
+को	PSP
+भी	RP
+प्रोन्नत	JJ
+एवं	CC
+आधुनिक	JJ
+बनाया	VM
+जा	VAUX
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0370>
+कुछ	QF
+सुधार	NN
+इस	DEM
+प्रकार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0371>
+पिन	NN
+कोड-	NNPC
+डाक	NNC
+वितरण	NN
+को	PSP
+अधिक	QF
+द्रुतगामी	JJ
+करने	VM
+के	PSP
+लिए	PSP
+डाक	NNC
+सूचना	NNPC
+अंक	NNPC
+प्रणाली	NNP
+(	SYM
+पिन	NN
+)	SYM
+को	PSP
+प्रयोग	NN
+में	PSP
+लाया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0372>
+स्पीड-पोस्ट	NNC
+सेवाएँ	NN
+अपनाई	VM
+गई	VAUX
+हैं	VAUX
+जिसमें	PRP
+डाक	NN
+को	PSP
+शीघ्रता	NN
+से	PSP
+पहुँचाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0373>
+क्विक	NNPC
+मेल	NNPC
+सर्विस	NNP
+(	SYM
+क्यू	NNP
+.	SYM
+एम	NNPC
+.	SYM
+एस	NNPC
+.	SYM
+)	SYM
+भी	RP
+स्पीड	NNC
+पोस्ट	NNC
+सेवा	NN
+जैसी	PSP
+एक	QC
+अन्य	JJ
+सेवा	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0374>
+यह	PRP
+डाक	NN
+को	PSP
+शीघ्रता	NN
+पूर्वक	JJ
+पहुँचाने	VM
+में	PSP
+प्रयोग	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0375>
+इसके	PRP
+अतिरिक्त	NNC
+उपग्रह	NNC
+मनीआर्डर	NN
+की	PSP
+अदायगी	NN
+का	PSP
+प्रयोग	NN
+1994	NNP
+में	PSP
+किया	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0376>
+इसके	PRP
+अन्तर्गत	PSP
+दूरसंचार	NNC
+प्रणाली	NNP
+द्वारा	PSP
+भारत	NNP
+के	PSP
+दूर-दराज	NN
+के	PSP
+पिछडे	JJ
+एवं	CC
+पर्वतीय	JJ
+भागो	NN
+में	PSP
+इस	DEM
+प्रकार	NN
+की	PSP
+सेवाएँ	NN
+देश	NN
+के	PSP
+छः	QC
+नगरों	NN
+से	PSP
+आरंभ	NN
+की	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0377>
+अन्तर्राष्ट्रीय	NNPC
+द्रुतगामी	NNPC
+डाक	NNPC
+सेवाएँ	NNPC
+वायु	NNPC
+मार्ग	NN
+एवं	CC
+समुद्री	JJ
+जलमार्गो	NN
+द्वारा	PSP
+सम्पन्न	JJ
+होती	VM
+हैं	VAUX
+जिससे	PRP
+भारत	NNP
+का	PSP
+विश्व	NN
+के	PSP
+अन्य	JJ
+देशों	NN
+के	PSP
+साथ	NST
+संबंध	NN
+जुडता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0378>
+सामूहिक	JJ
+तथा	CC
+व्यक्तिगत	JJ
+स्तर	NN
+पर	PSP
+संचार	NN
+का	PSP
+यह	PRP
+अति	INTF
+आधुनिक	JJ
+एवं	CC
+महत्वपूर्ण	JJ
+माध्यम	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0379>
+इस	DEM
+माध्यम	NN
+के	PSP
+प्रकारों	NN
+में	PSP
+तार	NNC
+सेवा	NNP
+,	SYM
+दूरभाष	NN
+,	SYM
+टेलेक्स	NN
+एवं	CC
+फैक्स	NN
+इत्यादि	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0380>
+वर्ष	NN
+2004-05	NNP
+की	PSP
+अवधि	NN
+तक	PSP
+दूरभाष	NN
+की	PSP
+संख्या	NN
+के	PSP
+आधार	NN
+पर	PSP
+भारत	NNP
+विश्व	NN
+का	PSP
+दसवाँ	QO
+सबसे	INTF
+बडा	JJ
+देश	NN
+बन	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0381a>
+यह	DEM
+संचार	NNC
+माध्यम	NN
+का	PSP
+अपेक्षाकृत	JJ
+सबसे	INTF
+पुराना	JJ
+माध्यम	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0381b>
+अतिशीघ्र	NNC
+सूचना	NN
+भेजने	VM
+में	PSP
+इसका	PRP
+प्रयोग	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0382>
+इस	DEM
+समय	NN
+हमारे	PRP
+देश	NN
+में	PSP
+लगभग	RP
+चालीस	QCC
+हजार	QC
+तारघर	NN
+कार्यरत	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0383>
+दूरभाष	NNC
+सेवाओं	NN
+में	PSP
+बहुत	QF
+तेजी	NN
+से	PSP
+विस्तार	NN
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0384a>
+31	NNPC
+मार्च	NNPC
+2006	NNP
+तक	PSP
+भारत	NNP
+में	PSP
+1420	QC
+.	SYM
+9	QCC
+लाख	QC
+दूरभाष	NNC
+कनेक्शन	NN
+मौजूद	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0384b>
+तथा	CC
+फरवरी	NNPC
+2006	NNP
+तक	PSP
+23	QC
+.	SYM
+4	QCC
+लाख	QC
+सार्वजनिक	JJ
+दूरभाष	NNPC
+केन्द्र	NNP
+स्थापित	JJ
+हो	VM
+चुके	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0385a>
+देश	NN
+में	PSP
+सेल्यूलर	NNC
+फोन	NNC
+उपभोक्ताओं	NN
+की	PSP
+संख्या	NN
+629	QC
+.	SYM
+0	NNPC
+लाख	QC
+तक	PSP
+पहुँच	VM
+चुकी	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0385b>
+और	CC
+इसकी	PRP
+माँग	NN
+का	PSP
+आधार	NN
+भी	RP
+20	QCC
+लाख	QCC
+प्रतिमाह	NN
+की	PSP
+दर	NN
+से	PSP
+बढ	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0386>
+दूरभाष	NNC
+सेवाओं	NN
+में	PSP
+प्रसार	NN
+बहुत	QF
+तीव्रता	NN
+से	PSP
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0387>
+देश	NN
+में	PSP
+टेलीफोन	NNC
+सेवाओं	NN
+में	PSP
+एस	NNC
+.	SYM
+टी	NNPC
+.	SYM
+डी	NNP
+(	SYM
+सबस्क्राइबर	NNC
+ट्रक	NN
+डायलिंग	NN
+)	SYM
+की	PSP
+सुविधा	NN
+सभी	QF
+बडे	JJ
+नगरों	NN
+एवं	CC
+छोटे	JJ
+शहरों	NN
+में	PSP
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0388>
+पूर्णतः	RB
+स्वचालित	JJ
+आई	VM
+.	SYM
+एस	NNPC
+.	SYM
+डी	NNPC
+.	SYM
+(	SYM
+इंटरनेशनल	NNC
+सबस्क्राइबर	NNPC
+डायलिंग	NNP
+)	SYM
+सेवाएँ	NN
+विश्व	NNP
+के	PSP
+सभी	QF
+देशों	NN
+के	PSP
+लिए	PSP
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0389>
+इन	DEM
+सेवाओं	NN
+के	PSP
+अन्तर्गत	PSP
+किसी	PRP
+छपे	VM
+हुए	VAUX
+समाचार	NN
+को	PSP
+प्रेषित	JJ
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0390>
+भारत	NNP
+के	PSP
+200	QC
+से	PSP
+अधिक	QF
+शहरो	NN
+में	PSP
+टेलेक्स	NN
+की	PSP
+सेवाएँ	NN
+उपलब्ध	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0391>
+उपग्रहों	NN
+के	PSP
+उपयोग	NN
+ने	PSP
+संचार	NNC
+सेवाओ	NN
+में	PSP
+अद्भुत	JJ
+क्राँति	NN
+ला	VM
+दी	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0392>
+रेडियो	NNP
+एवं	CC
+दूरदर्शन	NN
+इलोक्ट्रॉनिक	NNPC
+माध्यम	NN
+के	PSP
+सशक्त	JJ
+साधन	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0393>
+ये	PRP
+व्यक्तिगत	JJ
+तथा	CC
+सामाजिक	JJ
+जीवन	NN
+में	PSP
+महत्वपूर्ण	JJ
+परिवर्तन	NN
+लाते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0394>
+यह	PRP
+जनसंचार	NN
+का	PSP
+सशक्त	JJ
+माध्यम	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0395>
+इसके	PRP
+द्वारा	PSP
+सभी	QF
+प्रकार	NN
+के	PSP
+समाचार	NN
+,	SYM
+सूचनाएँ	NN
+तथा	CC
+मनोरंजन	NN
+के	PSP
+विभिन्न	JJ
+कार्यक्रम	NN
+प्रसारित	JJ
+किए	VM
+जाते	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0396a>
+इस	DEM
+समय	NN
+करीब	RP
+223	QC
+रेडियो	NNPC
+प्रसारण	NNPC
+केन्द्र	NNP
+कार्यरत	JJ
+हैं	VM
+जिनसे	PRP
+देश	NN
+की	PSP
+99	QC
+.	SYM
+13	QC
+प्रतिशत	NN
+जनता	NN
+को	PSP
+सेवाएँ	NN
+उपलब्ध	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0396b>
+तथा	CC
+इन	DEM
+केन्द्रों	NN
+द्वारा	PSP
+देश	NN
+के	PSP
+91	QC
+.	SYM
+42	QC
+प्रतिशत	NN
+क्षेत्र	NN
+में	PSP
+प्रसार	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0397>
+आजकल	NN
+एफ	NNPC
+.	SYM
+एम	NNC
+.	SYM
+सेवायें	NNPC
+रेडियो	NNC
+प्रसारण	NN
+को	PSP
+नया	JJ
+आयाम	NN
+दे	VM
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0398>
+दूरदर्शन	NNC
+सेवाएँ	NN
+भारत	NNP
+में	PSP
+1959	NNP
+में	PSP
+प्रारंभ	NN
+की	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0399>
+दूरदर्शन	NNC
+सेवाओं	NN
+में	PSP
+वास्तविक	JJ
+विकास	NN
+1980	NNP
+के	PSP
+बाद	NST
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0400>
+हाल	NN
+के	PSP
+वर्षो	NN
+में	PSP
+दूरदर्शन	NN
+में	PSP
+कई	QF
+चैनल	NN
+उपलब्ध	JJ
+होने	VM
+से	PSP
+विभिन्न	JJ
+प्रकार	NN
+के	PSP
+कार्यक्रम	NN
+प्रदर्शित	JJ
+होने	VM
+लगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0401>
+दूरदर्शन	NNP
+के	PSP
+तंत्र-जाल	NN
+में	PSP
+64	QC
+दूरदर्शन	NNPC
+केन्द्र	NNP
+(	SYM
+स्टूडियो	NN
+सहित	PSP
+)	SYM
+तथा	CC
+1400	QC
+ट्रांसमीटर	NN
+(	SYM
+क्क्1	NNP
+के	PSP
+लिए	PSP
+1134	QC
+ट्रांसमीटर	NN
+,	SYM
+दूरदर्शन	NNPC
+समाचार	NN
+के	PSP
+लिए	PSP
+153	QC
+ट्रांसमीटर	NN
+,	SYM
+क्षेत्रीय	JJ
+सेवाओं	NN
+के	PSP
+लिए	PSP
+109	QC
+ट्रांसमीटर	NN
+)	SYM
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0402>
+देश	NN
+के	PSP
+चारो	QC
+महानगरों	NN
+में	PSP
+एक	QC
+एक	QC
+डिजिटल	NNC
+ट्रांसमीटर	NN
+स्थापित	JJ
+किए	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0403>
+दूरदर्शन	NN
+1	SYM
+देश	NN
+के	PSP
+79	QC
+प्रतिशत	NN
+क्षेत्र	NN
+को	PSP
+सेवा	NN
+प्रदान	NN
+करता	VM
+है	VAUX
+जिससे	PRP
+91	QC
+प्रतिशत	NN
+जनता	NN
+दूरदर्शन	NNC
+सेवाएँ	NN
+प्राप्त	JJ
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0404>
+सिनेमा	NN
+आज	NN
+भी	RP
+जनसंचार	NN
+का	PSP
+लोकप्रिय	JJ
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0405>
+प्रतिदिन	NN
+लाखों	QC
+लोगों	NN
+का	PSP
+मनोरंजन	NNC
+सिनेमा	NN
+द्वारा	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0406>
+समाचार	NNPC
+पत्र	NN
+,	SYM
+साप्ताहिक	NNC
+पत्रिकाएँ	NN
+,	SYM
+जर्नल	NN
+इत्यादि	RP
+का	PSP
+प्रकाशन	NN
+जनसंचार	NNC
+माध्यम	NN
+के	PSP
+अन्तर्गत	PSP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0407>
+स्वतंत्रता	NN
+पश्चात्	NST
+देश	NN
+में	PSP
+प्रकाशन	NN
+के	PSP
+क्षेत्र	NN
+में	PSP
+आश्चर्यजनक	JJ
+वृद्धि	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0408>
+31	NNPC
+मार्च	NNPC
+2006	NNP
+के	PSP
+सर्वे	NN
+के	PSP
+मुताबिक	PSP
+देश	NN
+में	PSP
+62	QC
+,	SYM
+550	QC
+समाचार	NNC
+पत्र	NN
+प्रकाशित	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0409>
+इनमें	PRP
+दैनिक	JJ
+,	SYM
+साप्ताहिक	NN
+,	SYM
+मासिक	JJ
+,	SYM
+पाक्षिक	JJ
+पत्रिकाएँ	NN
+,	SYM
+बुलेटिन	NN
+,	SYM
+जर्नल	NN
+भी	RP
+शामिल	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0410a>
+वैसे	RB
+अलग	RB
+अलग	JJ
+रूप	NN
+में	PSP
+गिना	VM
+जाय	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0410b>
+तो	RP
+6	QC
+,	SYM
+800	QC
+दैनिक	NNPC
+समाचार	NN
+,	SYM
+369	QC
+त्रि	NNC
+/	SYM
+द्वि	NNPC
+साप्ताहिक	JJ
+,	SYM
+21	NNP
+,	SYM
+453	QC
+साप्ताहिक	JJ
+पत्रिकाएँ	NN
+,	SYM
+8	QC
+,	SYM
+227	QC
+पाक्षिक	NNP
+,	SYM
+18	NNP
+,	SYM
+545	QC
+मासिक	JJ
+पत्रिकाएँ	NN
+,	SYM
+4340	QC
+त्रौमासिक	NNP
+,	SYM
+584	QC
+वार्षिक	NN
+तथा	CC
+2	QC
+,	SYM
+232	QC
+अन्य	JJ
+पत्रिकाएँ	NN
+प्रकाशित	JJ
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0411>
+हिन्दी	NNP
+भाषा	NN
+में	PSP
+सबसे	INTF
+ज्यादा	QF
+प्रकाशन	NN
+(	SYM
+24	NNP
+,	SYM
+017	NNP
+)	SYM
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0412>
+इसके	PRP
+बाद	NST
+अँग्रेजी	JJ
+भाषा	NN
+में	PSP
+(	SYM
+8	QC
+,	SYM
+768	NNP
+)	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0413>
+निम्नलिखित	JJ
+प्रश्नों	NN
+के	PSP
+उत्तर	NN
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0414>
+दिए	VM
+गए	VAUX
+सक्षिप्त	JJ
+रूप	NN
+के	PSP
+पूर्ण	JJ
+रूप	NN
+को	PSP
+लिखिये	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0415>
+जन	NNC
+संचार	NN
+के	PSP
+तीन	QC
+माध्यमों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0416>
+प्रकाशन	NNC
+माध्यम	NN
+(	SYM
+प्रिन्ट	NNC
+मीडिया	NN
+)	SYM
+क्या	WQ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0417>
+व्यापार	NN
+से	PSP
+तात्पर्य	NN
+उस	DEM
+प्रक्रिया	NN
+से	PSP
+है	VM
+जिससे	PRP
+वस्तुओं	NN
+का	PSP
+लेन	NN
+देन	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0418>
+परिवहन	NN
+,	SYM
+संचार	NN
+एवं	NNPC
+बैंक	NNC
+प्रणाली	NN
+की	PSP
+तरह	PSP
+ही	RP
+व्यापार	NN
+तृतीय	JJ
+श्रेणी	NN
+की	PSP
+क्रिया	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0419>
+इसे	PRP
+देश	NN
+की	PSP
+अर्थव्यवस्था	NN
+के	PSP
+विकास	NN
+में	PSP
+आधारभूत	JJ
+संसाधन	NN
+माना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0420>
+व्यापार	NN
+कई	QF
+स्तरों	NN
+पर	PSP
+सम्पन्न	JJ
+किए	VM
+जाते	VAUX
+हैं	VAUX
+जैसे	CC
+स्थानीय	JJ
+,	SYM
+क्षेत्रीय	JJ
+,	SYM
+राष्ट्रीय	JJ
+तथा	CC
+अन्तर्राष्ट्रीय	JJ
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0421>
+व्यापार	NN
+की	PSP
+उन्नति	NN
+और	CC
+वृद्धि	NN
+विकसित	JJ
+विपणन	NNC
+व्यवस्था	NN
+तथा	CC
+सुविधा	NN
+पूर्वक	JJ
+पहुँच	NN
+के	PSP
+साथ-साथ	NST
+सुव्यवस्थित	NNPC
+संचार	NNC
+व्यवस्था	NN
+पर	PSP
+भी	RP
+निर्भर	JJ
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0422>
+अन्तर्राष्ट्रीय	JJ
+स्तर	NN
+पर	PSP
+वस्तुओं	NN
+और	CC
+सेवाओं	NN
+के	PSP
+आदान-प्रदान	NN
+को	PSP
+अंतर्राष्ट्रीय	JJ
+व्यापार	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0423>
+अन्तर्राष्ट्रीय	NNPC
+व्यापार	NNPC
+द्विपाश्र्विक	NNP
+अथवा	CC
+बहुपाश्र्विक	JJ
+हो	VM
+सकता	VAUX
+है	VAUX
+;	CC
+यदि	CC
+दो	QC
+राष्ट्र	NN
+या	CC
+दो	QC
+से	PSP
+अधिक	QF
+राष्ट्र	NN
+निर्दृष्ट	JJ
+वस्तुओं	NN
+अथवा	CC
+सेवाओं	NN
+के	PSP
+स्वैच्छिक	JJ
+लेन	NN
+देन	NN
+में	PSP
+सम्मिलित	JJ
+हों	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0424>
+स्वतंत्रता	NN
+के	PSP
+पश्चात	NST
+भारत	NNP
+में	PSP
+अन्तर्राष्ट्रीय	JJ
+व्यापार	NN
+में	PSP
+बहुत	QF
+तेजी	NN
+से	PSP
+वृद्धि	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0425>
+भारत	NNP
+का	PSP
+अन्तर्राष्ट्रीय	JJ
+व्यापार	NNPC
+1950-51	NNP
+में	PSP
+1	QC
+,	SYM
+214	QCC
+करोड	QC
+रूपयों	NN
+में	PSP
+हुआ	VM
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0426>
+भारत	NNP
+का	PSP
+विश्व	NN
+के	PSP
+सभी	QF
+प्रमुख	JJ
+व्यापारिक	JJ
+समुदायों	NN
+तथा	CC
+सभी	QF
+भौगोलिक	JJ
+क्षेत्रों	NN
+से	PSP
+व्यापारिक	JJ
+संबंध	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0427>
+परन्तु	CC
+भारत	NNP
+के	PSP
+प्रमुख	JJ
+व्यापार	NN
+सहभागी	JJ
+देशों	NN
+में	PSP
+से	PSP
+संयुक्त	NNPC
+राज्य	NNP
+अमेरिका	NNP
+,	SYM
+रूस	NNP
+,	SYM
+पश्चिमी	JJ
+यूरोप	NNP
+के	PSP
+देश	NN
+,	SYM
+जापान	NNP
+और	CC
+ओसीनिया	NNP
+के	PSP
+देश	NN
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0428>
+वर्ष	NN
+2004-05	NNP
+में	PSP
+सकल	NNC
+निर्यात	NN
+का	PSP
+47	QC
+.	SYM
+41	QC
+प्रतिशत	NN
+भाग	NN
+एशिया	NNP
+तथा	CC
+ओसीनिया	NNP
+के	PSP
+देशों	NN
+को	PSP
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0429>
+उसके	PRP
+बाद	NST
+पश्चिमी	JJ
+यूरोप	NNP
+के	PSP
+देशों	NN
+को	PSP
+23	QC
+.	SYM
+80	QC
+प्रतिशत	NN
+तथा	CC
+अमेरिका	NNP
+को	PSP
+20	QC
+.	SYM
+42	QC
+प्रतिशत	NN
+निर्यात	NN
+किया	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0430>
+भारत	NNP
+में	PSP
+आयात	NNC
+वर्ष	NN
+2004-05	NNP
+में	PSP
+सबसे	INTF
+अधिक	QF
+एशिया	NNPC
+एवं	CC
+ओसिनिया	NNP
+से	PSP
+(	SYM
+35	QC
+.	SYM
+40	QC
+)	SYM
+प्रतिशत	NN
+इसके	PRP
+बाद	NST
+पश्चिमी	JJ
+यूरोप	NNP
+से	PSP
+(	SYM
+22	QC
+.	SYM
+60	QC
+)	SYM
+प्रतिशत	NN
+तथा	CC
+अमेरिका	NNP
+से	PSP
+(	SYM
+8	QC
+.	SYM
+36	QC
+)	SYM
+प्रतिशत	NN
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0431>
+ब्रिटिश	NNPC
+औपनिवेशिक	JJ
+काल	NN
+में	PSP
+भारत	NNP
+से	PSP
+निर्यात	NN
+होने	VM
+वाली	PSP
+वस्तुओं	NN
+में	PSP
+अधिकांश	JJ
+कच्चे	JJ
+माल	NN
+के	PSP
+रूप	PSP
+में	PSP
+,	SYM
+जैसे	PSP
+कपास	NN
+,	SYM
+पटसन	NN
+,	SYM
+चमडा	NN
+व	CC
+खालें	NN
+,	SYM
+खनिज	NN
+तथा	CC
+खाद्यान्न	NN
+वस्तुएँ	NN
+जैसे	PSP
+गेंहू	NN
+,	SYM
+चाय	NN
+,	SYM
+कहवा	NN
+,	SYM
+गर्म	JJ
+मसाला	NN
+इत्यादि	RP
+हुआ	VM
+करते	VAUX
+थे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0432>
+सम्पूर्ण	JJ
+विदेशी	JJ
+व्यापार	NNPC
+ब्रिटिश	JJ
+शासन	NNP
+के	PSP
+माध्यम	PSP
+से	PSP
+होता	VM
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0433>
+स्वतंत्रता	NN
+के	PSP
+पश्चात	NST
+निर्यात	NN
+की	PSP
+वस्तुओं	NN
+में	PSP
+महत्वपूर्ण	JJ
+परिवर्तन	NN
+हुए	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0434>
+इसके	PRP
+पीछे	NST
+प्रमुख	JJ
+कारण	NN
+भारत	NNP
+में	PSP
+तेजी	NN
+से	PSP
+औद्योगिक	JJ
+विकास	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0435>
+अब	PRP
+भारत	NNP
+करीब	RP
+7500	QC
+वस्तुएँ	NN
+निर्यात	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0436>
+निर्यात	NN
+में	PSP
+प्रगति	NN
+भी	RP
+अद्भुत	JJ
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0437>
+वर्ष	NN
+1950-51	NNP
+में	PSP
+निर्यात	NN
+से	PSP
+अर्जित	JJ
+आमदनी	NN
+मात्रा	NN
+607	QCC
+करोड	QC
+थी	VM
+जो	PRP
+2004-05	QC
+तक	PSP
+बढकर	VM
+3	QC
+,	SYM
+56	NNP
+,	SYM
+069	QCC
+करोड	QC
+रूपये	NN
+का	PSP
+हो	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0438a>
+निर्यात	NN
+में	PSP
+साल-दर-साल	JJ
+उतार-चढाव	NN
+की	PSP
+संभावना	NN
+बनी	VM
+रहती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0438b>
+फिर	RB
+भी	RP
+निर्यात	NN
+की	PSP
+कुछ	QF
+प्रमुख	JJ
+वस्तुएँ	NN
+है	VM
+,	SYM
+जिनका	PRP
+निर्यात	NN
+पिछले	JJ
+कुछ	QF
+वर्षो	NN
+से	PSP
+(	SYM
+2004-05	NNP
+मिलाकर	VM
+)	SYM
+बढता	VM
+जा	VAUX
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0439>
+इनमें	PRP
+इंजिनियरिंग	NN
+के	PSP
+समान	PSP
+,	SYM
+कीमती	JJ
+पत्थर	NN
+एवं	CC
+आभूषण	NN
+,	SYM
+रासायनिक	JJ
+एवं	CC
+उससे	PRP
+संबंधित	JJ
+पदार्थ	NN
+,	SYM
+सूती	NNC
+कपडे	NN
+,	SYM
+पेट्रोलियम	NNC
+पदार्थ	NN
+,	SYM
+कृषि	NN
+एवं	CC
+उसके	PRP
+विभिन्न	JJ
+उत्पाद	NN
+,	SYM
+खनिज	NN
+एवं	CC
+खनिज	NNC
+अयस्क	NN
+इत्यादि	RP
+प्रमुख	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0440>
+स्वतंत्रता	NN
+के	PSP
+पश्चात	NST
+के	PSP
+वर्षो	NN
+से	PSP
+निर्यात	NN
+की	PSP
+वस्तुओं	NN
+में	PSP
+लगातार	RB
+परिवर्तन	NN
+होते	VM
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0441>
+कच्चे	JJ
+माल	NN
+के	PSP
+निर्यात	NN
+के	PSP
+स्थान	NN
+पर	PSP
+तैयार	JJ
+किए	VM
+गए	VAUX
+पदार्थो	NN
+का	PSP
+निर्यात	NN
+ज्यादा	QF
+होने	VM
+लगा	VAUX
+,	SYM
+इससे	PRP
+अधिक	QF
+लाभ	NN
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0442>
+स्वतंत्रता	NNC
+प्राप्ति	NN
+के	PSP
+पश्चात	NST
+भारत	NNP
+में	PSP
+आयातित	JJ
+पदार्थों	NN
+के	PSP
+मूल्यों	NN
+में	PSP
+लगातार	RB
+वृद्धि	NN
+होती	VM
+रही	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0443>
+आज	NN
+भारत	NNP
+में	PSP
+6000	QC
+प्रकार	NN
+की	PSP
+वस्तुओं	NN
+का	PSP
+आयात	NN
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0444>
+स्वतंत्रता-पूर्व	NNP
+के	PSP
+समय	PSP
+में	PSP
+आयात	NN
+के	PSP
+मुख्य	JJ
+सामानों	NN
+में	PSP
+विभिन्न	JJ
+प्रकार	NN
+की	PSP
+मशीन	NN
+एवं	CC
+उसके	PRP
+कल-पुर्जे	NN
+,	SYM
+औद्योगिक	JJ
+उत्पाद	NN
+से	PSP
+निर्मित	JJ
+वस्तुएँ	NN
+,	SYM
+रसायन	NN
+,	SYM
+दवाइयाँ	NN
+,	SYM
+इत्यादि	RP
+शामिल	JJ
+थी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0445>
+स्वतंत्रता	NN
+के	PSP
+बाद	NST
+आयात	NN
+में	PSP
+सर्व	JJC
+प्रमुख	JJ
+खाद्यान्न	NN
+वस्तुएँ	NN
+हुआ	VM
+करती	VAUX
+थी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0446>
+उसके	PRP
+बाद	NST
+के	PSP
+वर्षो	NN
+में	PSP
+आयात	NN
+के	PSP
+प्रकार	NN
+एवं	CC
+वस्तुओं	NN
+में	PSP
+विभिन्नता	NN
+आती	VM
+रही	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0447>
+भारत	NNP
+में	PSP
+वर्ष	NN
+1950-51	NNP
+में	PSP
+581	QCC
+करोड	QC
+रूपये	NN
+मूल्य	NN
+के	PSP
+बराबर	PSP
+वस्तुओं	NN
+का	PSP
+आयात	NN
+हुआ	VM
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0448>
+आयात	NN
+उत्तरोत्तर	JJ
+बढकर	VM
+2004-05	NNP
+में	PSP
+4	QC
+,	SYM
+81	QC
+,	SYM
+064	QCC
+करोड	QC
+रूपये	NN
+के	PSP
+बराबर	PSP
+पहुँच	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0449>
+इस	DEM
+प्रकार	NN
+पिछले	JJ
+55	QC
+वर्षो	NN
+में	PSP
+अभूतपूर्व	JJ
+वृद्धि	NN
+दर्ज	JJ
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0450>
+वर्ष	NN
+2004-05	NNP
+में	PSP
+समूह	NN
+में	PSP
+किया	VM
+गया	VAUX
+आयात	NN
+कुल	QF
+आयात	NN
+का	PSP
+40	QC
+प्रतिशत	NN
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0451>
+इस	DEM
+समूह	NN
+में	PSP
+शामिल	JJ
+वस्तुएँ	NN
+थी	VM
+रासायनिक	JJ
+उर्वरक	NN
+,	SYM
+खाद्यान्न	NN
+,	SYM
+खाद्य-तेल	NN
+,	SYM
+अखबारी-कागज	NN
+एवं	CC
+पेट्रोलियम	NNC
+पदार्थ	NN
+इत्यादि	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0452>
+पर	CC
+इस	DEM
+समूह	NN
+में	PSP
+71	QC
+प्रतिशत	NN
+हिस्सा	NN
+पेट्रोलियम	NN
+,	SYM
+कच्चे	JJ
+तेल	NN
+एवं	CC
+पेट्रोलियम	NNC
+उत्पादों	NN
+के	PSP
+ही	RP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0453>
+दूसरे	QO
+शब्दों	NN
+में	PSP
+कुल	QF
+आयात	NN
+का	PSP
+28	QC
+प्रतिशत	NN
+भाग	NN
+केवल	RP
+पेट्रालियम	NNC
+पदार्थों	NN
+का	PSP
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0454>
+आयात	NN
+की	PSP
+अन्य	JJ
+वस्तुओं	NN
+में	PSP
+उद्योगों	NN
+के	PSP
+लिए	PSP
+आवश्यक	JJ
+कलपुर्जे	NN
+,	SYM
+मशीनरी	NN
+,	SYM
+परियोजना	NN
+संबंधी	JJ
+उपकरण	NN
+,	SYM
+अलौह	JJ
+धातुएँ	NN
+,	SYM
+फार्मास्युटिकल	NNC
+पदार्थ	NN
+,	SYM
+दवाइयाँ	NN
+,	SYM
+कार्बनिक	NN
+,	SYM
+तथा	CC
+अकार्बनिक	JJ
+रासायनिक	NNC
+पदार्थ	NN
+,	SYM
+कोयला	NN
+,	SYM
+कोक	NN
+,	SYM
+मोती	NN
+,	SYM
+कीमती	JJ
+एवं	CC
+कम	QF
+कीमती	JJ
+पत्थर	NN
+इत्यादि	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0455>
+भारत	NNP
+के	PSP
+विदेशी	JJ
+व्यापार	NN
+की	PSP
+वर्तमान	JJ
+प्रवृतियाँ	NN
+स्वतंत्रता	NN
+के	PSP
+समय	PSP
+भारत	NNP
+का	PSP
+विदेशी	JJ
+व्यापार	NN
+बहुत	INTF
+सीमित	JJ
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0456>
+भारत	NNPC
+प्राथमिक	JJ
+वस्तुओं	NN
+/	SYM
+उत्पादों	NN
+का	PSP
+निर्यातक	NN
+देश	NN
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0457>
+मशीनरी	NN
+तथा	CC
+तैयार	JJ
+एवं	CC
+निर्मित	JJ
+माल	NN
+का	PSP
+आयात	NN
+करता	VM
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0458>
+स्वतंत्रता	NNC
+प्राप्ति	NN
+के	PSP
+पश्चात्	NST
+उद्योग	NN
+एवं	CC
+कृषि	NN
+के	PSP
+क्षेत्रों	NN
+में	PSP
+तीव्रगति	NN
+से	PSP
+प्रगति	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0459>
+इसके	PRP
+साथ	NST
+अन्तर्राष्ट्रीय	JJ
+विपणन	NN
+में	PSP
+भी	RP
+विकास	NN
+एवं	CC
+प्रसार	NN
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0460>
+पिछले	JJ
+दशक	NN
+में	PSP
+आयात-निर्यात	NN
+की	PSP
+वस्तुओं	NN
+में	PSP
+भी	RP
+बहुत	QF
+बदलाव	NN
+आया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0461>
+भारत	NNP
+ने	PSP
+अंतर्राष्ट्रीय	JJ
+व्यापार	NN
+में	PSP
+निर्यात	NN
+की	PSP
+वृद्धि	NN
+के	PSP
+लिए	PSP
+एशिया	NNP
+,	SYM
+अफ्रिका	NNP
+एवं	CC
+ओशिनिया	NNP
+के	PSP
+देशों	NN
+से	PSP
+संबंध	NN
+बढाए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0462>
+भारत	NNPC
+सरकार	NNP
+की	PSP
+ओर	NST
+से	PSP
+निर्यात	NN
+को	PSP
+प्रोत्साहन	NN
+देने	VM
+के	PSP
+लिए	PSP
+कई	QF
+कदम	NN
+उठाए	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0463>
+इनमें	PRP
+से	PSP
+एक	QC
+महत्वपूर्ण	JJ
+निर्णय	NN
+,	SYM
+कम	QF
+ब्याज	NN
+पर	PSP
+निर्यात	NN
+के	PSP
+लिए	PSP
+ऋण	NN
+उपलब्ध	JJ
+कराना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0464>
+इसके	PRP
+साथ-साथ	PSP
+निर्यात	NN
+पर	PSP
+लगी	VM
+कई	QF
+पाबन्दियों	NN
+एवं	CC
+नियंत्रणों	NN
+में	PSP
+कुछ	QF
+ढील	NN
+देना	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0465>
+अधिक	QF
+महत्व	NN
+और	CC
+निर्यात	NN
+के	PSP
+लिए	PSP
+प्रोत्साहन	NN
+उन्ही	DEM
+वस्तुओं	NN
+को	PSP
+दिया	VM
+जाता	VAUX
+रहा	VAUX
+है	VAUX
+जिनसे	PRP
+अधिक	QF
+मूल्य	NN
+प्राप्त	JJ
+होता	VM
+हो	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0466>
+भारत	NNP
+ने	PSP
+नई	JJ
+आयात	NNC
+नीति	NN
+भी	RP
+अपनाई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0467>
+आयात	NN
+की	PSP
+इस	DEM
+नई	JJ
+नीति	NN
+से	PSP
+भारतीय	JJ
+अर्थव्यवस्था	NN
+मजबूत	JJ
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0468>
+ऐसी	DEM
+आवश्यक	JJ
+वस्तुओं	NN
+को	PSP
+आसान	JJ
+शर्तो	NN
+पर	PSP
+आयात	NN
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+,	SYM
+जिनका	PRP
+उपयोग	NN
+निर्माण	NNC
+उद्योगों	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0469>
+पिछले	JJ
+दो	QC
+दशकों	NN
+में	PSP
+भारत	NNP
+के	PSP
+आयात	NN
+में	PSP
+भारी	JJ
+बदलाव	NN
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0470>
+भारत	NNP
+का	PSP
+विदेशी	JJ
+व्यापार	NNC
+वर्ष	NN
+1950-51	NNP
+में	PSP
+1214	QCC
+करोड	QC
+रुपये	NN
+से	PSP
+बढकर	VM
+2004-05	NNP
+में	PSP
+8	QC
+,	SYM
+37	QC
+,	SYM
+133	QCC
+करोड	QC
+रूपयो	NN
+में	PSP
+पहुँचा	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0471>
+भारत	NNP
+के	PSP
+विदेशी-व्यापार	NN
+में	PSP
+भारी	JJ
+परिवर्तन	NN
+आए	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0472>
+खासकर	RB
+उन	DEM
+वस्तुओं	NN
+के	PSP
+आयात-निर्यात	NN
+में	PSP
+जिन्हें	PRP
+अब	PRP
+तक	PSP
+भारत	NNP
+करता	VM
+आया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0473>
+आयात	NN
+और	CC
+निर्यात	NN
+के	PSP
+मूल्यों	NN
+के	PSP
+बीच	NST
+के	PSP
+अन्तर	NN
+को	PSP
+व्यापार	NNC
+सन्तुलन	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0474a>
+यदि	CC
+किसी	PRP
+देश	NN
+के	PSP
+आयात	NN
+और	CC
+निर्यात	NN
+के	PSP
+मूल्यों	NN
+में	PSP
+कोई	PRP
+अन्तर	NN
+नहीं	NEG
+होता	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0474b>
+तो	CC
+ऐसी	DEM
+स्थिति	NN
+उस	DEM
+देश	NN
+के	PSP
+लिए	PSP
+संतुलित	JJ
+विदेशी	JJ
+व्यापार	NN
+कहलाती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0475a>
+यदि	CC
+आयात	NN
+की	PSP
+तुलना	PSP
+में	PSP
+निर्यात	NN
+ज्यादा	QF
+हो	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0475b>
+तो	CC
+अनुकूल	JJ
+संतुलन	NN
+तथा	CC
+यदि	CC
+आयात	NN
+की	PSP
+तुलना	PSP
+मे	PSP
+निर्यात	NN
+कम	QF
+हो	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0475c>
+तो	CC
+प्रतिकूल	JJ
+व्यापार	NNC
+संतुलन	NN
+कहलाता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0476a>
+स्वतंत्रता	NNC
+प्राप्ति	NN
+के	PSP
+समय	PSP
+भारत	NNP
+में	PSP
+विदेशी	JJ
+व्यापार	NN
+की	PSP
+स्थिति	NN
+अनुकूल	JJ
+थी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0476b>
+परन्तु	CC
+स्वतंत्रता	NNC
+प्राप्ति	NN
+के	PSP
+बाद	NST
+के	PSP
+दो	QC
+दशकों	NN
+में	PSP
+खाद्यान्नो	NNP
+के	PSP
+बढते	VM
+आयात	NN
+से	PSP
+व्यापार	NN
+के	PSP
+सन्तुलन	NN
+पर	PSP
+प्रतिकूल	JJ
+प्रभाव	NN
+पडा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0477>
+वर्तमान	NN
+में	PSP
+भी	RP
+देश	NN
+में	PSP
+आयात	NN
+,	SYM
+निर्यात	NN
+से	PSP
+ज्यादा	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0478>
+अतः	CC
+हमारा	PRP
+विदेशी	JJ
+व्यापार	NNC
+सन्तुलन	NN
+प्रतिकूल	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0479>
+2004-05	NNP
+में	PSP
+व्यापार	NN
+में	PSP
+कमी	NN
+(	SYM
+-	SYM
+)	SYM
+123995	QCC
+करोड	QC
+रूपयों	NN
+की	PSP
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0480a>
+यदि	CC
+हम	PRP
+ध्यान	NN
+देकर	VM
+देखें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0480b>
+तो	CC
+हमारे	PRP
+निर्यात	NN
+एवं	CC
+आयात	NN
+की	PSP
+मात्राओं	NN
+एवं	CC
+मूल्यों	NN
+में	PSP
+भारी	JJ
+वृद्धि	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0481>
+पिछले	JJ
+55	QC
+वर्षो	NN
+में	PSP
+विश्व-व्यापार	NN
+में	PSP
+हमारी	PRP
+भागीदारी	NN
+में	PSP
+भारी	JJ
+गिरावट	NN
+आई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0482>
+यह	PRP
+विश्व	NN
+के	PSP
+कुल	QF
+व्यापार	NN
+का	PSP
+एक	QC
+प्रतिशत	NN
+से	PSP
+भी	RP
+कम	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0483>
+निम्नलिखित	JJ
+प्रश्नों	NN
+के	PSP
+उत्तर	NN
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0484>
+विदेशी	JJ
+व्यापार	NN
+के	PSP
+उन	DEM
+दो	QC
+घटकों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+जिनमे	RB
+विदेशी	JJ
+व्यापार	NN
+को	PSP
+विभक्त	JJ
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0485>
+स्वतंत्रता	NN
+के	PSP
+बाद	NST
+भारत	NNP
+के	PSP
+निर्यात	NN
+में	PSP
+कौन	WQ
+से	RP
+महत्वपूर्ण	JJ
+परिवर्तन	NN
+हुए	VM
+है	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0486>
+भारत	NNP
+के	PSP
+दो	QC
+प्रमुख	JJ
+व्यापार-भागीदारों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0487>
+हमारी	PRP
+सकल	JJC
+आयातित	JJ
+वस्तुओं	NN
+में	PSP
+किस	WQ
+वस्तु	NN
+की	PSP
+भागीदारी	NN
+सबसे	INTF
+अधिक	QF
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0488>
+विदेशी	JJ
+व्यापार	NN
+को	PSP
+प्रोत्साहित	JJ
+करने	VM
+के	PSP
+लिए	PSP
+भारत	NNP
+ने	PSP
+कौन	WQ
+सी	NNPC
+नई	JJ
+नीति	NN
+बनाई	VM
+है	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0489>
+व्यापार	NNC
+सन्तुलन	NN
+से	PSP
+क्या	WQ
+तात्पर्य	NN
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0490>
+आपने	PRP
+क्या	WQ
+सीखा	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0491>
+आधारभूत	JJ
+सेवा-सुविधा	NN
+किसी	PRP
+भी	RP
+व्यवस्था	NN
+अथवा	CC
+संगठन	NN
+के	PSP
+विकास	NN
+का	PSP
+आधार	NN
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0492>
+परिवहन	NN
+,	SYM
+संचार	NN
+तथा	CC
+व्यापार	NN
+किसी	PRP
+भी	RP
+देश	NN
+की	PSP
+अर्थव्यवस्था	NN
+के	PSP
+आधारभूत	JJ
+संसाधन	NN
+माने	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0493>
+इन	DEM
+आधारभूत	JJ
+सेवाओं	NN
+की	PSP
+सुलभता	NN
+पूरी	JJ
+आर्थिक	JJ
+व्यवस्था	NN
+के	PSP
+विकास	NN
+,	SYM
+खासकर	RB
+कृषि	NNPC
+एवं	CC
+उद्योग	NN
+को	PSP
+प्रभावित	JJ
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0494>
+रेल	NN
+,	SYM
+सडक	NN
+तथा	CC
+पाइप	NNC
+लाइनों	NN
+को	PSP
+स्थल	NNC
+परिवहन	NN
+के	PSP
+माध्यम	PSP
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0495>
+देश	NN
+की	PSP
+अखंडता	NN
+एवं	CC
+एकता	NN
+को	PSP
+सुदृढ	JJ
+करने	VM
+में	PSP
+ये	DEM
+साधन	NN
+महत्वपूर्ण	JJ
+भूमिका	NN
+निभाते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0496>
+ये	DEM
+देश	NN
+में	PSP
+सामाजिक	JJ
+एवं	CC
+आर्थिक	JJ
+सम्पन्नता	NN
+बढाते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0497>
+जल	NNC
+परिवहन	NN
+एक	QC
+सस्ता	JJ
+परन्तु	CC
+धीमी	JJ
+गति	NN
+का	PSP
+परिवहन	NNC
+साधन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0498>
+देश	NN
+में	PSP
+अंतः	JJ
+स्थलीय	JJ
+जलमार्ग	NN
+के	PSP
+विकास	NN
+की	PSP
+संभावना	NN
+सीमित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0499>
+यह	DEM
+संभावना	NN
+भारत	NNP
+के	PSP
+पूर्वी	JJ
+क्षेत्रा	NN
+तथा	CC
+पूर्वी-समुद्र	JJ
+तटीय	JJ
+भागों	NN
+में	PSP
+ही	RP
+सीमित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0500>
+भारत	NNP
+की	PSP
+अवस्थिति	NN
+व्यस्त	JJ
+स्वेज	NNP
+मार्ग	NN
+पर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0501>
+यह	DEM
+आदर्श	JJ
+स्थिति	NN
+एक	QC
+ओर	NST
+आस्ट्रेलिया	NNP
+तथा	CC
+दूसरी	QO
+ओर	NST
+दक्षिण	NNPC
+पूर्व	JJ
+एशिया	NNP
+एवं	CC
+यूरोप	NNP
+को	PSP
+जोडती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0502>
+वायु	NNPC
+परिवहन	NN
+यद्यपि	CC
+बहुत	INTF
+महँगे	JJ
+किन्तु	CC
+तीव्रगामी	NN
+भी	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0503>
+उन	DEM
+क्षेत्रों	NN
+के	PSP
+लिए	PSP
+वायु-परिवहन	JJC
+उपयुक्त	JJ
+है	VM
+जहाँ	PRP
+स्थल-परिवहन	NN
+का	PSP
+विकास	NN
+करना	VM
+संभव	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0504>
+परिवहन	NN
+के	PSP
+साधनों	NN
+ने	PSP
+विश्व	NN
+को	PSP
+बहुत	INTF
+छोटा	JJ
+कर	VM
+दिया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0505>
+विश्व	NN
+के	PSP
+देशों	NN
+के	PSP
+बीच	NST
+की	PSP
+दूरी	NN
+कम	QF
+समय	NN
+में	PSP
+तय	JJ
+की	VM
+जा	VAUX
+सकती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0506>
+रेल	NNC
+परिवहन	NN
+लम्बी	JJ
+दूरियों	NN
+के	PSP
+लिए	PSP
+अधिक	QF
+उपयुक्त	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0507>
+रेल	NN
+द्वारा	PSP
+एक	QC
+ही	RP
+बार	NN
+में	PSP
+अधिक	QF
+माल	NN
+व	CC
+यात्रियों	NN
+को	PSP
+लाया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0508>
+देश	NN
+के	PSP
+उत्तरी	JJ
+मैदान	NNP
+,	SYM
+पूर्वी	JJ
+तटीय	JJ
+क्षेत्र	NN
+तथा	CC
+गुजरात	NNP
+के	PSP
+मैदानी	JJ
+भागों	NN
+में	PSP
+रेलों	NN
+का	PSP
+सघन	JJ
+जाल	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0509>
+इसके	PRP
+विपरीत	PSP
+,	SYM
+उत्तर-पूर्वी	JJ
+क्षेत्र	NN
+,	SYM
+पश्चिमी	JJ
+राजस्थान	NNP
+एवं	CC
+हिमालय	NNP
+क्षेत्रों	NN
+में	PSP
+रेल	NNPC
+परिवहन	NNC
+व्यवस्था	NN
+बहुत	INTF
+विरल	JJ
+या	CC
+नहीं	NEG
+के	PSP
+बराबर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0510a>
+सडक	NNC
+परिवहन	NN
+की	PSP
+श्रेष्ठता	NN
+इस	DEM
+सत्य	NN
+से	PSP
+उजागर	JJ
+यह	PRP
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0510b>
+कि	CC
+इसकी	PRP
+सेवाएँ	NN
+घर	NN
+के	PSP
+दरवाजे	NN
+तक	PSP
+उपलब्ध	JJ
+हो	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0511>
+कम	QF
+दूरियों	NN
+के	PSP
+लिए	PSP
+सडक	NNC
+परिवहन	NN
+अधिक	QF
+उपयुक्त	JJ
+तथा	CC
+सुविधायुक्त	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0512>
+देश	NN
+के	PSP
+पंजाब	NNP
+,	SYM
+हरियाणा	NNP
+,	SYM
+केरल	NNP
+तथा	CC
+तमिलनाडु	NNP
+में	PSP
+पक्की	JJ
+सडकों	NN
+का	PSP
+सघन	JJ
+जाल	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0513>
+संचार	NNC
+साधनों	NN
+द्वारा	PSP
+संदेश	NN
+तथा	CC
+सूचनाएँ	NN
+व्यक्तिगत	JJ
+एवं	CC
+सामूहिक	JJ
+स्तरों	NN
+पर	PSP
+भेजी	VM
+या	CC
+प्राप्त	JJ
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0514>
+डाक	NNPC
+तार	NN
+,	SYM
+दूरभाष	NN
+,	SYM
+टेलीप्रिंटर्स	NNP
+,	SYM
+रेडियो	NN
+,	SYM
+दूरदर्शन	NNP
+तथा	CC
+प्रकाशन	NN
+आदि	RP
+संचार	NNPC
+व्यवस्था	NN
+के	PSP
+विभिन्न	JJ
+माध्यम	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0515>
+रेडियो	NNP
+तथा	CC
+दूरदर्शन	NNPC
+जनसंचार	NN
+के	PSP
+सशक्त	JJ
+इलैक्ट्रोनिक	JJ
+माध्यम	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0516>
+परिवहन	NN
+तथा	CC
+संचार	NNC
+व्यवस्थाओं	NN
+के	PSP
+बीच	NST
+गहरे	JJ
+सम्बन्ध	NN
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0517a>
+वे	PRP
+एक	PRPC
+दूसरे	PRP
+के	PSP
+पूरक	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0517b>
+तथा	CC
+एक	PRPC
+दूसरे	PRP
+को	PSP
+सुदृढ	JJ
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0518>
+स्वतंत्रता	NN
+के	PSP
+पश्चात	NST
+भारत	NNP
+के	PSP
+अन्य	JJ
+देशों	NN
+से	PSP
+व्यापारिक	JJ
+संबंधों	NN
+में	PSP
+तेजी	NN
+से	PSP
+विकास	NN
+और	CC
+विस्तार	NN
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0519>
+भारत	NNP
+के	PSP
+अनेक	QF
+विकसित	JJ
+एवं	CC
+विकासशील	JJ
+देशों	NN
+से	PSP
+द्वि-पाश्र्विक	NNPC
+व्यापार	NNC
+संबंध	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0520>
+स्वतंत्रता	NNC
+प्राप्ति	NN
+के	PSP
+बाद	NST
+के	PSP
+वर्षो	NN
+में	PSP
+व्यापार	NN
+के	PSP
+आयात	NN
+तथा	CC
+निर्यात	NN
+की	PSP
+वस्तुओं	NN
+के	PSP
+स्वरूप	NN
+में	PSP
+महत्वपूर्ण	JJ
+परिवर्तन	NN
+हुए	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0521a>
+भारत	NNP
+ने	PSP
+अब	PRP
+विदेशी-व्यापार	NNP
+के	PSP
+सन्दर्भ	PSP
+में	PSP
+उदार	JJ
+नीति	NN
+अपनाई	VM
+है	VAUX
+जिसके	PRP
+प्रभाव	NN
+से	PSP
+आयात-निर्यात	NN
+पर	PSP
+होने	VM
+वाली	PSP
+अनेक	QF
+पाबन्दियों	NN
+एवं	CC
+नियंत्रणों	NN
+को	PSP
+हटाया	VM
+जा	VAUX
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0521b>
+अथवा	CC
+उनमें	PRP
+बहुत	QF
+छूट	NN
+दी	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_25ch_0522>
+भारत	NNP
+के	PSP
+विदेशी	JJ
+व्यापार	NN
+में	PSP
+अभूतपूर्व	JJ
+वृद्धि	NN
+होने	VM
+के	PSP
+बावजूद	PSP
+विश्व	NNPC
+व्यापार	NN
+में	PSP
+भारत	NNP
+की	PSP
+भागीदारी	NN
+1	QC
+प्रतिशत	NN
+से	PSP
+भी	RP
+कम	QF
+है	VM
+।	SYM
+</sent_id>
+

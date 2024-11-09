@@ -1,0 +1,9407 @@
+<sent_id=Geo_nios_16ch_0001a>
+ऐतिहासिक	JJ
+दृष्टि	NN
+से	PSP
+भारत	NNP
+एक	QC
+प्राचीन	JJ
+देश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0001b>
+और	CC
+प्राचीन	JJ
+काल	NN
+में	PSP
+इसे	PRP
+भारतवर्ष	NN
+के	PSP
+नाम	NN
+से	PSP
+पुकारा	VM
+जाता	VAUX
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0002a>
+भारत	NNP
+तीनों	QC
+ओर	NST
+से	PSP
+समुद्रों	NN
+द्वारा	PSP
+घिरा	VM
+हुआ	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0002b>
+तथा	CC
+उत्तर	NN
+में	PSP
+यह	PRP
+एक	QC
+विशाल	JJ
+पर्वत	NN
+माला	NN
+द्वारा	PSP
+शेष	JJ
+एशिया	NNP
+से	PSP
+अलग	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0003>
+अतः	CC
+इसका	PRP
+स्वतंत्र	JJ
+अस्तित्व	NN
+है	VM
+,	SYM
+इसीलिए	PRP
+इसे	PRP
+भारतीय	JJ
+उपमहाद्वीप	NNP
+कहा	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0004>
+आकार	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+भारत	NNP
+संसार	NN
+का	PSP
+सातवां	QO
+बडा	JJ
+देश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0005>
+आकार	NN
+की	PSP
+विशालता	NN
+के	PSP
+कारण	PSP
+इसके	PRP
+भौतिक	JJ
+स्वरूप	NN
+में	PSP
+अनेक	QF
+प्रकार	NN
+की	PSP
+विविधताएं	NN
+पाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0006a>
+इसलिए	PRP
+यह	PRP
+आवश्यक	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0006b>
+कि	CC
+इसके	PRP
+मुख्य	JJ
+भौतिक	JJ
+स्वरूपों	NN
+की	PSP
+जानकारी	NN
+प्राप्त	JJ
+की	VM
+जाय	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0007a>
+विद्यार्थियों	NN
+के	PSP
+लिए	PSP
+यह	PRP
+जरूरी	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0007b>
+कि	CC
+वे	PRP
+भारत	NNP
+के	PSP
+भूगोल	NN
+के	PSP
+मुख्य	JJ
+पक्षों	NN
+को	PSP
+जानें	NN
+और	CC
+प्रमुख	JJ
+बाह्य	NNPC
+उच्चावच	NN
+,	SYM
+पर्वत	JJ
+श्रृंखला	NN
+,	SYM
+पठार	NN
+,	SYM
+मैदान	NNP
+,	SYM
+अपवाह	NNPC
+तंत्र	NNP
+,	SYM
+हिमानी	NNP
+,	SYM
+ज्वालामुखी	NN
+इत्यादि	RP
+की	PSP
+जानकारी	NN
+प्राप्त	JJ
+करना	VM
+भी	RP
+अति	INTF
+आवश्यक	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0008>
+दक्षिण	NNPC
+एशिया	NNP
+के	PSP
+एक	QC
+बहुत	INTF
+बडे	JJ
+भू-भाग	NN
+के	PSP
+उत्तर-पश्चिम	NNP
+,	SYM
+उत्तर	NNP
+और	CC
+उत्तर	NNPC
+पूर्व	NNP
+में	PSP
+ऊँचे-ऊँचे	JJ
+नवीन	NNPC
+वलित	NNC
+पर्वत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0009>
+इसके	PRP
+दक्षिण-पश्चिम	NNP
+में	PSP
+अरब	NNPC
+सागर	NNP
+,	SYM
+दक्षिण-पूर्व	NNP
+में	PSP
+बंगाल	NNP
+की	PSP
+खाडी	NNP
+तथा	CC
+दक्षिण	NNP
+में	PSP
+हिन्द	NNC
+महासागर	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0010>
+दक्षिण	NNPC
+एशिया	NNP
+के	PSP
+इस	DEM
+भाग	NN
+को	PSP
+भारतीय	JJ
+उपमहाद्वीप	NN
+के	PSP
+नाम	NN
+से	PSP
+भी	RP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0011a>
+इस	DEM
+उपमहाद्वीप	NN
+में	PSP
+भारत	NNP
+,	SYM
+पाकिस्तान	NNP
+,	SYM
+नेपाल	NNP
+,	SYM
+बांग्लादेश	NNP
+और	CC
+भूटान	NNP
+देश	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0011b>
+और	CC
+संकीर्ण	JJ
+पाक	NNPC
+जलसन्धि	NNP
+के	PSP
+द्वारा	PSP
+अलग	JJ
+द्वीपीय	JJ
+देश	NN
+श्रीलंका	NNP
+भी	RP
+इसी	PRP
+का	PSP
+अंग	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0012>
+इस	DEM
+उपमहाद्वीप	NN
+के	PSP
+तीन	QC
+चौथाई	QC
+क्षेत्र	NN
+में	PSP
+भारत	NNP
+का	PSP
+विस्तार	NN
+है	VM
+,	SYM
+जिसकी	PRP
+सीमाएँ	NN
+उपमहाद्वीप	NN
+के	PSP
+अन्य	JJ
+सभी	QF
+देशों	NN
+को	PSP
+छूती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0013a>
+अन्य	JJ
+पाँच	QC
+देशों	NN
+सहित	PSP
+भारत	NNP
+एक	QC
+स्पष्ट	JJ
+भौगोलिक	JJ
+इकाई	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0013b>
+और	CC
+उपमहाद्वीप	NN
+के	PSP
+सभी	QF
+देश	NN
+सांस्कृतिक	JJ
+दृष्टि	NN
+से	PSP
+भी	RP
+एक	PRPC
+दूसरे	PRP
+के	PSP
+निकट	NST
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0014>
+प्राचीनकाल	NN
+में	PSP
+हमारा	PRP
+देश	NN
+आर्यावर्त	NNP
+के	PSP
+नाम	NN
+से	PSP
+जाना	VM
+जाता	VAUX
+था	VAUX
+,	SYM
+बाद	NST
+में	PSP
+इसे	PRP
+भारत	NNP
+,	SYM
+हिन्दुस्तान	NNP
+और	CC
+‘इण्डिया’	NN
+कहने	VM
+लगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0015>
+हिन्द	NNPC
+महासागर	NNP
+का	PSP
+नाम	NN
+हमारे	PRP
+देश	NN
+के	PSP
+नाम	NN
+पर	PSP
+ही	RP
+रखा	VM
+गया	VAUX
+है	VAUX
+,	SYM
+यही	PRP
+एक	QC
+मात्र	RP
+ऐसा	PRP
+महासागर	NN
+है	VM
+जिसका	PRP
+नाम	NN
+किसी	PRP
+देश	NN
+के	PSP
+नाम	NN
+पर	PSP
+रखा	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0016>
+संविधान	NN
+में	PSP
+हमारे	PRP
+देश	NN
+के	PSP
+दो	QC
+ही	RP
+नाम	NN
+स्वीकृत	JJ
+हैं-भारत	NN
+या	CC
+इण्डिया	NNP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0017>
+भारत	NNP
+पूरी	JJ
+तरह	NN
+से	PSP
+उत्तरी	JJ
+गोलार्ध	NNP
+में	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0018>
+भारत	NNP
+की	PSP
+मुख्य	JJ
+भूमि	NN
+8°4	NNP
+'	SYM
+और	CC
+37°6	NNP
+'	SYM
+उत्तरी	NNPC
+अक्षाशों	NN
+तथा	CC
+68°7	NNP
+'	SYM
+व	CC
+97°25	NNP
+'	SYM
+पूर्वी	JJ
+देशान्तरों	NN
+के	PSP
+बीच	NST
+फैली	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0019>
+इस	DEM
+प्रकार	NN
+भारत	NNP
+का	PSP
+अक्षांशीय	JJ
+तथा	CC
+देशान्तरीय	JJ
+विस्तार	NN
+लगभग	RP
+29	QC
+अंशों	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0020>
+लेकिन	CC
+धरातल	NN
+पर	PSP
+वास्तविक	JJ
+दूरी	NN
+उत्तर	NNP
+से	PSP
+दक्षिण	NNPC
+3214	NNP
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+तथा	CC
+पूर्व	NNP
+से	PSP
+पश्चिम	NNP
+तक	PSP
+2933	NNP
+कि	CC
+.	SYM
+मी	RP
+.	SYM
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0021>
+अक्षांशीय	NN
+और	CC
+देशान्तरीय	JJ
+विस्तार	NN
+समान	JJ
+होने	VM
+पर	PSP
+भी	RP
+वास्तविक	JJ
+दूरी	NN
+में	PSP
+इतना	QF
+बडा	JJ
+अन्तर	NN
+क्यों	WQ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0022a>
+ऐसा	PRP
+इसलिए	PRP
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0022b>
+कि	CC
+विषुवत	NNPC
+वृत्त	NN
+पर	PSP
+दो	QC
+क्रमिक	JJ
+देशान्तरो	NN
+के	PSP
+बीच	NST
+की	PSP
+दूरी	NN
+घटती	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0022c>
+और	CC
+ध्रुवों	NN
+पर	PSP
+यह	PRP
+शून्य	QC
+हो	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0023a>
+ऐसा	PRP
+इसलिए	PRP
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0023b>
+कि	CC
+सभी	QF
+देशान्तर	NNP
+रेखाएँ	NN
+उत्तरी	JJ
+और	CC
+दक्षिणी	JJ
+ध्रुवों	NN
+पर	PSP
+एक	QC
+बिन्दु	NN
+में	PSP
+मिल	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0024>
+इसके	PRP
+विपरीत	PSP
+किसी	PRP
+भी	RP
+देशान्तर	NNPC
+रेखा	NN
+पर	PSP
+दो	QC
+क्रमिक	JJ
+अक्षांश	NNC
+वृत्तों	NN
+के	PSP
+बीच	NST
+उत्तर	NNP
+से	PSP
+दक्षिण	NNP
+की	PSP
+दूरी	NN
+सदैव	RB
+एक	QC
+समान	JJ
+अर्थात	CC
+111	QC
+किमी	NN
+.	SYM
+ही	RP
+रहती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0025>
+निम्नलिखित	JJ
+सारिणी	NN
+से	PSP
+यह	DEM
+बात	NN
+भली	JJ
+भांति	NN
+स्पष्ट	JJ
+हो	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0026>
+ग्लोब	NN
+पर	PSP
+दृष्टि	NN
+डालते	VM
+ही	RP
+आप	PRP
+इस	DEM
+बात	NN
+को	PSP
+सहज	JJ
+ही	RP
+समझ	VM
+लेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0027a>
+भारत	NNP
+की	PSP
+मुख्य	JJ
+भूमि	NN
+का	PSP
+उत्तरी	JJ
+छोर	NN
+जम्मू-कश्मीर	NNP
+राज्य	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0027b>
+तथा	CC
+तमिलनाडु	NNP
+में	PSP
+कन्याकुमारी	NNP
+इसका	PRP
+दक्षिणी	JJ
+छोर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0028>
+लेकिन	CC
+देश	NN
+का	PSP
+दक्षिणतम	JJ
+छोर	NN
+अंडमान	NNP
+और	CC
+निकोबार	NNPC
+द्वीप	NNPC
+समूह	NNP
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0029>
+इसे	PRP
+इन्दिरा	NNPC
+पॉइंट	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0030>
+यह	PRP
+6°30	NNPC
+'	SYM
+उ	SYM
+.	SYM
+अक्षांश	NN
+पर	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0031>
+भारत	NNP
+का	PSP
+पश्चिमी	JJ
+सिरा	NN
+गुजरात	NNP
+में	PSP
+तथा	CC
+पूर्वी	JJ
+सिरा	NN
+अरूणाचल	NNPC
+प्रदेश	NNP
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0032a>
+आइये	RB
+यह	PRP
+देखें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0032b>
+कि	CC
+इतने	QF
+बडे	JJ
+अक्षांशीय	JJ
+विस्तार	NN
+का	PSP
+भारतवासियों	NN
+के	PSP
+जीवन	NN
+पर	PSP
+क्या	WQ
+प्रभाव	NN
+पडता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0033>
+देश	NN
+के	PSP
+उत्तरी	JJ
+भाग	NNPC
+विषुवत	NNPC
+वृत्त	NN
+से	PSP
+काफी	QF
+दूर	NST
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0034>
+अतः	CC
+इन	DEM
+भागों	NN
+में	PSP
+सूर्य	NN
+की	PSP
+किरणें	NN
+अधिक	QF
+तिरछी	JJ
+पडती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0035a>
+फलस्वरूप	PSP
+यहाँ	PRP
+सूर्यातप	NN
+कम	QF
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0035b>
+अतः	CC
+दक्षिणी	JJ
+भागों	NN
+के	PSP
+विपरीत	PSP
+ये	DEM
+भाग	NN
+ठंडे	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0036a>
+अधिक	QF
+अक्षांशीय	JJ
+विस्तार	NN
+का	PSP
+प्रभाव	NN
+दिन	NN
+और	CC
+रात	NN
+की	PSP
+अवधि	NN
+पर	PSP
+भी	RP
+पडता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0036b>
+और	CC
+विषुवत	NNPC
+वृत्त	NN
+के	PSP
+निकट	NST
+स्थित	JJ
+भारतीय	JJ
+क्षेत्रों	NN
+में	PSP
+दिन	NN
+और	CC
+रात	NN
+की	PSP
+अवधि	NN
+में	PSP
+लगभग	RP
+45	QC
+मिनट	NN
+का	PSP
+अन्तर	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0037a>
+भारत	NNP
+के	PSP
+उत्तरी	JJ
+भागों	NN
+में	PSP
+दिन	NN
+और	CC
+रात	NN
+की	PSP
+अवधि	NN
+में	PSP
+यह	DEM
+अन्तर	NN
+क्रमशः	RB
+बढता	VM
+ही	RP
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0037b>
+और	CC
+उत्तरी	JJ
+भाग	NN
+में	PSP
+यह	DEM
+अंतर	NN
+5	QC
+घंटे	NN
+तक	PSP
+का	PSP
+हो	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0038>
+कर्क	NNPC
+वृत्त	NN
+भारत	NNP
+के	PSP
+लगभग	RP
+बीच	NST
+से	PSP
+होकर	VM
+गुजरता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0039a>
+इस	DEM
+प्रकार	NN
+कर्क	NNP
+वृत्त	NN
+के	PSP
+दक्षिण	NNP
+का	PSP
+भाग	NN
+उष्ण	NNC
+कटिबंध	NN
+में	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0039b>
+और	CC
+कर्क	NNP
+वृत्त	NN
+के	PSP
+उत्तर	NN
+का	PSP
+शेष	JJ
+आधा	QC
+भाग	NN
+शीतोष्ण	JJ
+कटिबंध	NN
+में	PSP
+आता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0040>
+पृथ्वी	NNP
+अपनी	PRP
+धुरी	NN
+पर	PSP
+24	QC
+घंटों	NN
+में	PSP
+एक	QC
+चक्कर	NN
+लगाती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0041a>
+पृथ्वी	NNP
+के	PSP
+पश्चिम	NNP
+से	PSP
+पूर्व	NST
+की	PSP
+दिशा	NN
+में	PSP
+घूमने	VM
+के	PSP
+कारण	PSP
+सूर्य	NNP
+सबसे	JJ
+पहले	NST
+पूर्व	NST
+में	PSP
+उदय	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0041b>
+तथा	CC
+पश्चिम	NNP
+में	PSP
+बाद	NST
+में	PSP
+उदय	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0042>
+पृथ्वी	NNP
+360°	NNP
+के	PSP
+अपने	PRP
+देशान्तरीय	JJ
+विस्तार	NN
+को	PSP
+15°	QCC
+प्रति	RP
+घंटे	NN
+की	PSP
+गति	NN
+से	PSP
+24	QC
+घंटों	NN
+में	PSP
+पूरा	JJ
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0043>
+भारत	NNP
+का	PSP
+देशान्तीय	JJ
+विस्तार	NN
+लगभग	RP
+29°	NNP
+का	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0044>
+अतः	CC
+भारत	NNP
+के	PSP
+पूर्वी	JJ
+और	CC
+पश्चिमी	JJ
+छोरों	NN
+के	PSP
+वास्तविक	JJ
+समय	NN
+में	PSP
+लगभग	RP
+दो	QC
+घंटे	NN
+का	PSP
+अन्तर	NN
+रहता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0045>
+इस	DEM
+प्रकार	NN
+जब	PRP
+भारत	NNP
+के	PSP
+पूर्वी	JJ
+छोर	NN
+पर	PSP
+सूर्योदय	NN
+होता	VM
+है	VAUX
+तब	PRP
+पश्चिम	NNPC
+छोर	NN
+अंधकार	NN
+में	PSP
+डूबा	VM
+होता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0046>
+समय	NN
+के	PSP
+अन्तर	NN
+की	PSP
+इस	DEM
+गडबडी	NN
+को	PSP
+दूर	NST
+करने	VM
+के	PSP
+लिए	PSP
+अन्य	JJ
+देशों	NN
+की	PSP
+तरह	PSP
+भारत	NNP
+ने	PSP
+भी	RP
+एक	QC
+मानक	JJ
+मध्याह्न	NNP
+रेखा	NNP
+का	PSP
+चुनाव	NN
+किया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0047>
+मानक	NNC
+मध्याह्न	NNC
+रेखा	NN
+पर	PSP
+जो	PRP
+स्थानीय	JJ
+समय	NN
+होता	VM
+है	VAUX
+,	SYM
+उस	DEM
+समय	NN
+को	PSP
+देश	NN
+का	PSP
+मानक	JJ
+समय	NN
+माना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0048>
+भारत	NNP
+की	PSP
+मानक	JJ
+मध्याह्न	NNC
+रेखा	NNPC
+82°30	NNP
+'	SYM
+पूर्वी	JJ
+देशान्तर	NNP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0049>
+82°30	NNP
+'	SYM
+देशान्तर	NNPC
+रेखा	NNP
+इन	DEM
+दोनों	QC
+ही	RP
+कसौटियों	NN
+पर	PSP
+खरी	VM
+उतरती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0050a>
+भारत	NNP
+का	PSP
+उत्तरी	JJ
+मध्य	NNPC
+भाग	NN
+चौडा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0050b>
+जबकि	CC
+इसका	PRP
+दक्षिणी	JJ
+भाग	NN
+हिन्द	NNPC
+महासागर	NNP
+की	PSP
+ओर	NST
+संकीर्ण	JJ
+होता	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0051>
+इस	DEM
+प्रकार	NN
+हिन्द	SYM
+महासागर	NNP
+भारतीय	NNPC
+प्रायद्वीप	NN
+के	PSP
+कारण	PSP
+दो	QC
+भागों	NN
+में	PSP
+विभाजित	JJ
+हो	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0052>
+उत्तरी	JJ
+हिन्द	NNPC
+महासागर	NNP
+का	PSP
+पश्चिमी	JJ
+भाग	NN
+अरब	NNPC
+सागर	NNP
+के	PSP
+नाम	NN
+से	PSP
+तथा	CC
+पूर्वी	JJ
+भाग	NN
+बंगाल	NNP
+की	PSP
+खाडी	NNP
+के	PSP
+नाम	NN
+से	PSP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0053>
+द्वीप	NNC
+समूहों	NN
+सहित	PSP
+भारत	NNP
+की	PSP
+तट	NNC
+रेखा	NN
+की	PSP
+कुल	QF
+लंबाई	NN
+7516	QC
+.	SYM
+6	QC
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0054>
+पाक	NNP
+जल-सन्धि	NNP
+भारत	NNP
+की	PSP
+मुख्य	JJ
+भूमि	NN
+को	PSP
+श्रीलंका	NNP
+से	PSP
+पृथक	JJ
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0055a>
+संसार	NN
+के	PSP
+कुल	QF
+भू-क्षेत्राफल	NNP
+का	PSP
+2	QC
+.	SYM
+42	QC
+प्रतिशत	NN
+भाग	NN
+भारत	NNP
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0055b>
+जबकि	CC
+इसे	PRP
+संसार	NN
+की	PSP
+कुल	QF
+जनसंख्या	NN
+के	PSP
+लगभग	RP
+16	QC
+प्रतिशत	NN
+भाग	NN
+का	PSP
+भरण-पोषण	NN
+करना	VM
+पडता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0056>
+भारत	NNP
+की	PSP
+जनसंख्या	NN
+वाले	PSP
+पाठ	NN
+में	PSP
+आप	PRP
+इसके	PRP
+विषय	NN
+में	PSP
+और	QFC
+अधिक	QF
+विस्तार	NN
+से	PSP
+अध्ययन	NN
+करेंगें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0057>
+भारत	NNP
+की	PSP
+भू-सीमा	NN
+15200	QC
+कि	CC
+.	SYM
+मी	RP
+.	SYM
+लंबी	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0058>
+पाकिस्तान	NNP
+,	SYM
+अफगानिस्तान	NNP
+,	SYM
+चीन	NNP
+,	SYM
+नेपाल	NNP
+,	SYM
+म्याँमार	NNP
+,	SYM
+और	CC
+बांग्लादेश	NNP
+से	PSP
+हमारे	PRP
+देश	NN
+की	PSP
+सीमाएँ	NN
+मिलती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0059>
+भूटान	NNP
+,	SYM
+पूर्वी	JJ
+हिमालय	NNP
+की	PSP
+गोद	NN
+में	PSP
+बसा	VM
+छोटा	JJ
+सा	RP
+देश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0060>
+इसकी	PRP
+प्रतिरक्षा	NN
+का	PSP
+दायित्व	NN
+भारत	NNP
+पर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0061>
+पाकिस्तान	NNP
+और	CC
+बांग्लादेश	NNP
+से	PSP
+लगने	VM
+वाली	PSP
+हमारी	PRP
+अधिकतर	JJ
+सीमा	NN
+मानव	JJC
+निर्मित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0062a>
+प्राकृतिक	JJ
+सीमा	NN
+के	PSP
+निर्धारण	NN
+के	PSP
+लिए	PSP
+यहाँ	PRP
+न	NEG
+कोई	PRP
+पर्वत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0062b>
+और	CC
+न	NEG
+कोई	PRP
+नदी	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0063a>
+यदि	CC
+आप	PRP
+भारत	NNP
+की	PSP
+संपूर्ण	JJ
+भू	NNC
+सीमा	NN
+पर	PSP
+दृष्टि	NN
+डालें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0063b>
+तो	RP
+पता	NN
+यह	PRP
+चलेगा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0063c>
+कि	CC
+यह	PRP
+कहीं	PRP
+तो	RP
+अत्यन्त	INTF
+गर्म	JJ
+,	SYM
+शुष्क	JJ
+और	CC
+निर्जन	JJ
+मरुभूमि	NN
+से	PSP
+गुजरती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0063d>
+तो	CC
+कहीं	PRP
+लहलहाते	VM
+खेतों	NN
+से	PSP
+और	QF
+कहीं	PRP
+कल-कल	NN
+करती	VM
+नदियों	NN
+से	PSP
+यही	PRP
+भू	NNC
+सीमा	NN
+एक	QC
+ओर	NST
+हिमाच्छादित	JJ
+पर्वत	NNC
+श्रेणियों	NN
+से	PSP
+गुजरती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0063e>
+तो	PRP
+दूसरी	QO
+ओर	NST
+वनाच्छादित	JJ
+पर्वत	NN
+शृँखलाओं	NN
+से	PSP
+होकर	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0064>
+विविध	JJ
+प्रकार	NN
+की	PSP
+भूमियों	NN
+से	PSP
+गुजरने	VM
+वाली	PSP
+ऐसी	DEM
+विस्तृत	JJ
+भू-सीमा	NN
+की	PSP
+सुरक्षा	NN
+का	PSP
+कार्य	NN
+अत्यंत	INTF
+कठिन	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0065>
+इसीलिए	PRP
+सीमा	NN
+पर	PSP
+पहरेदारी	NN
+करने	VM
+वाले	PSP
+भारतीय	JJ
+सिपाही	NN
+को	PSP
+अत्यन्त	INTF
+प्रतिकूल	JJ
+दशाओं	NN
+का	PSP
+सामना	NN
+करना	VM
+पडता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0066a>
+सेना	NN
+का	PSP
+एक	QC
+ही	RP
+जवान	NN
+कभी	PRP
+अत्यन्त	INTF
+बर्फीले	JJ
+प्रदेशों	NN
+का	PSP
+प्रहरी	NN
+बनता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0066b>
+तो	CC
+कहीं	PRP
+तपती	JJ
+दोपहरी	NN
+में	PSP
+तपते	VM
+रेत	NN
+पर	PSP
+पहरा	NN
+देता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0067>
+कभी	PRP
+उसी	DEM
+जवान	NN
+की	PSP
+नियुक्ति	NN
+उत्तर	NNPC
+पूर्व	NNP
+की	PSP
+दलदली	JJ
+और	CC
+कछारी	NNP
+भूमि	NN
+पर	PSP
+या	CC
+सघन	JJ
+वर्षावनों	NN
+से	PSP
+आच्छादित	JJ
+भूमि	NN
+पर	PSP
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0068>
+इतनी	QF
+लंबी	JJ
+और	CC
+विविध	JJ
+प्रकार	NN
+की	PSP
+कठिनाईयों	NN
+से	PSP
+परिपूर्ण	JJ
+भूमि	NN
+से	PSP
+गुजरने	VM
+वाली	PSP
+भू-सीमा	NN
+पर	PSP
+राष्ट्र	NN
+को	PSP
+प्रतिदिन	NN
+करोडों	QC
+रुपये	NN
+खर्च	NN
+करने	VM
+पडते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0069>
+एशिया	NNP
+,	SYM
+अफ्रीका	NNP
+और	CC
+ओशीनिया	NNP
+महाद्वीपों	NN
+के	PSP
+बीच	NST
+विस्तृत	JJ
+हिन्द	NNPC
+महासागर	NNP
+के	PSP
+शीर्ष	NN
+पर	PSP
+भारत	NNP
+की	PSP
+स्थिति	NN
+बहुत	INTF
+महत्त्वपूर्ण	JJ
+है	VM
+,	SYM
+इसी	DEM
+कारण	NN
+प्रशान्त	NNPC
+महासागर	NNP
+और	CC
+अटलांटिक	JJ
+महासागरों	NN
+से	PSP
+होकर	VM
+शेष	JJ
+महाद्वीपों	NN
+से	PSP
+संपर्क	NN
+रखना	VM
+आसान	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0070>
+उप	NNPC
+महाद्वीप	NN
+में	PSP
+स्थित	JJ
+सभी	QF
+देशों	NN
+में	PSP
+से	PSP
+केवल	RP
+भारत	NNP
+के	PSP
+साथ	NST
+ही	RP
+उपमहाद्वीप	NN
+के	PSP
+देशों	NN
+की	PSP
+भू-सीमाएँ	NN
+मिलती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0071>
+क्षेत्रफल	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+भारत	NNP
+संसार	NN
+का	PSP
+सातवाँ	QO
+सबसे	INTF
+बडा	JJ
+देश	NN
+है	VM
+,	SYM
+लेकिन	CC
+जनसंख्या	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+चीन	NNP
+के	PSP
+बाद	NST
+इसका	PRP
+दूसरा	QO
+स्थान	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0072>
+भारत	NNP
+के	PSP
+पूर्वी	JJ
+छोर	NN
+तथा	CC
+पश्चिमी	JJ
+छोर	NN
+के	PSP
+स्थानीय	JJ
+समयों	NN
+में	PSP
+दो	QC
+घंटे	NN
+का	PSP
+अन्तर	NN
+रहता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0073>
+82°	NNPC
+30	QC
+'	SYM
+पूर्वी	JJ
+देशान्तर	NNP
+को	PSP
+भारत	NNP
+की	PSP
+मानक	JJ
+मध्याह्न	NN
+रेखा	NNP
+मानकर	VM
+समय	NN
+के	PSP
+इस	DEM
+अन्तर	NN
+को	PSP
+एक	QC
+सीमा	NN
+तक	PSP
+कम	QF
+कर	VM
+लिया	VAUX
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0074>
+आप	PRP
+भारत	NNP
+की	PSP
+भू-सीमा	NN
+से	PSP
+लगे	VM
+पडोसी	JJ
+देशों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0075>
+भारत	NNP
+किन	WQ
+अक्षांशों	NN
+और	CC
+देशान्तरों	NN
+के	PSP
+बीच	NST
+स्थित	JJ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0076>
+भारत	NNP
+का	PSP
+दक्षिणतम	JJ
+छोर	NN
+कौन	WQ
+सा	RP
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0077>
+भारत	NNP
+की	PSP
+मानक	JJ
+मध्याह्न	NNC
+रेखा	JJ
+कौन	WQ
+सी	RP
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0078>
+भारत	NNP
+के	PSP
+पश्चिमी	JJ
+तथा	CC
+पूर्वी	JJ
+छोरों	NN
+के	PSP
+स्थानीय	JJ
+समय	NN
+में	PSP
+लगभग	RP
+कितने	QF
+घंटे	NN
+का	PSP
+अन्तर	NN
+पडता	VM
+हैं	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0079>
+भारत	NNP
+भौतिक	JJ
+विविधताओं	NN
+का	PSP
+देश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0080>
+यहाँ	PRP
+लगभग	RP
+सभी	QF
+प्रकार	NN
+की	PSP
+स्थलाकृतियाँ	NN
+पाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0081>
+एक	QC
+मोटे	JJ
+अनुमान	NN
+के	PSP
+अनुसार	PSP
+भारत	NNP
+के	PSP
+कुल	QF
+क्षेत्राफल	NN
+के	PSP
+29	QC
+.	SYM
+3	QC
+प्रतिशत	NN
+भाग	NN
+पर	PSP
+पर्वत	NNP
+,	SYM
+27	QC
+.	SYM
+7	QC
+प्रतिशत	NN
+भाग	NN
+पर	PSP
+पठार	NN
+तथा	CC
+43	QC
+प्रतिशत	NN
+भाग	NN
+पर	PSP
+मैदान	NN
+फैले	VM
+हुए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0082>
+आइये	VM
+इन	DEM
+भू-आकृतिक	JJ
+विभागों	NN
+के	PSP
+विषय	NN
+में	PSP
+कुछ	QF
+अधिक	QF
+विस्तार	NN
+से	PSP
+जानें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0083>
+भारत	NNP
+की	PSP
+उत्तर	NNC
+सीमा	NN
+पर	PSP
+स्थित	JJ
+कश्मीर	NNP
+की	PSP
+उत्तरी	JJ
+पर्वत	NN
+श्रृंखलाएँ	NN
+तथा	CC
+पठार	NN
+,	SYM
+खास	JJ
+हिमालय	NNPC
+पर्वत	NN
+और	CC
+अरूणाचल	NNPC
+प्रदेश	NNP
+,	SYM
+नागालैंड	NNP
+,	SYM
+असम	NNP
+,	SYM
+मणिपुर	NNP
+,	SYM
+मिजोरम	NNP
+,	SYM
+त्रिपुरा	NNP
+और	CC
+मेघालय	NNP
+की	PSP
+पहाडियाँ	NN
+सम्मिलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0084>
+हिमालय	NNP
+संसार	NN
+की	PSP
+सबसे	INTF
+ऊँची	JJ
+पर्वत	NNC
+श्रृंखला	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0085>
+यह	DEM
+पर्वत	NN
+भारत	NNP
+की	PSP
+उत्तरी	JJ
+सीमा	NN
+पर	PSP
+पश्चिम	NNP
+से	PSP
+पूर्व	NST
+की	PSP
+ओर	NST
+एक	QC
+चाप	NN
+की	PSP
+आकृति	NN
+में	PSP
+2500	QC
+किलोमीटर	NN
+की	PSP
+दूरी	NN
+में	PSP
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0086>
+जम्मू-कश्मीर	NNP
+में	PSP
+सिंधु	NNP
+नदी	NN
+के	PSP
+महाखड्ड	NN
+से	PSP
+लेकर	VM
+अरुणाचल	NNPC
+प्रदेश	NNP
+में	PSP
+ब्रह्मपुत्रा	NNP
+के	PSP
+महाखड्ड	NN
+तक	PSP
+हिमालय	NNP
+का	PSP
+विस्तार	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0087>
+इसकी	PRP
+चौडाई	NN
+पूर्व	NST
+में	PSP
+150	QC
+किलोमीटर	NN
+से	PSP
+लेकर	VM
+पश्चिम	NNP
+में	PSP
+400	QC
+किलोमीटर	NN
+तक	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0088>
+हिमालय	NNP
+लगभग	RP
+5	QCC
+लाख	QC
+वर्ग	NN
+किलोमीटर	NN
+क्षेत्र	NN
+में	PSP
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0089>
+इसकी	PRP
+तीन	QC
+प्रमुख	JJ
+पर्वत	NN
+श्रेणियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0090>
+इन	DEM
+पर्वत	NNP
+श्रेणियों	NN
+के	PSP
+बीच-बीच	NN
+में	PSP
+गहरी	JJ
+घाटियाँ	NN
+और	CC
+विस्तृत	JJ
+पठार	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0091>
+हिमालय	NNP
+के	PSP
+ढाल	NN
+भारत	NNP
+की	PSP
+ओर	NST
+तीव्र	JJ
+तथा	CC
+तिब्बत	NNP
+की	PSP
+ओर	NST
+मंद	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0092>
+हिमालय	NNPC
+पर्वत	NN
+पश्चिम	NNPC
+बंगाल	NNP
+के	PSP
+मैदानी	JJ
+भाग	NN
+से	PSP
+एकदम	RB
+ऊपर	NST
+उठे	VM
+हुए	VAUX
+दिखाई	VM
+पडते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0093a>
+यही	DEM
+कारण	NN
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0093b>
+कि	CC
+इसके	PRP
+दो	QC
+सर्वोच्च	NNC
+शिखर	NN
+,	SYM
+एवरेस्ट	NNP
+(	SYM
+नेपाल	NNP
+में	PSP
+)	SYM
+और	CC
+काँचनजुंगा	NNP
+,	SYM
+मैदानी	JJ
+भाग	NN
+से	PSP
+ज्यादा	QF
+दूरी	NN
+पर	PSP
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0094>
+इसके	PRP
+विपरीत	PSP
+हिमालय	NNP
+का	PSP
+पश्चिमी	JJ
+भाग	NN
+मैदानी	JJ
+क्षेत्र	NN
+से	PSP
+धीरे-धीरे	RB
+ऊपर	NST
+उठा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0095>
+इसी	DEM
+कारण	NN
+यहाँ	PRP
+ऊँची	JJ
+चोटियों	NN
+और	CC
+मैदानों	NN
+के	PSP
+बीच	NST
+कई	QF
+श्रेणियाँ	NN
+मिलती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0096>
+इसीलिए	PRP
+इस	DEM
+भाग	NN
+की	PSP
+ऊँची	JJ
+चोटियाँ	NN
+जैसे	PSP
+नंगा	NNPC
+पर्वत	NNP
+,	SYM
+नंदा	NNPC
+देवी	NNP
+,	SYM
+बद्रीनाथ	NNP
+आदि	RP
+मैदानी	JJ
+भाग	NN
+से	PSP
+काफी	QF
+दूर	NST
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0097>
+हिमालय	NNP
+में	PSP
+तीन	QC
+समान्तर	JJ
+पर्वत	NN
+श्रेणियाँ	NN
+स्पष्ट	JJ
+दृष्टिगोचर	JJ
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0098>
+यह	PRP
+हिमालय	NNP
+की	PSP
+सबसे	JJ
+उत्तरी	JJ
+तथा	CC
+सबसे	INTF
+ऊँची	JJ
+पर्वत	NNC
+श्रृंखला	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0099>
+हिमालय	NNP
+की	PSP
+यही	PRP
+एक	QC
+पर्वत	JJ
+श्रेणी	NN
+ऐसी	PRP
+है	VM
+,	SYM
+जो	PRP
+पश्चिम	NNP
+से	PSP
+पूर्व	NST
+तक	PSP
+अपनी	PRP
+निरन्तरता	NN
+बनाए	VM
+रखती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0100>
+इस	DEM
+श्रेणी	NN
+की	PSP
+क्रोड	NN
+ग्रेनाइट	NNC
+शैलों	NN
+से	PSP
+बनी	VM
+है	VAUX
+,	SYM
+जिसके	PRP
+आस-पास	NST
+कायान्तरित	JJ
+और	CC
+अवसादी	JJ
+शैलें	NN
+भी	RP
+मिलती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0101>
+इस	DEM
+श्रेणी	NN
+के	PSP
+पश्चिमी	JJ
+छोर	NN
+पर	PSP
+नंगापर्वत	NNPC
+शिखर	NNP
+(	SYM
+8126	QC
+मी	SYM
+.	SYM
+)	SYM
+तथा	CC
+पूर्वी	JJ
+छोर	NN
+पर	PSP
+नामचावरवा	NNPC
+शिखर	NNP
+(	SYM
+7756	QC
+मी	SYM
+.	SYM
+)	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0102>
+इस	DEM
+पर्वत	NNC
+श्रेणी	NN
+की	PSP
+समुद्र	NNC
+तल	NN
+से	PSP
+औसत	NN
+ऊँचाई	NN
+लगभग	RP
+6100	QC
+मी	SYM
+.	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0103>
+इस	DEM
+क्षेत्र	NN
+में	PSP
+100	QC
+से	PSP
+अधिक	QF
+पर्वत	NNC
+शिखर	NN
+6100	QC
+मी	SYM
+.	SYM
+से	PSP
+अधिक	QF
+ऊँचे	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0104>
+संसार	NN
+की	PSP
+सबसे	INTF
+ऊँची	JJ
+पर्वत	NNC
+चोटी	NN
+एवरेस्ट	NNP
+(	SYM
+8848	QC
+मी	SYM
+.	SYM
+)	SYM
+इसी	DEM
+पर्वत	NN
+श्रेणी	NN
+में	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0105>
+काँचनजुँगा	NNP
+(	SYM
+8598	QC
+मी	SYM
+.	SYM
+)	SYM
+मकालू	NNP
+,	SYM
+धौलागिरि	NNP
+तथा	CC
+अन्नपूर्णा	NNP
+आदि	RP
+हिमाद्रि	NNP
+की	PSP
+अन्य	JJ
+चोटियाँ	NN
+है	VM
+जिनकी	PRP
+ऊँचाई	NN
+आठ	QCC
+हजार	QC
+मीटर	NN
+से	PSP
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0106>
+काँचनजुँगा	NNP
+भारत	NNP
+में	PSP
+हिमालय	NNP
+का	PSP
+सर्वोच्च	JJ
+शिखर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0107>
+हिमाद्रि	NNPC
+पर्वत	NNPC
+श्रेणी	NN
+वर्ष	NN
+भर	RP
+हिमाच्छादित	JJ
+रहती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0108>
+इस	DEM
+हिमाच्छादित	JJ
+पर्वत	NNC
+श्रेणी	NN
+में	PSP
+छोटी-बडी	JJ
+अनेक	QF
+हिमानियाँ	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0109>
+इन	DEM
+हिमानियों	NN
+का	PSP
+बर्फ	NN
+पिघल-पिघल	VM
+कर	VAUX
+उत्तर	NNPC
+भारत	NNP
+की	PSP
+नदियों	NN
+में	PSP
+बहता	VM
+है	VAUX
+जिससे	PRP
+वे	PRP
+सदानीरा	NN
+बनी	VM
+रहती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0110>
+गंगोत्री	NNP
+और	CC
+यमुनोत्री	NNP
+ऐसी	DEM
+ही	RP
+हिमानियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0111>
+हिमाद्रि	NNPC
+पर्वत	NNPC
+श्रेणी	NN
+को	PSP
+जोजीला	NNP
+,	SYM
+शिपकीला	NNP
+,	SYM
+नीति	NN
+,	SYM
+नाथूला	NNP
+आदि	RP
+दर्रों	NN
+से	PSP
+होकर	VM
+पार	NN
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0112>
+यह	DEM
+पर्वत	NN
+श्रेणी	NN
+हिमाद्रि	NNP
+के	PSP
+दक्षिण	NNP
+में	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0113>
+यह	DEM
+पर्वत	NNC
+श्रेणी	NN
+60	QC
+से	PSP
+80	QC
+किलोमीटर	NN
+तक	PSP
+चैडी	NN
+तथा	CC
+1000	QC
+से	PSP
+4500	QC
+मीटर	NN
+तक	PSP
+ऊँची	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0114>
+इसके	PRP
+कुछ	QF
+शिखर	NN
+5000	QC
+मीटर	NN
+से	PSP
+भी	RP
+अधिक	QF
+ऊँचे	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0115>
+यह	DEM
+श्रेणी	NN
+बहुत	QF
+ही	RP
+ऊबड-खाबड	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0116>
+इसमें	PRP
+संपीडन	NN
+के	PSP
+द्वारा	PSP
+बडे	JJ
+पैमाने	NN
+पर	PSP
+शैलों	NN
+का	PSP
+कायान्तरण	NN
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0117>
+अतः	CC
+इस	DEM
+श्रेणी	NN
+की	PSP
+रचना	NN
+कायान्तरित	JJ
+शैलों	NN
+द्वारा	PSP
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0118>
+इस	DEM
+श्रेणी	NN
+के	PSP
+पूर्वी	JJ
+भाग	NN
+के	PSP
+मन्द	JJ
+ढाल	NN
+घने	JJ
+वनों	NN
+से	PSP
+ढके	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0119>
+अन्यत्र	PRP
+इस	DEM
+श्रेणी	NN
+के	PSP
+दक्षिणाभिमुख	JJ
+ढाल	NN
+बहुत	INTF
+ही	RP
+तीव्र	JJ
+और	CC
+वनस्पति	NN
+विहीन	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0120>
+उत्तराभिमुख	JJ
+ढालों	NN
+पर	PSP
+सघन	JJ
+वनस्पति	NN
+पाई	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0121>
+कश्मीर	NNP
+में	PSP
+इस	DEM
+श्रेणी	NN
+को	PSP
+पीर	NNPC
+पंजाल	NNP
+तथा	CC
+हिमाचल	NNPC
+प्रदेश	NNP
+में	PSP
+धौलाधार	NNP
+के	PSP
+स्थानीय	JJ
+नामों	NN
+से	PSP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0122>
+कश्मीर	NNP
+की	PSP
+सुरम्य	JJ
+घाटी	NN
+,	SYM
+पीर	NNPC
+पंजाल	NNP
+और	CC
+हिमाद्रि	NNP
+श्रेणी	NN
+के	PSP
+बीच	NST
+विस्तृत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0123>
+हिमाचल	NNPC
+पर्वत	NNPC
+श्रेणी	NN
+में	PSP
+ही	RP
+कांगडा	NNP
+और	CC
+कुल्लू	NNP
+की	PSP
+प्रसिद्ध	JJ
+घाटियाँ	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0124>
+हिमाचल	NNPC
+पर्वत	JJ
+श्रेणियों	NN
+पर	PSP
+ही	RP
+प्रमुख	JJ
+पर्वतीय	JJ
+नगर	NN
+बसे	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0125>
+शिमला	NNP
+,	SYM
+नैनीताल	NNP
+,	SYM
+मसूरी	NNP
+,	SYM
+अल्मोडा	NNP
+और	CC
+दार्जिलिंग	NNP
+ऐसे	PRP
+ही	RP
+कुछ	QF
+प्रसिद्ध	JJ
+पर्वतीय	JJ
+नगर	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0126>
+नैनीताल	NNP
+के	PSP
+आस-पास	NST
+अनेक	QF
+सुंदर	JJ
+झीलें	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0127>
+हिमालय	NNP
+की	PSP
+सबसे	JJ
+दक्षिण	NNP
+की	PSP
+श्रेणी	NN
+शिवालिक	NNP
+के	PSP
+नाम	NN
+से	PSP
+विख्यात	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0128>
+हिमालय	NNP
+की	PSP
+हिमाद्रि	NNP
+और	CC
+हिमाचल	NNP
+पर्वत	NNPC
+श्रेणियाँ	NN
+शिवालिक	NNP
+से	PSP
+पहले	NST
+बन	VM
+चुकी	VAUX
+थीं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0129a>
+हिमाद्रि	NNP
+और	CC
+हिमाचल	NNP
+श्रेणियों	NN
+से	PSP
+निकलने	VM
+वाली	PSP
+नदियां	NN
+कंकड-पत्थर	NN
+,	SYM
+बालू	NN
+और	CC
+मिट्टी	NN
+भारी	JJ
+मात्रा	NN
+में	PSP
+बहाकर	VM
+लाती	VM
+थीं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0129b>
+और	CC
+इन्हें	PRP
+तेजी	NN
+से	PSP
+सिकुडते	VM
+टेथिस	NNPC
+सागर	NNP
+में	PSP
+जमा	JJ
+कर	VM
+देती	VAUX
+थी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0130a>
+कालांतर	NN
+में	PSP
+हुई	VM
+हलचलों	NN
+से	PSP
+कंकड-पत्थर	NN
+और	CC
+बालू	NN
+क	SYM
+अवसादों	NN
+में	PSP
+मोड	NN
+पड	VM
+गए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0130b>
+और	CC
+इस	DEM
+प्रकार	NN
+शिवालिक	NNP
+श्रेणी	NN
+का	PSP
+निर्माण	NN
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0131>
+ये	DEM
+सबसे	INTF
+कम	QF
+संघटित	JJ
+श्रेणियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0132>
+हिमाद्रि	NNP
+और	CC
+हिमाचल	NNPC
+पर्वत	NNC
+श्रेणियों	NN
+की	PSP
+तुलना	PSP
+में	PSP
+शिवालिक	JJ
+श्रेणियां	NN
+कम	QF
+ऊँची	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0133>
+इनकी	PRP
+औसत	NN
+ऊँचाई	NN
+600	QC
+मीटर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0134>
+हिमाचल	NNP
+और	CC
+शिवालिक	NNP
+श्रेणियों	NN
+के	PSP
+बीच	NST
+फैली	VM
+चैरस	JJ
+घाटियों	NN
+को	PSP
+‘दून’	NN
+के	PSP
+नाम	NN
+से	PSP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0135>
+देहरादून	NNP
+की	PSP
+घाटी	NN
+इसका	PRP
+उदाहरण	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0136>
+जम्मू-कश्मीर	NNP
+राज्य	NN
+में	PSP
+हिमाद्रि	NNP
+के	PSP
+उत्तर	NN
+में	PSP
+कुछ	QF
+पर्वत	NNC
+श्रेणियां	NN
+फैली	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0137>
+इनमें	PRP
+जास्कर	NNPC
+पर्वत	NN
+श्रेणी	NN
+हिमाद्रि	NNP
+के	PSP
+समानान्तर	JJ
+विस्तृत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0138>
+जास्कर	NNP
+के	PSP
+उत्तर	NNP
+में	PSP
+लद्दाख	NNPC
+पर्वत	NNC
+श्रेणी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0139>
+इन	DEM
+दोनों	QC
+पर्वत	NN
+श्रेणियों	NN
+के	PSP
+बीच	NST
+सिन्धु	NNPC
+नदी	NN
+दक्षिण-पूर्व	NNP
+से	PSP
+उत्तर-पश्चिम	NNP
+की	PSP
+ओर	NST
+बहती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0140a>
+अनेक	QF
+विद्वान	NN
+जास्कर	NNP
+और	CC
+लद्दाख	NNP
+श्रेणियों	NN
+को	PSP
+वृहत	JJ
+हिमालय	NN
+के	PSP
+ही	RP
+अंग	NN
+मानते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0140b>
+और	CC
+उन्हें	PRP
+कश्मीर	NNP
+हिमालय	NNP
+में	PSP
+सम्मिलित	JJ
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0141>
+लद्दाख	NNPC
+पर्वत	NNPC
+श्रेणी	NNP
+के	PSP
+उत्तर	NN
+में	PSP
+कराकोरम	NNPC
+पर्वत	NNC
+श्रेणी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0142>
+संस्कृत	JJ
+साहित्य	NN
+में	PSP
+काराकोरम	NNP
+का	PSP
+नाम	NN
+कृष्णगिरि	NNP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0143>
+इस	DEM
+पर्वत	NNC
+श्रेणी	NN
+का	PSP
+एक	QC
+पर्वत	JJ
+शिखर	NNPC
+के2	NNP
+(	SYM
+8611	QC
+मी	SYM
+.	SYM
+)	SYM
+एवरेस्ट	NNP
+शिखर	NN
+के	PSP
+बाद	NST
+संसार	NN
+का	PSP
+दूसरा	QO
+सबसे	INTF
+ऊँचा	JJ
+शिखर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0144>
+जम्मू-कश्मीर	NNP
+राज्य	NN
+के	PSP
+ऊत्तर-पूर्वी	NNPC
+भाग	NN
+में	PSP
+लद्दाख	NNP
+का	PSP
+पठार	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0145>
+यह	DEM
+पठार	NN
+हमारे	PRP
+देश	NN
+का	PSP
+बहुत	INTF
+ऊँचा	JJ
+,	SYM
+शुष्क	JJ
+,	SYM
+और	CC
+दुर्गम	JJ
+क्षेत्र	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0146>
+ब्रह्मपुत्रा	NNPC
+महाखड्ड	NNP
+के	PSP
+पार	NN
+भारत	NNP
+के	PSP
+उत्तर-पूर्वी	JJ
+राज्यों	NN
+में	PSP
+फैली	VM
+पहाडियों	NN
+का	PSP
+सम्मिलित	JJ
+नाम	NN
+पूर्वाचल	NNP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0147>
+इन	DEM
+पहाडियों	NN
+की	PSP
+औसत	JJ
+ऊँचाई	NN
+समुद्रतल	NN
+से	PSP
+500	QC
+से	PSP
+3000	QC
+मी	VM
+.	SYM
+तक	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0148>
+ये	DEM
+पहाडियाँ	NN
+दक्षिणी-अरूणाचल	NNPC
+प्रदेश	NNP
+,	SYM
+नागालैंड	NNP
+,	SYM
+मिजोरम	NNP
+,	SYM
+मेघालय	NNP
+और	CC
+त्रिपुरा	NNP
+में	PSP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0149>
+मिश्मी	NNP
+,	SYM
+पटकाई	NNP
+बुम	NNP
+,	SYM
+नागा	NNP
+,	SYM
+मणिपुर	NNP
+और	CC
+मिजो	NNP
+(	SYM
+लुशाई	NNP
+)	SYM
+तथा	CC
+त्रिपुरा	NNP
+इस	DEM
+क्षेत्र	NN
+की	PSP
+प्रमुख	JJ
+पहाडियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0150>
+मेघालय	NNP
+का	PSP
+पठार	NN
+उत्तर-पूर्वी	JJ
+पहाडियों	NN
+का	PSP
+ही	RP
+एक	QC
+भाग	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0151>
+इस	DEM
+पठार	NN
+में	PSP
+गारो	NNP
+,	SYM
+खासी	JJ
+और	CC
+जयन्तिया	NNP
+पहाडियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0152>
+सरंचनात्मक	JJ
+दृष्टि	NN
+से	PSP
+यह	DEM
+प्रायद्वीपीय	JJ
+भारत	NNP
+का	PSP
+ही	RP
+भाग	NN
+माना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0153>
+हिमाद्रि	NNP
+,	SYM
+हिमाचल	NNP
+और	CC
+शिवालिक	NNPC
+हिमालय	NNP
+की	PSP
+तीन	QC
+प्रमुख	JJ
+पर्वत	NN
+श्रेणियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0154>
+जास्कर	NNP
+,	SYM
+लद्दाख	NNP
+तथा	CC
+काराकोरम	NNP
+तथा	CC
+इनके	PRP
+पूर्वी	JJ
+विस्तार	NN
+के	PSP
+रूप	PSP
+में	PSP
+फैले	VM
+तिब्बत	NNP
+,	SYM
+कैलाश	NNPC
+हिमालय	NNPC
+पार	NN
+की	PSP
+पर्वत	NN
+श्रेणियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0155>
+मिश्मी	NNP
+,	SYM
+पटकाई	NNP
+बुम	NNP
+,	SYM
+नागा	NNP
+,	SYM
+मणिपुर	NNP
+,	SYM
+मिजो	NNP
+,	SYM
+त्रिपुरा	NNP
+आदि	RP
+पूर्वाचल	NNP
+की	PSP
+पहाडियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0156>
+संसार	NN
+का	PSP
+सर्वोच्च	JJ
+पर्वत	NN
+शिखर	NN
+कौन	WQ
+सा	RP
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0157>
+भारत	NNP
+का	PSP
+सर्वोच्च	JJ
+शिखर	NN
+कौन	WQ
+सा	RP
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0158>
+संस्कृत	JJ
+साहित्य	NN
+में	PSP
+किस	WQ
+पर्वत	NN
+का	PSP
+नाम	NN
+कृष्णगिरि	NNP
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0159>
+आप	PRP
+जम्मू-कश्मीर	NNP
+राज्य	NN
+में	PSP
+स्थित	JJ
+तथा	CC
+तिब्बत	NNP
+में	PSP
+अपने	PRP
+पूर्वी	JJ
+विस्तार	NN
+सहित	PSP
+हिमालय	NNP
+पार	NN
+की	PSP
+प्रमुख	JJ
+पर्वत	NNC
+श्रेणी	NN
+का	PSP
+नाम	NN
+लिखिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0160>
+आप	PRP
+हिमालय	NNP
+की	PSP
+तीन	QC
+समान्तर	JJ
+पर्वत	NNC
+श्रेणियों	NN
+के	PSP
+नाम	NN
+लिखिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0161>
+यह	DEM
+मैदान	NN
+हिमालय	NNP
+के	PSP
+दक्षिण	NNP
+में	PSP
+तथा	CC
+भारतीय	JJ
+विशाल	NNPC
+पठार	NN
+के	PSP
+उत्तर	NN
+में	PSP
+पश्चिम	NNP
+से	PSP
+पूर्व	NST
+तक	PSP
+विस्तृत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0162>
+यह	DEM
+मैदान	NN
+पश्चिम	NNP
+में	PSP
+राजस्थान	NNP
+के	PSP
+शुष्क	JJ
+और	CC
+अर्ध	JJC
+शुष्क	JJ
+भागों	NN
+से	PSP
+लेकर	VM
+पूर्व	NST
+में	PSP
+ब्रह्मपुत्रा	NNP
+नदी	NN
+की	PSP
+घाटी	NN
+तक	PSP
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0163>
+इस	DEM
+मैदान	NN
+का	PSP
+क्षेत्रफल	NN
+7	QCC
+लाख	QC
+वर्ग	NN
+किलोमीटर	NN
+से	PSP
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0164>
+यह	DEM
+मैदान	NN
+बहुत	QF
+उपजाऊ	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0165>
+देश	NN
+की	PSP
+कुल	QF
+जनसंख्या	NN
+का	PSP
+बहुत	INTF
+बडा	JJ
+भाग	NN
+इसी	DEM
+मैदान	NN
+के	PSP
+असंख्य	JJ
+गाँवों	NN
+और	CC
+अनेक	QF
+बडे	JJ
+नगरों	NN
+में	PSP
+रहता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0166>
+यह	DEM
+मैदान	NN
+उत्तर	NNP
+में	PSP
+हिमालय	NNP
+और	CC
+दक्षिण	NNP
+में	PSP
+भारतीय	JJ
+विशाल	JJ
+पठार	NN
+से	PSP
+बहाकर	VM
+लाई	VM
+गई	VAUX
+मिट्टी	NN
+से	PSP
+बना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0167>
+लाखों	QC
+वर्षों	NN
+से	PSP
+प्रति	RP
+वर्ष	NN
+पर्वतीय	JJ
+क्षेत्रों	NN
+से	PSP
+मिट्टी	NN
+ला	VM
+कर	VAUX
+इस	DEM
+मैदान	NN
+में	PSP
+जमा	JJ
+करती	VM
+रहती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0168>
+अतः	CC
+इस	DEM
+मैदान	NN
+में	PSP
+मिट्टी	NN
+की	PSP
+परतें	NN
+बहुत	QF
+गहराई	NN
+तक	PSP
+पाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0169>
+कहीं-कहीं	PRP
+तो	RP
+इनकी	PRP
+गहराई	NN
+2000	QC
+से	PSP
+3000	QC
+मीटर	NN
+तक	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0170>
+यह	DEM
+मैदान	NN
+एकदम	RB
+सपाट	JJ
+और	CC
+समतल	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0171>
+समुद्र	NNC
+तल	NN
+से	PSP
+इसकी	PRP
+औसत	NN
+ऊँचाई	NN
+लगभग	RP
+200	QC
+मीटर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0172>
+समुद्र	NN
+की	PSP
+ओर	NST
+मंद	JJ
+ढाल	NN
+होने	VM
+के	PSP
+कारण	PSP
+इस	DEM
+मैदान	NN
+में	PSP
+नदियाँ	NN
+बहुत	QF
+ही	RP
+धीमी	JJ
+गति	NN
+से	PSP
+बहती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0173>
+वाराणसी	NNP
+से	PSP
+गंगा	NNP
+के	PSP
+मुहाने	NN
+तक	PSP
+ढाल	NN
+केवल	RP
+10	QC
+से	PSP
+.	SYM
+मी	VAUX
+.	SYM
+प्रति	RP
+किलोमीटर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0174>
+अंबाला	NNP
+के	PSP
+आस-पास	NST
+की	PSP
+भूमि	NN
+अपेक्षाकृत	JJ
+ऊँची	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0175>
+अतः	CC
+यह	DEM
+भाग	NN
+पूर्व	NST
+में	PSP
+गंगा	NNP
+और	CC
+पश्चिम	NNP
+में	PSP
+सतलुज	NNPC
+नदी-घाटियों	NN
+के	PSP
+बीच	NST
+जल	NNC
+विभाजक	NN
+का	PSP
+काम	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0176>
+इस	DEM
+जल	NNC
+विभाजक	NN
+के	PSP
+पूर्व	NST
+की	PSP
+ओर	NST
+की	PSP
+नदियाँ	NN
+बंगाल	NNP
+की	PSP
+खाडी	NNP
+में	PSP
+तथा	CC
+पश्चिम	NNP
+की	PSP
+ओर	NST
+की	PSP
+नदियाँ	NN
+अरब	NNPC
+सागर	NNP
+में	PSP
+मिलती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0177>
+मैदान	NN
+के	PSP
+अपेक्षाकृत	INTF
+ऊँचे	JJ
+भाग	NN
+को	PSP
+‘बाँगर’	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0178>
+इस	DEM
+भाग	NN
+में	PSP
+नदियों	NN
+की	PSP
+बाढ	NN
+का	PSP
+पानी	NN
+कभी	PRP
+नहीं	NEG
+पहुँचता	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0179>
+इसके	PRP
+विपरीत	PSP
+‘खादर’	NNPC
+मैदान	NN
+का	PSP
+अपेक्षाकृत	JJ
+नीचा	JJ
+भाग	NN
+है	VM
+,	SYM
+जहाँ	PRP
+बाढ	NN
+का	PSP
+पानी	NN
+हर	QF
+साल	NN
+पहुँचता	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0180>
+पंजाब	NNP
+में	PSP
+खादर	NNP
+को	PSP
+‘बेट’	VM
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0181>
+पंजाब	NNP
+,	SYM
+हरियाणा	NNP
+और	CC
+उत्तर	NNPC
+प्रदेश	NNP
+में	PSP
+शिवालिक	NNPC
+पर्वत	NNPC
+श्रेणी	NN
+के	PSP
+साथ-साथ	PSP
+10	QC
+.	SYM
+15	QC
+किमी	NN
+.	SYM
+चैडी	NN
+मैदानी	JJ
+पट्टी	NN
+को	PSP
+‘भाबर’	VM
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0182>
+यह	DEM
+पट्टी	NN
+कंकरीली	JJ
+बालुई	NNC
+मिट्टी	NN
+से	PSP
+बनी	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0183a>
+ग्रीष्म	NNPC
+ऋतु	NNP
+में	PSP
+छोटे-छोटे	JJ
+नदी-नाले	NN
+इस	DEM
+पट्टी	NN
+में	PSP
+भूमिगत	JJ
+हो	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0183b>
+और	CC
+इस	DEM
+पट्टी	NN
+को	PSP
+पार	NN
+करके	VM
+इनका	PRP
+जल	NNC
+धरातल	NN
+पर	PSP
+पुनः	RB
+आ	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0184>
+यह	DEM
+जल	NNC
+भाबर	NNP
+के	PSP
+साथ-साथ	PSP
+फैली	VM
+15	QC
+.	SYM
+30	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+चौडी	JJ
+‘तराई’	NNP
+नाम	NN
+की	PSP
+पट्टी	NN
+में	PSP
+जमा	JJ
+हो	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0185>
+इससे	PRP
+यहाँ	PRP
+दलदली	JJ
+क्षेत्र	NN
+बन	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0186>
+तराई	NNP
+का	PSP
+अधिकांश	JJ
+क्षेत्र	NN
+कृषि	JJC
+योग्य	JJ
+बना	VM
+लिया	VAUX
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0187>
+पश्चिमी	JJ
+मैदानः	NNP
+में	PSP
+राजस्थान	NNP
+का	PSP
+मरुस्थल	NN
+तथा	CC
+अरावली	NNPC
+पर्वत	NNC
+श्रेणी	NNP
+का	PSP
+पश्चिमी	JJ
+बांगर	NNP
+क्षेत्र	NN
+सम्मिलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0188>
+मरुस्थल	NN
+का	PSP
+कुछ	QF
+भाग	NN
+चट्टानी	NN
+तथा	CC
+कुछ	QF
+भाग	NN
+रेतीला	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0189>
+प्राचीन	JJ
+काल	NN
+में	PSP
+यहाँ	PRP
+सरस्वती	NNP
+और	CC
+दृषद्वती	NNP
+नाम	NN
+की	PSP
+सदानीरा	JJ
+नदियाँ	NN
+बहती	VM
+थीं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0190>
+उत्तरी	JJ
+मैदान	NN
+के	PSP
+इस	DEM
+भाग	NN
+में	PSP
+बीकानेर	NNP
+का	PSP
+उपजाऊ	JJ
+क्षेत्र	NN
+भी	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0191>
+पश्चिमी	JJ
+मैदान	NN
+से	PSP
+लूनी	NNP
+नदी	NN
+कच्छ	NNP
+के	PSP
+रन	NN
+में	PSP
+जाकर	VM
+विलीन	JJ
+हो	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0192>
+सांभर	NNP
+नाम	NN
+की	PSP
+खारे	NN
+पानी	NN
+की	PSP
+प्रसिद्ध	JJ
+झील	NN
+इस	DEM
+क्षेत्र	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0193>
+पंजाब	NNP
+,	SYM
+हरियाणा	NNP
+और	CC
+उत्तर	NNPC
+प्रदेश	NNP
+में	PSP
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0194>
+इस	DEM
+मैदान	NN
+का	PSP
+पंजाब	NNP
+और	CC
+हरियाणा	NNP
+में	PSP
+फैला	VM
+भाग	NN
+,	SYM
+सतलुज	NNP
+,	SYM
+रावी	NNP
+,	SYM
+और	CC
+व्यास	NN
+नदियों	NN
+के	PSP
+द्वारा	PSP
+लाई	VM
+गई	VAUX
+मिट्टी	NN
+से	PSP
+बना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0195>
+यह	DEM
+भाग	NN
+बहुत	QF
+उपजाऊ	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0196>
+इस	DEM
+मैदान	NN
+का	PSP
+उत्तर	NNPC
+प्रदेश	NNP
+में	PSP
+फैला	VM
+भाग	NN
+गंगा	NNP
+,	SYM
+यमुना	NNP
+,	SYM
+रामगंगा	NNP
+,	SYM
+गोमती	NNP
+,	SYM
+घाघरा	NNP
+,	SYM
+गंडक	NNP
+नदियों	NN
+के	PSP
+द्वारा	PSP
+बहाकर	VM
+लाई	VM
+गई	VAUX
+मिट्टी	NN
+से	PSP
+बना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0197a>
+मैदान	NN
+का	PSP
+यह	DEM
+भाग	NN
+भी	RP
+बहुत	INTF
+उपजाऊ	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0197b>
+और	CC
+भारतीय	JJ
+सभ्यता	NN
+और	CC
+संस्कृति	NN
+का	PSP
+पालना	VM
+रहा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0198>
+इस	DEM
+मैदान	NN
+का	PSP
+विस्तार	NN
+बिहार	NNP
+और	CC
+पश्चिम	NNPC
+बंगाल	NNP
+के	PSP
+राज्यों	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0199>
+बिहार	NNP
+राज्य	NN
+में	PSP
+गंगा	NNP
+नदी	NN
+इस	DEM
+मैदान	NN
+के	PSP
+बीच	NST
+से	PSP
+होकर	VM
+बहती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0200>
+उत्तर	NNP
+की	PSP
+ओर	NST
+से	PSP
+घाघरा	NNP
+,	SYM
+गंडक	NNP
+और	CC
+कोसी	NNP
+तथा	CC
+दक्षिण	NNP
+की	PSP
+ओर	NST
+से	PSP
+सोन	NNP
+इसी	DEM
+मैदान	NN
+में	PSP
+गंगा	NNP
+में	PSP
+मिलती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0201>
+पश्चिम	NNPC
+बंगाल	NNP
+राज्य	NN
+में	PSP
+जो	DEM
+मैदानी	JJ
+भाग	NN
+है	VM
+,	SYM
+उसका	PRP
+विस्तार	NN
+हिमालय	NNP
+के	PSP
+पाद	NNPC
+प्रदेश	NNP
+से	PSP
+लेकर	VM
+बंगाल	NNP
+की	PSP
+खाडी	NNP
+तक	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0202>
+यहां	PRP
+यह	DEM
+मैदान	NN
+कुछ	QF
+अधिक	QF
+चौडा	JJ
+हो	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0203>
+इसका	PRP
+दक्षिणी	JJ
+भाग	NN
+डेल्टा	NNP
+क्षेत्र	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0204>
+इस	DEM
+डेल्टा	NNC
+क्षेत्र	NN
+में	PSP
+गंगा	NNP
+अनेक	QF
+वितरिकाओं	NN
+में	PSP
+बंट	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0205>
+हुगली	NNP
+गंगा	NNP
+की	PSP
+वितरिका	NN
+का	PSP
+सबसे	INTF
+अच्छा	JJ
+उदाहरण	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0206>
+यह	DEM
+मैदानी	JJ
+भाग	NN
+भी	RP
+बहुत	INTF
+उपजाऊ	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0207>
+भारतीय	JJ
+विशाल	JJ
+मैदान	NNP
+का	PSP
+उत्तर	NNPC
+पूर्वी	JJ
+भाग	NN
+असम	NNP
+में	PSP
+विस्तृत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0208>
+यह	DEM
+मैदान	NN
+ब्रह्मपुत्रा	NNP
+और	CC
+उसकी	PRP
+सहायक	JJ
+नदियों	NN
+द्वारा	PSP
+बहाकर	VM
+लाई	VM
+गई	VAUX
+मिट्टी	NN
+स	SYM
+बना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0209>
+ब्रह्मपुत्रा	NNP
+में	PSP
+अक्सर	RB
+ही	RP
+भयंकर	JJ
+बाढे	NN
+आती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0210>
+बाढ	NN
+के	PSP
+समय	PSP
+विशाल	JJ
+जलराशि	NN
+दूर-दूर	NN
+तक	PSP
+फैल	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0211>
+बाढ	NN
+के	PSP
+बाद	NST
+नदी	NN
+अपनी	PRP
+धारा	NN
+बदल	VM
+देती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0212>
+इससे	PRP
+नदी	NN
+की	PSP
+धारा	NN
+में	PSP
+अनेक	QF
+द्वीप	NN
+बन	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0213>
+ब्रह्मपुत्रा	NNP
+की	PSP
+धारा	NN
+में	PSP
+बना	VM
+माजुली	NNP
+(	SYM
+1250	QC
+वर्ग	NN
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+)	SYM
+द्वीप	NNP
+संसार	NNP
+का	PSP
+सबसे	INTF
+बडा	JJ
+नदी	NN
+द्वीप	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0214>
+यह	DEM
+मैदानी	JJ
+भाग	NN
+भी	RP
+बहुत	INTF
+उपजाऊ	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0215>
+यह	DEM
+मैदानी	JJ
+भाग	NN
+तीन	QC
+ओर	NST
+से	PSP
+पहाडियों	NN
+से	PSP
+घिरा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0216>
+गंगा	NNP
+और	CC
+ब्रह्मपुत्रा	NN
+तथा	CC
+उनकी	PRP
+सहायक	JJ
+नदियों	NN
+के	PSP
+द्वारा	PSP
+संयुक्त	JJ
+रूप	NN
+से	PSP
+बनाए	VM
+गए	VAUX
+मैदान	NN
+और	CC
+डेल्टा	NNPC
+प्रदेश	NNP
+में	PSP
+बांगलादेश	NNP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0217>
+उत्तरी	JJ
+विशाल	JJ
+मैदान	NNP
+हिमालय	NNP
+और	CC
+भारतीय	JJ
+पठार	NN
+से	PSP
+बहाकर	VM
+लाई	VM
+गई	VAUX
+मिट्टी	NN
+से	PSP
+बना	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0218>
+यह	DEM
+मैदान	NN
+एकदम	RB
+सपाट	JJ
+और	CC
+समतल	JJ
+है	VM
+,	SYM
+इसमें	PRP
+ढाल	NNC
+नाम	NNC
+मात्रा	NN
+का	PSP
+ही	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0219>
+मैदान	NN
+दो	QC
+प्रकार	NN
+का	PSP
+होता	VM
+है	VAUX
+बांगर	NNP
+और	CC
+खादर	NNP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0220>
+उत्तरी	JJ
+विशाल	JJ
+मैदान	NNP
+के	PSP
+चार	QC
+भाग	NN
+हैं	VM
+-	SYM
+पश्चिमी	JJ
+मैदान	NNP
+,	SYM
+उत्तरी	JJ
+मध्य	NNPC
+मैदान	NNP
+,	SYM
+पूर्वी	JJ
+मैदान	NN
+और	CC
+ब्रह्मपुत्रा	NNP
+का	PSP
+मैदान	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0221>
+उत्तरी	JJ
+विशाल	JJ
+मैदान	NN
+में	PSP
+मिट्टी	NN
+की	PSP
+परतें	NN
+अधिक	QF
+से	RP
+अधिक	QF
+कितनी	QF
+गहराई	NN
+तक	PSP
+पाई	VM
+जाती	VAUX
+हैं	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0222>
+बांगर	NNP
+किसे	WQ
+कहते	VM
+हैं	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0223>
+भाबर	NNP
+क्षेत्र	NN
+किन	QF
+तीन	QC
+राज्यों	NN
+में	PSP
+विस्तृत	JJ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0224>
+पश्चिमी	JJ
+मैदान	NN
+में	PSP
+प्राचीन	JJ
+काल	NN
+में	PSP
+कौन	WQ
+सी	RP
+दो	QC
+सदानीरा	JJ
+नदियां	NN
+बहती	VM
+थीं	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0225>
+उत्तरी	JJ
+मध्य	NNPC
+मैदान	NN
+में	PSP
+बहने	VM
+वाली	PSP
+चार	QC
+नदियों	NN
+के	PSP
+नाम	NN
+बताओ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0226>
+उत्तरी	JJ
+विशाल	JJ
+मैदान	NNP
+के	PSP
+दक्षिण	NNP
+में	PSP
+भारतीय	JJ
+विशाल	JJ
+पठार	NNP
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0227>
+यह	PRP
+हमारे	PRP
+देश	NN
+का	PSP
+सबसे	INTF
+बडा	JJ
+भौतिक	JJ
+विभाग	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0228>
+इसका	PRP
+क्षेत्रफल	NN
+लगभग	RP
+16	QCC
+लाख	QC
+वर्ग	NN
+किलोमीटर	NN
+है	VM
+,	SYM
+अर्थात्	CC
+देश	NN
+का	PSP
+लगभग	RP
+आधा	QF
+भाग	NN
+पठारी	NNP
+प्रदेश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0229>
+यह	DEM
+प्राचीन	JJ
+चट्टानों	NN
+से	PSP
+बना	VM
+पठारी	JJ
+प्रदेश	NNP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0230>
+इस	DEM
+प्रदेश	NN
+में	PSP
+छोटे	JJ
+बडे	JJ
+अनेक	QF
+पठार	NN
+,	SYM
+पर्वत	NNPC
+श्रृखलाएं	NN
+और	CC
+नदी	NN
+घाटियां	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0231>
+भारतीय	JJ
+विशाल	JJ
+पठार	NNP
+की	PSP
+उत्तर-पश्चिमी	JJ
+सीमा	NN
+पर	PSP
+अरावली	NNP
+पहाडियां	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0232>
+बुंदेलखंड	NNP
+का	PSP
+पठार	NN
+,	SYM
+कैमूर	NNP
+तथा	CC
+राजमहल	NNP
+की	PSP
+पहाडियां	NN
+,	SYM
+इसकी	PRP
+उत्तरी	JJ
+तथा	CC
+उत्तर-पूर्वी	JJ
+सीमा	NN
+निर्धारित	JJ
+करती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0233>
+पश्चिमी	JJ
+घाट	NNP
+,	SYM
+सह्याद्रि	NNP
+तथा	CC
+पूर्वी	JJ
+घाट	NNP
+,	SYM
+विशाल	JJ
+पठार	NN
+की	PSP
+क्रमशः	NN
+पश्चिमी	JJ
+और	CC
+पूर्वी	JJ
+सीमाएं	NN
+बनाते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0234>
+इस	DEM
+पठार	NN
+का	PSP
+अधिकांश	JJ
+धरातल	NN
+400	QC
+मीटर	NN
+से	PSP
+अधिक	QF
+ऊँचा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0235>
+इस	DEM
+पठार	NN
+का	PSP
+सबसे	INTF
+ऊँचा	JJ
+स्थान	NN
+अनाईमुदी	NNPC
+शिखर	NNP
+(	SYM
+2695	QC
+मी	SYM
+.	SYM
+)	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0236>
+इस	DEM
+पठार	NN
+का	PSP
+सामान्य	JJ
+ढाल	NN
+पश्चिम	NNP
+से	PSP
+पूर्व	NST
+की	PSP
+ओर	NST
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0237>
+विशाल	JJ
+पठार	NN
+अत्यन्त	INTF
+प्राचीन	JJ
+भूखंड	NN
+है	VM
+,	SYM
+यह	PRP
+भाग	NN
+प्राचीन	JJ
+गोंडवानालैंड	NNP
+का	PSP
+हिस्सा	NN
+रहा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0238>
+यह	DEM
+भाग	NN
+प्राचीन	JJ
+काल	NN
+से	PSP
+सदैव	RB
+समुद्रतल	NN
+से	PSP
+ऊपर	NST
+रहा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0239>
+इसी	PRP
+से	PSP
+इसका	PRP
+बडे	JJ
+पैमाने	NN
+पर	PSP
+अनाच्छादन	NN
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0240>
+इसके	PRP
+पर्वत	NN
+अवशिष्ट	JJ
+प्रकार	NN
+के	PSP
+प्रर्वत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0241a>
+ये	DEM
+पर्वत	NN
+बहुत	INTF
+कठोर	JJ
+शैलों	NN
+के	PSP
+बने	VM
+हैं	VAUX
+,	SYM
+इन	PRP
+पर	PSP
+अनाच्छादन	NN
+की	PSP
+शक्तियों	NN
+का	PSP
+प्रभाव	NN
+कम	QF
+पडा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0241b>
+जबकि	CC
+इनके	PRP
+आस	NN
+पास	NST
+की	PSP
+भूमि	NN
+की	PSP
+शैल	NNPC
+अपरदित	JJ
+होकर	VM
+बह	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0242a>
+प्राचीन	JJ
+होने	VM
+के	PSP
+कारण	PSP
+विशाल	JJ
+पठार	NN
+की	PSP
+नदियों	NN
+ने	PSP
+अपना	PRP
+आधार	NN
+तल	NNC
+लगभग	NN
+प्राप्त	JJ
+कर	VM
+लिया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0242b>
+और	CC
+वे	PRP
+चौडी	NN
+तथा	CC
+उथली	JJ
+घाटियों	NN
+में	PSP
+बहती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0243>
+भारतीय	JJ
+विशाल	JJ
+पठार	NNP
+की	PSP
+विशेष	JJ
+रूप	NN
+से	PSP
+इसके	PRP
+दक्षिणी	JJ
+भाग	NN
+की	PSP
+रचना	NN
+कायान्तरित	JJ
+और	CC
+आग्नेय	JJ
+शैलों	NN
+से	PSP
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0244>
+नर्मदा	NNPC
+नदी	NN
+ने	PSP
+इस	DEM
+विशाल	JJ
+पठार	NN
+को	PSP
+दो	QC
+भागों	NN
+में	PSP
+विभाजित	JJ
+कर	VM
+दिया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0245a>
+नर्मदा	NNP
+नदी	NN
+के	PSP
+उत्तरी	JJ
+भाग	NN
+को	PSP
+मध्यवर्ती	JJ
+उच्च	NNPC
+भूमि	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0245b>
+तथा	CC
+दक्षिणी	JJ
+भाग	NN
+को	PSP
+प्रायद्वीपीय	JJ
+पठार	NN
+कहते	VM
+हैं	VAUX
+,	SYM
+इस	DEM
+भाग	NN
+का	PSP
+अधिक	QF
+प्रचलित	JJ
+नाम	NN
+दक्कन	NNP
+का	PSP
+पठार	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0246>
+नर्मदा	NNP
+नदी	NN
+के	PSP
+उत्तर	NNPC
+तथा	CC
+उत्तरी	JJ
+विशाल	JJ
+मैदान	NNP
+के	PSP
+दक्षिण	NN
+में	PSP
+फैली	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0247>
+इसके	PRP
+पश्चिमी	JJ
+भाग	NN
+में	PSP
+अरावली	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0248>
+अरावली	NNP
+गुजरात	NNP
+से	PSP
+राजस्थान	NNP
+होकर	VM
+दिल्ली	NNP
+तक	PSP
+उत्तर-पूर्वी	JJ
+दिशा	NN
+में	PSP
+700	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+की	PSP
+दूरी	NN
+में	PSP
+फैली	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0249>
+दिल्ली	NNP
+के	PSP
+निकट	NST
+इनकी	PRP
+समुद्रतल	NN
+से	PSP
+ऊँचाई	NN
+400	QC
+मीटर	NN
+तथा	CC
+दक्षिण	NNP
+में	PSP
+1500	QC
+मीटर	NN
+तक	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0250>
+गुरु	NNPC
+शिखर	NNP
+(	SYM
+1722	QC
+मी	SYM
+.	SYM
+)	SYM
+अरावली	NNP
+का	PSP
+सर्वोच्च	JJ
+शिखर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0251>
+गुजरात	NNP
+और	CC
+राजस्थान	NNP
+की	PSP
+सीमा	NN
+पर	PSP
+स्थित	JJ
+माउण्ट	NNPC
+आबू	NNP
+एक	QC
+सुन्दर	JJ
+पर्वतीय	JJ
+नगर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0252>
+अरावली	NNP
+के	PSP
+पूर्व	NST
+की	PSP
+भूमि	NN
+बहुत	QF
+ऊबड-खाबड	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0253>
+मध्यवर्ती	JJ
+उच्च	JJ
+भूमि	NN
+का	PSP
+एक	QC
+भाग	NN
+मालवा	NNP
+के	PSP
+पठार	NN
+के	PSP
+नाम	NN
+से	PSP
+जाना	VM
+जाता	VAUX
+हैं	VAUX
+,	SYM
+यह	DEM
+भाग	NN
+अरावली	NNP
+के	PSP
+दक्षिण	NNPC
+पूर्व	NNP
+तथा	CC
+विध्यांचल	NNPC
+श्रेणी	NNP
+के	PSP
+उत्तर	NN
+में	PSP
+विस्तृत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0254>
+चंबल	NNP
+और	CC
+बेतवा	NNP
+नदियाँ	NN
+इस	DEM
+क्षेत्र	NN
+का	PSP
+जल	NN
+बहाकर	VM
+यमुना	NNP
+में	PSP
+ले	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0255>
+मध्यवर्ती	JJ
+भूमि	NN
+का	PSP
+वह	PRP
+भाग	NN
+,	SYM
+जो	PRP
+मालवा	NNP
+पठार	NN
+के	PSP
+पूर्व	NST
+में	PSP
+फैला	VM
+हुआ	VAUX
+है	VAUX
+,	SYM
+बुंदेलखण्ड	NNP
+के	PSP
+पठार	NN
+के	PSP
+नाम	NN
+से	PSP
+विख्यात	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0256>
+बुंदेलखण्ड	NNP
+के	PSP
+पूर्व	NST
+में	PSP
+बघेलखण्ड	NNP
+का	PSP
+पठार	NN
+तथा	CC
+इसके	PRP
+और	CC
+पूर्व	NST
+में	PSP
+छोटानागपुर	NNP
+का	PSP
+पठार	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0257>
+मध्यवर्ती	JJ
+भूमि	NN
+के	PSP
+दक्षिणतम	JJ
+भाग	NN
+में	PSP
+विंध्याचल	NNP
+और	CC
+उत्तर	NNPC
+पूर्व	NNP
+में	PSP
+महादेव	NNP
+,	SYM
+कैमूर	NNP
+तथा	CC
+मैकाल	NNP
+की	PSP
+पहाडियां	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0258>
+नर्मदा	NNP
+घाटी	NN
+की	PSP
+ओर	NST
+विध्यांचल	NNP
+श्रेणी	NN
+के	PSP
+एकदम	RB
+खडे	JJ
+कगार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0259a>
+इससे	PRP
+इसी	DEM
+बात	NN
+की	PSP
+पुष्टि	NN
+यह	PRP
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0259b>
+कि	CC
+नर्मदा	NNP
+एक	QC
+भ्रंश	NN
+या	CC
+रिफ्ट	NNPC
+घाटी	NN
+में	PSP
+बहती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0260>
+इस	DEM
+श्रेणी	NN
+में	PSP
+दर्रे	NN
+बहुत	INTF
+कम	QF
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0261>
+अतः	CC
+प्राचीन	JJ
+काल	NN
+में	PSP
+यह	PRP
+काफी	QF
+समय	NN
+तक	PSP
+उत्तर	NNP
+और	CC
+दक्षिण	NNPC
+भारत	NNP
+के	PSP
+बीच	NST
+अवरोध	NN
+बना	VM
+रहा	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0262>
+विध्यांचल	NNP
+और	CC
+सतपुडा	NNP
+के	PSP
+मध्य	NNPC
+नर्मदा	NNP
+घाटी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0263>
+इसी	DEM
+घाटी	NN
+में	PSP
+नर्मदा	NNP
+नदी	NN
+पूर्व	NST
+से	PSP
+पश्चिम	NNP
+की	PSP
+ओर	NST
+बहती	VM
+हुई	VAUX
+,	SYM
+अरब	NNPC
+सागर	NNP
+में	PSP
+मिल	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0264>
+विंध्याचल	NNP
+और	CC
+सतपुडा	NNP
+श्रेणियों	NN
+के	PSP
+बीच	NST
+के	PSP
+भू-भाग	NN
+के	PSP
+नीचे	NST
+की	PSP
+ओर	NST
+धंसने	VM
+से	PSP
+इस	DEM
+घाटी	NN
+का	PSP
+निर्माण	NN
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0265>
+यह	PRP
+भारतीय	JJ
+विशाल	JJ
+पठार	NN
+का	PSP
+सबसे	INTF
+बडा	JJ
+भू-आकृतिक	JJ
+विभाग	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0266>
+इस	DEM
+पठार	NN
+की	PSP
+आकृति	NN
+त्रिभुज	NN
+के	PSP
+समान	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0267>
+इसकी	PRP
+एक	QC
+भुजा	NN
+कन्याकुमारी	NNP
+से	PSP
+राजमहल	NNP
+पहाडियों	NN
+को	PSP
+जोडने	VM
+वाली	PSP
+रेखा	NN
+है	VM
+,	SYM
+जो	PRP
+पूर्वी	JJ
+घाट	NN
+से	PSP
+होकर	VM
+गुजरती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0268>
+दूसरी	QO
+भुजा	NN
+सतपुडा	NNPC
+श्रेणी	NNP
+,	SYM
+महादेव	NNPC
+पहाडियाँ	NNP
+,	SYM
+मैकाल	NNP
+श्रेणी	NN
+और	CC
+राजमहल	NN
+की	PSP
+पहाडियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0269>
+तीसरी	QO
+भुजा	NN
+सह्याद्रि	NNPC
+श्रेणी	NNP
+(	SYM
+पश्चिमी	JJ
+घाट	NNP
+)	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0270a>
+प्रायद्वीपीय	JJ
+पठार	NN
+का	PSP
+कुल	QF
+क्षेत्राफल	NN
+लगभग	RP
+7	QCC
+लाख	QC
+वर्ग	NN
+किलोमीटर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0270b>
+तथा	CC
+ऊँचाई	NN
+500	QC
+मी	VM
+.	SYM
+से	PSP
+1000	QC
+मीतक	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0271>
+प्रायद्वीपीय	JJ
+पठार	NN
+के	PSP
+पश्चिम	NNP
+में	PSP
+सह्याद्रि	NNP
+श्रेणी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0272>
+अरब	NNPC
+सागर	NNP
+के	PSP
+तट	NN
+के	PSP
+साथ	NST
+फैले	VM
+खडे	JJ
+ढाल	NN
+वाले	PSP
+सह्याद्रि	NNP
+विस्मयकारी	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0273>
+पश्चिम	NNP
+में	PSP
+स्थित	JJ
+होने	VM
+के	PSP
+कारण	PSP
+इसका	PRP
+एक	QC
+नाम	NN
+पश्चिमी	JJ
+घाट	NN
+भी	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0274>
+घाट	NNP
+शब्द	NN
+का	PSP
+एक	QC
+अर्थ	NN
+पहाड	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0275>
+अतः	CC
+इसका	PRP
+यह	DEM
+नाम	NN
+भी	RP
+सार्थक	JJ
+ही	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0276>
+सह्याद्रि	NNP
+की	PSP
+औसत	JJ
+ऊँचाई	NN
+उत्तर	NNP
+से	PSP
+दक्षिण	NNP
+की	PSP
+ओर	NST
+बढती	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0277>
+केरल	NNP
+में	PSP
+स्थित	JJ
+अनाईमुदी	NNPC
+शिखर	NNP
+(	SYM
+2695	QC
+मी	SYM
+.	SYM
+)	SYM
+दक्षिण	NNPC
+भारत	NNP
+का	PSP
+सर्वोच्च	JJ
+पर्वत	NNC
+शिखर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0278>
+अनाईमुदी	NNP
+;	CC
+अनामलाई	NNPC
+श्रेणी	NN
+,	SYM
+कार्डेमम	NNC
+पहाडियों	NN
+और	CC
+पलनी	NNP
+पहाडियों	NN
+का	PSP
+मिलन	NNC
+बिन्दु	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0279>
+पलनी	NNP
+पहाडियों	NN
+में	PSP
+कोडैकानल	NN
+एक	QC
+सुरम्य	JJ
+पर्वतीय	JJ
+नगर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0280>
+पूर्वी	JJ
+घाट	NN
+प्रायद्वीपीय	JJ
+पठार	NN
+के	PSP
+पूर्वी	JJ
+भाग	NN
+में	PSP
+फैले	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0281>
+इन्हें	PRP
+पूर्वाद्रि	NNP
+श्रेणी	NN
+के	PSP
+नाम	NN
+से	PSP
+भी	RP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0282>
+यह	DEM
+श्रेणी	NN
+तमिलनाडु	NNP
+और	CC
+कर्नाटक	NNP
+की	PSP
+सीमा	NN
+पर	PSP
+स्थित	JJ
+नीलगिरि	NNP
+पर	PSP
+सह्याद्रि	NNP
+(	SYM
+पश्चिमी	JJ
+घाट	NNP
+)	SYM
+से	PSP
+मिल	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0283>
+नीलगिरि	NNP
+में	PSP
+उदगमंडलम	NNP
+(	SYM
+ऊटी	NNP
+)	SYM
+नगर	NN
+दक्षिण	NNPC
+भारत	NNP
+का	PSP
+प्रसिद्ध	JJ
+पर्वतीय	JJ
+नगर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0284>
+यह	DEM
+नगर	NN
+तमिलनाडु	NNP
+में	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0285>
+स्वतंत्रता	NN
+से	PSP
+पूर्व	NST
+यह	PRP
+मद्रास	NNPC
+प्रेसीडेंसी	NNP
+के	PSP
+गवर्नर	NN
+का	PSP
+ग्रीष्मकालीन	JJ
+निवास	NNPC
+स्थान	NN
+हुआ	VM
+करता	VAUX
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0286>
+सह्याद्रि	NNP
+श्रेणी	NNP
+की	PSP
+भांति	PSP
+यह	PRP
+अविच्छिन्न	JJ
+(	SYM
+निरंतर	JJ
+)	SYM
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0287>
+महानदी	NNP
+,	SYM
+गोदावरी	NNP
+,	SYM
+कृष्णा	NNP
+,	SYM
+पेन्नार	NNP
+और	CC
+कावेरी	NNP
+नदियों	NN
+ने	PSP
+इसे	PRP
+कई	QF
+स्थानों	NN
+पर	PSP
+खण्डित	JJ
+किया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0288>
+सह्याद्रि	NNP
+और	CC
+पूर्वाद्रि	NNP
+(	SYM
+पूर्वी	JJ
+घाट	NNP
+)	SYM
+के	PSP
+बीच	NST
+के	PSP
+पठारी	JJ
+भाग	NN
+को	PSP
+कई	QF
+स्थानीय	JJ
+नामों	NN
+से	PSP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0289>
+आंध्र	NNPC
+प्रदेश	NNP
+में	PSP
+फैला	VM
+तेलंगाना	NNP
+का	PSP
+पठार	NN
+प्रायद्वीपीय	NNPC
+पठार	NN
+का	PSP
+ही	RP
+एक	QC
+भाग	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0290>
+प्रायद्वीपीय	JJ
+पठार	NN
+के	PSP
+उत्तर-पूर्वी	JJ
+भाग	NN
+को	PSP
+बघेल	NNP
+खंड	NN
+और	CC
+छोटा	JJ
+नागपुर	NNP
+के	PSP
+पठार	NN
+के	PSP
+नाम	NN
+से	PSP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0291>
+छोटा	JJ
+नागपुर	NNP
+के	PSP
+पठार	NN
+में	PSP
+बहने	VM
+वाली	PSP
+दामोदर	NNPC
+नदी	NNP
+की	PSP
+घाटी	NN
+में	PSP
+हमारे	PRP
+देश	NN
+की	PSP
+प्रसिद्ध	JJ
+कोयला	NNC
+पट्टी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0292>
+यहाँ	PRP
+और	QF
+भी	RP
+बहुत	QF
+से	RP
+खनिज	NN
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0293>
+विशाल	JJ
+पठार	NN
+की	PSP
+आकृति	NN
+त्रिभुज	NN
+के	PSP
+समान	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0294>
+इसके	PRP
+दो	QC
+प्रमुख	JJ
+विभाग	NN
+हैं	VM
+-	SYM
+मध्यवर्ती	JJ
+उच्च	NNPC
+भूमि	NN
+तथा	CC
+प्रायद्वीपीय	JJ
+पठार	NNP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0295>
+अरावली	NNP
+,	SYM
+विंध्याचल	NNP
+,	SYM
+सह्याद्रि	NNP
+,	SYM
+पूर्वाद्रि	NNP
+,	SYM
+अनामलाई	NNP
+,	SYM
+कार्डेमम	NNP
+,	SYM
+पलनी	NNP
+,	SYM
+महादेव	NNP
+,	SYM
+मैकाल	NNP
+और	CC
+सतपुडा	NNP
+विशाल	NNPC
+पठार	NNP
+की	PSP
+प्रमुख	JJ
+पहाडियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0296>
+चंबल	NNP
+,	SYM
+नर्मदा	NNP
+,	SYM
+तापी	NNP
+,	SYM
+महानदी	NNP
+,	SYM
+गोदावरी	NNP
+,	SYM
+कृष्णा	NNP
+और	CC
+कावेरी	NNP
+प्रमुख	JJ
+पठारी	NNP
+नदियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0297>
+दक्षिण	NNPC
+भारत	NNP
+का	PSP
+सर्वोच्च	JJ
+शिखर	NN
+कौन	WQ
+सा	RP
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0298>
+कौन	WQ
+सी	NNPC
+नदी	NNPC
+भ्रंश	NN
+घाटी	NN
+से	PSP
+होकर	VM
+बहती	VM
+है	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0299>
+आप	PRP
+मालवा	NNP
+के	PSP
+पठार	NN
+में	PSP
+बहने	VM
+वाली	PSP
+नदियों	NN
+के	PSP
+नाम	NN
+लिखिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0300>
+पर्वतीय	JJ
+नगर	NN
+कोडैकानल	NNP
+किन	WQ
+पहाडियों	NN
+में	PSP
+स्थित	JJ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0301>
+अरावली	NNP
+की	PSP
+पहाडियों	NN
+में	PSP
+बसे	VM
+पर्वतीय	JJ
+नगर	NN
+का	PSP
+क्या	WQ
+नाम	NN
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0302>
+हमारे	PRP
+देश	NN
+का	PSP
+विशाल	JJ
+पठार	NN
+चारों	QC
+ओर	NST
+से	PSP
+घिरा	VM
+हुआ	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0303>
+उत्तर	NNP
+में	PSP
+उत्तरी	JJ
+विशाल	JJ
+मैदान	NNP
+तथा	CC
+दक्षिण	NNP
+,	SYM
+पूर्व	NNP
+और	CC
+पश्चिम	NNP
+में	PSP
+तटीय	JJ
+मैदान	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0304>
+पूर्वी	JJ
+तटीय	NNPC
+मैदान	NNP
+उत्तर	NNP
+में	PSP
+गंगा	NNP
+नदी	NN
+के	PSP
+मुहाने	NN
+से	PSP
+ले	VM
+कर	VAUX
+कन्याकुमारी	NNP
+तक	PSP
+बंगाल	NNP
+की	PSP
+खाडी	NNP
+के	PSP
+तट	NN
+के	PSP
+साथ-साथ	PSP
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0305>
+पश्चिमी	JJ
+तटीय	JJ
+मैदान	NNP
+की	PSP
+तुलना	PSP
+में	PSP
+यह	PRP
+अधिक	QF
+चौडा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0306>
+इस	DEM
+मैदान	NN
+में	PSP
+महानदी	NNP
+,	SYM
+गोदावरी	NNP
+,	SYM
+कृष्णा	NNP
+और	CC
+कावेरी	NNP
+नदियों	NN
+के	PSP
+डेल्टा	NN
+सम्मिलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0307>
+इस	DEM
+मैदान	NN
+में	PSP
+चिल्का	NNP
+और	CC
+पुलीकट	NNP
+दो	QC
+बडे-बडे	JJ
+अनूप	NN
+(	SYM
+लैगून	NN
+)	SYM
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0308>
+ये	DEM
+झीलें	NN
+बंगाल	NNP
+की	PSP
+खाडी	NNP
+के	PSP
+थोडे	QF
+से	RP
+जलीय	JJ
+भाग	NN
+के	PSP
+बालू-भित्ति	NNP
+के	PSP
+द्वारा	PSP
+घिर	VM
+जाने	VAUX
+से	PSP
+बनी	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0309>
+चिल्का	NNPC
+महानदी	NNPC
+डेल्टा	NNP
+के	PSP
+दक्षिण	NNP
+में	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0310>
+यह	PRP
+75	QC
+किलोमीटर	NN
+लम्बी	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0311>
+पुलीकट	NNPC
+झील	NN
+चेन्नई	NNP
+नगर	NNP
+के	PSP
+उत्तर	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0312>
+गोदावरी	NNP
+और	CC
+कृष्णा	NNP
+नदियों	NN
+के	PSP
+डेल्टाओं	NN
+के	PSP
+मध्य	NST
+में	PSP
+कोल्लेरू	NNP
+झील	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0313>
+पूर्वी	JJ
+तटीय	JJ
+मैदान	NN
+बहुत	INTF
+उपजाऊ	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0314>
+इसमें	PRP
+धान	NN
+की	PSP
+फसल	NN
+बहुत	INTF
+अच्छी	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0315>
+पश्चिमी	JJ
+तटीय	NNPC
+मैदान	NNP
+उत्तर	NNP
+में	PSP
+कच्छ	NNP
+के	PSP
+तट	NN
+से	PSP
+लेकर	VM
+दक्षिण	NNP
+में	PSP
+कन्याकुमारी	NNP
+तक	PSP
+अरब	NNPC
+सागर	NNP
+के	PSP
+साथ-साथ	NST
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0316>
+गुजरात	NNP
+के	PSP
+मैदान	NN
+को	PSP
+छोडकर	VM
+यह	DEM
+मैदान	NN
+पूर्वी	JJ
+तटीय	NNPC
+मैदान	NN
+से	PSP
+कम	QF
+चौडा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0317a>
+दक्षिणी	JJ
+गुजरात	NNP
+से	PSP
+लेकर	VM
+मुंबई	NNP
+तक	PSP
+पश्चिमी	JJ
+तटीय	JJ
+मैदान	NN
+अपेक्षाकृत	RB
+चौडा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0317b>
+और	CC
+दक्षिण	NNP
+की	PSP
+ओर	NST
+संकरा	JJ
+होता	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0318>
+गुजरात	NNP
+,	SYM
+कच्छ	NNP
+के	PSP
+रन	NNP
+तथा	CC
+काठियावाड	NNP
+के	PSP
+मैदानों	NN
+में	PSP
+कहीं-कहीं	PRP
+चट्टानी	JJ
+टीले	NN
+और	CC
+छोटी	JJ
+पहाडियां	NN
+दिखाई	VM
+पडती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0319>
+गुजरात	NNP
+का	PSP
+मैदान	NN
+काली	JJ
+मिट्टी	NN
+से	PSP
+बना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0320>
+उत्तर	NNP
+में	PSP
+दमण	NNP
+से	PSP
+लेकर	VM
+दक्षिण	NNP
+में	PSP
+गोवा	NNP
+तक	PSP
+लगभग	RP
+500	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+का	PSP
+तटीय	JJ
+भाग	NN
+कोंकण	NNP
+कहलाता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0321>
+यह	PRP
+कटा-फटा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0322>
+इसमें	PRP
+कई	QF
+छोटी-छोटी	JJ
+नदियां	NN
+बहती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0323>
+यहां	PRP
+कई	QF
+प्राकृतिक	JJ
+पोताश्रय	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0324>
+गोवा	NNP
+से	PSP
+मंगलोर	NNP
+तक	PSP
+के	PSP
+तट	NN
+को	PSP
+कर्नाटक	NNP
+तट	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0325>
+मंगलौर	NNP
+से	PSP
+कन्याकुमारी	NNP
+तक	PSP
+के	PSP
+तट	NN
+को	PSP
+मलाबार	NNPC
+तट	NNP
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0326>
+यहां	PRP
+तटीय	JJ
+मैदान	NN
+कुछ	PRP
+चौडा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0327>
+मलाबार	NNP
+तट	NNP
+में	PSP
+अनेक	QF
+लंबे	JJ
+और	CC
+संकरे	JJ
+अनूप	NNP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0328>
+80	QC
+कि	CC
+.	SYM
+मी	NNPC
+.	SYM
+से	PSP
+भी	RP
+अधिक	QF
+लंबा	JJ
+वेम्बनाड	NN
+ऐसा	DEM
+ही	RP
+एक	QC
+अनूप	NNP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0329>
+इसी	PRP
+पर	PSP
+कोच्चि	NNP
+बन्दरगाह	NN
+बसा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0330>
+भारत	NNP
+में	PSP
+छोटे-छोटे	JJ
+द्वीप	NNC
+समूह	NN
+भी	RP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0331>
+एक	QC
+द्वीप	NNC
+समूह	NN
+बंगाल	NNP
+की	PSP
+खाडी	NNP
+में	PSP
+म्यांमार	NNP
+के	PSP
+तट	NN
+से	PSP
+कुछ	QF
+दूरी	NN
+पर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0332>
+यह	PRP
+अपेक्षाकृत	INTF
+बडा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0333>
+इसका	PRP
+नाम	NN
+अंडमान	NNP
+और	CC
+निकोबार	NNPC
+द्वीप	NNPC
+समूह	NNP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0334>
+दूसरे	PRP
+का	PSP
+नाम	NN
+लक्षद्वीप	NNP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0335>
+यह	DEM
+द्वीप	NNC
+समूह	NN
+केरल	NNP
+तट	NN
+से	PSP
+कुछ	QF
+दूरी	NN
+पर	PSP
+अरब	NNPC
+सागर	NNP
+में	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0336>
+अंडमान	NNP
+द्वीपों	NN
+में	PSP
+उत्तरी	JJ
+,	SYM
+मध्य	NNP
+,	SYM
+दक्षिणी	JJ
+तथा	CC
+लघु	JJ
+अंडमान	NNPC
+द्वीप	NNP
+सम्मिलित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0337>
+पोर्टब्लेअर	NNP
+नगर	NN
+इस	DEM
+संपूर्ण	JJ
+संघ	NNPC
+राज्य	NNP
+क्षेत्र	NN
+की	PSP
+राजधानी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0338>
+यह	PRP
+दक्षिण	NNPC
+अंडमान	NNP
+में	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0339>
+दस	QC
+अंश	NN
+जलमार्ग	NN
+इस	DEM
+द्वीप	NNC
+समूह	NN
+को	PSP
+निकोबार	NNPC
+द्वीप	NNPC
+समूह	NNP
+से	PSP
+अलग	JJ
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0340>
+निकोबार	NNPC
+द्वीप	NNPC
+समूह	NNP
+की	PSP
+स्थिति	NN
+अंडमान	NNPC
+द्वीप	NNPC
+समूह	NNP
+के	PSP
+दक्षिण	NNP
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0341>
+इस	DEM
+द्वीप	NNC
+समूह	NN
+में	PSP
+कार	NNPC
+निकोबार	NNP
+,	SYM
+लघु	JJ
+निकोबार	NNP
+तथा	CC
+वृहत्	JJ
+निकोबार	NNPC
+द्वीप	NN
+सम्मिलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0342>
+भारत	NNPC
+संघ	NNP
+का	PSP
+दक्षिणतम	JJ
+छोर	NN
+वृहत्	NNPC
+निकोबार	NNPC
+द्वीप	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0343>
+श्रीमती	NNC
+इन्दिरा	NNPC
+गांधी	NNP
+के	PSP
+नाम	NN
+पर	PSP
+इसका	PRP
+नाम	NN
+इन्दिरा	NNPC
+पाइण्ट	NN
+रखा	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0344>
+ये	DEM
+द्वीप	NNC
+समूह	NN
+समुद्री	JJ
+जल	NN
+में	PSP
+डूबी	VM
+पर्वत	JJ
+श्रृंखला	NN
+के	PSP
+जैसा	PSP
+प्रतीत	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0345>
+अंडमान	NNP
+का	PSP
+बैरन	NNP
+द्वीप	NN
+भारत	NNP
+का	PSP
+अकेला	JJ
+जागृत	JJ
+ज्वालामुखी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0346>
+सामरिक	JJ
+दृष्टि	NN
+से	PSP
+महत्वपूर्ण	JJ
+होने	VM
+के	PSP
+कारण	PSP
+इन	DEM
+द्वीपों	NN
+में	PSP
+वायु	NNC
+सेना	NN
+और	CC
+नौसेना	NN
+के	PSP
+अड्डे	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0347>
+सात	QC
+देशों-बांग्लादेश	NNP
+,	SYM
+म्यांमार	NNP
+,	SYM
+थाईलैण्ड	NNP
+,	SYM
+मलेशिया	NNP
+,	SYM
+सिंगापुर	NNP
+,	SYM
+इण्डोनेशिया	NNP
+और	CC
+श्रीलंका	NNP
+के	PSP
+सम्मुख	NST
+इस	DEM
+द्वीप	NNC
+समूह	NN
+की	PSP
+स्थिति	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0348>
+लक्षद्वीप	NNPC
+समूह	NNP
+केरल	NNP
+तट	NN
+के	PSP
+पश्चिम	NNP
+में	PSP
+अरब	NNPC
+सागर	NNP
+में	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0349>
+ये	DEM
+सभी	QF
+प्रवाल	NN
+द्वीप	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0350>
+इनका	PRP
+निर्माण	NN
+प्रवाल	NNP
+जैसे	PSP
+अत्यन्त	INTF
+सूक्ष्म	JJ
+जीवों	NN
+के	PSP
+चूने	NN
+से	PSP
+बने	VM
+कवचों	NN
+के	PSP
+लगातार	RB
+जमाव	NN
+से	PSP
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0351>
+ये	DEM
+सभी	QF
+द्वीप	NN
+बहुत	INTF
+छोटे	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0352>
+इनमें	PRP
+सबसे	INTF
+बडे	JJ
+द्वीप	NN
+मिनीकाय	NNP
+का	PSP
+क्षेत्रफल	NN
+4	QC
+.	SYM
+5	QC
+वर्ग	NN
+कि	CC
+.	SYM
+मी	SYM
+.	SYM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0353>
+कवारत्ती	NNP
+इस	DEM
+द्वीप	NNC
+समूह	NNP
+की	PSP
+राजधानी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0354>
+अरब	NNPC
+सागर	NNPC
+तट	NN
+के	PSP
+साथ-साथ	PSP
+पश्चिमी	JJ
+तटीय	JJ
+मैदान	NN
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0355>
+पूर्वी	JJ
+तटीय	NNPC
+मैदान	NN
+बंगाल	NNPC
+की	PSP
+खाडी	NNP
+के	PSP
+तट	NN
+के	PSP
+साथ	NST
+विस्तृत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0356>
+पूर्वी	JJ
+तटीय	NNPC
+मैदान	NNP
+,	SYM
+पश्चिमी	JJ
+तटीय	JJ
+मैदान	NNP
+की	PSP
+तुलना	PSP
+में	PSP
+अधिक	QF
+चौडा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0357>
+लक्षद्वीप	NNPC
+समूह	NNP
+अरब	NNPC
+सागर	NNP
+में	PSP
+तथा	CC
+अंडमान	NNPC
+निकोबार	NNPC
+द्वीप	NNPC
+समूह	NNP
+बंगाल	NNP
+की	PSP
+खाडी	NNP
+में	PSP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0358>
+इनकी	PRP
+स्थिति	NN
+सामरिक	JJ
+दृष्टिकोण	NN
+से	PSP
+बहुत	QF
+ही	RP
+महत्वपूर्ण	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0359>
+पूर्वी	JJ
+और	CC
+पश्चिमी	JJ
+तटीय	JJ
+मैदानों	NN
+में	PSP
+से	PSP
+कौन-सा	JJ
+अधिक	QF
+चौडा	JJ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0360>
+पूर्वी	JJ
+तटीय	NNPC
+मैदान	NNP
+के	PSP
+दो	QC
+अनूपों	NN
+के	PSP
+नाम	NN
+लिखो	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0361>
+गोदावरी	NNP
+और	CC
+कृष्णा	NNP
+नदियों	NN
+के	PSP
+डेल्टाओं	NN
+के	PSP
+मध्य	NST
+कौन-सी	JJ
+झील	NN
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0362>
+कोंकण	NNP
+तट	NN
+का	PSP
+विस्तार	NN
+कहां	WQ
+से	PSP
+कहां	WQ
+तक	PSP
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0363>
+भारत	NNP
+का	PSP
+कौन	WQ
+सा	RP
+द्वीप	NNC
+समूह	NNP
+प्रवाल	NNC
+जीवों	NN
+द्वारा	PSP
+बना	VM
+है	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0364a>
+अपवाह	NNC
+तंत्र	NN
+से	PSP
+तात्पर्य	NN
+किसी	PRP
+क्षेत्र	NN
+की	PSP
+जल	NNC
+प्रवाह	NNC
+प्रणाली	NN
+से	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0364b>
+अर्थात्	CC
+किसी	PRP
+क्षेत्र	NN
+के	PSP
+जल	NN
+को	PSP
+कौन-सी	JJ
+नदियां	NN
+बहाकर	VM
+ले	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0365>
+नदी	NN
+अपना	PRP
+जल	NN
+किस	WQ
+दिशा	NN
+में	PSP
+बहाकर	VM
+समुद्र	NN
+में	PSP
+मिलाती	VM
+है	VAUX
+,	SYM
+यह	PRP
+कई	QF
+कारकों	NN
+पर	PSP
+निर्भर	JJ
+करता	VM
+है	VAUX
+जैसे-भूतल	NN
+का	PSP
+ढाल	NN
+,	SYM
+भौतिक	JJ
+संरचना	NN
+,	SYM
+जल	NNC
+प्रवाह	NN
+की	PSP
+मात्रा	NN
+तथा	CC
+जल	NN
+का	PSP
+वेग	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0366>
+भारत	NNP
+में	PSP
+भूमि	NN
+के	PSP
+जल	NN
+को	PSP
+बहाकर	VM
+ले	VM
+जाने	VAUX
+वाली	PSP
+छोटी-बडी	JJ
+अनेक	QF
+नदियां	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0367>
+भारत	NNP
+के	PSP
+अपवाह	NNC
+तंत्र	NN
+को	PSP
+दो	QC
+भागों	NN
+में	PSP
+विभाजित	JJ
+करके	VM
+उसका	PRP
+अध्ययन	NN
+किया	VM
+जा	VAUX
+सकता	VAUX
+है-उत्तरी	VAUX
+भारत	NNP
+का	PSP
+अपवाह	NNC
+तंत्र	NN
+तथा	CC
+दक्षिणी	JJ
+भारत	NNP
+का	PSP
+अपवाह	NNC
+तंत्र	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0368a>
+उत्तरी	JJ
+भारत	NNP
+के	PSP
+अपवाह	NNC
+तंत्र	NN
+में	PSP
+हिमालय	NNP
+का	PSP
+बडा	JJ
+महत्व	NN
+है	VM
+;	CC
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0368b>
+क्योंकि	CC
+उत्तर	NNPC
+भारत	NNP
+की	PSP
+नदियों	NN
+का	PSP
+उद्गम	NN
+हिमालय	NNP
+और	CC
+उसके	PRP
+पार	NN
+से	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0369a>
+ये	DEM
+नदियां	NN
+दक्षिण	NNPC
+भारत	NNP
+की	PSP
+नदियों	NN
+से	PSP
+भिन्न	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0369b>
+क्योंकि	CC
+ये	PRP
+तेज	JJ
+गति	NN
+से	PSP
+अपनी	PRP
+घाटियों	NN
+को	PSP
+गहरा	JJ
+कर	VM
+रही	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0370a>
+अपरदन	NN
+से	PSP
+प्राप्त	JJ
+मिट्टी	NN
+आदि	RP
+को	PSP
+बहाकर	VM
+ले	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0370b>
+और	CC
+मैदानी	JJ
+भाग	NN
+में	PSP
+जल	NNC
+प्रवाह	NN
+की	PSP
+गति	NN
+मंद	JJ
+पडने	VM
+पर	PSP
+मैदानों	NN
+और	CC
+समुद्रों	NN
+में	PSP
+जमा	JJ
+कर	VM
+देती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0371>
+उत्तरी	JJ
+विशाल	JJ
+मैदान	NN
+का	PSP
+निर्माण	NN
+इन्हीं	DEM
+नदियों	NN
+द्वारा	PSP
+लाई	VM
+गई	VAUX
+मिट्टी	NN
+से	PSP
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0372>
+हिमालय	NNP
+से	PSP
+निकलने	VM
+वाली	PSP
+कुछ	QF
+नदियां	NN
+हिमालय	NNP
+से	PSP
+भी	RP
+पहले	NST
+विद्यमान	JJ
+थीं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0373>
+जैसे-जैसे	RB
+हिमालय	NNP
+की	PSP
+पर्वत	JJ
+श्रेणियां	NN
+ऊपर	NST
+उठती	VM
+गईं	VAUX
+,	SYM
+ये	DEM
+नदियां	NN
+अपनी	PRP
+घाटियों	NN
+को	PSP
+गहरा	JJ
+और	CC
+गहरा	NN
+काटती	VM
+रहीं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0374>
+इसके	PRP
+परिणामस्वरूप	PSP
+इन	DEM
+नदियों	NN
+ने	PSP
+हिमालय	NNP
+की	PSP
+श्रेणियों	NN
+में	PSP
+बहुत	INTF
+गहरी	JJ
+घाटियां	NN
+या	CC
+महाखड्ड	NN
+बना	VM
+लिए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0375>
+बुंजी	NNP
+(	SYM
+जम्मू-कश्मीर	NNP
+)	SYM
+के	PSP
+पास	NST
+सिंधु	NNP
+नदी	NN
+का	PSP
+महाखड्ड	NN
+5200	QC
+मीटर	NN
+गहरा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0376>
+सतलुज	NNP
+और	CC
+ब्रह्मपुत्रा	NNP
+नदियों	NN
+ने	PSP
+भी	RP
+ऐसे	DEM
+ही	RP
+महाखड्ड	NN
+बनाए	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0377>
+उत्तरी	JJ
+भारत	NNP
+के	PSP
+अपवाह	NNC
+तंत्र	NN
+के	PSP
+तीन	QC
+भाग	NN
+हैं-सिंधु	NN
+,	SYM
+गंगा	NNP
+तथा	CC
+ब्रह्मपुत्र	NNP
+का	PSP
+अपवाह	NNC
+तंत्र	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0378>
+सिंधु	NNP
+,	SYM
+झेलम	NNP
+,	SYM
+चिनाब	NNP
+,	SYM
+रावी	NNP
+,	SYM
+व्यास	NNP
+और	CC
+सतलुज	NNP
+सिंधु	NNPC
+नदी	NNC
+तंत्र	NN
+की	PSP
+प्रमुख	JJ
+नदियां	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0379>
+गंगा	NNPC
+नदी	NNC
+तंत्र	NN
+में	PSP
+रामगंगा	NNP
+,	SYM
+घाघरा	NNP
+,	SYM
+गोमती	NNP
+,	SYM
+गंडक	NNP
+,	SYM
+कोसी	NNP
+,	SYM
+अपनी	PRP
+दक्षिणी	JJ
+सहायक	JJ
+नदियों	NN
+सहित	PSP
+यमुना	NNP
+,	SYM
+सोन	NNP
+और	CC
+दामोदर	NNP
+नदियों	NN
+का	PSP
+प्रमुख	JJ
+स्थान	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0380>
+ब्रह्मपुत्रा	NNPC
+नदी	NNPC
+तंत्र	NN
+में	PSP
+दिबांग	NNP
+,	SYM
+लोहित	NNP
+,	SYM
+तिस्ता	NNP
+,	SYM
+और	CC
+मेघना	NNP
+प्रमुख	JJ
+नदियां	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0381>
+दिबांग	NNP
+और	CC
+लोहित	NNP
+अरूणाचल	NNPC
+प्रदेश	NNP
+में	PSP
+,	SYM
+तिस्ता	NNP
+सिक्किम	NNP
+,	SYM
+प	SYM
+.	SYM
+बंगाल	NNP
+में	PSP
+और	CC
+मेघना	NNP
+बांग्लादेश	NNP
+के	PSP
+उत्तर	NNPC
+पूर्व	NNP
+में	PSP
+बहती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0382>
+दक्षिण	NNPC
+भारत	NNP
+का	PSP
+अपवाह	NNC
+तंत्र	NN
+दक्षिण	NNPC
+भारत	NNP
+एक	QC
+बहुत	INTF
+ही	RP
+पुराना	JJ
+भू-भाग	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0383>
+इसीलिए	PRP
+इसकी	PRP
+नदियां	NN
+वृद्धावस्था	NN
+में	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0384a>
+इस	DEM
+क्षेत्र	NN
+की	PSP
+सभी	QF
+नदियां	NN
+अपने	PRP
+आधार	NNC
+तल	NN
+पर	PSP
+पहुंच	VM
+गई	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0384b>
+और	CC
+अपनी	PRP
+घाटी	NN
+को	PSP
+लंबवत्	NN
+काटने	VM
+की	PSP
+उनकी	PRP
+क्षमता	NN
+लगभग	RB
+समाप्त	JJ
+हो	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0385>
+अब	PRP
+तो	RP
+ये	DEM
+नदियां	NN
+धीरे-धीरे	RB
+अपने	PRP
+किनारों	NN
+को	PSP
+काट	VM
+रही	VAUX
+है	VAUX
+,	SYM
+जिससे	PRP
+इनकी	PRP
+घाटियां	NN
+चैडी	NN
+होती	VM
+जा	VAUX
+रही	VAUX
+हैं	VAUX
+,	SYM
+इसी	PRP
+के	PSP
+परिणामस्वरूप	PSP
+इनके	PRP
+निचले	JJ
+भागों	NN
+में	PSP
+बाढ	NN
+का	PSP
+पानी	NN
+बहुत	INTF
+बडे	JJ
+क्षेत्र	NN
+में	PSP
+भर	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0386a>
+ऐसा	DEM
+विश्वास	NN
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0386b>
+कि	CC
+हिमालय	NNP
+के	PSP
+निर्माण	NN
+के	PSP
+समय	PSP
+झटके	NN
+लगने	VM
+के	PSP
+कारण	PSP
+दक्षिण	NNPC
+भारत	NNP
+का	PSP
+ढाल	NN
+पूर्व	NST
+की	PSP
+ओर	NST
+हो	VM
+गया	VAUX
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0387>
+नर्मदा	NNP
+और	CC
+तापी	NNP
+को	PSP
+छोडकर	VM
+शेष	JJ
+सभी	QF
+बडी	JJ
+नदियां	NN
+पूर्व	NST
+की	PSP
+ओर	NST
+बहती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0388>
+नर्मदा	NNP
+और	CC
+तापी	NNP
+नदियां	NN
+भ्रंश	JJ
+घाटियों	NN
+से	PSP
+होकर	VM
+गुजरती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0389>
+महानदी	NNP
+,	SYM
+गोदावरी	NNP
+,	SYM
+कृष्णा	NNP
+,	SYM
+पेन्नार	NNP
+,	SYM
+पालार	NNP
+,	SYM
+कावेरी	NNP
+और	CC
+वेगाई	NNP
+दक्षिणी	JJ
+भारत	NNP
+के	PSP
+अपवाह	NNC
+तंत्र	NN
+की	PSP
+प्रमुख	JJ
+नदियां	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0390>
+दक्षिणी	JJ
+प्रायद्वीप	NNP
+के	PSP
+उत्तरी	JJ
+भाग	NN
+का	PSP
+ढाल	NN
+उत्तर	NNP
+की	PSP
+ओर	NST
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0391>
+अतः	CC
+विंध्याचल-पर्वत	NNP
+से	PSP
+निकलकर	VM
+कुछ	QF
+नदियां	NN
+उत्तर	NNP
+की	PSP
+ओर	NST
+बहती	VM
+हुई	VAUX
+यमुना	NNP
+और	CC
+गंगा	NNP
+में	PSP
+मिल	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0392>
+इनमें	PRP
+चंबल	NNP
+,	SYM
+सिन्ध	NNP
+,	SYM
+बेतवा	NNP
+,	SYM
+केन	NNP
+और	CC
+सोन	NNP
+नदियां	NN
+मुख्य	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0393>
+हिमालयी	JJ
+और	CC
+प्रायद्वीपीय	JJ
+भारत	NNP
+की	PSP
+नदियों	NN
+में	PSP
+अन्तरµजो	JJ
+नदियां	NN
+हिमालय	NNP
+से	PSP
+निकलती	VM
+हैं	VAUX
+,	SYM
+उनमें	PRP
+से	PSP
+अधिकतर	QF
+सदानीरा	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0394a>
+उनमें	PRP
+वर्षभर	NNC
+जल	NN
+बना	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0394b>
+क्योंकि	CC
+शुष्क	JJ
+ऋतु	NN
+में	PSP
+हिमाद्रि	NNP
+में	PSP
+फैली	VM
+हिमानियों	NN
+का	PSP
+जल	NN
+पिघल-पिघल	VM
+कर	VAUX
+नदियों	NN
+में	PSP
+बहता	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0395>
+परिणामस्वरूप	PSP
+सूखे	NN
+के	PSP
+समय	PSP
+भी	RP
+उनमें	PRP
+जल	NN
+का	PSP
+प्रवाह	NN
+बना	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0396>
+इसके	PRP
+विपरीत	PSP
+प्रायद्वीपीय	JJ
+भारत	NNP
+की	PSP
+नदियों	NN
+में	PSP
+जल	NN
+कम	QF
+ज्यादा	QF
+होता	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0397a>
+वर्षा	NN
+ऋतु	NN
+में	PSP
+खूब	QF
+पानी	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0397b>
+जबकि	CC
+लंबी	JJ
+शुष्क	JJ
+ऋतु	NN
+में	PSP
+बहुत	INTF
+कम	QF
+पानी	NN
+रहता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0398>
+कहीं-कहीं	PRP
+तो	RP
+वे	PRP
+सूख	VM
+भी	RP
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0399>
+भारत	NNP
+में	PSP
+विविध	JJ
+प्रकार	NN
+की	PSP
+स्थलाकृतियाँ	NN
+और	CC
+उच्चावच	NNP
+के	PSP
+लक्षण	NN
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0400>
+उत्तर	NNP
+में	PSP
+फैले	VM
+इसके	PRP
+नवीन	JJ
+वलित	NNC
+पर्वतों	NN
+के	PSP
+भौतिक	JJ
+लक्षण	NN
+बडे	JJ
+तीखे	JJ
+और	CC
+सुस्पष्ट	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0401>
+इनमें	PRP
+ऊंचे-ऊंचे	JJ
+पर्वतीय	JJ
+दर्रे	NN
+और	CC
+विप्रपाती	NN
+गहरी	JJ
+नदी	NN
+घाटियां	NN
+सम्मिलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0402a>
+यदि	CC
+एक	QC
+ओर	NST
+तीव्र	JJ
+ढाल	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0402b>
+तो	PRP
+दूसरी	QO
+ओर	NST
+मन्द	JJ
+ढाल	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0403a>
+यदि	CC
+कुछ	QF
+भाग	NN
+सघन	JJ
+वनों	NN
+से	PSP
+विहीन	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0403b>
+तो	CC
+दूसरे	QO
+भाग	NN
+विविध	JJ
+वनस्पति	NN
+से	PSP
+आच्छादित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0404>
+यहां	PRP
+उष्णकटिबंधीय	JJ
+वर्षावनों	NN
+से	PSP
+लेकर	VM
+पर्वतीय	JJ
+घास	NNC
+भूमियां	NN
+तक	PSP
+पाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0405>
+उनका	PRP
+अपने	PRP
+विस्तृत	JJ
+हिमक्षेत्रों	NN
+,	SYM
+हिमानियों	NN
+,	SYM
+निलंबी	JJ
+घाटियों	NN
+सहित	PSP
+मनोरम	JJ
+जल	NNC
+प्रपातों	NN
+तथा	CC
+श्रीनगर	NNP
+की	PSP
+डल	NNP
+झील	NN
+जैसी	PSP
+हिमानीकृत	JJ
+झीलों	NN
+पर	PSP
+गर्व	NN
+होना	VM
+सर्वथा	RB
+उचित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0406>
+युवावस्था	NN
+वाली	PSP
+हिमालयी	JJ
+नदियां	NN
+अपने	PRP
+मार्गों	NN
+में	PSP
+उछलती	VM
+,	SYM
+कूदती	NN
+,	SYM
+कलकल	NN
+करती	VM
+,	SYM
+जल	NNC
+प्रपातों	NN
+,	SYM
+क्षिप्रिकाओं	NN
+और	CC
+सोपानी	JJ
+जल	NNC
+प्रपातों	NN
+का	PSP
+निर्माण	NN
+करती	VM
+तीव्र	JJ
+वेग	NN
+से	PSP
+बहना	VM
+पसन्द	NN
+करती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0407>
+इनके	PRP
+गहरे	JJ
+महाखड्ड	NN
+निश्चय	NN
+ही	RP
+विस्मयकारी	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0408>
+ये	PRP
+एक	QC
+ओर	NST
+क्रमिक	JJ
+रूप	NN
+से	PSP
+ऊपर	NST
+उठती	VM
+पर्वत	NNC
+श्रेणियों	NN
+और	CC
+दूसरी	QO
+ओर	NST
+हिमालय	NNP
+के	PSP
+उस	DEM
+पार	NN
+की	PSP
+सिन्धु	NNP
+,	SYM
+सतलुज	NNP
+और	CC
+ब्रह्मपुत्रा	NNP
+जैसी	PSP
+घाटियों	NN
+को	PSP
+निरन्तर	RB
+गहरा	JJ
+और	CC
+गहरा	JJ
+काटने	VM
+वाली	PSP
+नदियों	NN
+के	PSP
+बीच	NST
+सन्तुलन	NN
+स्थापित	JJ
+करती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0409>
+संसार	NN
+के	PSP
+गिने-चुने	QF
+देशों	NN
+को	PSP
+भी	RP
+प्रकृति	NN
+ने	PSP
+ऐसे	DEM
+भव्य	JJ
+तथा	CC
+मदोन्मत्त	JJ
+सौन्दर्य	NN
+से	PSP
+युक्त	JJ
+युवा	JJ
+वलित	JJ
+पर्वतों	NN
+पर	PSP
+गर्व	NN
+करने	VM
+का	PSP
+लेश	NN
+मात्रा	NN
+भी	RP
+अवसर	NN
+नहीं	NEG
+दिया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0410>
+भारतीय	NNPC
+उपमहाद्वीप	NNP
+और	CC
+शेष	JJ
+एशिया	NNP
+के	PSP
+मध्य	JJC
+भौतिक	JJ
+बाधा	NN
+बनकर	VM
+संसार	NN
+की	PSP
+इन	DEM
+सर्वोच्च	NN
+और	CC
+सबसे	INTF
+अधिक	QF
+लंबी	JJ
+पर्वत	NN
+श्रृ	SYM
+खलाओं	NNP
+ने	PSP
+भारतीय	JJ
+उपमहाद्वीप	NN
+में	PSP
+एक	QC
+अनूठी	JJ
+संस्कृति	NN
+को	PSP
+विकसित	JJ
+होने	VM
+का	PSP
+अवसर	NN
+दिया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0411>
+जलवायु	NN
+विभाजक	NN
+के	PSP
+रूप	PSP
+में	PSP
+इस	PRP
+की	PSP
+भूमिका	NN
+और	INTF
+भी	RP
+अधिक	QF
+प्रभावशाली	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0412>
+यह	DEM
+भू-आकृतिक	JJ
+विभाग	NN
+हिम	NN
+और	CC
+जल	NN
+के	PSP
+भंडार	NN
+के	PSP
+रूप	PSP
+में	PSP
+कार्य	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0413>
+इससे	PRP
+सैकडों	QF
+सदानीरा	NNC
+नदियां	NN
+निकलती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0414>
+ये	DEM
+नदियां	NN
+संसार	NN
+के	PSP
+सबसे	INTF
+बडे	JJ
+और	CC
+सबसे	INTF
+उपजाऊ	JJ
+मैदानों	NN
+में	PSP
+से	PSP
+एक	QC
+में	PSP
+होकर	VM
+बहती	VM
+है	VAUX
+और	CC
+उसे	PRP
+सींचती	VM
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0415>
+वास्तव	NN
+में	PSP
+ये	DEM
+मैदान	NN
+पर्वतों	NN
+और	CC
+उनसे	PRP
+निकलने	VM
+वाली	PSP
+नदियों	NN
+के	PSP
+द्वारा	PSP
+दिया	VM
+गया	VAUX
+उपहार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0416>
+यह	PRP
+जलविद्युत	NN
+,	SYM
+जलावन	NN
+,	SYM
+इमारती	JJ
+लकडी	NN
+,	SYM
+विविध	JJ
+वनोत्पाद	NN
+और	CC
+औषधीय	JJ
+जडी-बूटियों	NN
+का	PSP
+भंडार	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0417>
+इन	PRP
+के	PSP
+साथ-साथ	PSP
+यहां	PRP
+कुछ	QF
+विचित्र	JJ
+वन्य	JJ
+जीव	NN
+भी	RP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0418>
+इसीलिए	PRP
+इसमें	PRP
+कोई	PRP
+आश्चर्य	NN
+नहीं	NEG
+कि	CC
+यहां	PRP
+गमियों	NN
+और	CC
+सर्दियों	NN
+दोनों	QC
+ही	RP
+ऋतुओं	NN
+में	PSP
+देश-विदेश	NN
+से	PSP
+आने	VM
+वाले	PSP
+पर्यटकों	NN
+का	PSP
+तांता	NN
+लगा	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0419>
+उत्तरी	NNPC
+मैदान	NNC
+विस्तार	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+संसार	NN
+में	PSP
+बेजोड	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0420>
+इस	DEM
+समतल	NN
+और	CC
+सपाट	JJ
+मैदान	NN
+का	PSP
+जल	NNC
+निकास	NN
+अति	INTF
+उत्तम	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0421>
+धरातलीय	JJ
+और	CC
+भौमजल	NN
+के	PSP
+द्वारा	PSP
+यहां	PRP
+काफी	QF
+सिंचाई	NN
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0422>
+सर्पिल	JJ
+नदियां	NN
+,	SYM
+चाप	NN
+झीलें	NN
+,	SYM
+गुंफित	JJ
+नदी	NN
+धाराएं	NN
+तथा	CC
+वितरिकाओं	NN
+का	PSP
+जाल	NN
+इस	DEM
+अत्यन्त	INTF
+समतल	JJ
+और	CC
+सपाट	JJ
+मैदान	NN
+की	PSP
+एकरूपता	NN
+को	PSP
+भंग	JJ
+कर	VM
+देती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0423a>
+एक	QC
+समय	NN
+ऐसा	PRP
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0423b>
+जब	PRP
+यह	DEM
+पूरा	JJ
+मैदान	NN
+,	SYM
+वनाच्छादित	JJ
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0423c>
+लेकिन	CC
+आज	NN
+पूरे	JJ
+मैदान	NN
+पर	PSP
+खेतों	NN
+में	PSP
+फसलें	NN
+लहलहाती	VM
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0424>
+इसके	PRP
+डेल्टा	NN
+के	PSP
+निचले	JJ
+भागों	NN
+में	PSP
+ज्वारीय	NN
+या	CC
+मैन्ग्रोव	NNP
+वनों	NN
+की	PSP
+पट्टियां	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0425>
+इस	DEM
+जल-बहुल	NN
+और	CC
+उपजाऊ	JJ
+मृदा	NN
+वाले	PSP
+मैदान	NN
+में	PSP
+साल	NN
+दर	NN
+साल	NN
+विविध	JJ
+प्रकार	NN
+की	PSP
+फसलें	NN
+उगाई	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0426>
+इन्ही	PRP
+से	PSP
+संसार	NN
+की	PSP
+जनसंख्या	NN
+के	PSP
+एक	QC
+बहुत	INTF
+बडे	JJ
+भाग	NN
+का	PSP
+भरण-पोषण	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0427>
+भारी	JJ
+संख्या	NN
+में	PSP
+गोजातीय	JJ
+पशुओं	NN
+का	PSP
+पालन	NN
+भी	RP
+इसी	DEM
+मैदान	NN
+की	PSP
+कृपा	NN
+का	PSP
+फल	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0428>
+वे	PRP
+संसार	NN
+के	PSP
+खाद्यान्नों	NN
+के	PSP
+सबसे	INTF
+बडे	JJ
+भंडारों	NN
+में	PSP
+से	PSP
+एक	QC
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0429>
+यहां	PRP
+अनेक	QF
+प्रकार	NN
+की	PSP
+दालें	NN
+,	SYM
+अनाज	NN
+,	SYM
+तिलहन	NN
+,	SYM
+फल	NN
+और	CC
+सब्जियां	NN
+उगाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0430>
+इन	PRP
+के	PSP
+अतिरिक्त	PSP
+कपास	NN
+,	SYM
+जूट	NN
+और	CC
+गन्ना	NN
+जैसी	PSP
+औद्योगिक	JJ
+या	CC
+नकदी	NN
+फसलें	NN
+भी	RP
+खूब	RB
+पैदा	JJ
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0431>
+प्रायद्वीपीय	JJ
+भारत	NNP
+का	PSP
+भूखंड	NN
+उत्तरी	JJ
+पर्वतों	NN
+और	CC
+मैदानों	NN
+के	PSP
+बिल्कुल	RB
+ही	RP
+विपरीत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0432a>
+यहां	PRP
+सामान्य	JJ
+ऊंचाई	NN
+की	PSP
+पहाडियां	NN
+पाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0432b>
+तथा	CC
+यहां	PRP
+का	PSP
+धरातल	NN
+अत्यधिक	QF
+अपरदित	NNP
+और	CC
+अनाच्छादित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0433>
+यह	PRP
+संसार	NN
+के	PSP
+सबसे	INTF
+प्राचीन	JJ
+भू-भागों	NN
+में	PSP
+से	PSP
+एक	QC
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0434>
+इसकी	PRP
+गोलाकृति	NN
+पहाडियों	NN
+और	CC
+सपाट	JJ
+चोटियों	NN
+वाले	PSP
+कटकों	NN
+का	PSP
+सौन्दर्य	NN
+अद्भुत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0435>
+विविध	JJ
+कायान्तरित	JJ
+तथा	CC
+प्राचीन	JJ
+ग्रेनाइट	NNP
+शैलों	NN
+के	PSP
+द्वारा	PSP
+यहां	PRP
+पहाडियों	NN
+,	SYM
+पठारों	NN
+और	CC
+शल्कित	JJ
+शैलों	NN
+का	PSP
+निर्माण	NN
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0436>
+इनके	PRP
+अलावा	PSP
+पश्चिमी	JJ
+भारत	NNP
+के	PSP
+दक्खन	NNP
+के	PSP
+लावा	NNC
+प्रदेश	NNP
+में	PSP
+विशेष	JJ
+प्रकार	NN
+की	PSP
+सपाट	JJ
+चोटियों	NN
+वाली	PSP
+पहाडियां	NN
+और	CC
+सोपानी	JJ
+संरचनाएं	NN
+पाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0437>
+अरब	NNPC
+सागर	NNP
+के	PSP
+तट	NN
+के	PSP
+साथ-साथ	PSP
+मीलों	NN
+दूर	NST
+तक	PSP
+अविच्छिन	JJ
+रूप	NN
+से	PSP
+इनके	PRP
+प्रवण	JJ
+ढालों	NN
+वाले	PSP
+दीवार	NN
+जैसे	PSP
+कगार	NN
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0438>
+इनके	PRP
+सौन्दर्य	NN
+का	PSP
+वर्णन	NN
+देखने	VM
+के	PSP
+बाद	NST
+ही	RP
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0439>
+यह	DEM
+भू-आकृतिक	JJ
+विभाग	NN
+ज्वार-बाजरे	NN
+तथा	CC
+कपास	NN
+,	SYM
+गन्ना	NN
+,	SYM
+कहवा	NN
+,	SYM
+मूंगफली	NN
+जैसी	PSP
+विविध	JJ
+औद्योगिक	JJ
+फसलों	NN
+के	PSP
+लिए	PSP
+विख्यात	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0440>
+खनिजों	NN
+के	PSP
+भंडार	NN
+के	PSP
+रूप	PSP
+में	PSP
+इसका	PRP
+बडा	JJ
+भारी	JJ
+महत्त्व	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0441>
+यहां	PRP
+लौह	NNPC
+खनिज	NN
+और	CC
+कोयला	NN
+तथा	CC
+परमाणु	NN
+या	CC
+रेडियो	NNPC
+धर्मी	JJ
+खनिज	NNC
+ईधन	NN
+विशिष्ट	JJ
+महत्त्व	NN
+रखते	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0442>
+यहा	PRP
+जलविधुत	NN
+के	PSP
+भी	RP
+विशाल	JJ
+संसाधन	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0443>
+इस	DEM
+प्रकार	NN
+ये	DEM
+कृषि-आधारित	JJ
+तथा	CC
+खनिज-आधारित	NN
+दोनों	NN
+की	PSP
+प्रकार	NN
+के	PSP
+उद्योगों	NN
+के	PSP
+लिए	PSP
+सुदृढ	JJ
+आधार	NN
+प्रदान	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0444a>
+हमारी	PRP
+तट	NNC
+रेखा	NN
+कहीं	PRP
+सपाट	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0444b>
+तो	CC
+कहीं	PRP
+कटी-फटी	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0445>
+कटी-फटी	NNPC
+तट	NNPC
+रेखा	NNP
+पर	PSP
+मुंबई	NNP
+और	CC
+मर्मगांव	NNP
+जैसे	PSP
+विस्तृत	JJ
+प्राकृतिक	JJ
+पोताश्रय	NN
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0446>
+तटीय	JJ
+पट्टियों	NN
+के	PSP
+साथ	NST
+गहरे	JJ
+तथा	CC
+उथले	JJ
+जल	NN
+वाली	PSP
+मछलियों	NN
+के	PSP
+पकडने	VM
+के	PSP
+लिए	PSP
+आदर्श	JJ
+दशाएं	NN
+विद्यमान	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0447>
+पूर्वी	JJ
+तटीय	JJ
+मैदानों	NN
+में	PSP
+बडे	JJ
+उपजाऊ	JJ
+डेल्टा	NNPC
+है	VM
+,	SYM
+जो	PRP
+सचमुच	RB
+धान	NN
+के	PSP
+कटोरे	NN
+बन	VM
+गए	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0448a>
+यदि	CC
+यह	DEM
+तट	NN
+उन्मज्जन	NN
+का	PSP
+उदाहरण	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0448b>
+तो	CC
+इसके	PRP
+विपरीत	PSP
+पश्चिमी	JJ
+तट	NN
+का	PSP
+प्रमुख	JJ
+भाग	NN
+निमज्जित	JJ
+तट	NN
+का	PSP
+उदाहरण	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0449>
+कृषि	NN
+की	PSP
+उपजों	NN
+में	PSP
+चावल	NN
+,	SYM
+नारियल	NN
+,	SYM
+रबड	NNC
+तंबाकू	NN
+और	CC
+मसाले	NN
+प्रमुख	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0450>
+यहां	PRP
+अपतट	NNC
+तेल	NN
+और	CC
+प्राकृतिक	JJ
+गैस	NN
+के	PSP
+क्षेत्रों	NN
+का	PSP
+भी	RP
+पता	NN
+चला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0451a>
+यदि	CC
+लक्षद्वीप	NNPC
+प्रवाल	NNP
+निर्मित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0451b>
+तो	CC
+अंडमान	NNP
+और	CC
+निकोबार	NNPC
+द्वीप	NNPC
+समूह	NNP
+पर्वत	NNPC
+श्रृंखलाओं	NN
+की	PSP
+उन्मज्जित	JJ
+चोटियां	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0452>
+मुख्य	JJ
+भूमि	NN
+की	PSP
+सुरक्षा	NN
+के	PSP
+लिए	PSP
+इन	DEM
+द्वीपों	NN
+का	PSP
+विशेष	JJ
+सामरिक	JJ
+महत्व	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0453>
+इनके	PRP
+तटों	NN
+को	PSP
+पखारने	VM
+वाले	PSP
+समुद्रों	NN
+के	PSP
+पार	NN
+सात	QC
+देश	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0454>
+ये	DEM
+देश	NN
+है	VM
+बांग्लादेश	NNP
+,	SYM
+म्यांमार	NNP
+,	SYM
+थाईलैण्ड	NNPC
+मलयेशिया	NNP
+,	SYM
+सिगांपुर	NNP
+,	SYM
+इण्डोनेशिया	NNP
+और	CC
+श्रीलंका	NNP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0455>
+ये	DEM
+द्वीप	NN
+मत्स्याखेट	NN
+,	SYM
+वनों	NN
+और	CC
+पर्यटन	NN
+के	PSP
+लिए	PSP
+प्रसिद्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0456>
+इस	DEM
+प्रकार	NN
+उच्चावच	NNP
+के	PSP
+बडे	JJ
+और	CC
+छोटे	JJ
+लक्षणों	NN
+ने	PSP
+तथा	CC
+स्थलाकृतियों	NN
+ने	PSP
+हमारी	PRP
+संस्कृति	NN
+को	PSP
+संपन्न	JJ
+बनाने	VM
+में	PSP
+योगदान	NN
+दिया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0457>
+इन्होंने	PRP
+ही	RP
+कृषि	NN
+की	PSP
+क्षमताओं	NN
+को	PSP
+बढाया	VM
+है	VAUX
+,	SYM
+जिससे	PRP
+यहां	PRP
+लगभग	RP
+सभी	QF
+प्रकार	NN
+की	PSP
+फसलें	NN
+पैदा	JJ
+की	VM
+जा	VAUX
+सकती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0458>
+इन्होंने	PRP
+ही	RP
+आधुनिक	JJ
+उद्योगों	NN
+को	PSP
+सुदृढ	JJ
+आधार	NN
+प्रदान	NN
+किया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0459>
+इस	DEM
+प्रकार	NN
+सभी	QF
+भू-आकृतिक	JJ
+विभाग	NN
+पूरी	JJ
+तरह	NN
+से	PSP
+अन्योन्याश्रित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0460>
+उत्तर	NNP
+में	PSP
+गगनचुंबी	JJ
+पर्वतों	NN
+से	PSP
+धिरा	NNP
+तथा	CC
+दक्षिण	NNP
+में	PSP
+समुद्रों	NN
+और	CC
+महासागरों	NN
+से	PSP
+परिवेष्टित	JJ
+भारतीय	JJ
+उपमहाद्वीप	NN
+में	PSP
+विशिष्ट	JJ
+संस्कृति	NN
+के	PSP
+विकास	NN
+के	PSP
+विषय	NN
+में	PSP
+स्पष्टीकरण	NN
+भी	RP
+इसी	PRP
+में	PSP
+मिल	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0461a>
+उपमहाद्वीप	NN
+में	PSP
+भारत	NNP
+का	PSP
+ही	RP
+वर्चस्व	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0461b>
+क्योंकि	CC
+इसकी	PRP
+कुल	QF
+जनसंख्या	NN
+का	PSP
+तीन-चैथाई	QC
+भाग	NN
+भारत	NNP
+में	PSP
+निवास	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0462>
+इसके	PRP
+अतिरिक्त	PSP
+उपमहाद्वीप	NN
+के	PSP
+प्रत्येक	QF
+सदस्य	NN
+देश	NN
+के	PSP
+साथ	NST
+इसकी	PRP
+साझी	JJ
+सीमाएं	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0463>
+हिन्द	NNPC
+महासागर	NNP
+के	PSP
+शीर्ष	NN
+पर	PSP
+स्थित	JJ
+होने	VM
+के	PSP
+कारण	PSP
+यह	PRP
+एशिया	NNP
+,	SYM
+अफ्रीका	NNP
+और	CC
+आस्टेªलिया	NNP
+महाद्वीपों	NN
+के	PSP
+साथ	NST
+व्यापार	NN
+बढाने	VM
+के	PSP
+लिए	PSP
+बहुत	INTF
+अच्छी	JJ
+स्थिति	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0464>
+स्वेज	NNPC
+नहर	NN
+के	PSP
+निर्माण	NN
+के	PSP
+पश्चात्	NST
+यूरोप	NNP
+और	CC
+उत्तर	NNPC
+अमेरीका	NNP
+के	PSP
+साथ	NST
+संपर्क	NN
+करना	VM
+बहुत	INTF
+आसान	JJ
+हो	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0465>
+फारस	NNP
+की	PSP
+खाडी	NNP
+के	PSP
+निकटवर्ती	JJ
+तेल-संपन्न	NNC
+देशों	NN
+से	PSP
+भारत	NNP
+अपेक्षाकृत	INTF
+कम	QF
+दूरी	NN
+पर	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0466>
+अक्षांशीय	JJ
+विस्तार	NN
+के	PSP
+अधिक	QF
+होने	VM
+के	PSP
+कारण	PSP
+भारत	NNP
+के	PSP
+उत्तरी	JJ
+और	CC
+दक्षिणी	JJ
+भागों	NN
+की	PSP
+जलवायु	NN
+में	PSP
+भारी	JJ
+अन्तर	NN
+हो	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0467>
+इसके	PRP
+पूर्वी	JJ
+और	CC
+पश्चिमी	JJ
+छोरों	NN
+के	PSP
+बीच	NST
+समय	NN
+में	PSP
+दो	QC
+घंटे	NN
+का	PSP
+अन्तर	NN
+होने	VM
+में	PSP
+देशान्तरीय	JJ
+विस्तार	NN
+का	PSP
+अधिक	QF
+होना	VM
+ही	RP
+मुख्य	JJ
+कारक	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0468>
+80°30	NNP
+'	SYM
+पूर्वी	JJ
+देशान्तर	NNP
+को	PSP
+प्रधान	NN
+मध्याह्न	NNPC
+रेखा	NNP
+स्वीकार	NN
+करके	VM
+समय	NN
+के	PSP
+इस	DEM
+अन्तर	NN
+को	PSP
+काफी	INTF
+कम	QF
+कर	VM
+दिया	VAUX
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0469>
+इसका	PRP
+स्थानीय	JJ
+समय	NN
+ही	RP
+पूरे	JJ
+देश	NN
+का	PSP
+मानक	JJ
+समय	NN
+स्वीकार	NN
+कर	VM
+लिया	VAUX
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0470>
+क्षेत्रफल	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+संसार	NN
+में	PSP
+भारत	NNP
+का	PSP
+सातवां	QO
+स्थान	NN
+है	VM
+,	SYM
+लेकिन	CC
+जनसंख्या	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+भारत	NNP
+चीन	NNP
+के	PSP
+बाद	NST
+दूसरे	QO
+स्थान	NN
+पर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0471a>
+इसका	PRP
+अर्थ	NN
+यह	PRP
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0471b>
+कि	CC
+हमारे	PRP
+स्थलीय	JJ
+तथा	CC
+जलीय	JJ
+संसाधनों	NN
+पर	PSP
+जनसंख्या	NN
+का	PSP
+बडा	JJ
+भारी	JJ
+दबाव	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0472a>
+भारत	NNP
+के	PSP
+भू-आकृतिक	JJ
+विभाग	NN
+बडे	JJ
+स्पष्ट	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0472b>
+तथा	CC
+उनमें	PRP
+बहुत	QF
+अन्तर	NN
+पाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0473>
+वास्तव	NN
+में	PSP
+इनमें	PRP
+से	PSP
+प्रत्येक	NN
+को	PSP
+अपने	PRP
+प्रकार	NN
+के	PSP
+आदर्श	JJ
+उदाहरण	NN
+के	PSP
+रूप	PSP
+में	PSP
+प्रस्तुत	JJ
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0474>
+इनमें	PRP
+चाहे	RB
+पर्वत	NN
+हो	VM
+,	SYM
+या	CC
+पठार	NN
+हो	VM
+या	CC
+मैदान	NN
+हो	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0475a>
+ये	PRP
+भले	RB
+ही	RP
+विविधता	NN
+को	PSP
+बढाने	VM
+वाले	PSP
+हो	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0475b>
+लेकिन	CC
+ये	PRP
+आर्थिक	JJ
+दृष्टि	NN
+से	PSP
+एक	PRPC
+दूसरे	PRP
+के	PSP
+पूरक	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0476>
+ये	DEM
+इन	DEM
+सभी	QF
+वृहत्	JJ
+प्रदेशों	NN
+को	PSP
+अन्योन्याश्रित	JJ
+बना	VM
+देते	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0477>
+इससे	PRP
+सारा	QF
+देश	NN
+एक	QC
+आर्थिक	JJ
+और	CC
+राजनीतिक	JJ
+सत्ता	NN
+बन	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0478>
+इससे	PRP
+देश	NN
+के	PSP
+छोटे-बडे	JJ
+सभी	QF
+भागों	NN
+को	PSP
+लाभ	NN
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_16ch_0479>
+आप	PRP
+हिमाद्रि	NNPC
+पर्वत	NN
+श्रेणी	NNP
+का	PSP
+संक्षिप्त	JJ
+विवरण	NN
+निम्नलिखित	JJ
+शीर्षकों	NN
+के	PSP
+अन्तर्गत	PSP
+कीजिए	VM
+।	SYM
+</sent_id>
+

@@ -1,0 +1,14125 @@
+<sent_id=Geo_nios_23ch_0001>
+भारत	NNP
+के	PSP
+खनिज	NNPC
+एवं	CC
+ऊर्जा	NNC
+संसाधनों	NN
+का	PSP
+विकास	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0002>
+पिछले	JJ
+पाठों	NN
+में	PSP
+हमने	PRP
+भूमि	NN
+,	SYM
+मृदा	NN
+,	SYM
+जल	NN
+एवम्	NNPC
+वन	NN
+जैसे	PSP
+संसाधनों	NN
+के	PSP
+बारे	PSP
+में	PSP
+पढा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0003>
+इस	DEM
+पाठमें	NN
+हम	PRP
+दो	QC
+महत्वपूर्ण	JJ
+संसाधनों	NN
+के	PSP
+बारे	PSP
+में	PSP
+अध्ययन	NN
+करेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0004>
+ये	DEM
+संसाधन	NN
+हैं-	VM
+खनिज	NN
+तथा	CC
+ऊर्जा	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0005>
+पृथ्वी	NN
+पर	PSP
+जैसे	PSP
+जल	NN
+और	CC
+थल	NN
+अतिमहत्वपूर्ण	JJ
+खजाने	NN
+हैं	VM
+ठीक	JJ
+उतने	PRP
+ही	RP
+महत्वपूर्ण	JJ
+खनिज	NNC
+संसाधन	NN
+भी	RP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0006>
+खनिज	NNPC
+संसाधन	NNP
+के	PSP
+बिना	RP
+हम	PRP
+अपने	PRP
+देश	NN
+के	PSP
+औद्योगिक	JJ
+क्रियाकलापों	NN
+को	PSP
+गति	NN
+,	SYM
+युक्ति	NN
+एवं	CC
+दिशा	NN
+नहीं	NEG
+दे	VM
+सकते	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0007>
+इसलिए	PRP
+देश	NN
+का	PSP
+आर्थिक	JJ
+विकास	NN
+भी	RP
+अवरुद्ध	JJ
+हो	VM
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0008>
+विश्व	NN
+के	PSP
+बहुत	QF
+से	RP
+देशों	NN
+में	PSP
+खनिज	NNPC
+सम्पदा	NNPC
+राष्ट्रीय	JJ
+आय	NN
+के	PSP
+प्रमुख	JJ
+स्रोत	NN
+बने	VM
+हुए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0009>
+किसी	PRP
+भी	RP
+देश	NN
+की	PSP
+आर्थिक	JJ
+,	SYM
+सामाजिक	JJ
+उन्नति	NN
+उसके	PRP
+अपने	PRP
+प्राकृतिक	JJ
+संसाधनों	NN
+के	PSP
+युक्तिसंगत	JJ
+उपयोग	NN
+करने	VM
+की	PSP
+क्षमता	NN
+पर	PSP
+निर्भर	JJ
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0010a>
+खनिजों	NN
+की	PSP
+सबसे	INTF
+महत्वपूर्ण	JJ
+विशेषता	NN
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0010b>
+कि	CC
+एक	QC
+बार	NN
+उपयोग	NN
+में	PSP
+आने	VM
+के	PSP
+पश्चात	NST
+ये	DEM
+लगभग	NN
+समाप्त	JJ
+हो	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0011>
+इसका	PRP
+संबंध	NN
+हमारे	PRP
+वर्तमान	JJ
+एवं	CC
+भविष्य	NN
+के	PSP
+कल्याण	NN
+से	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0012>
+चूँकि	CC
+खनिज	NN
+ऐसे	DEM
+क्षयशील	JJ
+संसाधन	NN
+हैं	VM
+जिन्हें	PRP
+दोबारा	RB
+नवीनीकृत	JJ
+नहीं	NEG
+किया	VM
+जा	VAUX
+सकता	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0013>
+अतः	CC
+इनके	PRP
+संरक्षण	NN
+की	PSP
+आवश्यकता	NN
+बहुत	INTF
+ज्यादा	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0014>
+रोमन	JJ
+साम्राज्य	NN
+के	PSP
+पतन	NN
+के	PSP
+अनेकों	QF
+कारणों	NN
+में	PSP
+से	PSP
+एक	QC
+कारण	NN
+वहाँ	PRP
+के	PSP
+खनिज-निक्षेप	NN
+का	PSP
+क्षीण	JJ
+होना	VM
+तथा	CC
+मृदा	NNC
+अपरदन	NN
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0015>
+विकसित	JJ
+देशों	NN
+में	PSP
+विगत	JJ
+कुछ	QF
+वर्षों	NN
+पूर्व	NST
+जो	PRP
+खदानों	NN
+वाले	PSP
+शहर	NN
+या	CC
+कस्बे	NN
+थे	VM
+वे	PRP
+आज	NN
+वीरान	JJ
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0016a>
+उजाड	NNP
+तथा	CC
+सभ्यता	NN
+से	PSP
+परित्यक्त	JJ
+इसलिए	PRP
+हो	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0016b>
+क्योंकि	CC
+खदानों	NN
+से	PSP
+खनिजों	NN
+का	PSP
+सम्पूर्ण	JJ
+दोहन	NN
+हो	VM
+चुका	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0016c>
+तथा	CC
+आकर्षण	NN
+समाप्त	JJ
+हो	VM
+चुका	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0017>
+कनाडा	NNP
+के	PSP
+इलियट	NNP
+झील	NN
+के	PSP
+आसपास	NST
+के	PSP
+नगर	NNC
+‘‘आणविक-युग	NNP
+के	PSP
+प्रथमवीरान	NN
+,	SYM
+उजाड	NN
+,	SYM
+परित्यक्त	JJ
+नगरों’’	NN
+में	PSP
+बदल	VM
+गए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0018>
+इसका	PRP
+कारण	NN
+इन	DEM
+नगरों	NN
+से	PSP
+यूरेनियम	NNC
+खनिज	NN
+जिसकी	PRP
+खुदाई	NN
+एवं	CC
+संग्रहण	NN
+करने	VM
+के	PSP
+लिए	PSP
+25	QC
+,	SYM
+000	QC
+आबादी	NN
+वाली	PSP
+मानव-बस्ती	NN
+बसाई	VM
+गई	VAUX
+थी	VAUX
+(	SYM
+1950-58	NNP
+)	SYM
+जैसे	PSP
+ही	RP
+अमेरिका	NNP
+को	PSP
+वैकल्पिक	JJ
+आण्विक	NNPC
+खनिज	NN
+(	SYM
+यूरेनियम	NNP
+)	SYM
+के	PSP
+भण्डार	NN
+मिले	VM
+,	SYM
+बस्ती	NN
+की	PSP
+जनसंख्या	NN
+5000	QC
+हो	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0019a>
+इस	DEM
+प्रकार	NN
+की	PSP
+मानवीय	JJ
+क्रियाकलापों	NN
+से	PSP
+एक	QC
+आर्थिक	JJ
+.	SYM
+सामाजिक	JJ
+सलाह	NN
+यह	PRP
+मिलती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0019b>
+कि	CC
+खनिज	NNPC
+एवं	CC
+ऊर्जा	NN
+पर	PSP
+आधारित	JJ
+चमक-दमक	NN
+की	PSP
+सम्पन्नता	NN
+एवं	CC
+सभ्यता	NN
+को	PSP
+स्थाई	JJ
+नहीं	NEG
+मानना	VM
+चाहिये	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0020>
+इस	DEM
+पाठ	NN
+के	PSP
+अध्ययन	NN
+से	PSP
+हम	PRP
+पृथ्वी	NN
+पर	PSP
+पाए	VM
+जाने	VAUX
+वाले	PSP
+विशिष्ट	JJ
+खनिज	NNC
+पदार्थ	NN
+,	SYM
+खनिज-तेल	NN
+एवं	CC
+ऊर्जा	NNC
+संसाधनों	NN
+का	PSP
+विकास	NN
+के	PSP
+भौगोलिक	JJ
+वितरण	NN
+,	SYM
+संसाधनों	NN
+के	PSP
+साथ	NST
+संयुक्त	JJ
+समस्याएँ	NN
+एवं	CC
+इनके	PRP
+संरक्षण	NN
+की	PSP
+आवश्यकताओं	NN
+से	PSP
+अवगत	JJ
+होंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0021>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+देश	NN
+के	PSP
+खनिज	NNC
+संसाधनों	NN
+की	PSP
+स्थिति	NN
+बता	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0022>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+आर्थिक	JJ
+विकास	NN
+में	PSP
+खनिज	NN
+तथा	CC
+ऊर्जा	NNC
+संसाधनों	NN
+के	PSP
+महत्व	NN
+को	PSP
+समझा	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0023>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+परम्परागत	JJ
+और	CC
+गैर-परम्परागत	NNC
+ऊर्जा	NN
+के	PSP
+संसाधनों	NN
+के	PSP
+बीच	NST
+अंतर	NN
+कर	VM
+सकेगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0024>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+भारत	NNP
+के	PSP
+मानचित्र	NN
+में	PSP
+उन	DEM
+भिन्न-भिन्न	JJ
+क्षेत्रों	NN
+को	PSP
+दर्शा	VM
+सकेंगे	VAUX
+जहाँ	PRP
+खनिज	NNPC
+एवं	NNPC
+ऊर्जा	NNPC
+संसाधन	NNP
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0025>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+खनन	NNC
+/	SYM
+शोधन	NN
+एवं	CC
+जीवाश्म	NN
+ईंधन	NN
+के	PSP
+पर्यावरण	NN
+पर	PSP
+पडने	VM
+वाले	PSP
+प्रभाव	NN
+को	PSP
+जान	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0026>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+खनिज	NNPC
+एवं	CC
+ऊर्जा	NNC
+संसाधनों	NN
+के	PSP
+संरक्षण	NN
+हेतु	PSP
+सुझाव	NN
+दे	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0027>
+भारत	NNP
+प्रचुर	JJ
+खनिज-निधि	NNP
+से	PSP
+सम्पन्न	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0028>
+हमारे	PRP
+देश	NN
+में	PSP
+100	QC
+से	PSP
+अधिक	QF
+खनिजों	NN
+के	PSP
+प्रकार	NN
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0029>
+इनमें	PRP
+से	PSP
+30	QC
+खनिज	NNC
+पदार्थ	NN
+ऐसे	PRP
+हैं	VM
+जिनका	PRP
+आर्थिक	JJ
+महत्व	NN
+बहुत	INTF
+अधिक	QF
+है	VM
+,	SYM
+उदाहरणस्वरूप	NNPC
+कोयला	NN
+,	SYM
+लोहा	NN
+,	SYM
+मेंगनीज	NN
+,	SYM
+बाक्साइट	NN
+,	SYM
+अभ्रक	NN
+इत्यादि	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0030>
+दूसरे	QO
+खनिज	NN
+जैसे	PSP
+फेल्सपार	NN
+,	SYM
+क्लोराइड	NN
+,	SYM
+चूनापत्थर	NN
+,	SYM
+डोलोमाइट	NN
+,	SYM
+जिप्सम	NN
+इत्यादि	RP
+के	PSP
+मामले	NN
+में	PSP
+भारत	NNP
+में	PSP
+इनकी	PRP
+स्थिति	NN
+संतोषप्रद	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0031>
+परन्तु	CC
+पेट्रोलियम	NN
+तथा	CC
+अन्य	JJ
+अलौह	JJ
+धातु	NN
+के	PSP
+अयस्क	NN
+जैसे	PSP
+ताँबा	NN
+,	SYM
+जस्ता	NN
+,	SYM
+टिन	NN
+,	SYM
+ग्रेफाइट	NN
+इत्यादि	RP
+में	PSP
+भारत	NNP
+में	PSP
+इनकी	PRP
+स्थिति	NN
+संतोषप्रद	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0032>
+अलौह	JJ
+खनिज	NN
+वे	PRP
+हैं	VM
+जिनमें	PRP
+लौह	JJ
+तत्व	NN
+नहीं	NEG
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0033>
+हमारे	PRP
+देश	NN
+में	PSP
+इन	DEM
+खनिजों	NN
+की	PSP
+आन्तरिक	JJ
+माँगों	NN
+की	PSP
+आपूर्ति	NN
+बाहर	NST
+के	PSP
+देशों	NN
+से	PSP
+आयात	NN
+करके	VM
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0034a>
+जैसा	CCC
+कि	CC
+आपने	PRP
+इतिहास	NN
+में	PSP
+यह	PRP
+पढा	VM
+होगा	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0034b>
+कि	CC
+अंग्रेजों	NN
+की	PSP
+हुकूमत	NN
+के	PSP
+दौरान	NST
+भारत	NNP
+के	PSP
+अधिकांश	QF
+खनिज	NNC
+निर्यात	NN
+कर	VM
+दिये	VAUX
+जाते	VAUX
+थे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0035>
+किन्तु	CC
+स्वतंत्रता	NN
+के	PSP
+बाद	NST
+भी	RP
+भारत	NNP
+से	PSP
+खनिज	NNC
+पदार्थों	NN
+का	PSP
+निर्यात	NN
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0036>
+परन्तु	CC
+खनिजों	NN
+का	PSP
+दोहन	NN
+देश	NN
+की	PSP
+औद्योगिक	JJ
+इकाइयों	NN
+द्वारा	PSP
+खपत	NN
+की	PSP
+माँग	NN
+के	PSP
+अनुरूप	PSP
+भी	RP
+बढा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0037>
+परिणामस्वरूप	PSP
+भारत	NNP
+में	PSP
+खनिजों	NN
+के	PSP
+कुल	QF
+दोहन	NN
+का	PSP
+मूल्य	NN
+2004-2005	NNP
+में	PSP
+लगभग	RP
+744	QCC
+अरब	QC
+रुपयों	NN
+तक	PSP
+पहुँच	VM
+गया	VAUX
+जो	PRP
+वर्ष	NN
+950-5	NNP
+में	PSP
+मात्र	RP
+89	QC
+.	SYM
+20	QCC
+करोड	QC
+रुपये	NN
+ही	RP
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0038a>
+इसका	PRP
+अर्थ	NN
+यह	PRP
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0038b>
+कि	CC
+पिछले	JJ
+50	QC
+वर्षों	NN
+में	PSP
+834	QC
+गुना	NN
+वृद्धि	NN
+हुई	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0039a>
+खनिज	NNC
+पदार्थों	NN
+को	PSP
+अलग-अलग	JJ
+यह	PRP
+करके	VM
+देखें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0039b>
+कि	CC
+उपरोक्त	DEM
+मूल्यों	NN
+में	PSP
+किसका	WQ
+कितना	QF
+योगदान	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0039c>
+तो	RP
+स्पष्ट	JJ
+यह	PRP
+हो	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0039d>
+कि	CC
+ईंधन	NN
+के	PSP
+रूप	PSP
+में	PSP
+प्रयुक्त	JJ
+खनिज	NN
+(	SYM
+जैसे	PSP
+कोयला	NN
+,	SYM
+पेट्रोलियम	NN
+,	SYM
+प्राकृतिक	JJ
+गैस	NN
+और	CC
+लिग्नाइट	NN
+)	SYM
+का	PSP
+योगदान	NN
+77	QC
+%	NN
+था	VM
+,	SYM
+धात्विक	JJ
+खनिजों	NN
+का	PSP
+0	QC
+%	NN
+तथा	CC
+अधात्विक	JJ
+खनिजों	NN
+का	PSP
+योगदान	NN
+8	QC
+%	NN
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0040>
+धात्विक	JJ
+खनिज	NN
+के	PSP
+अयस्क	NN
+लौह	NNPC
+अयस्क	NN
+,	SYM
+क्रोमाइट	NN
+,	SYM
+मेग्नीज	NN
+,	SYM
+जिंक	NN
+,	SYM
+बाक्साइट	NN
+,	SYM
+ताम्र-अयस्क	NN
+,	SYM
+स्वर्ण	NNPC
+अयस्क	NN
+हैं	VM
+|	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0041>
+अधात्विक	JJ
+अयस्कों	NN
+में	PSP
+चूनापत्थर	NN
+,	SYM
+फास्फोराइट	NN
+,	SYM
+डोलोमाइट	NNP
+,	SYM
+केवोलीन	NNC
+मिट्टी	NN
+,	SYM
+मेग्नेसाइट	NN
+,	SYM
+बेराइट	NN
+और	CC
+जिप्सम	NN
+इत्यादि	RP
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0042a>
+यदि	CC
+खनिजों	NN
+के	PSP
+सकल	NNC
+मूल्य	NN
+में	PSP
+इनका	PRP
+अलग-अलग	JJ
+योगदान	NN
+देखें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0042b>
+तो	CC
+कोयला	NN
+(	SYM
+36	QC
+.	SYM
+65	QC
+%	NN
+)	SYM
+,	SYM
+पेट्रोलियम	NN
+(	SYM
+25	QC
+.	SYM
+48	QC
+%	NN
+)	SYM
+,	SYM
+प्राकृतिक	JJ
+गैस	NN
+(	SYM
+2	NNP
+.	SYM
+02	QC
+%	NN
+)	SYM
+लौह	NNPC
+अयस्क	NN
+(	SYM
+7	QC
+.	SYM
+27	QC
+%	NN
+)	SYM
+,	SYM
+लिग्नाइट	NN
+(	SYM
+2	NNP
+.	SYM
+5	QC
+%	NN
+)	SYM
+,	SYM
+चूनापत्थर	NNP
+(	SYM
+2	QC
+.	SYM
+5	QC
+%	NN
+)	SYM
+तथा	CC
+क्रोमाइट	NNP
+(	SYM
+1	NNP
+.	SYM
+1	QC
+%	NN
+)	SYM
+आदि	RP
+कुछ	QF
+ऐसे	DEM
+खनिज	NN
+हैं	VM
+,	SYM
+जिनका	PRP
+अंश	NN
+1	QC
+प्रतिशत	NN
+से	PSP
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0043>
+अभी	PRP
+तक	PSP
+की	VM
+गई	VAUX
+विस्तृत	JJ
+चर्चा	NN
+के	PSP
+अन्तर्गत	PSP
+खनिज	NNC
+पदार्थों	NN
+की	PSP
+स्थानिक	JJ
+उपलब्धता	NN
+उनकेआर्थिक	JJ
+महत्व	NN
+के	PSP
+बारे	PSP
+में	PSP
+बहुत	QF
+से	RP
+जरूरी	JJ
+तथ्यों	NN
+का	PSP
+खुलासा	NN
+किया	VM
+गया	VAUX
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0044>
+अगले	JJ
+अनुच्छेद	NN
+में	PSP
+इन	DEM
+खनिजों	NN
+के	PSP
+भौगोलिक	JJ
+वितरण	NN
+संबंधी	JJ
+जानकारी	NN
+प्राप्त	JJ
+करेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0045>
+भारत	NNP
+में	PSP
+खनिज	NNPC
+एवं	CC
+ऊर्जा	NNC
+संसाधनों	NN
+का	PSP
+वितरण	NN
+बहुत	INTF
+ही	RP
+असमान	JJ
+और	CC
+अनियमित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0046>
+खनिज	NNC
+संसाधनों	NN
+की	PSP
+उपस्थिति	NN
+कुछ	QF
+विशिष्ट	JJ
+भू	NN
+.	SYM
+वैज्ञानिक	JJ
+संरचनाओं	NN
+से	PSP
+संबद्ध	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0047>
+जैसे	PSP
+कोयला	NN
+के	PSP
+निक्षेप	NNC
+गोन्डवाना	NNPC
+शैल	NNPC
+समूह	NNP
+के	PSP
+बाराकर	NNC
+संस्तर	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0048>
+इसी	DEM
+प्रकार	NN
+से	PSP
+धारवाड	NNP
+एवं	CC
+कूडप्पा	NNP
+तंत्र	NN
+में	PSP
+भारत	NNP
+के	PSP
+प्रमुख	JJ
+धात्विक	JJ
+खनिज	NN
+जैसे	PSP
+ताम्बा	NN
+,	SYM
+सीसा	NN
+,	SYM
+जस्ता	NNP
+इत्यादि	RP
+और	CC
+प्रमुख	JJ
+अधात्विक	JJ
+खनिज	NN
+जैसे	PSP
+चूनापत्थर	NN
+,	SYM
+डोलोमाइट	NN
+,	SYM
+जिप्सम	NN
+,	SYM
+केल्शियम	NN
+,	SYM
+सल्फेट	NN
+,	SYM
+इत्यादि	RP
+कुडप्पा	NNP
+एवं	CC
+ऊपरी	JJ
+विन्धयन	NNC
+तंत्र	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0049a>
+यदि	CC
+हम	PRP
+इन	DEM
+खनिज	JJ
+पदार्थों	NN
+के	PSP
+देश	NN
+के	PSP
+विभिन्न	JJ
+भागों	NN
+में	PSP
+वितरण	NN
+को	PSP
+ध्यान	NN
+से	PSP
+देखें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0049b>
+तो	RP
+स्पष्ट	JJ
+यह	PRP
+हो	VM
+जाएगा	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0049c>
+कि	CC
+भारतीय	JJ
+प्रायद्टीप	NN
+के	PSP
+उस	DEM
+भाग	NN
+में	PSP
+जो	PRP
+कि	RP
+मंगलोर	NNP
+से	PSP
+कानपुर	NNP
+को	PSP
+जोडने	VM
+वाली	PSP
+रेखा	NN
+के	PSP
+पश्चिम	NNP
+में	PSP
+है	VM
+बहुत	INTF
+ही	RP
+कम	QF
+मात्रा	NN
+में	PSP
+खनिज	NN
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0050>
+इस	DEM
+रेखा	NN
+के	PSP
+पूर्वी	JJ
+भागों	NN
+के	PSP
+अन्तर्गत	PSP
+कर्नाटक	NNP
+,	SYM
+आन्श्रप्रदेश	NNP
+,	SYM
+उडीसा	NNP
+,	SYM
+मध्य	NNPC
+प्रदेश	NNP
+,	SYM
+छत्तीसगढ	NNP
+,	SYM
+झारखण्ड	NNP
+,	SYM
+बिहार	NNP
+एवं	CC
+पश्चिम	NNPC
+बंगाल	NNP
+के	PSP
+क्षेत्र	NN
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0051>
+इन	DEM
+राज्यों	NN
+में	PSP
+धात्विक	JJ
+खनिज	NNC
+अयस्क	NN
+जैसे	PSP
+लोहा	NN
+,	SYM
+बाक्साइट	NN
+,	SYM
+मेंगनीज	NN
+इत्यादि	RP
+के	PSP
+प्रचुर	JJ
+भण्डार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0052>
+अधात्विक	JJ
+खनिज	NN
+जैसे	PSP
+कोयला	NN
+,	SYM
+चूने	NN
+के	PSP
+पत्थर	NN
+,	SYM
+डोलोमाइट	NN
+,	SYM
+जिप्सम	NN
+इत्यादि	RP
+के	PSP
+भी	RP
+बहुत	INTF
+विशाल	JJ
+भण्डार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0053>
+इनमें	PRP
+से	PSP
+अधिकांश	QF
+क्षेत्र	NN
+जो	PRP
+खनिज	NNC
+सम्पदा	NN
+से	PSP
+सम्पन्न	JJ
+हैं	VM
+,	SYM
+वे	PRP
+प्रायद्वीपीय	JJ
+पठारी	NNP
+क्षेत्रों	NN
+में	PSP
+संकेन्द्रित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0054>
+इस	DEM
+पठारी	JJ
+भाग	NN
+में	PSP
+खनिज	NNC
+सम्पदा	NN
+की	PSP
+तीन	QC
+प्रमुख	JJ
+पट्टियाँ	NN
+स्पष्ट	JJ
+रूप	NN
+से	PSP
+चिन्हित	JJ
+की	VM
+जा	VAUX
+सकती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0055>
+इनके	PRP
+अन्तर्गत	PSP
+छोटानागपुर	NNP
+के	PSP
+पठार	NN
+,	SYM
+उडीसा	NNP
+के	PSP
+पठार	NN
+और	CC
+आन्ध्रप्रदेश	NNP
+के	PSP
+पठारी	JJ
+भाग	NN
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0056>
+इस	DEM
+पट्टी	NN
+के	PSP
+अन्तर्गत	PSP
+खनिज-सम्पदा	NN
+विशेषकर	RB
+धातु	NNC
+कर्म	NNC
+उद्योगों	NN
+में	PSP
+उपयोग	NN
+आनेवाले	JJ
+खनिजों	NN
+के	PSP
+विशाल	JJ
+भण्डार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0057>
+इनमें	PRP
+से	PSP
+प्रमुख	JJ
+खनिज	NN
+जिनके	PRP
+बडे	JJ
+एवं	CC
+विपुल	JJ
+भण्डार	NN
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+,	SYM
+वे	PRP
+हैं-लौह	NNPC
+अयस्क	NN
+,	SYM
+मेंग्नीज	NN
+,	SYM
+अभ्रक	NN
+,	SYM
+बॉक्साइट	NN
+,	SYM
+चूनापत्थर	NN
+,	SYM
+डोलोमाइट	NNP
+इत्यादि	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0058>
+इस	DEM
+क्षेत्र	NN
+में	PSP
+कोयले	NN
+के	PSP
+विशाल	JJ
+भण्डार	NN
+दामोदर	NNPC
+नदी	NNP
+,	SYM
+महानदी	NNP
+,	SYM
+सोन	NNP
+नदी	NN
+की	PSP
+घाटियों	NN
+में	PSP
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0059>
+इस	DEM
+क्षेत्र	NN
+में	PSP
+पर्याप्त	JJ
+मात्रा	NN
+में	PSP
+तांबा	NN
+,	SYM
+यूरेनियम	NN
+,	SYM
+थोरियम	NN
+,	SYM
+फास्फेट	NN
+जैसे	PSP
+खनिजों	NN
+के	PSP
+भण्डार	NN
+भी	RP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0060>
+इस	DEM
+क्षेत्र	NN
+का	PSP
+विस्तार	NN
+कर्नाटक	NNP
+पठार	NN
+तथा	CC
+समीपस्थ	JJ
+तमिलनाडु	NNP
+के	PSP
+पठारी	JJ
+क्षेत्र	NN
+तक	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0061>
+यहाँ	PRP
+धात्विक	JJ
+खनिजों	NN
+में	PSP
+लौह	NNPC
+अयस्क	NN
+,	SYM
+मेंग्नीज	NN
+,	SYM
+बॉक्साइट	NN
+के	PSP
+प्रचुर	JJ
+भण्डार	NN
+के	PSP
+अलावा	PSP
+कुछ	QF
+अधात्विक	JJ
+खनिजों	NN
+के	PSP
+भण्डार	NN
+भी	RP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0062>
+इस	DEM
+क्षेत्र	NN
+में	PSP
+कोयला	NN
+नहीं	NEG
+मिलता	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0063>
+भारत	NNP
+के	PSP
+तीनों	QC
+प्रमुख	JJ
+सोने	NN
+की	PSP
+खदानें	NN
+इसी	DEM
+क्षेत्रा	NN
+में	PSP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0064>
+इस	DEM
+क्षेत्र	NN
+का	PSP
+विस्तार	NN
+गुजरात	NNP
+के	PSP
+खम्बात	NN
+की	PSP
+खाडी	NNP
+से	PSP
+आरंभ	NN
+होकर	VM
+राजस्थान	NNP
+के	PSP
+अरावली	NNP
+पर्वत	NNC
+श्रेणियों	NN
+तक	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0065>
+पेट्रोलियम	NNPC
+तथा	CC
+प्राकृतिक	JJ
+गैस	NN
+के	PSP
+मुख्य	JJ
+भण्डार	NN
+इस	DEM
+क्षेत्र	NN
+में	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0066>
+अन्य	JJ
+खनिजों	NN
+के	PSP
+भण्डार	NN
+थोडे	QF
+एवं	CC
+बिखरे	VM
+हुए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0067>
+तांबा	NN
+,	SYM
+चाँदी	NN
+,	SYM
+सीसा	NN
+एवं	CC
+जस्ता	NN
+के	PSP
+भण्डार	NN
+तथा	CC
+उनके	PRP
+खनन	NN
+के	PSP
+लिए	PSP
+इस	DEM
+क्षेत्र	NN
+को	PSP
+पूरे	JJ
+देशभर	NN
+में	PSP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0068>
+इन	DEM
+खनिज	NNC
+पट्टियों	NN
+के	PSP
+अलावा	PSP
+ब्रह्मपुत्रा	NNPC
+नदी	NNPC
+घाटी	NNC
+क्षेत्र	NN
+प्रमुख	JJ
+पेट्रोलियम	NNPC
+उत्पादक	JJ
+क्षेत्र	NN
+हैं	VM
+|	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0069>
+केरल	NNP
+के	PSP
+तटवर्ती	JJ
+क्षेत्र	NN
+भारी	JJ
+खनिजयुक्त	NN
+(	SYM
+रेडियोधर्मिता	NN
+वाले	PSP
+)	SYM
+रेतों	NN
+के	PSP
+लिए	PSP
+देश	NN
+में	PSP
+प्रसिद्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0070>
+इन	DEM
+उपर्युक्त	JJ
+वर्णित	JJ
+क्षेत्रों	NN
+के	PSP
+अलावा	PSP
+देश	NN
+के	PSP
+अन्य	JJ
+भूभागों	NN
+में	PSP
+खनिज	NN
+काफी	INTF
+कम	QF
+मात्रा	NN
+में	PSP
+व	CC
+प्रकीर्ण	JJ
+रूप	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0071>
+अगले	JJ
+अनुच्छेद	NN
+में	PSP
+हम	PRP
+खनिज	NNC
+तेल	NN
+एवं	CC
+खनिजोंएक-एक	NN
+करके	VM
+विस्तृत	JJ
+चर्चा	NN
+करेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0072>
+ईंधन	NN
+की	PSP
+गुणवत्ता	NN
+से	PSP
+युक्त	JJ
+खनिजों	NN
+में	PSP
+कोयला	NN
+,	SYM
+पेट्रोलियम	NN
+,	SYM
+प्राकृतिक	JJ
+गैस	NN
+एवं	CC
+रेडियोधर्मी	JJ
+खनिज	NN
+शामिल	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0073>
+भारत	NNP
+में	PSP
+कोयला	NNPC
+वाणिज्यिक	JJ
+ऊर्जा	NN
+का	PSP
+प्रमुख	JJ
+स्रोत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0074>
+देश	NN
+के	PSP
+सभी	QF
+कारखानों	NN
+में	PSP
+ईंधन	NN
+के	PSP
+रूप	PSP
+में	PSP
+तथा	CC
+सभी	QF
+ताप-विद्युत	NNC
+गृहों	NN
+में	PSP
+एवं	CC
+देश	NN
+के	PSP
+कुछ	QF
+भागों	NN
+में	PSP
+आज	NN
+भी	RP
+कोयला	NN
+,	SYM
+घरेलू-ईंधन	NN
+के	PSP
+रूप	PSP
+में	PSP
+प्रयुक्त	JJ
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0075>
+इसका	PRP
+प्रयोग	NN
+कच्चे	JJ
+माल	NN
+के	PSP
+रूप	PSP
+में	PSP
+रसायन	NNPC
+एवम्	CC
+उर्वरक	NN
+कारखानों	NN
+में	PSP
+तथा	CC
+दैनिक	JJ
+जीवन	NN
+में	PSP
+उपयोग	NN
+की	VM
+जाने	VAUX
+वाली	PSP
+हजारों	QC
+वस्तुओं	NN
+के	PSP
+उत्पादक	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0076>
+जनवरी	NNPC
+2005	NNP
+में	PSP
+किए	VM
+गए	VAUX
+एक	QC
+आकलन	NN
+के	PSP
+अनुसार	PSP
+देश	NN
+में	PSP
+कोयले	NN
+के	PSP
+कुल	QF
+भण्डार	NN
+लगभग	RP
+2	QC
+,	SYM
+47	NNP
+,	SYM
+847	QC
+मिलियन	QC
+टन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0077a>
+इस	DEM
+बात	NN
+का	PSP
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0077b>
+कि	CC
+सकल	NNC
+भण्डार	NN
+में	PSP
+कम	QF
+गुणवत्ता	NN
+वाले	PSP
+कोयले	NN
+की	PSP
+मात्रा	NN
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0078>
+कोकिंग	NNC
+कोयले	NN
+की	PSP
+आवश्यकता	NN
+की	PSP
+आपूर्ति	NNC
+आयात	NN
+द्वारा	PSP
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0079a>
+भारत	NNP
+में	PSP
+ऐसे	DEM
+प्रयासों	NN
+को	PSP
+अधिक	QF
+महत्वपूर्ण	JJ
+माना	VM
+जाता	VAUX
+है	VAUX
+जिसके	PRP
+अन्तर्गत	PSP
+विद्युत-ताप	NNC
+गृहों	NN
+की	PSP
+उन्हीं	DEM
+स्थानों	NN
+पर	PSP
+स्थापना	NN
+होती	VM
+है	VAUX
+जो	PRP
+या	CC
+तो	RP
+कोयला-उत्पादक	NNP
+क्षेत्र	NN
+में	PSP
+हों	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0079b>
+या	CC
+उसके	PRP
+समीपस्थ	JJ
+स्थान	NN
+में	PSP
+आते	VM
+हों	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0080>
+इन	DEM
+ताप	NNC
+गृहों	NN
+में	PSP
+उत्पादित	JJ
+विद्युत	NNC
+ऊर्जा	NN
+को	PSP
+सम्प्रेषण	NN
+द्वारा	PSP
+दूर-दराज	NN
+के	PSP
+क्षेत्रों	NN
+तक	PSP
+पहुँचाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0081a>
+कभी	PRP
+कोयले	NN
+की	PSP
+खपत	NN
+का	PSP
+सबसे	INTF
+बडा	JJ
+उपभोक्ता	NN
+भारतीय	NNPC
+रेल	NN
+हुआ	VM
+करता	VAUX
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0081b>
+परन्तु	CC
+डीजल	NN
+एवं	CC
+विद्युत	NN
+के	PSP
+प्रयोग	NN
+से	PSP
+भारतीय	JJ
+रेल	NN
+अब	PRP
+कोयले	NN
+का	PSP
+सीधा	JJ
+एवं	CC
+प्रत्यक्ष	JJ
+खपत	NN
+करने	VM
+वाला	PSP
+ग्राहक	NN
+नहीं	NEG
+रहा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0082>
+भारत	NNP
+में	PSP
+कोयला	NNP
+दो	QC
+प्रमुख	JJ
+क्षेत्रों	NN
+में	PSP
+उपलब्ध	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0083a>
+पहला	QO
+क्षेत्र-गोन्डवाना	NN
+कोयला	NNC
+क्षेत्र	NN
+कहलाता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0083b>
+तथा	CC
+दूसरा	QO
+टरशियरी	NNPC
+कोयला	NNC
+क्षेत्र	NNP
+कहलाता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0084a>
+भारत	NNP
+के	PSP
+कुल	QF
+कोयला	NNPC
+भण्डार	NNP
+एवं	CC
+उसके	PRP
+उत्पादनों	NN
+का	PSP
+98	QC
+%	NN
+गोन्डवाना	NNP
+कोयला	NNC
+क्षेत्रों	NN
+से	PSP
+प्राप्त	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0084b>
+तथा	CC
+शेष	JJ
+2	QC
+%	NN
+टरशियरी	SYM
+कोयला	NNC
+क्षेत्रों	NN
+से	PSP
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0085>
+गोन्डवाना	NNPC
+कोयला	NNPC
+क्षेत्र	NNPC
+गोन्डवाना	NNPC
+काल	NN
+में	PSP
+बनी	VM
+परतदार	JJ
+शैल	NNPC
+समूहों	NN
+के	PSP
+अन्तर्गत	PSP
+अवस्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0086>
+इनका	PRP
+भौगोलिक	JJ
+वितरण	NN
+भी	RP
+भू-वैज्ञानिकी	JJ
+कारकों	NN
+से	PSP
+नियंत्रित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0087>
+यह	PRP
+मुख्य	JJ
+रूप	NN
+से	PSP
+दामोदर	NNP
+(	SYM
+झारखण्ड-प	NNP
+.	SYM
+बंगाल	NNP
+)	SYM
+,	SYM
+सोन	NNP
+(	SYM
+मध्यप्रदेश	NNP
+,	SYM
+छत्तीसगढ	NNP
+)	SYM
+,	SYM
+महानदी	NNP
+(	SYM
+उडीसा	NNP
+)	SYM
+,	SYM
+गोदावरी	NNP
+(	SYM
+आंध्र	NNPC
+प्रदेश	NNP
+)	SYM
+तथा	CC
+वर्धा	NNP
+(	SYM
+महाराष्ट्र	NNP
+)	SYM
+नदी	NNP
+घाटियों	NN
+में	PSP
+वितरित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0088>
+टरशियरी	SYM
+कोयला	NNC
+क्षेत्र	NN
+भारतीय	JJ
+प्रायद्वीप	NNP
+के	PSP
+उत्तरी	JJ
+बाह्य	JJ
+क्षेत्रों	NN
+में	PSP
+,	SYM
+जिसके	PRP
+अन्तर्गत	PSP
+असाम	NNP
+,	SYM
+मेघालय	NNP
+,	SYM
+नागालैंड	NNP
+,	SYM
+अरुणाचल	NNPC
+प्रदेश	NNP
+,	SYM
+जम्मू-कश्मीर	NNP
+तथा	CC
+सिक्किम	NNP
+आते	VM
+हैं	VAUX
+,	SYM
+में	PSP
+पाये	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0089>
+इसके	PRP
+अतिरिक्त	PSP
+भूरा-कोयला	NN
+(	SYM
+लिग्नाइट	NNP
+)	SYM
+तमिलनाडु	NNP
+के	PSP
+तटवर्ती	JJ
+क्षेत्र	NN
+,	SYM
+गुजरात	NNP
+एवं	CC
+राजस्थान	NNP
+में	PSP
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0090>
+झारखण्ड	NNPC
+कोयला	NNPC
+भण्डार	NNPC
+एवं	CC
+उत्पादन	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+पूरे	JJ
+देश	NN
+में	PSP
+सर्वप्रथम	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0091>
+कोयला	NNPC
+झारखंड	NNP
+के	PSP
+धनबाद	NNP
+,	SYM
+हजारीबाग	NNP
+एवं	CC
+पालामऊ	NNP
+जिलों	NN
+में	PSP
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0092>
+झरिया	NNP
+एवं	CC
+चन्द्रपुरा	NNP
+के	PSP
+महत्वपूर्ण	JJ
+कोयला	NNC
+क्षेत्र	NN
+धनबाद	NNP
+जिला	NN
+में	PSP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0093>
+सबसे	INTF
+पुराना	JJ
+कोयला	NNC
+क्षेत्र	NN
+रानीगंज	NNP
+,	SYM
+पश्चिम	NNPC
+बंगाल	NNP
+में	PSP
+है	VM
+,	SYM
+जो	PRP
+कि	RP
+भारत	NNP
+का	PSP
+दूसरा	QO
+सबसे	INTF
+बडा	JJ
+कोयला	NNC
+क्षेत्र	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0094>
+इसका	PRP
+विस्तार	NN
+बर्दवान	NNP
+और	CC
+पुरुलिया	NNP
+जिलों	NN
+में	PSP
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0095>
+छत्तीसगढ	NNP
+में	PSP
+कोयला	NNP
+के	PSP
+निक्षेप	NN
+बिलासपुर	NNP
+तथा	CC
+सरगुजा	NNP
+जिलों	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0096>
+मध्य	NNPC
+प्रदेश	NNP
+में	PSP
+कोयले	NN
+के	PSP
+निक्षेप	NN
+सीधी	NN
+,	SYM
+शहडोल	NNP
+एवं	CC
+छिंदवाडा	NNP
+जिलों	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0097>
+आंध्रप्रदेश	NNP
+में	PSP
+कोयले	NN
+के	PSP
+निक्षेप	NN
+आदिलाबाद	NNP
+,	SYM
+करीमनगर	NNP
+,	SYM
+वारंगल	NNP
+,	SYM
+खम्मम	NNP
+तथा	CC
+पश्चिम	NNPC
+गोदावरी	NNP
+जिलों	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0098>
+उडीसा	NNP
+राज्य	NN
+में	PSP
+तालचेर	NNPC
+कोयला	NNC
+क्षेत्र	NN
+के	PSP
+अलावा	PSP
+सम्बलपुर	NNP
+और	CC
+सुन्दरगढ	NNP
+जिलों	NN
+में	PSP
+भी	RP
+कोयला	NN
+के	PSP
+निक्षेप	NN
+प्राप्त	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0099>
+महाराष्ट्र	NNP
+में	PSP
+कोयला	NNPC
+निक्षेप	NNPC
+चन्द्रपुर	NNP
+,	SYM
+यवतमाल	NNP
+तथा	CC
+नागपुर	NNP
+जिलों	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0100>
+भारत	NNP
+के	PSP
+कोयले	NN
+के	PSP
+भण्डार	NNC
+क्षमता	NN
+की	PSP
+तुलना	PSP
+में	PSP
+उसके	PRP
+लिग्नाइट	NN
+(	SYM
+भूरा	JJ
+कोयला	NNP
+)	SYM
+के	PSP
+भण्डार	NN
+साधारण	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0101>
+सबसे	INTF
+अधिक	QF
+लिग्नाइट	NN
+के	PSP
+भण्डार	NN
+नेव्हेली	NNP
+(	SYM
+तमिलनाडु	NNP
+)	SYM
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0102>
+इसके	PRP
+अलावा	PSP
+लिग्नाइट	NN
+के	PSP
+महत्वपूर्ण	JJ
+निक्षेप	NN
+राजस्थान	NNP
+,	SYM
+पाँडिचेरी	NNP
+,	SYM
+जम्मू-कश्मीर	NNP
+राज्यों	NN
+में	PSP
+भी	RP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0103>
+इसका	PRP
+प्रयोग	NN
+कच्चे	JJ
+माल	NN
+के	PSP
+रूप	PSP
+में	PSP
+रसायन	NNPC
+एवं	CC
+उर्वरक	NN
+कारखानों	NN
+तथा	CC
+दैनिक	JJ
+जीवन	NN
+में	PSP
+उपयोग	NN
+की	VM
+जाने	VAUX
+वाली	PSP
+हजारों	QC
+वस्तुओं	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0104>
+कोयला	NNC
+मुख्य	JJ
+रूप	NN
+से	PSP
+गोन्डवाना	NNP
+तथा	CC
+टरशियरी	SYM
+कोयला	NNC
+क्षेत्रों	NN
+में	PSP
+पाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0105>
+कोयला	NNC
+उत्पादकों	NN
+में	PSP
+अग्रणी	JJ
+राज्य	NN
+क्रमशः	RB
+झारखण्ड	NNP
+,	SYM
+पश्चिम	NNPC
+बंगाल	NNP
+,	SYM
+छत्तीसगढ	NNP
+,	SYM
+आन्ध्र	NNPC
+प्रदेश	NNP
+एवं	CC
+उडीसा	NNP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0106>
+लिग्नाइट	NN
+के	PSP
+निक्षेपों	NN
+के	PSP
+बहुत	INTF
+बडे	JJ
+भण्डार	NN
+नैव्हेली	NNP
+एवं	CC
+उसके	PRP
+आसपास	NST
+के	PSP
+क्षेत्रों	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0107>
+इसे	PRP
+प्रायः	RB
+तरल	JJ
+सोना	NN
+भी	RP
+कहा	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0108>
+इसके	PRP
+पीछे	NST
+पेट्रोलियम	NN
+की	PSP
+बहुमुखी	JJ
+उपयोगिताएँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0109>
+हमारी	PRP
+कृषि	NN
+,	SYM
+उद्योग	NN
+तथा	CC
+परिवहन	NNC
+तंत्र	NN
+कई	QF
+रूपों	NN
+में	PSP
+इस	PRP
+पर	PSP
+निर्भर	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0110>
+कच्चा	JJ
+पेट्रोलियम	NNPC
+दहनशील	JJ
+हाइड्रोकार्बन	NN
+का	PSP
+सम्मिश्रण	NN
+है	VM
+जोकि	CC
+गैस	NN
+,	SYM
+तरल	JJ
+या	CC
+गैसीय	JJ
+रूपों	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0111>
+उद्योगों	NN
+में	PSP
+पेट्रोलियम	NNC
+उत्पादों	NN
+का	PSP
+कृतिम	JJ
+पदार्थों	NN
+व	CC
+आवश्यक	JJ
+रसायनों	NN
+के	PSP
+निर्माण	NN
+के	PSP
+लिए	PSP
+तेल	NN
+व	CC
+चिकनाई	NN
+के	PSP
+युक्त	JJ
+पदार्थों	NN
+के	PSP
+रूप	PSP
+में	PSP
+उपयोग	NN
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0112>
+पेट्रोलियम	NN
+के	PSP
+महत्वपूर्ण	JJ
+उत्पादों	NN
+में	PSP
+पेट्रोल	NN
+,	SYM
+मिट्टी	NN
+का	PSP
+तेल	NN
+,	SYM
+डीजल	NN
+हैं	VM
+,	SYM
+साबुन	NN
+,	SYM
+कृत्रिम	JJ
+रेशा	NN
+,	SYM
+प्लास्टिक	NN
+एवं	CC
+अन्यान्य	JJ
+प्रसाधन	NNC
+उत्पाद	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0113>
+पेट्रोलियम	NNC
+भ्रंशों	NN
+और	CC
+अपनतियों	NN
+में	PSP
+पाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0114>
+भारत	NNP
+में	PSP
+यह	DEM
+अवसादी	JJ
+शैल	NNPC
+संरचना	NN
+में	PSP
+पाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0115>
+इस	DEM
+प्रकार	NN
+के	PSP
+अधिकांश	QF
+क्षेत्र	NN
+असम	NNP
+,	SYM
+गुजरात	NNP
+तथा	CC
+पश्चिमीतट	NNP
+के	PSP
+अपतटीय	JJ
+क्षेत्रों	NN
+में	PSP
+पाए	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0116>
+अब	PRP
+तक	PSP
+भारत	NNP
+में	PSP
+पेट्रोलियम	NN
+का	PSP
+उत्पादन	NN
+असाम	NNP
+पट्टी	NNP
+,	SYM
+गुजरात-खम्बात	NNP
+की	PSP
+पट्टी	NN
+तथा	CC
+बाम्बे-हाई	NNP
+में	PSP
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0117>
+असाम	NNP
+की	PSP
+पट्टी	NN
+का	PSP
+विस्तार	NN
+सुदूर	JJ
+उत्तर-पूर्वी	JJ
+छोर	NN
+पर	PSP
+अवस्थित	JJ
+देहाँग-बेसिन	NNP
+से	PSP
+लेकर	VM
+पहाडियों	NN
+के	PSP
+बाहरी	JJ
+छोर	NN
+के	PSP
+साथ-साथ	NST
+सूरमा-घाटी	NNP
+की	PSP
+पूर्वी	JJ
+सीमा	NN
+तक	PSP
+विस्तृत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0118>
+गुजरात-खम्बात	NNP
+पट्टी	NN
+गुजरात	NNP
+के	PSP
+उत्तर	NNP
+में	PSP
+मेहसाना	NNP
+से	PSP
+लेकर	VM
+दक्षिण	NNP
+में	PSP
+रत्नागिरि	NNP
+(	SYM
+महाराष्ट्र	NNP
+)	SYM
+के	PSP
+महाद्वीपीय	JJ
+निमग्न	JJ
+तट	NN
+तक	PSP
+फैली	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0119>
+इसी	PRP
+के	PSP
+अन्तर्गत	PSP
+बाम्बे	NNPC
+हाई	NNP
+भी	RP
+आता	VM
+है	VAUX
+जो	PRP
+भारत	NNP
+का	PSP
+सबसे	INTF
+बडा	JJ
+पेट्रोलियम	NNC
+उत्पादक	JJ
+क्षेत्र	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0120>
+असाम	NNP
+में	PSP
+उत्पादक	JJ
+क्षेत्र	NN
+लखीमपुर	NNP
+तथा	CC
+शिवसागर	NNP
+जिलों	NN
+में	PSP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0121>
+पेट्रोलियम	NN
+के	PSP
+उत्पादन	NN
+के	PSP
+लिये	PSP
+खननकूप	NNPC
+डिग्बोई	NNP
+,	SYM
+नहरकटिया	NNP
+,	SYM
+शिवसागर	NNP
+एवं	CC
+रुद्र	NNPC
+सागर	NNP
+के	PSP
+आसपास	NST
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0122>
+इसी	DEM
+प्रकार	NN
+गुजरात	NNP
+राज्य	NN
+में	PSP
+तेल	NNC
+उत्पादक	JJ
+स्थान	NN
+वडोदरा	NNP
+,	SYM
+भरोच	NNP
+,	SYM
+खेडा	NNP
+,	SYM
+मेहसाना	NNP
+एवं	CC
+सूरत	NNP
+जिलों	NN
+में	PSP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0123>
+हाल	NN
+ही	RP
+में	PSP
+पेट्रोलियम	NN
+के	PSP
+भण्डार	NN
+की	PSP
+खोज	NN
+राजस्थान	NNP
+के	PSP
+बीकानेर	NNP
+जिलान्तर्गत	NN
+बहुत	INTF
+बडे	JJ
+क्षेत्र	NN
+में	PSP
+तथा	CC
+बाडमेर	NNP
+एवं	CC
+जैसलमेर	NNP
+क्षेत्रों	NN
+में	PSP
+की	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0124>
+इसी	DEM
+प्रकार	NN
+आन्ध्रप्रदेश	NNP
+के	PSP
+पूर्वी	JJ
+तटवर्ती	NNPC
+गोदावरी	NNPC
+डेल्टा	NNP
+तथा	CC
+कृष्णा	NNPC
+डेल्टा	NNP
+में	PSP
+अन्वेषण	NN
+के	PSP
+दौरान	NST
+प्राकृतिक	JJ
+गैस	NN
+मिली	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0125>
+पेट्रोलियम	NNPC
+भण्डार	NNP
+के	PSP
+संभावित	JJ
+क्षेत्र	NN
+बंगाल	NNPC
+की	PSP
+खाडी	NNP
+,	SYM
+जिसका	PRP
+विस्तार	NN
+पश्चिम	NNPC
+बंगाल	NNP
+की	PSP
+तटवर्ती	JJ
+रेखा	NN
+के	PSP
+साथ-साथ	PSP
+उडीसा	NNP
+,	SYM
+आन्ध्र	NNPC
+प्रदेश	NNP
+,	SYM
+तमिलनाडु	NNP
+तथा	CC
+अन्डमान	NNP
+व	CC
+निकोबारद्वीप	NNPC
+समूह	NN
+तक	PSP
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0126>
+पेट्रोलियम	NNPC
+अपनतियों	NN
+और	CC
+भ्रंशों	NN
+में	PSP
+पाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0127>
+भारत	NNP
+में	PSP
+यह	DEM
+अवसादीशैल	NNC
+संरचना	NN
+में	PSP
+पाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0128>
+ऐसे	DEM
+अधिकांश	JJ
+क्षेत्र	NN
+असाम	NNP
+,	SYM
+गुजरात	NNP
+तथा	CC
+पश्चिमी	JJ
+तटवर्ती	NNC
+क्षेत्र	NN
+के	PSP
+सहारे	PSP
+समुद्र	NN
+के	PSP
+महाद्वीपीय	JJ
+निमग्न	JJ
+तट	NN
+पर	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0129>
+पेट्रोलियम	NN
+के	PSP
+महत्वपूर्ण	JJ
+उत्पादों	NN
+में	PSP
+पेट्रोल	NN
+,	SYM
+डीजल	NN
+,	SYM
+मिट्टी	NN
+का	PSP
+तेल	NN
+,	SYM
+साबुन	NN
+,	SYM
+कृत्रिम	JJ
+रेशे	NN
+,	SYM
+प्लास्टिक	NN
+,	SYM
+विविध	JJ
+सौन्दर्य-प्रसाधन	NN
+वस्तुएँ	NN
+आदि	RP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0130>
+उद्योगों	NN
+में	PSP
+पेट्रोलियम	NNC
+उत्पादों	NN
+का	PSP
+कृत्रिम	JJ
+पदार्थों	NN
+व	CC
+आवश्यक	JJ
+रसायनों	NN
+के	PSP
+निर्माण	NN
+के	PSP
+लिए	PSP
+तेल	NN
+व	CC
+चिकनाई	NN
+युक्त	JJ
+पदार्थों	NN
+के	PSP
+रूप	PSP
+में	PSP
+उपयोग	NN
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0131>
+कच्चा	JJ
+पेट्रोलियम	NN
+जो	PRP
+जमीन	NN
+के	PSP
+अन्दर	NST
+से	PSP
+निकाला	VM
+जाता	VAUX
+है	VAUX
+उसे	PRP
+सीधे	RB
+उपयोग	NN
+में	PSP
+लाने	VM
+के	PSP
+पहले	NST
+प्राकृतिक	JJ
+अशुद्धियों	NN
+से	PSP
+परिष्कृत	JJ
+करना	VM
+पडता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0132>
+पेट्रोलियम	NN
+का	PSP
+परिष्करण	NN
+एक	QC
+जटिल	JJ
+रासायनिक	NNC
+अभियांत्रिकीय	NNPC
+प्रौद्योगिकी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0133>
+वर्तमान	NN
+में	PSP
+लगभग	RP
+17	QC
+तेल	NNC
+शोधक	NNPC
+संयंत्र	NNP
+भारत	NNP
+में	PSP
+स्थापित	JJ
+हैं	VM
+जो	PRP
+सार्वजनिक	JJ
+क्षेत्र	NN
+के	PSP
+अन्तर्गत	PSP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0134>
+केवल	RP
+एक	QC
+तेलशोधक	NNC
+संयंत्र	NN
+रिलायंस	NNPC
+इन्डस्ट्री	NNP
+द्वारा	PSP
+निजी	JJ
+क्षेत्र	NN
+में	PSP
+संचालित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0135>
+सार्वजनिक	JJ
+क्षेत्र	NN
+के	PSP
+तेल	NNC
+शोधक	NNPC
+संयंत्र	NNP
+,	SYM
+डिगबोई	NNP
+,	SYM
+बोंगइगांव	NNP
+तथा	CC
+नूनमाटी	NNP
+(	SYM
+तीनों	QC
+संयंत्र	NN
+असाम	NNP
+में	PSP
+)	SYM
+,	SYM
+मुम्बई	NNP
+में	PSP
+2	QC
+इकाइयाँ	NN
+(	SYM
+महाराष्ट्र	NNP
+)	SYM
+,	SYM
+विशाखापट्टनम	NNP
+(	SYM
+आंध्रप्रदेश	NNP
+)	SYM
+,	SYM
+बरौनी	NNP
+(	SYM
+बिहार	NNP
+)	SYM
+,	SYM
+कोयली	NNP
+(	SYM
+गुजरात	NNP
+)	SYM
+,	SYM
+मथुरा	NNP
+(	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+)	SYM
+,	SYM
+पानीपत	NNP
+(	SYM
+हरियाणा	NNP
+)	SYM
+,	SYM
+कोचीन	NNP
+(	SYM
+केरल	NNP
+)	SYM
+,	SYM
+मेंगलोर	NNP
+(	SYM
+कर्नाटक	NNP
+)	SYM
+एवं	CC
+चेन्नई	NNP
+(	SYM
+तमिलनाडु	NNP
+)	SYM
+में	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0136>
+जामनगर	NNP
+(	SYM
+गुजरात	NNP
+)	SYM
+में	PSP
+रिलायंस	NNPC
+इन्डस्ट्रीज	NNP
+द्वारा	PSP
+निजी	JJ
+क्षेत्र	NN
+में	PSP
+संचालित	JJ
+एकमात्रा	NNPC
+तेलशोधक	NNPC
+संयंत्र	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0137>
+इन	DEM
+तेल	NNC
+शोधक	NNC
+संयंत्रों	NN
+को	PSP
+कच्चे	JJ
+तेल	NN
+की	PSP
+आपूर्ति	NN
+या	CC
+तो	RP
+जहाजों	NN
+द्वारा	PSP
+अथवा	CC
+पाइप	NNC
+लाइनोंके	NN
+द्वारा	PSP
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0138>
+यद्यपि	CC
+पेट्रोलियम	NNC
+उत्पादन	NN
+की	PSP
+वार्षिक	JJ
+दर	NN
+बढती	VM
+नजर	NN
+आती	VM
+है	VAUX
+,	SYM
+किन्तु	CC
+भारत	NNP
+को	PSP
+अपनी	PRP
+आवश्यकताओं	NN
+की	PSP
+आपूर्ति	NN
+पेट्रोलियम	NNPC
+एवं	CC
+पेट्रोलियम	NNC
+उत्पादों	NN
+के	PSP
+बाहर	NST
+से	PSP
+आयात	NN
+द्वारा	PSP
+करना	VM
+पडता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0139>
+वर्तमान	NN
+में	PSP
+भारत	NNP
+में	PSP
+7	QC
+तेलशोधक	NNC
+संयंत्र	NNPC
+सार्वजनिक	JJ
+क्षेत्र	NN
+के	PSP
+अन्तर्गत	PSP
+तथा	CC
+1	QC
+संयंत्र	NN
+निजी	JJ
+क्षेत्र	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0140a>
+यद्यपि	CC
+वार्षिक	JJ
+उत्पादन	NN
+की	PSP
+गति	NN
+बढती	VM
+नजर	NN
+आ	VM
+रही	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0140b>
+तथापि	CC
+अपनी	PRP
+आन्तरिक	JJ
+आवश्यकताओं	NN
+की	PSP
+आपूर्ति	NN
+के	PSP
+लिए	PSP
+भारत	NNP
+को	PSP
+पेट्रोलियम	NN
+का	PSP
+आयात	NN
+करना	VM
+पडता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0141>
+प्राकृतिक	JJ
+गैस	NN
+अब	PRP
+वाणिज्यिक	JJ
+ऊर्जा	NN
+के	PSP
+महत्वपूर्ण	JJ
+स्रोत	NN
+के	PSP
+रूप	PSP
+में	PSP
+उभर	VM
+कर	VAUX
+आ	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0142>
+प्रायः	RB
+पेट्रोलियम	NNC
+उत्पादन	NN
+में	PSP
+आनुषंगिक	JJ
+रूप	NN
+में	PSP
+प्राकृतिक	JJ
+गैस	NN
+के	PSP
+मिलने	VM
+की	PSP
+संभावना	NN
+बनती	VM
+ही	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0143>
+प्रतिलभ्य	NNC
+भण्डार	NN
+पर	PSP
+प्राकृतिक	JJ
+गैस	NN
+का	PSP
+भारत	NNP
+में	PSP
+(	SYM
+1	NNPC
+अप्रैल	NNPC
+2001	NNP
+के	PSP
+आंकलन	NN
+पर	PSP
+आधारित	JJ
+)	SYM
+भण्डार	NN
+लगभग	RP
+638	QCC
+अरब	QC
+घनमीटर	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0144a>
+आशा	NN
+यह	PRP
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0144b>
+कि	CC
+भविष्य	NN
+में	PSP
+कृष्णा	NNP
+,	SYM
+गोदावरी	NNP
+तथा	CC
+महानदी	NNP
+घाटियों	NN
+के	PSP
+क्षेत्रों	NN
+में	PSP
+चल	VM
+रहे	VAUX
+अन्वेषणों	NN
+से	PSP
+प्राकृतिक	JJ
+गैस	NN
+के	PSP
+अनेक	QF
+भण्डारों	NN
+के	PSP
+मिलने	VM
+से	PSP
+इसकी	PRP
+मात्रा	NN
+बढेगी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0145>
+वर्ष	NN
+2003-2004	NNP
+में	PSP
+प्राकृतिक	JJ
+गैस	NN
+का	PSP
+भारत	NNP
+में	PSP
+उत्पादन	NN
+करीब	RP
+31	QCC
+अरब	QC
+घनमीटर	NN
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0146>
+भारत	NNP
+में	PSP
+प्राकृतिक	NNPC
+गैस	NNPC
+प्राधिकरण	NNP
+की	PSP
+स्थापना	NN
+1984	NNP
+में	PSP
+की	VM
+गई	VAUX
+थी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0147>
+इस	DEM
+प्राधिकरण	NN
+का	PSP
+उद्देश्य	NN
+प्राकृतिक	JJ
+गैसों	NN
+का	PSP
+संसाधन	NN
+,	SYM
+परिवहन	NN
+,	SYM
+वितरण	NN
+एवं	CC
+उसका	PRP
+सुव्यवस्थित	JJ
+विपणन	NN
+कराना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0148>
+प्राधिकरण	NN
+के	PSP
+अधिकार	NN
+एवं	CC
+संचालन	NN
+के	PSP
+अन्तर्गत	PSP
+5	QC
+,	SYM
+340	QC
+कि	CC
+.	SYM
+मी	RP
+.	SYM
+लम्बी	JJ
+गैस	NNC
+पाइप	NNPC
+लाइन	NNP
+देश	NN
+में	PSP
+फैली	VM
+हुई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0149>
+परमाणु	NNC
+शक्ति	NN
+का	PSP
+उत्सर्जन	NN
+इन	DEM
+खनिजों	NN
+के	PSP
+अन्दर	NST
+व्याप्त	JJ
+परमाणुओं	NN
+के	PSP
+विखंडन	NN
+या	CC
+विलयनीकरण	NN
+से	PSP
+होता	VM
+है	VAUX
+,	SYM
+इन	DEM
+खनिजों	NN
+के	PSP
+अंतर्गत	PSP
+यूरेनियम	NNP
+,	SYM
+थोरियम	NN
+एवं	CC
+रेडियम	NN
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0150>
+भारत	NNP
+में	PSP
+विश्व	NN
+का	PSP
+सबसे	INTF
+बडा	JJ
+भण्डार	NN
+मोनाजाइट	NNP
+का	PSP
+है	VM
+,	SYM
+जो	PRP
+थोरियम	NN
+का	PSP
+स्रोत	NN
+है	VM
+,	SYM
+इसके	PRP
+अलावा	PSP
+यूरेनियम	NN
+के	PSP
+भण्डार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0151>
+भारत	NNP
+में	PSP
+यूरेनियम	NN
+आग्नेय	NN
+एवं	CC
+रूपान्तरित	JJ
+शैलों	NN
+में	PSP
+अन्तःस्थापित	JJ
+होकर	VM
+पाए	VAUX
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0152>
+ऐसे	DEM
+विशिष्ट	JJ
+खनिजयुक्त	NN
+शैल	NNPC
+झारखण्ड	NNP
+,	SYM
+राजस्थान	NNP
+,	SYM
+आन्ध्रप्रदेश	NNP
+तथा	CC
+हिमालय	NNP
+के	PSP
+कुछ	QF
+भागों	NN
+में	PSP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0153>
+केरल	NNP
+के	PSP
+तटवर्ती	JJ
+क्षेत्रों	NN
+में	PSP
+काफी	INTF
+बडी	JJ
+मात्रा	NN
+में	PSP
+यूरेनियम	NN
+,	SYM
+मोनाजाइट-बालुओं	NN
+के	PSP
+ढेरों	PRP
+में	PSP
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0154>
+वर्तमान	NN
+में	PSP
+यूरेनियम	NN
+का	PSP
+उत्पादन	NN
+सिंहभूमि	NNP
+जिले	NN
+(	SYM
+झारखण्ड	NNP
+)	SYM
+की	PSP
+जादूगुडा	NNP
+खदानों	NN
+से	PSP
+किया	VM
+जा	VAUX
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0155>
+भारत	NNP
+में	PSP
+यूरेनियम	NN
+के	PSP
+भण्डार	NN
+5	QC
+,	SYM
+000	QC
+से	PSP
+10	QC
+,	SYM
+000	QC
+मेगावाट	NN
+बिजली	NNC
+उत्पादन	NN
+करने	VM
+में	PSP
+सक्षम	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0156>
+थोरियम	NNP
+मुख्य	JJ
+रूप	NN
+से	PSP
+मोनाजाइट	NNC
+बालू	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0157>
+केरल	NNP
+के	PSP
+पालघाट	NNP
+तथा	CC
+कोल्लम	NNP
+(	SYM
+क्विलोन	NNP
+)	SYM
+जिलों	NN
+में	PSP
+पाए	VM
+जाने	VAUX
+बालुओं	NN
+में	PSP
+विश्व	NN
+का	PSP
+सर्वाधिक	JJ
+मोनाजाइट	NN
+खनिज	NN
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0158>
+आन्ध्र	NNPC
+प्रदेश	NNP
+के	PSP
+विशाखापट्टनम	NNP
+में	PSP
+भी	RP
+बालुओं	NN
+में	PSP
+मोनाजाइट	NN
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0159>
+वर्तमान	NN
+में	PSP
+यूरेनियम	NN
+का	PSP
+उत्पादन	NN
+जादूगुडा	NN
+की	PSP
+खदानों	NN
+से	PSP
+किया	VM
+जा	VAUX
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0160>
+थोरियम	NN
+का	PSP
+प्रमुख	JJ
+स्रोत	NN
+मोनाजाइट	NNP
+है	VM
+जिसका	PRP
+भण्डारण	NN
+विश्व	NN
+में	PSP
+सबसे	INTF
+अधिक	QF
+भारत	NNP
+देश	NN
+में	PSP
+ही	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0161>
+समुद्र	NN
+तटीय	JJ
+बालू	NN
+जिनमें	PRP
+मोनाजाइट	NN
+मिलता	VM
+है	VAUX
+का	CC
+केरल	NNP
+के	PSP
+पालघाट	NNP
+तथा	CC
+कोल्लम	NNP
+जिलों	NN
+में	PSP
+विशाल	JJ
+भण्डार	NN
+हैं	VM
+जो	PRP
+पूरे	JJ
+विश्व	NN
+में	PSP
+सबसे	INTF
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0162>
+भारत	NNP
+में	PSP
+यूरेनियम	NNPC
+झारखण्ड	NNP
+,	SYM
+राजस्थान	NNP
+,	SYM
+आन्ध्र	NNPC
+प्रदेश	NNP
+व	CC
+हिमालय	NNP
+के	PSP
+कुछ	QF
+भागों	NN
+में	PSP
+,	SYM
+आग्नेय	NNP
+व	CC
+रूपान्तरित	JJ
+शैलों	NN
+में	PSP
+पाये	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0163>
+निम्नलिखित	JJ
+कथनों	NN
+में	PSP
+से	PSP
+सही	JJ
+विकल्प	NN
+चुनकर	VM
+उसके	PRP
+आगे	NST
+सही	PRP
+का	PSP
+चिन्ह	NN
+लगाएँ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0164>
+आर्थिक	JJ
+मूल्य	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+इनमें	PRP
+से	PSP
+कौन	WQ
+सा	RP
+खनिज	NN
+अग्रणी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0165>
+भारत	NNP
+में	PSP
+सोने	NN
+के	PSP
+तीनों	QC
+प्रमुख	JJ
+खनिज	NNC
+क्षेत्रों	NN
+की	PSP
+अवस्थिति	NN
+निम्न	JJ
+में	PSP
+से	PSP
+किस	WQ
+भाग	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0166>
+भारत	NNP
+में	PSP
+खनिजों	NN
+का	PSP
+वितरण	NN
+बहुत	INTF
+असमान	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0167>
+अधिकांश	JJ
+खनिज	NNC
+दक्कन	NNP
+के	PSP
+पठार	NN
+तथा	CC
+छोटानागपुर	NNP
+पठार	NNP
+में	PSP
+पाए	VM
+जाने	VAUX
+वाले	PSP
+प्राचीन	JJ
+रवेदार	JJ
+शैलों	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0168a>
+कुछ	QF
+खनिज	NNC
+हिमालयी	JJ
+भागों	NN
+में	PSP
+भी	RP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0168b>
+परन्तु	CC
+उनका	PRP
+दोहन	NN
+करना	VM
+बहुत	INTF
+कठिन	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0169>
+भारत	NNP
+के	PSP
+सभी	QF
+खनिजोंको	JJC
+मोटे	JJ
+तौर	NN
+पर	PSP
+दो	QC
+बडे	JJ
+भागों	NN
+में	PSP
+बाँटा	VM
+जा	VAUX
+सकता	VAUX
+हैं-धात्विक	VAUX
+खनिज	NN
+तथा	CC
+अधात्विक	JJ
+खनिज	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0170>
+धात्विक	JJ
+खनिज	NN
+पुनः	RB
+दो	QC
+भागों	NN
+में	PSP
+बाँटा	VM
+जा	VAUX
+सकता	VAUX
+है-लौह	SYM
+व	CC
+अलौह	JJ
+वर्ग	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0171>
+लौह	NNPC
+खनिज	NN
+वे	PRP
+कहलाते	VM
+हैं	VAUX
+जिनमें	PRP
+लौह	NNC
+तत्व	NN
+काफी	INTF
+अधिक	QF
+मात्रा	NN
+में	PSP
+रहता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0172>
+धात्विक	JJ
+खनिजों	NN
+के	PSP
+सकल	NNC
+उत्पादन	NNC
+मूल्य	NN
+का	PSP
+तीन	QC
+चौथाई	QC
+हिस्सा	NN
+लौह	JJ
+धातु	NN
+के	PSP
+खनिजों	NN
+का	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0173>
+खनिज	NNC
+ईंधन	NN
+के	PSP
+बाद	NST
+सबसे	INTF
+महत्वपूर्ण	JJ
+खनिज	NNC
+वर्ग	NN
+की	PSP
+सूची	NN
+लौह	JJ
+धात्विक	JJ
+खनिजों	NN
+द्वारा	PSP
+ही	RP
+निर्मित	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0174>
+इस	DEM
+सूची	NN
+में	PSP
+आने	VM
+वाले	PSP
+धात्विक	JJ
+खनिजों	NN
+में	PSP
+लोहा	NN
+,	SYM
+मेंगनीज	NN
+,	SYM
+क्रोमाइट	NN
+,	SYM
+पाइराइट	NN
+इत्यादि	RP
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0175>
+ये	DEM
+धात्विक	JJ
+खनिज	NN
+भारत	NNP
+में	PSP
+धातुकर्मीय	JJ
+उद्योगों	NN
+के	PSP
+लिए	PSP
+सृदृढ	JJ
+आधार	NN
+प्रदान	NN
+करते	VM
+हैं-खासकर	VAUX
+लौह	NN
+,	SYM
+इस्पात	NN
+एवं	CC
+मिश्रधातु	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0176>
+भारत	NNP
+पूरे	JJ
+विश्व	NN
+के	PSP
+गिने-चुने	QF
+ऐसे	DEM
+देशों	NN
+में	PSP
+से	PSP
+एक	QC
+है	VM
+जहाँ	PRP
+उत्तम	JJ
+कोटि	NN
+के	PSP
+लौह-अयस्क	NN
+के	PSP
+विशाल	JJ
+भण्डार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0177>
+विश्व	NNP
+के	PSP
+सकल	NNC
+लौह	NNPC
+अयस्क	NNPC
+भण्डार	NN
+का	PSP
+20	QC
+प्रतिशत	NN
+सेअधिक	NN
+भण्डार	NN
+भारत	NNP
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0178>
+भारत	NNP
+में	PSP
+मिलने	VM
+वाले	PSP
+लौह	NNC
+अयस्कों	NN
+में	PSP
+लौह	NNPC
+धातु	NN
+के	PSP
+अंश	NN
+60	QC
+प्रतिशत	NN
+से	PSP
+कुछ	QF
+ज्यादा	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0179>
+इसलिए	PRP
+भारत	NNP
+के	PSP
+लौह	NNPC
+अयस्क	NN
+उच्च	JJ
+कोटि	NN
+के	PSP
+माने	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0180>
+भारत	NNP
+में	PSP
+पाए	VM
+जाने	VAUX
+वाले	PSP
+लौह	JJ
+अयस्क	NN
+तीन	QC
+प्रकार	NN
+के	PSP
+हैं-	NNPC
+हेमेटाइट	NN
+,	SYM
+मेग्नेटाइट	NN
+,	SYM
+लिमोनाइट	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0181>
+हेमेटाइट	NNP
+नामक	JJ
+अयस्क	NN
+में	PSP
+लोहे	NN
+का	PSP
+अंश	NN
+68	QC
+%	NN
+तक	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0182a>
+इस	DEM
+अयस्क	NN
+का	PSP
+रंग	NN
+लाल	JJ
+होता	VM
+है	VAUX
+.	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0182b>
+इसलिए	PRP
+प्राय	NNC
+:	SYM
+इसे	PRP
+“लाल	NNPC
+अयस्क”	NNP
+के	PSP
+नाम	NN
+से	PSP
+भी	RP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0183a>
+इसके	PRP
+बाद	NST
+दूसरे	QO
+स्थान	NN
+पर	PSP
+मेग्नेटाइट	NN
+नामक	JJ
+लौह	JJ
+अयस्क	NN
+आता	VM
+है	VAUX
+जिसका	PRP
+रंग	NN
+काला	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0183b>
+इसलिए	PRP
+इसे	PRP
+“काला	NNPC
+अयस्क”	NN
+भी	RP
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0184>
+आधारभूत	JJ
+संरचनात्मक	JJ
+विकास	NNC
+मात्रा	NN
+तथा	CC
+लौह	JJ
+धातु	NN
+के	PSP
+प्रतिशत	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+स्थान	NN
+हेमेटाइट	NNP
+के	PSP
+बाद	NST
+दूसरा	QO
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0185>
+इसमें	PRP
+लौह	NNC
+धातु	NN
+का	PSP
+भाग	NN
+60	QC
+प्रतिशत	NN
+तक	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0186>
+तीसरा	QO
+लौह	JJ
+अयस्क	NN
+“लिमोनाइट”	NNP
+कहलाता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0187>
+जिसमें	PRP
+लौह	NNPC
+धातु	NN
+35-40	QC
+प्रतिशत	NN
+तक	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0188>
+इसका	PRP
+रंग	NN
+पीला	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0189a>
+चूँकि	CC
+हेमेटाइट	NNP
+तथा	CC
+मेग्नेटाइट	NNP
+अयस्क	NN
+के	PSP
+इतने	QF
+विशाल	JJ
+भण्डार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0189b>
+अतः	CC
+लिमोनाइट	NNP
+अयस्कका	NNPC
+दोहन	NN
+भारत	NNP
+में	PSP
+फिलहाल	RB
+नहीं	NEG
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0190a>
+लौह	NNC
+अयस्क	NN
+का	PSP
+भारत	NNP
+में	PSP
+आकलित	JJ
+भण्डार	NN
+करीब	RP
+12	QC
+,	SYM
+317	QC
+मिलियन	QC
+टन	NN
+हेमेटाइट	NN
+का	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0190b>
+तथा	CC
+शेष	JJ
+540	QCC
+मिलियन	QC
+टन	NN
+मेग्नेटाइट	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0191>
+भण्डार	NN
+की	PSP
+यह	DEM
+राशि	NN
+पूरे	JJ
+विश्व	NN
+में	PSP
+लौह	NNPC
+अयस्क	NN
+के	PSP
+भण्डार	NN
+की	PSP
+1	QC
+/	SYM
+4	QC
+आंकलित	JJ
+की	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0192>
+वैसे	RB
+तो	RP
+भारत	NNP
+में	PSP
+लौह	JJ
+अयस्क	NN
+प्रायः	RB
+सभी	QF
+राज्यों	NN
+में	PSP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0193>
+परन्तु	CC
+भारत	NNP
+के	PSP
+कुल	QF
+भण्डार	NN
+का	PSP
+96	QC
+प्रतिशत	NN
+उडीसा	NNP
+,	SYM
+झारखण्ड	NNP
+,	SYM
+छत्तीसगढ	NNP
+,	SYM
+कर्नाटक	NNP
+एवं	CC
+गोवा	NNP
+राज्यों	NN
+में	PSP
+सीमित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0194>
+इतना	QF
+ही	RP
+नहीं	NEG
+लौह	NNC
+अयस्क	NN
+का	PSP
+96	QC
+%	NN
+उत्पादन	NN
+भी	RP
+इन्हीं	DEM
+राज्यों	NN
+से	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0195>
+शेष	JJ
+3	QC
+%	NN
+लौह	NNC
+अयस्क	NN
+का	PSP
+उत्पादन	NN
+तमिलनाडु	NNP
+,	SYM
+महाराष्ट्र	NNP
+एवं	CC
+आन्ध्र	NNPC
+प्रदेश	NNP
+से	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0196>
+उडीसा	NNP
+एवं	CC
+झारखण्ड	NNP
+में	PSP
+भारत	NNP
+के	PSP
+उच्च	JJ
+श्रेणी	NN
+के	PSP
+कुल	QF
+लौह	NNC
+अयस्क	NN
+का	PSP
+50	QC
+%	NN
+भाग	NN
+विद्यमान	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0197>
+उडीसा	NNP
+में	PSP
+लौह	NNPC
+अयस्क	NN
+सुन्दरगढ	NNP
+,	SYM
+मयूरभंज	NNP
+एवं	CC
+क्योंझर	NNP
+जिलों	NN
+में	PSP
+तथा	CC
+झारखण्ड	NNP
+में	PSP
+सिंहभूम	NNP
+जिले	NN
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0198>
+छत्तीसगढ	NNP
+,	SYM
+मध्य	NNPC
+प्रदेश	NNP
+में	PSP
+देश	NN
+के	PSP
+कुल	QF
+लौह	NNPC
+अयस्क	NNPC
+भण्डार	NN
+का	PSP
+25	QC
+%	NN
+विद्यमान	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0199>
+इसी	DEM
+प्रकार	NN
+देश	NN
+के	PSP
+कुल	QF
+लौह	NNPC
+अयस्क	NNC
+उत्पादन	NN
+का	PSP
+20-25	QC
+%	NN
+भी	RP
+छत्तीसगढ	NNP
+एवं	CC
+मध्य	NNPC
+प्रदेश	NNP
+राज्यों	NN
+से	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0200>
+इन	DEM
+अयस्क	NN
+के	PSP
+भण्डार	NN
+बैलाडिला	NNP
+की	PSP
+पहाडियों	NN
+में	PSP
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0201>
+इसी	DEM
+प्रकार	NN
+से	PSP
+अरिडोंगरी	NNP
+(	SYM
+बस्तर	NNPC
+जिला	NN
+)	SYM
+तथा	CC
+दल्ली-राजहरा	NNP
+के	PSP
+पहाडी	JJ
+क्षेत्रों	NN
+(	SYM
+दुर्ग	NNPC
+जिला	NN
+)	SYM
+में	PSP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0202a>
+गोवा	NNP
+में	PSP
+लौह	NNPC
+अयस्क	NN
+यद्यपि	CC
+अच्छे	JJ
+दर्ज	NN
+का	PSP
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0202b>
+फिर	RB
+भी	RP
+देश	NN
+के	PSP
+कुल	QF
+उत्पादन	NN
+में	PSP
+गोवा	NNP
+में	PSP
+मिलने	VM
+वाले	PSP
+लौह	NNC
+अयस्कों	NN
+का	PSP
+योगदान	NN
+महत्वपूर्ण	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0203a>
+गोवा	NNP
+में	PSP
+लौह	NNPC
+अयस्क	NN
+की	PSP
+खदान	NN
+सीढीदार	NN
+,	SYM
+खुले	JJ
+व	CC
+सुव्यवस्थित	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0203b>
+तथा	CC
+उत्खनन	NN
+एवं	CC
+उत्खनित	JJ
+अयस्कों	NN
+को	PSP
+बाहर	NST
+जमीन	NNC
+सतह	NN
+पर	PSP
+फेंकने	VM
+की	PSP
+प्रणाली	NN
+पूरी	JJ
+तरह	NN
+यांत्रिकीय	NNPC
+इंजीनियरिंग	NN
+द्वारा	PSP
+संचालित	JJ
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0204>
+लगभग	RP
+पूरा	JJ
+लौह	JJ
+अयस्क	NN
+गोवा	NNP
+के	PSP
+मरमगाओ	NNP
+बन्दरगाह	NN
+से	PSP
+जापान	NNP
+को	PSP
+निर्यात	NN
+कर	VM
+दिये	VAUX
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0205>
+कर्नाटक	NNP
+में	PSP
+सबसे	INTF
+मशहूर	JJ
+लौह	NNC
+अयस्क	NN
+के	PSP
+निक्षेप	NN
+साडूर-होसपेट	NNPC
+क्षेत्र	NN
+(	SYM
+बैल्लारी	NNP
+जिले	NN
+)	SYM
+,	SYM
+चिकमंगलूर	NNP
+जिले	NN
+के	PSP
+बाबाबूदन	NNP
+के	PSP
+पहाडी	JJ
+क्षेत्र	NN
+तथा	CC
+शिमोगा	NNP
+एवं	CC
+चित्रदुर्ग	NNP
+जिलों	NN
+में	PSP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0206a>
+आन्ध्रप्रदेश	NNP
+में	PSP
+लौह	NNPC
+अयस्क	NN
+के	PSP
+निक्षेप	NN
+अनन्तपुर	NNP
+,	SYM
+खम्मम	NNP
+,	SYM
+कृष्णा	NNP
+,	SYM
+करनूल	NNP
+,	SYM
+कुडप्पा	NNP
+तथा	CC
+नेल्लूर	NNP
+जिलों	NN
+में	PSP
+बिखरे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0206b>
+एवं	CC
+छिटपुट	JJ
+रूप	NN
+में	PSP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0207>
+कुछ	QF
+निक्षेप	NN
+इसी	DEM
+रूप	NN
+में	PSP
+तमिलनाडु	NNP
+,	SYM
+महाराष्ट्र	NNP
+एवं	CC
+राजस्थान	NNP
+में	PSP
+भी	RP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0208>
+सकल	NNPC
+विश्व	NNPC
+व्यापार	NNP
+में	PSP
+भारत	NNP
+का	PSP
+योगदान	NN
+में	PSP
+7	QC
+से	PSP
+8	QC
+प्रतिशत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0209>
+अब	PRP
+लौह	NNPC
+अयस्कों	NN
+केनिक्षेपों	NN
+का	PSP
+विकास	NNC
+निर्यात	NN
+को	PSP
+विशेष	JJ
+ध्यान	NN
+में	PSP
+रखकर	VM
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0210>
+जैसे	PSP
+बैलाडिला	NNP
+एवं	CC
+राजहरा	NNP
+(	SYM
+छत्तीसगढ	NNP
+)	SYM
+के	PSP
+लौह	NNC
+अयस्कों	NN
+के	PSP
+निक्षेपों	NN
+तथा	CC
+उडीसा	NNP
+के	PSP
+किरुबुरू	NNC
+खदानों	NN
+से	PSP
+लौह	NNC
+अयस्कों	NN
+का	PSP
+उत्पादन	NN
+सीधे	JJ
+निर्यात	NN
+के	PSP
+लिए	PSP
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0211>
+जापान	NNP
+,	SYM
+रोमानिया	NNP
+एवं	CC
+चेकोस्लावाकिया	NNP
+एवं	CC
+पोलेण्ड	NNP
+देश	NNPC
+भारत	NNP
+के	PSP
+लौह	JJ
+अयस्कों	NN
+का	PSP
+आयात	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0212>
+भारत	NNP
+से	PSP
+इन	DEM
+अयस्कों	NN
+का	PSP
+निर्यात	NN
+हल्दिया	NNP
+,	SYM
+पारादीप	NNP
+,	SYM
+मरमगाओ	NNP
+,	SYM
+मंगलोर	NNP
+एवं	CC
+विशाखापट्टनम	NNP
+बन्दरगाहों	NN
+से	PSP
+होता	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0213>
+भारत	NNP
+में	PSP
+विश्व	NNP
+के	PSP
+सकल	NNC
+भण्डार	NN
+का	PSP
+20	QC
+प्रतिशत	NN
+लौह	JJ
+अयस्क	NN
+विद्यमान	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0214>
+लोह	NNPC
+अयस्क	NN
+के	PSP
+निक्षेप	NN
+प्राय	NN
+:	SYM
+सभी	QF
+राज्यों	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0215>
+भारत	NNP
+के	PSP
+कुल	QF
+भण्डार	NN
+का	PSP
+96	QC
+प्रतिशत	NN
+लोह	NNPC
+अयस्क	NN
+उडीसा	NNP
+,	SYM
+झारखण्ड	NNP
+,	SYM
+छत्तीसगढ	NNP
+,	SYM
+कर्नाटक	NNP
+एवं	CC
+गोवा	NNP
+राज्यों	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0216>
+छत्तीसगढ	NNP
+में	PSP
+बैलाडिला	NNP
+एवं	CC
+राजहरा	NNP
+की	PSP
+खदानें	NN
+तथा	CC
+उडीसा	NNP
+की	PSP
+किरूबुरू	NNC
+खदान	NN
+में	PSP
+उत्खनन	NN
+का	PSP
+कार्य	NN
+निर्यात	NN
+को	PSP
+लक्ष्य	NN
+बनाकर	VM
+किया	VM
+जा	VAUX
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0217>
+मेंगनीज	NNPC
+अयस्क	NN
+के	PSP
+उत्पादन	NN
+में	PSP
+भारत	NNP
+का	PSP
+स्थान	NN
+विश्वस्तर	NN
+पर	PSP
+रूस	NNP
+एवं	CC
+दक्षिण	NNPC
+अफ्रीका	NNP
+के	PSP
+बाद	NST
+तीसरा	QO
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0218>
+भारत	NNP
+के	PSP
+सकल	NNC
+मेंगनीज	NNC
+अयस्क	NNC
+उत्पादन	NN
+का	PSP
+लगभग	RP
+एक	QC
+चैथाई	QC
+भाग	NN
+निर्यात	NN
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0219>
+लौह	NNPC
+एवं	CC
+इस्पात	NN
+के	PSP
+निर्माण	NN
+में	PSP
+मेंगनीज	NNP
+अयस्क	NN
+एक	QC
+महत्वपूर्ण	JJ
+अवयव	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0220>
+मेंगनीज	NN
+की	PSP
+उपयोगिता	NN
+शुष्क	JJ
+बैटरियों	NN
+के	PSP
+निर्माण	NN
+में	PSP
+,	SYM
+फोटोग्राफी	NN
+में	PSP
+,	SYM
+चमडा	NN
+और	CC
+माचिस	NNC
+उद्योगों	NN
+में	PSP
+महत्वपूर्ण	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0221>
+भारत	NNP
+में	PSP
+सकल	NNC
+मेंगनीज	NNPC
+अयस्क	NN
+के	PSP
+लगभग	RP
+85	QC
+प्रतिशत	NN
+भाग	NN
+की	PSP
+खपत	NN
+धातुकर्मीय	JJ
+उद्योगों	NN
+में	PSP
+हो	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0222>
+मेंगनीज	NNC
+उत्पादन	NN
+के	PSP
+प्रमुख	JJ
+खेत्र	NN
+उडीसा	NNP
+,	SYM
+मध्य	NNPC
+प्रदेश	NNP
+,	SYM
+महाराष्ट्र	NNP
+,	SYM
+कर्नाटक	NNP
+एवं	CC
+आन्ध्र	NNPC
+प्रदेश	NNP
+के	PSP
+अन्तर्गत	PSP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0223a>
+भारत	NNP
+के	PSP
+78	QC
+प्रतिशत	NN
+से	PSP
+ज्यादा	QF
+मेंगनीज	NNC
+अयस्क	NN
+के	PSP
+भण्डार	NN
+महाराष्ट्र	NNP
+के	PSP
+नागपुर	NNP
+तथा	CC
+भण्डारा	NNP
+जिलों	NN
+से	PSP
+लेकर	PSP
+मध्य	NNPC
+प्रदेश	NNP
+के	PSP
+बालाघाट	NNP
+एवं	CC
+छिन्दवाडा	NNP
+जिलों	NN
+तक	PSP
+फैली	VM
+पट्टी	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0223b>
+परन्तु	CC
+ये	DEM
+दोनों	QC
+राज्य	NN
+सकल	NNC
+उत्पादन	NN
+में	PSP
+क्रमशः	RB
+12	QC
+एवं	CC
+14	QC
+प्रतिशत	NN
+का	PSP
+ही	RP
+योगदान	NN
+देते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0224>
+शेष	JJ
+22	QC
+प्रतिशत	NN
+मेंगनीज	NNPC
+भण्डार	NN
+का	PSP
+वितरण	NN
+उडीसा	NNP
+,	SYM
+कर्नाटक	NNP
+,	SYM
+गुजरात	NNP
+,	SYM
+राजस्थान	NNP
+,	SYM
+गोवा	NNP
+एवं	CC
+आन्ध्र	NNPC
+प्रदेश	NNP
+के	PSP
+अन्तर्गत	PSP
+अवस्थित	JJ
+निक्षेपों	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0225>
+उडीसा	NNP
+भारत	NNP
+में	PSP
+मेंगनीज	NNC
+अयस्क	NN
+के	PSP
+उत्पादन	NN
+में	PSP
+शीर्ष	NN
+पर	PSP
+है	VM
+जहाँ	PRP
+भारत	NNP
+के	PSP
+कुल	QF
+उत्पादन	NN
+का	PSP
+37	QC
+प्रतिशत	NN
+उत्पादन	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0226>
+इस	DEM
+राज्य	NN
+में	PSP
+उपलब्ध	JJ
+मेंगनीज	NNC
+अयस्क	NN
+के	PSP
+निक्षेप	NN
+भारत	NNP
+के	PSP
+कुल	QF
+भण्डार	NN
+का	PSP
+12	QC
+प्रतिशत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0227a>
+मध्य	NNPC
+प्रदेश	NNP
+तथा	CC
+छत्तीसगढ	NNP
+को	PSP
+मिलाकर	VM
+देखा	VM
+जाए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0227b>
+तो	CC
+देश	NN
+के	PSP
+कुल	QF
+बॉक्साइट	NNPC
+भण्डार	NN
+के	PSP
+22	QC
+प्रतिशत	NN
+भाग	NN
+तथा	CC
+उत्पादन	NN
+में	PSP
+देश	NN
+के	PSP
+कुल	QF
+उत्पादन	NN
+का	PSP
+25	QC
+प्रतिशत	NN
+भाग	NN
+इन	DEM
+दोनों	QC
+राज्यों	NN
+के	PSP
+निक्षेपों	NN
+से	PSP
+प्राप्त	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0228>
+मेंगनीज	NNP
+की	PSP
+प्रमुख	JJ
+खदानें	NN
+सुन्दरगढ	NNP
+,	SYM
+रायगढ	NNP
+,	SYM
+बोलांगीर	NNP
+,	SYM
+क्योंझर	NNP
+,	SYM
+जाजपुर	NNP
+एवं	CC
+मयूरभंज	NNP
+जिलों	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0229>
+कर्नाटक	NNP
+में	PSP
+मेंगनीज	NNP
+अयस्क	NN
+के	PSP
+निक्षेप	NN
+शिमोगा	NNP
+,	SYM
+चित्रदुर्ग	NNP
+,	SYM
+तुमकूर	NNP
+तथा	CC
+बेल्लारी	NNP
+जिलों	NN
+में	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0230>
+छुटपुट	JJ
+निक्षेप	NN
+बीजापुर	NNP
+,	SYM
+चिकमंगलूर	NNP
+एवं	CC
+धारवाड	NNP
+जिलों	NN
+में	PSP
+पाए	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0231a>
+कर्नाटक	NNP
+में	PSP
+मेंगनीज	NNP
+अयस्क	NN
+के	PSP
+भण्डार	NN
+काफी	INTF
+कम	QF
+हैं	VM
+(	SYM
+भारत	NNP
+के	PSP
+कुल	QF
+भण्डार	NN
+का	PSP
+6	QC
+प्रतिशत	NN
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0231b>
+फिर	RB
+भी	RP
+अयस्क	NN
+का	PSP
+उत्पादन	NN
+कर्नाटक	NNP
+में	PSP
+भारत	NNP
+के	PSP
+मेंगनीज	NNC
+उत्पादन	NN
+का	PSP
+26	QC
+प्रतिशत	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0232>
+आन्ध्र	NNPC
+प्रदेश	NNP
+में	PSP
+मेंगनीज	NN
+का	PSP
+उत्पादन	NN
+भारत	NNP
+के	PSP
+कुल	QF
+उत्पादन	NN
+का	PSP
+8	QC
+प्रतिशत	NN
+होता	VM
+है	VAUX
+जो	PRP
+काफी	INTF
+अच्छा	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0233>
+यद्यपि	CC
+यहाँ	PRP
+मेंगनीज	NNC
+अयस्क	NN
+के	PSP
+निक्षेप	NN
+काफी	INTF
+कम	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0234>
+गोवा	NNP
+,	SYM
+झारखण्ड	NNP
+एवं	CC
+गुजरात	NNP
+में	PSP
+भी	RP
+मेंगनीज	NNC
+अयस्क	NN
+के	PSP
+निक्षेप	NN
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0235>
+विश्व	NN
+में	PSP
+मेंगनगीज	NNP
+अयस्क	NN
+के	PSP
+उत्पादन	NN
+करने	VM
+वाले	PSP
+देशों	NN
+में	PSP
+भारत	NNP
+का	PSP
+स्थान	NN
+तीसरा	QO
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0236>
+मेंगनीज	NNC
+उत्पादन	NN
+का	PSP
+85	QC
+प्रतिशत	NN
+उपयोग	NN
+देश	NN
+के	PSP
+अन्दर	NST
+स्थापित	JJ
+धातुकर्मीय	JJ
+उद्योगों	NN
+में	PSP
+हो	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0237>
+उत्पादन	NN
+के	PSP
+प्रमुख	JJ
+क्षेत्र	NN
+उडीसा	NNP
+,	SYM
+मध्य	NNPC
+प्रदेश	NNP
+,	SYM
+महाराष्ट्र	NNP
+,	SYM
+कर्नाटक	NNP
+एवं	CC
+आन्ध्र	NNPC
+प्रदेश	NNP
+में	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0238>
+अलौह	JJ
+खनिज	NN
+वे	PRP
+होते	VM
+हैं	VAUX
+जिनमें	PRP
+लोहा	NN
+का	PSP
+अंश	NN
+नहीं	NEG
+होता	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0239>
+इनके	PRP
+अन्तर्गत	PSP
+धात्विक	JJ
+खनिजों	NN
+में	PSP
+शामिल	JJ
+हैं-सोना	VM
+,	SYM
+चाँदी	NN
+,	SYM
+ताम्बा	NN
+,	SYM
+टिन	NN
+,	SYM
+सीसा	NN
+,	SYM
+जस्ता	NNP
+इत्यादि	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0240a>
+ये	DEM
+सभी	QF
+धात्विक	JJ
+खनिज	NN
+काफी	INTF
+महत्वपूर्ण	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0240b>
+क्योंकि	CC
+इनसे	PRP
+उपलब्ध	JJ
+धातु	NN
+दैनिक	JJ
+जीवन	NN
+में	PSP
+बहुत	QF
+काम	NN
+में	PSP
+आती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0241>
+वैसे	RB
+भारत	NNP
+इन	DEM
+खनिजों	NN
+की	PSP
+उपलब्धि	NN
+एवं	CC
+भण्डार	NN
+के	PSP
+मामले	NN
+में	PSP
+काफी	QF
+कमजोर	JJ
+तथा	CC
+अभावग्रस्त	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0242>
+यह	PRP
+एक	QC
+अलौह	JJ
+खनिज	NNC
+निक्षेप	NN
+है	VM
+जिससे	PRP
+अल्यूमिनियम	NN
+नामक	JJ
+धातु	NN
+निकाली	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0243a>
+भारत	NNP
+में	PSP
+बॉक्साइट	NNPC
+खनिज	NN
+के	PSP
+इतने	QF
+निक्षेपों	NN
+के	PSP
+भण्डार	NN
+यह	PRP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0243b>
+कि	CC
+भारत	NNP
+अल्यूमिनियम	NNP
+के	PSP
+मामले	NN
+में	PSP
+आत्म	RB
+निर्भर	JJ
+रह	VM
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0244>
+अल्यूमिनियम	NNPC
+धातु	NN
+,	SYM
+जो	PRP
+बॉक्साट	NNP
+खनिज	NN
+से	PSP
+निकाला	VM
+जाता	VAUX
+है	VAUX
+,	SYM
+का	PSP
+बहुमुखी	JJ
+उपयोग	NN
+वायुयान	NNC
+निर्माण	NN
+,	SYM
+विद्युत	NNC
+उपकरणों	NN
+के	PSP
+निर्माण	NN
+,	SYM
+बिजली	NN
+के	PSP
+घरेलू	JJ
+उपयोगी	JJ
+सामान	NN
+बनाने	VM
+में	PSP
+,	SYM
+घरेलू	JJ
+साज-सज्जा	NN
+के	PSP
+सामान	NN
+के	PSP
+निर्माण	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0245>
+बाक्साइट	NN
+का	PSP
+उपयोग	NN
+सफेद	JJ
+सीमेन्ट	NN
+के	PSP
+निर्माण	NN
+में	PSP
+तथा	CC
+कुछ	QF
+रासायनिक	JJ
+वस्तुएं	NN
+बनाने	VM
+में	PSP
+भी	RP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0246>
+भारत	NNP
+में	PSP
+सभी	QF
+प्रकार	NN
+के	PSP
+बाक्साइट	NN
+का	PSP
+अनुमानित	JJ
+भण्डार	NN
+3037	QCC
+मिलियन	QC
+टन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0247>
+बॉक्साइट	NN
+के	PSP
+निक्षेपों	NN
+का	PSP
+वितरण	NN
+देश	NN
+के	PSP
+अनेक	QF
+क्षेत्रों	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0248>
+परन्तु	CC
+विपुल	NNPC
+राशि	NN
+में	PSP
+इसके	PRP
+भण्डार	NN
+महाराष्ट्र	NNP
+,	SYM
+झारखण्ड	NNP
+,	SYM
+मध्य	NNPC
+प्रदेश	NNP
+,	SYM
+छत्तीसगढ	NNP
+,	SYM
+गुजरात	NNP
+,	SYM
+कर्नाटक	NNP
+,	SYM
+तमिलनाडु	NNP
+,	SYM
+गोवा	NNP
+एवं	CC
+उत्तर	NNPC
+प्रदेश	NNP
+में	PSP
+अवस्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0249>
+झारखण्ड	NNP
+में	PSP
+भारत	NNP
+के	PSP
+सकल	NNPC
+बॉक्साइट	NNC
+भण्डार	NN
+का	PSP
+13	QC
+प्रतिशत	NN
+भाग	NN
+तथा	CC
+उत्पादन	NN
+में	PSP
+देश	NN
+के	PSP
+कुल	QF
+उत्पादन	NN
+का	PSP
+37	QC
+प्रतिशत	NN
+भाग	NN
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0250>
+बॉक्साइट	NN
+के	PSP
+महत्वपूर्ण	JJ
+निक्षेप	NN
+इस	DEM
+राज्य	NN
+के	PSP
+पालामू	NNP
+,	SYM
+राँची	NNP
+एवं	CC
+लोहरदरगा	NNP
+जिलों	NN
+में	PSP
+अवस्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0251>
+गुजरात	NNP
+में	PSP
+बॉक्साइट	NN
+अयस्क	NN
+के	PSP
+निक्षेपों	NN
+की	PSP
+भण्डारण	NNC
+राशि	NN
+देश	NN
+के	PSP
+कुल	QF
+भण्डार	NN
+के	PSP
+12	QC
+प्रतिशत	NN
+भाग	NN
+के	PSP
+बराबर	JJ
+तथा	CC
+इतनी	QF
+ही	RP
+प्रतिशत	NN
+की	PSP
+भागीदारी	NN
+उत्पादन	NN
+के	PSP
+मामले	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0252>
+महाराष्ट्र	NNP
+में	PSP
+बॉक्साइट	NN
+अयस्क	NN
+के	PSP
+निक्षेप	NN
+तथा	CC
+उत्पादन	NN
+अपेक्षाकृत	INTF
+कम	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0253a>
+देश	NN
+के	PSP
+कुल	QF
+उत्पादन	NN
+का	PSP
+18	QC
+प्रतिशत	NN
+भाग	NN
+का	PSP
+उत्पादन	NN
+यहां	PRP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0253b>
+परन्तु	CC
+निक्षेपों	NN
+का	PSP
+कुल	QF
+भण्डार	NN
+देश	NN
+के	PSP
+कुल	QF
+भण्डार	NN
+के	PSP
+22	QC
+प्रतिशत	NN
+भाग	NN
+के	PSP
+बराबर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0254>
+बाक्साइट	NN
+के	PSP
+महत्वपूर्ण	JJ
+निक्षेप	NN
+कोल्हापुर	NNP
+,	SYM
+रायगढ	NNP
+,	SYM
+थाणे	NNP
+,	SYM
+सतारा	NNP
+एवं	CC
+रत्नागिरी	NNP
+जिलों	NN
+में	PSP
+अवस्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0255>
+कर्नाटक	NNP
+के	PSP
+बेलगाम	JJ
+जिले	NN
+के	PSP
+उत्तर-पश्चिमी	JJ
+भूभाग	NN
+में	PSP
+बॉक्साइट	NN
+के	PSP
+निक्षेप	NN
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0256>
+देश	NN
+के	PSP
+पूर्वी	JJ
+घाट	NN
+क्षेत्रों	NN
+में	PSP
+बाक्साइट	NN
+के	PSP
+विशाल	JJ
+निक्षेप	NN
+अवस्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0257a>
+इस	DEM
+घाट	NNC
+क्षेत्र	NN
+में	PSP
+उडीसा	NNP
+तथा	CC
+आन्ध्र	NNPC
+प्रदेश	NNP
+के	PSP
+क्षेत्र	NN
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0257b>
+अन्य	JJ
+क्षेत्रों	NN
+में	PSP
+जेसे	NN
+तमिलनाडु	NNP
+के	PSP
+सालेम	NNP
+,	SYM
+नीलगिरी	NNP
+तथा	CC
+मदुरै	NNP
+जिलों	NN
+में	PSP
+;	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+के	PSP
+बाँदा	NNP
+जिले	NN
+में	PSP
+बॉक्साइट	NN
+अयस्क	NN
+के	PSP
+महत्वूपर्ण	JJ
+निक्षेप	NN
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0258>
+भारत	NNP
+विभिन्न	JJ
+देशों	NN
+को	PSP
+बाक्साइट	NN
+का	PSP
+निर्यात	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0259>
+प्रमुख	JJ
+आयातक	NNC
+देश	NN
+हैं-इटली	NNP
+,	SYM
+यूनाइटेड	NNPC
+किंगडम	NNP
+,	SYM
+पश्चिम	NNPC
+जर्मनी	NNP
+एवं	CC
+जापान	NNP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0260>
+बाक्साइट	NN
+अयस्क	NN
+से	PSP
+अल्यूमिनियम	NNC
+धातु	NN
+निकाली	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0261>
+बाक्साइट	NN
+अयस्क	NN
+का	PSP
+उपयोग	NN
+सफेद	JJ
+सीमेन्ट	NN
+तथा	CC
+कुछ	QF
+रसायनों	NN
+के	PSP
+निर्माण	NN
+में	PSP
+भी	RP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0262>
+बाक्साइट	NNC
+निक्षेप	NN
+के	PSP
+विशाल	JJ
+भण्डार	NN
+झारखण्ड	NNP
+,	SYM
+छत्तीसगढ	NNP
+,	SYM
+मध्यप्रदेश	NNP
+,	SYM
+महाराष्ट्र	NNP
+,	SYM
+कर्नाटक	NNP
+,	SYM
+तमिलनाडु	NNP
+,	SYM
+गोवा	NNP
+और	CC
+उत्तर	NNPC
+प्रदेश	NNP
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0263a>
+भारत	NNP
+में	PSP
+अधात्विक	JJ
+खनिजों	NN
+की	PSP
+संख्या	NN
+बहुत	INTF
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0263b>
+किंतु	CC
+इनमें	PRP
+से	PSP
+कुछ	QF
+ही	RP
+खनिजों	NN
+का	PSP
+व्यापारिक	JJ
+एवं	CC
+वाणिज्यिक	JJ
+दृष्टि	NN
+से	PSP
+महत्व	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0264>
+ये	DEM
+हैं-	NN
+चूना	NN
+पत्थर	NN
+,	SYM
+डोलोमाइट	NN
+,	SYM
+अभ्रक	NN
+,	SYM
+कायनाइट	NN
+,	SYM
+सिलिमनाइट	NN
+,	SYM
+जिप्सम	NN
+एवं	CC
+फास्फेट	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0265>
+इन	DEM
+खनिजों	NN
+का	PSP
+उपयोग	NN
+विभिन्न	JJ
+उद्योगों	NN
+में	PSP
+जैसे	RB
+सीमेन्ट	NN
+,	SYM
+उर्वरक	NN
+,	SYM
+रिफ्रैक्टरीज	NNP
+तथा	CC
+बिजली	NN
+के	PSP
+अनेक	QF
+उपकरणों	NN
+एवं	CC
+सामानों	NN
+के	PSP
+निर्माण	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0266>
+इस	DEM
+पाठ	NN
+में	PSP
+हम	PRP
+अभ्रक	NN
+एवं	CC
+चूना-पत्थर	NN
+के	PSP
+बारे	PSP
+से	PSP
+अध्ययन	NN
+करेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0267>
+भारत	NNP
+पूरे	JJ
+विश्व	NN
+में	PSP
+शीट	NN
+अभ्रक	NN
+का	PSP
+अग्रणी	JJ
+उत्पादक	JJ
+देश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0268>
+अब	PRP
+तक	PSP
+इलेक्ट्रिकल	NNP
+एवं	CC
+इलेक्ट्रॉनिक	JJ
+उद्योगों	NN
+में	PSP
+अभ्रक	NN
+अपरिहार्य	JJ
+रूप	NN
+से	PSP
+उपयोग	NN
+में	PSP
+आते	VM
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0269>
+परन्तु	CC
+जब	PRP
+से	PSP
+इसका	PRP
+कृत्रिम	JJ
+रूप	NN
+से	PSP
+संश्लेषित	JJ
+विकल्प	NN
+आ	VM
+गया	VAUX
+,	SYM
+अभ्रक	NNPC
+खनिज	NN
+का	PSP
+उत्पादन	NN
+एवं	CC
+निर्यात	NN
+दोनों	QC
+कम	QF
+हो	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0270a>
+भारत	NNP
+में	PSP
+यद्यपि	CC
+अभ्रक	NN
+का	PSP
+वितरण	NN
+बहुत	INTF
+विस्तृत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0270b>
+किन्तु	CC
+उत्पादन	NN
+की	PSP
+दृष्टि	NN
+से	PSP
+महत्वपूर्ण	JJ
+निक्षेप	NN
+तीन	QC
+प्रमुख	JJ
+पट्टियों	NN
+में	PSP
+सीमित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0271>
+ये	DEM
+तीनों	QC
+पट्टियां	NN
+बिहार	NNP
+,	SYM
+झारखण्ड	NNP
+,	SYM
+आन्ध्र	NNPC
+प्रदेश	NNP
+एवं	CC
+राजस्थान	NNP
+राज्यों	NN
+के	PSP
+अन्तर्गत	PSP
+आती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0272>
+बिहार	NNP
+और	CC
+झारखण्ड	NNP
+में	PSP
+उत्तम	JJ
+कोटि	NN
+के	PSP
+रूबी	NNPC
+अभ्रक	NNP
+का	PSP
+उत्पादन	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0273>
+बिहार	NNP
+,	SYM
+झारखण्ड	NNP
+के	PSP
+मिले	VM
+जुले	JJ
+भूभाग	NN
+में	PSP
+अभ्रक	NNC
+खनिज	NN
+की	PSP
+निक्षेप	NN
+पट्टी	NN
+का	PSP
+विस्तार	NN
+पश्चिम	NNP
+में	PSP
+गया	VM
+जिला	NN
+से	PSP
+हजारीबाग	NNP
+,	SYM
+मुँगेर	NNP
+होते	VM
+हुए	VAUX
+पूर्व	NST
+में	PSP
+भागलपुर	NNP
+जिले	NN
+तक	PSP
+फैला	VM
+हुआ	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0274>
+इस	DEM
+पट्टी	NN
+के	PSP
+बाहरी	JJ
+क्षेत्र	NN
+में	PSP
+धनबाद	NNP
+,	SYM
+पालामू	NNP
+,	SYM
+राँची	NNP
+एवं	CC
+सिंहभूमि	NNP
+जिलों	NN
+में	PSP
+भी	RP
+अभ्रक	NN
+के	PSP
+भण्डार	NN
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0275>
+बिहार	NNP
+,	SYM
+झारखण्ड	NNP
+मिलाकर	VM
+भारत	NNP
+के	PSP
+कुल	QF
+अभ्रक	NNC
+उत्पादन	NN
+का	PSP
+80	QC
+प्रतिशत	NN
+भाग	NN
+उत्पादित	JJ
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0276>
+आन्ध्रप्रदेश	NNP
+में	PSP
+अभ्रक	NN
+की	PSP
+पट्टी	NN
+नैलूर	NNP
+जिले	NN
+में	PSP
+ही	RP
+सीमित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0277>
+राजस्थान	NNP
+देश	NN
+का	PSP
+तीसरा	QO
+प्रमुख	NN
+अभ्रक	NNPC
+उत्पादक	JJ
+राज्य	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0278>
+इस	DEM
+राज्य	NN
+में	PSP
+अभ्रक	NNC
+खनिज	NN
+से	PSP
+सम्पन्न	JJ
+पट्टी	NN
+का	PSP
+विस्तार	NN
+जयपुर	NNP
+,	SYM
+उदयपुर	NNP
+,	SYM
+भीलवाडा	NNP
+,	SYM
+अजमेर	NNP
+और	CC
+किशनगढ	NNP
+जिलों	NN
+में	PSP
+फैला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0279>
+यहाँ	PRP
+अभ्रक	NN
+की	PSP
+गुणवत्ता	NN
+अच्छी	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0280>
+इन	DEM
+तीन	QC
+प्रमुख	JJ
+पट्टियों	NN
+के	PSP
+अलावा	PSP
+अभ्रक	NN
+के	PSP
+निक्षेप	NN
+केरल	NNP
+,	SYM
+तमिलनाडु	NNP
+एवं	CC
+मध्य	NNPC
+प्रदेश	NNP
+में	PSP
+भी	RP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0281>
+भारत	NNP
+में	PSP
+अभ्रक	NNC
+खनिज	NN
+का	PSP
+उत्खनन	NN
+निर्यात	NN
+के	PSP
+लिय	PSP
+होता	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0282>
+भारत	NNP
+के	PSP
+अभ्रक	NNC
+काआयात	NNP
+प्रमुख	JJ
+रूप	NN
+से	PSP
+(	SYM
+कुल	QF
+निर्यात	NN
+का	PSP
+50	QC
+प्रतिशत	NN
+भाग	NN
+)	SYM
+संयुक्त	NNPC
+राज्य	NN
+अमेरिका	NNP
+करता	VM
+रहा	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0283>
+इस	DEM
+खनिज	NN
+का	PSP
+उपयोग	NN
+कई	QF
+प्रकार	NN
+के	PSP
+उद्योगों	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0284>
+सीमेन्ट	NNPC
+उद्योग	NNP
+भारत	NNP
+के	PSP
+76	QC
+प्रतिशत	NN
+चूने	NN
+पत्थर	NN
+के	PSP
+खपत	NN
+का	PSP
+प्रमुख	JJ
+स्रोत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0285>
+चूने	NN
+के	PSP
+पत्थर	NN
+की	PSP
+खपत	NN
+लौह	NNPC
+इस्पात	NNC
+उद्योग	NNP
+में	PSP
+16	QC
+प्रतिशत	NN
+और	CC
+रासायनिक	JJ
+उद्योगों	NN
+में	PSP
+4	QC
+प्रतिशत	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0286>
+शेष	JJ
+4	QC
+प्रतिशत	NN
+उर्वरक	NN
+,	SYM
+कागज	NN
+,	SYM
+शक्कर	NN
+,	SYM
+फेरो-मेंगनीज	NNC
+उद्योगों	NN
+में	PSP
+खप	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0287>
+मध्यप्रदेश	NNP
+में	PSP
+चूना	NN
+पत्थर	NN
+के	PSP
+कुल	QF
+भण्डार	NN
+का	PSP
+36	QC
+प्रतिशत	NN
+अंश	NN
+पाया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0288>
+दूसरे	QO
+उत्पादक	JJ
+राज्य	NN
+में	PSP
+छत्तीसगढ	NNP
+,	SYM
+आन्ध्र	NNPC
+प्रदेश	NNP
+,	SYM
+गुजरात	NNP
+,	SYM
+राजस्थान	NNP
+,	SYM
+कर्नाटक	NNP
+,	SYM
+तमिलनाडु	NNP
+,	SYM
+महाराष्ट्र	NNP
+,	SYM
+हिमाचल	NNPC
+प्रदेश	NNP
+,	SYM
+उडीसा	NNP
+,	SYM
+बिहार	NNP
+,	SYM
+झारखण्ड	NNP
+,	SYM
+उत्तराखण्ड	NNP
+और	CC
+उत्तर	NNPC
+प्रदेश	NNP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0289>
+शेष	JJ
+चूना	NN
+पत्थर	NN
+के	PSP
+भण्डार	NN
+के	PSP
+अंश	NN
+असम	NNP
+,	SYM
+हरियाणा	NNP
+,	SYM
+जम्मू	NNPC
+कश्मीर	NNP
+,	SYM
+केरल	NNP
+एवं	CC
+मेघालय	NNP
+राज्यों	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0290>
+कर्नाटक	NNP
+में	PSP
+कुल	QF
+भण्डार	NN
+का	PSP
+10	QC
+प्रतिशत	NN
+उत्पादन	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0291>
+इस	DEM
+खनिज	NN
+के	PSP
+निक्षेप	NN
+कर्नाटक	NNP
+में	PSP
+बीजापुर	NNP
+,	SYM
+बेलगाम	NNP
+और	CC
+शिमोगा	NNP
+जिलों	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0292>
+आन्ध्र	NNPC
+प्रदेश	NNP
+में	PSP
+इसके	PRP
+निक्षेप	NN
+विशाखापट्टनम	NNP
+,	SYM
+गुन्टूर	NNP
+,	SYM
+कृष्णा	NNP
+,	SYM
+करीमनगर	NNP
+,	SYM
+एवं	CC
+आदिलाबाद	NNP
+जिलों	NN
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0293>
+उडीसा	NNP
+के	PSP
+सुन्दरगढ	NNP
+जिले	NN
+,	SYM
+बिहार	NNP
+के	PSP
+रोहतास	NNP
+जिले	NN
+तथा	CC
+झारखण्ड	NNP
+के	PSP
+पालामू	NNP
+जिले	NN
+में	PSP
+भी	RP
+चूने	NN
+के	PSP
+पत्थर	NN
+के	PSP
+भण्डार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0294>
+भारत	NNP
+संसार	NN
+का	PSP
+अग्रणी	JJ
+अभ्रक	NNPC
+उत्पादक	JJ
+देश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0295>
+अभ्रक	NN
+का	PSP
+उपयोग	NN
+इलेक्ट्रिकल	NNP
+तथा	CC
+इलेक्ट्रोनिक	JJ
+उद्योगों	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0296>
+अमभ्रक	NNP
+यद्यपि	CC
+पूरे	JJ
+देश	NN
+में	PSP
+वितरित	JJ
+है	VM
+किन्तु	CC
+निर्यात	NN
+के	PSP
+लिये	PSP
+उपयोगी	JJ
+निक्षेप	NN
+बिहार	NNP
+,	SYM
+झारखण्ड	NNP
+,	SYM
+आन्ध्रप्रदेश	NNP
+तथा	CC
+राजस्थान	NNP
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0297>
+चूना-पत्थर	NNP
+सबसे	INTF
+अधिक	QF
+मध्य	NNPC
+प्रदेश	NNP
+में	PSP
+मिलता	VM
+है	VAUX
+,	SYM
+इसके	PRP
+बाद	NST
+कर्नाटक	NNP
+आन्ध्र	NNPC
+प्रदेश	NNP
+,	SYM
+उडीसा	NNP
+,	SYM
+बिहार	NNP
+,	SYM
+झारखण्ड	NNP
+तथा	CC
+मेघालय	NNP
+में	PSP
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0298>
+आप	PRP
+नीचे	NST
+दिए	VM
+गए	VAUX
+विकल्पों	NN
+में	PSP
+से	PSP
+सही	JJ
+विकल्प	NN
+पर	PSP
+चिन्ह	NN
+लगा	VM
+कर	VAUX
+उत्तर	NN
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0299>
+मेगनीज	NNC
+उत्पादन	NN
+में	PSP
+कौन	WQ
+सा	RP
+राज्य	NNC
+अग्रणी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0300>
+इनमें	PRP
+से	PSP
+कौन	WQ
+सा	RP
+उद्योग	NN
+मेंगनगीज	NN
+का	PSP
+सबसे	INTF
+अधिक	QF
+उपभोग	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0301>
+खनिज	NNC
+उत्खनन	NN
+से	PSP
+कई	QF
+प्रकार	NN
+की	PSP
+समस्याएँ	NN
+उत्पन्न	JJ
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0302>
+खनिजों	NN
+के	PSP
+अंनियंत्रित	JJ
+दोहन	NN
+से	PSP
+बहुत	QF
+से	RP
+महत्वपूर्ण	JJ
+खनिज	NN
+पूर्ण	JJ
+समाप्ति	NN
+के	PSP
+करीब	NST
+पहुंचने	VM
+वाले	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0303>
+अतः	CC
+इनके	PRP
+संरक्षण	NN
+तथा	CC
+न्यायसंगत	JJ
+एवं	CC
+विवेकपूर्ण	JJ
+उपयोग	NN
+की	PSP
+अत्यन्त	JJ
+आवश्यकता	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0304>
+खनिजों	NN
+के	PSP
+उत्खनन	NN
+ने	PSP
+कई	QF
+गंभीर	JJ
+पर्यावरणीय	JJ
+समस्याओं	NN
+को	PSP
+प्रस्तुत	JJ
+किया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0305>
+सबसे	INTF
+प्रमुख	JJ
+समस्या	NN
+कृषि	NNPC
+भूमि	NN
+के	PSP
+काफी	QF
+बडे-बडे	JJ
+क्षेत्र	NN
+खनन	NNC
+क्रियाओं	NN
+से	PSP
+प्रभावित	JJ
+तथा	CC
+कृषि	NNC
+भूमि	NN
+पर	PSP
+खनन	NN
+से	PSP
+निकाले	VM
+अनुपयोगी	JJ
+पत्थरों	NN
+को	PSP
+अधिभार	NNC
+स्वरूप	NN
+फैला	VM
+देने	VAUX
+पर	PSP
+पूर्णतः	RB
+अकृष्य	NN
+एवं	CC
+अनुपयुक्त	JJ
+हो	VM
+गए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0306>
+इसके	PRP
+अतिरिक्त	PSP
+खदानों	NN
+में	PSP
+कार्य	NN
+प्रारंभ	NN
+कने	VM
+से	PSP
+पूर्व	NST
+अधोसंरचना	NN
+बनाने	VM
+में	PSP
+प्राकृतिक	JJ
+वानस्पतिक	JJ
+सम्पदाओं	NN
+का	PSP
+विनाश	NN
+हो	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0307>
+इससे	PRP
+उत्पन्न	JJ
+कई	QF
+समस्याएँ	NN
+जैसे	RB
+बार-बार	RB
+बाढ	NN
+प्रभावित	JJ
+होना	VM
+,	SYM
+अपवाह	NNC
+क्षेत्र	NN
+में	PSP
+अवरोध	NN
+उत्पन्न	JJ
+होने	VM
+से	PSP
+पानी	NN
+का	PSP
+इधर-उधर	JJ
+जमाव	NN
+मच्छरों	NN
+का	PSP
+आश्रय	NN
+स्थान	NN
+बनते	VM
+हैं	VAUX
+,	SYM
+जिससे	PRP
+मलेरिया	NNP
+जैसे	PSP
+संक्रामक	JJ
+बीमारियां	NN
+फैलने	VM
+की	PSP
+प्रबल	JJ
+संभावनाएं	NN
+बनती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0308>
+पहाडी	JJ
+क्षेत्रों	NN
+में	PSP
+खनन	NNC
+कार्य	NN
+से	PSP
+भूस्खलन	NN
+बार-बार	RB
+होता	VM
+है	VAUX
+जिससे	PRP
+जीव-जन्तु	NN
+,	SYM
+पशु-सम्पदा	NN
+तथा	CC
+मानवों	NN
+की	PSP
+जान-माल	NN
+की	PSP
+हानि	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0309>
+कई	QF
+खदानों	NN
+में	PSP
+,	SYM
+खनन	NNC
+श्रमिकों	NN
+को	PSP
+बहुत	INTF
+ही	RP
+खतरनाक	JJ
+माहौल	NN
+में	PSP
+काम	NN
+करना	VM
+पडता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0310>
+कोयले	NN
+की	PSP
+खदानों	NN
+में	PSP
+आग	NN
+लगने	VM
+से	PSP
+अथवा	CC
+पानी	NN
+भर	VM
+जाने	VAUX
+से	PSP
+सैकडों	QC
+श्रमिकों	NN
+को	PSP
+जान	NN
+गंवानी	VM
+पडती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0311>
+कई	QF
+खदानों	NN
+में	PSP
+कभी-कभी	PRP
+विषैली	JJ
+गैस	NN
+अचानक	RB
+मिल	VM
+जाने	VAUX
+से	PSP
+कई	QF
+श्रमिक	NN
+मर	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0312>
+बहुत	QF
+से	RP
+खनिज	NNC
+उत्पादक	JJ
+क्षेत्रों	NN
+की	PSP
+गतिविधियों	NN
+से	PSP
+जल	NN
+तथा	CC
+वायु	NN
+का	PSP
+प्रदूषण	NN
+आसपास	NST
+के	PSP
+क्षेत्रों	NN
+में	PSP
+फैल	VM
+जाता	VAUX
+है	VAUX
+जिससे	PRP
+कई	QF
+प्रकार	NN
+की	PSP
+स्वास्थ्य	JJC
+संबंधी	JJ
+आपदाएँ	NN
+उत्पन्न	JJ
+हो	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0313>
+खनिजों	NN
+की	PSP
+नई	JJ
+खोजों	NN
+से	PSP
+स्थानीय	JJ
+लोगों	NN
+का	PSP
+विस्थापन	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0314a>
+बहुत	QF
+से	RP
+जनजातीय	JJ
+क्षेत्रों	NN
+में	PSP
+खनिजों	NN
+की	PSP
+प्रचुरता	NN
+पाई	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0314b>
+अत	CC
+:	SYM
+उनके	PRP
+विकास	NN
+एवं	CC
+दोहन	NN
+होने	VM
+पर	PSP
+सर्वाधिक	JJ
+प्रभाव	NN
+जनजातियों	NN
+पर	PSP
+पडता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0315>
+इन	DEM
+क्षेत्रों	NN
+के	PSP
+औद्योगीकरण	NN
+से	PSP
+इन	DEM
+जनजातियो	NN
+की	PSP
+आर्थिक	JJ
+स्थिति	NN
+,	SYM
+इनके	PRP
+जीवन	NNC
+मूल्यों	NN
+एवं	CC
+जीवनयापन	NN
+करने	VM
+के	PSP
+तौर-तरीकों	NN
+पर	PSP
+बहुत	INTF
+बुरा	JJ
+प्रभाव	NN
+पडता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0316a>
+घटते	VM
+साधनों	NN
+की	PSP
+दुनिया	NN
+में	PSP
+यह	DEM
+परम	INTF
+आवश्यक	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0316b>
+कि	CC
+खनिज	NNC
+संसाधनों	NN
+का	PSP
+न्यायसंगत	JJ
+उपभोग	NN
+वर्तमान	JJ
+पीढी	NN
+द्वारा	PSP
+किया	VM
+जाये	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0316c>
+ताकि	CC
+भावी	JJ
+पीढी	NN
+प्राकृतिक	JJ
+उपहारों	NN
+से	PSP
+वंचित	JJ
+न	NEG
+हो	VM
+जाये	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0317>
+इसलिये	PRP
+संसाधन	NN
+की	PSP
+उपलब्धियों	NN
+की	PSP
+पूर्ण	JJ
+सुरक्षा	NN
+अति	INTF
+आवश्यक	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0318>
+खनिज	NNC
+संसाधनों	NN
+का	PSP
+संरक्षण	NN
+निम्नलिखित	JJ
+युक्तिसंगत	JJ
+उपायों	NN
+द्वारा	PSP
+संभव	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0319>
+जहाँ	PRP
+तक	PSP
+सम्भव	JJ
+हो	VM
+सभी	QF
+प्रकार	NN
+से	PSP
+प्रयास	NN
+किया	VM
+जाना	VAUX
+चाहिये	VAUX
+जिनसे	PRP
+विभिन्न	JJ
+खनिजों	NN
+का	PSP
+पुनरोद्धार	NN
+हो	VM
+सके	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0320>
+सुदूर-संवेदन	NNC
+प्रविधियों	NN
+के	PSP
+प्रयोग	NN
+से	PSP
+नए-नए	JJ
+क्षेत्रों	NN
+में	PSP
+खनिज-निक्षेपों	NN
+के	PSP
+पाए	VAUX
+जाने	VAUX
+की	PSP
+संभावनाओं	NN
+की	PSP
+पहचान	NN
+की	VM
+जा	VAUX
+सकती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0321>
+इस	DEM
+प्रक्रिया	NN
+से	PSP
+तात्पर्य	NNC
+उत्पादन	NNC
+प्रक्रिया	NN
+में	PSP
+खनिर्जों	NN
+के	PSP
+पुन	NNC
+:	SYM
+उपयोग	NN
+से	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0322>
+यथा	DEM
+अनुपयोगी	JJ
+कागज	NN
+,	SYM
+चिथडों	NN
+,	SYM
+उपयोग	NN
+की	PSP
+हुई	VAUX
+बोतलें	NN
+,	SYM
+टीन	NN
+,	SYM
+प्लास्टिक	NN
+के	PSP
+कचरों	NN
+का	PSP
+पुन	NNC
+:	SYM
+चक्रण	NN
+कर	VM
+कागज	NN
+,	SYM
+समाचार	NNC
+पत्र	NN
+के	PSP
+कागज	NN
+,	SYM
+प्लास्टिक	NN
+व	CC
+कांच	NN
+के	PSP
+बर्तन	NN
+,	SYM
+डिब्बा	NN
+बनाने	VM
+के	PSP
+लिए	PSP
+टन	NN
+आदि	RP
+का	PSP
+उत्पादन	NN
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0323>
+यह	DEM
+प्रक्रिया	NN
+जल	NN
+एवं	CC
+विद्युत	NN
+की	PSP
+खपत	NN
+को	PSP
+प्रभावी	JJ
+तरीके	NN
+से	PSP
+कम	QF
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0324>
+ऐसे	DEM
+कदम	NN
+वन	NNC
+संपदा	NN
+के	PSP
+कम	QF
+होने	VM
+की	PSP
+प्रक्रिया	NN
+को	PSP
+धीमा	JJ
+कर	VM
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0325>
+पुरानी	JJ
+मशीनों	NN
+,	SYM
+वाहनों	NN
+,	SYM
+औद्योगिक	JJ
+उपकरणों	NN
+के	PSP
+उपयोग	NN
+के	PSP
+बाद	NST
+इन्हें	PRP
+कास्ट	NN
+व	CC
+लोहे	NN
+में	PSP
+परिवर्तित	JJ
+कर	VM
+इनसे	PRP
+नए	JJ
+उत्पाद	NN
+बनाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0326>
+प्रौद्योगिकी	NN
+के	PSP
+बढते	VM
+विचार	NN
+से	PSP
+तथा	CC
+नई	JJ
+जरूरतों	NN
+के	PSP
+बढने	VM
+से	PSP
+खनिजों	NN
+के	PSP
+उपयोग	NN
+में	PSP
+कई	QF
+परिवर्तन	NN
+आए	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0327>
+जैसे	RB
+पेट्रो-रासायनिक	JJ
+उद्योग	NN
+से	PSP
+उत्पन्न	JJ
+प्लास्टिक	NN
+ने	PSP
+पारम्परिक	JJ
+पीतल	NN
+या	CC
+मिट्टी	NN
+के	PSP
+घडों	NN
+को	PSP
+प्रतिस्थापित	JJ
+कर	VM
+अपनी	PRP
+जगह	NN
+बना	VM
+ली	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0328>
+यहां	PRP
+तक	PSP
+कि	RP
+अब	PRP
+आटोमोबाइल	NNC
+उद्योग	NN
+में	PSP
+कार	NN
+,	SYM
+स्कूटर	NN
+के	PSP
+ढाचे	NN
+में	PSP
+प्रयुक्त	JJ
+इस्पात	NN
+की	PSP
+जगह	NN
+प्लास्टिक	NN
+ने	PSP
+ले	VM
+रखी	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0329>
+ताँबे	NN
+की	PSP
+पाइप	NN
+की	PSP
+जगह	PSP
+प्लास्टिक	NNC
+पाइप	NNC
+उपयोग	NN
+में	PSP
+आने	VM
+लगी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0330H>
+अधिक	QF
+कौशलयुक्त	JJ
+उपयोग	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0331>
+खनिजों	NN
+को	PSP
+लंबी	JJ
+अवधि	NN
+तक	PSP
+संरक्षण	NN
+करने	VM
+से	PSP
+खनिजों	NN
+के	PSP
+अधिक	QF
+कौशलयुक्त	JJ
+उपयोग	NN
+बहुत	INTF
+मददगार	JJ
+साबित	JJ
+हुए	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0332>
+इसलिये	PRP
+आजकल	NN
+खनिज	NNC
+संसाधनों	NN
+का	PSP
+बडी	JJ
+कुशलता	NN
+से	PSP
+उपयोग	NN
+होने	VM
+लगा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0333>
+बतौर	PSP
+उदाहरण	NN
+आज	NN
+बाजार	NN
+में	PSP
+ज्यादा	QF
+शक्तिशाली	JJ
+इंजीनियरिंग	NN
+तथा	CC
+निर्माण	NNC
+प्रक्रियाओं	NN
+से	PSP
+मोटरगाडियाँ	NN
+अधिक	QF
+क्षमता	NN
+एवं	CC
+गति	NN
+वाली	PSP
+मिलनी	VM
+लगी	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0334>
+आर्थिक	JJ
+विकास	NN
+तथा	CC
+जीवन	NN
+को	PSP
+सुख	NNC
+सुविधा	NN
+से	PSP
+सम्पन	JJ
+करने	VM
+में	PSP
+ऊर्जा	NN
+एक	QC
+आवश्यक	JJ
+निवेश	NN
+के	PSP
+रूप	PSP
+में	PSP
+महत्वपूर्ण	JJ
+योगदान	NN
+देता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0335>
+ऊर्जा	NNPC
+संसाधन	NNP
+के	PSP
+बिना	RP
+आधुनिक	JJ
+जीवन	NN
+की	PSP
+कल्पना	NN
+करना	VM
+संभव	JJ
+नहीं	NEG
+लगता	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0336>
+दिन-प्रतिदिन	NNC
+ऊर्जा	NN
+की	PSP
+खपत	NN
+बढती	VM
+ही	RP
+जा	VAUX
+रही	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0337>
+ऊर्जा	NN
+अपने	PRP
+विभिन्न	JJ
+रूपों	NN
+में	PSP
+भारत	NNP
+में	PSP
+उपलब्ध	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0338>
+आगे	NST
+आने	VM
+वाले	PSP
+अनुच्छेदों	NN
+में	PSP
+हम	PRP
+इस	PRP
+पर	PSP
+विस्तृत	JJ
+चर्चा	NN
+करेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0339>
+ऊर्जा	NN
+के	PSP
+कई	QF
+स्रोत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0340>
+इन	DEM
+स्रोतों	NN
+को	PSP
+भिन्न-भिन्न	JJ
+प्रकार	NN
+से	PSP
+वर्गीकृत	JJ
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0341>
+वर्गीकरण	NN
+का	PSP
+एक	QC
+प्रकार	NN
+है	VM
+,	SYM
+जिसमें	PRP
+ऊर्जा	NN
+को	PSP
+वाणिज्यिक	JJ
+तथा	CC
+अवाणिज्यिक	NNP
+स्रोतों	NN
+के	PSP
+रूप	PSP
+में	PSP
+विभाजित	JJ
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0342a>
+ग्रामीण	JJ
+क्षेत्रों	NN
+में	PSP
+आज	NN
+भी	RP
+लोग	NN
+मानवीय	JJ
+श्रम	NN
+या	CC
+श्रम	NNC
+शक्ति	NN
+,	SYM
+पशु	NNC
+शक्ति	NN
+,	SYM
+गोबर	NN
+,	SYM
+फसलों	NN
+के	PSP
+अपशिष्ट	NNC
+भागों	NN
+का	PSP
+उपयोग	NN
+ऊर्जा	NN
+के	PSP
+स्रोत	NN
+के	PSP
+रूप	PSP
+में	PSP
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0342b>
+क्योंकि	CC
+ये	DEM
+वस्तुएँ	NN
+आसानी	NN
+से	PSP
+और	QF
+सस्ते	NN
+में	PSP
+उपलब्ध	JJ
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0343>
+इन्हें	PRP
+कम	QF
+लागत	NN
+के	PSP
+ऊर्जा	NNPC
+संसाधन	NN
+कह	VM
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0344>
+इसके	PRP
+ठीक	RP
+विपरीत	JJ
+ऊर्जा	NN
+के	PSP
+स्रोत	NN
+जिनका	PRP
+शहरी	JJ
+क्षेत्रों	NN
+में	PSP
+प्रयोग	NN
+होता	VM
+है	VAUX
+वे	PRP
+मूलतः	NNPC
+वाणिज्य	NNC
+प्रधान	NN
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0345>
+इनमें	PRP
+शामिल	JJ
+हो	VM
+सकते	VAUX
+हैं	VAUX
+कोयला	NN
+,	SYM
+पेट्रोलियम	NN
+,	SYM
+प्राकृतिक	JJ
+गैस	NN
+,	SYM
+रसोई	NNC
+गैस	NN
+एवं	CC
+बिजली	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0346>
+इन	DEM
+सभी	QF
+साधनों	NN
+को	PSP
+वाणिज्यिक	JJ
+ऊर्जा	NNC
+स्रोत	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0347>
+परंतु	CC
+कुछ	QF
+समय	NN
+से	PSP
+ग्रामीण	JJ
+इलाकों	NN
+में	PSP
+भी	RP
+परिदृश्य	NN
+बदलता	VM
+नजर	NN
+आ	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0348>
+ऊर्जा	NNC
+संसाधनों	NN
+को	PSP
+दूसरे	QO
+आधार	NN
+पर	PSP
+भी	RP
+वर्गीकृत	JJ
+किया	VM
+गया	VAUX
+है	VAUX
+,	SYM
+जो	PRP
+मूलतः	JJ
+स्रोतों	NN
+की	PSP
+सजीवता	NN
+पर	PSP
+आधारित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0349a>
+जैसे	PSP
+खनिज	JJ
+संसाधनों	NN
+में	PSP
+कोयला	NN
+,	SYM
+पेट्रोलियम	NN
+,	SYM
+प्राकृतिक	JJ
+गैस	NN
+,	SYM
+रेडियो	NNPC
+धर्मी	NNC
+खनिज	NN
+इत्यादि	RP
+सभी	QF
+एक	QC
+निश्चित	JJ
+समय	NN
+के	PSP
+पश्चात्	NST
+समाप्त	JJ
+हो	VM
+जाएंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0349b>
+परन्तु	CC
+इसके	PRP
+विपरीत	PSP
+प्रवाही	NNPC
+जल	NN
+,	SYM
+सूरज	NN
+की	PSP
+किरणें	NN
+,	SYM
+पवन	NNP
+,	SYM
+समुद्री	JJ
+लहरें	NN
+,	SYM
+गरम	JJ
+जल	NN
+के	PSP
+झरने	NN
+,	SYM
+बायोगैस	NN
+इत्यादि	RP
+ऊर्जा	NN
+के	PSP
+ऐसे	DEM
+स्रोत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0349c>
+जो	PRP
+अक्षय	NNP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0349d>
+ये	PRP
+समाप्त	JJ
+या	CC
+नष्ट	JJ
+नहीं	NEG
+होते	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0350>
+ऊर्जा	NN
+के	PSP
+इन	DEM
+स्रोतों	NN
+से	PSP
+प्राप्त	JJ
+ऊर्जा	NN
+प्रदूषणमुक्त	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0351>
+ऊर्जा	NN
+के	PSP
+खनिज	NNC
+स्रोतों	NN
+में	PSP
+कोयला	NN
+,	SYM
+पेट्रोलियम	NN
+,	SYM
+प्राकृतिक	JJ
+गैस	NN
+शामिल	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0352>
+इन	DEM
+सभी	QF
+खनिजों	NN
+में	PSP
+छिपी	VM
+ऊर्जा	NN
+वास्तविक	JJ
+रूप	NN
+में	PSP
+सूर्य	NNP
+द्वारा	PSP
+प्राप्त	JJ
+ऊर्जा	NN
+का	PSP
+एकत्रित	JJ
+रूप	NN
+में	PSP
+अंश	NN
+ही	RP
+है	VM
+जो	PRP
+अश्मीभूत	JJ
+हो	VM
+गए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0353>
+इन	DEM
+खनिजों	NN
+को	PSP
+इसीलिए	PRP
+जीवाश्म	NNC
+ईंधन	NN
+भी	RP
+कहा	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0354>
+दूसरे	QO
+प्रकार	NN
+को	PSP
+रेडियोधर्मी	NN
+या	CC
+आण्विक	JJ
+खनिज	NN
+कहा	VM
+जाता	VAUX
+है	VAUX
+,	SYM
+इनसे	PRP
+प्राप्त	JJ
+ऊर्जा	NNC
+प्रदूषण	NN
+युक्त	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0355>
+खनिजों	NN
+के	PSP
+अलावा	PSP
+ऊर्जा	NN
+के	PSP
+अन्य	JJ
+स्रोत	NN
+हैं-	VM
+प्रवाही	NNPC
+जल	NN
+,	SYM
+सूर्य	NNP
+,	SYM
+पवन	NNP
+,	SYM
+ज्वार	NN
+एवं	CC
+गरम	JJ
+पानी	NN
+के	PSP
+झरने	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0356>
+इनसे	PRP
+प्राप्त	JJ
+ऊर्जा	NNC
+प्रदूषण	NN
+मुक्त	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0357>
+ऊर्जा	NNC
+स्रोतों	NN
+का	PSP
+एक	QC
+और	QF
+वर्गीकरण	NN
+परम्परागत	JJ
+और	CC
+गैर-परम्परागत	JJ
+स्रोतों	NN
+के	PSP
+आधार	NN
+पर	PSP
+भी	RP
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0358>
+परम्परागत	JJ
+स्रोतों	NN
+में	PSP
+कोयला	NN
+,	SYM
+पेट्रोलियम	NN
+,	SYM
+प्राकृतिक	JJ
+गैस	NN
+इत्यादि	RP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0359>
+गैर-परम्परागत	JJ
+स्रोतों	NN
+में	PSP
+सूर्य	NNP
+,	SYM
+पवन	NNP
+,	SYM
+ज्वार	NN
+,	SYM
+गरम	JJ
+झरने	NN
+एवं	CC
+बायोगैस	NN
+इत्यादि	RP
+सम्मिलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0360>
+ईंधन	NN
+की	PSP
+लकडी	NN
+,	SYM
+गोबर	NN
+तथा	CC
+फसलों	NN
+के	PSP
+अपशिष्ट	NNC
+पदार्थ	NN
+इत्यादि	RP
+सभी	QF
+परम्परागत	JJ
+या	CC
+गैर-वाणिज्यिक	JJ
+ऊर्जा	NN
+के	PSP
+स्रोत	NN
+कहलाते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0361>
+कोयला	NN
+,	SYM
+पेट्रोलियम	NN
+,	SYM
+प्राकृतिक	JJ
+गैस	NN
+,	SYM
+जल-प्रपात	NN
+एवं	CC
+यूरेनियम	NN
+,	SYM
+थोरियम	NN
+(	SYM
+आण्विक	NNPC
+खनिज	NN
+)	SYM
+इत्यादि	RP
+परम्परागत	JJ
+स्रोत	NN
+के	PSP
+अन्तर्गत	PSP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0362>
+सूर्य	NNP
+,	SYM
+पवन	NNP
+,	SYM
+बायोगैस	NN
+,	SYM
+ज्वार	NN
+,	SYM
+गरम	JJ
+पानी	NN
+का	PSP
+झरना	NN
+इत्यादि	NNPC
+ऊर्जा	NN
+के	PSP
+गैर-परम्परागत	JJ
+स्रोत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0363>
+इन	DEM
+सभी	QF
+परम्परागत	JJ
+स्रोतों	NN
+से	PSP
+ऊर्जा	NN
+का	PSP
+उत्पादन	NN
+अभी	PRP
+भी	RP
+प्रारंभिक	JJ
+विकास	NN
+की	PSP
+अवस्था	NN
+में	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0364>
+उचित	JJ
+तकनीकी	JJ
+प्रविधियों	NN
+के	PSP
+अभाव	NN
+में	PSP
+इन	DEM
+स्रोतों	NN
+का	PSP
+व्यापक	JJ
+दोहन	NN
+नहीं	NEG
+हो	VM
+पा	VAUX
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0365a>
+गैर	JJC
+परम्परागत	JJ
+ऊर्जा	NN
+के	PSP
+स्रोत	NN
+महत्वपूर्ण	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0365b>
+इसलिए	PRP
+कि	CC
+ये	DEM
+सभी	QF
+प्रदूषण	JJC
+मुक्त	JJ
+ऊर्जा	NN
+प्रदान	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0365c>
+तथा	CC
+इनका	PRP
+पुनर्चक्रण	NN
+संभव	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0366>
+विद्युत	NNC
+ऊर्जा	NN
+का	PSP
+बहुमुखी	JJ
+एवं	CC
+सुविधाजनक	JJ
+रूप	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0367>
+जब	PRP
+विद्युत	NN
+के	PSP
+उत्पादन	NN
+में	PSP
+कोयला	NN
+,	SYM
+पेट्रोलियम	NN
+अथवा	CC
+प्राकृतिक	JJ
+गैस	NN
+का	PSP
+उपयोग	NN
+होता	VM
+है	VAUX
+तब	PRP
+इसे	PRP
+“ताप	NNPC
+विद्युत	NNP
+'	SYM
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0368>
+प्रवाहमय	JJ
+जल	NNC
+स्रोत	NN
+से	PSP
+उत्पन्न	JJ
+शक्ति	NN
+को	PSP
+'	SYM
+जल-शक्ति	NN
+'	SYM
+या	CC
+जल	NNPC
+विद्युत	NNP
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0369>
+इसके	PRP
+अतिरिक्त	NNC
+विद्युत	NNC
+उत्पादन	NN
+आण्विक	JJ
+खनिजों	NN
+के	PSP
+विखण्डन	NN
+से	PSP
+भी	RP
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0370>
+जिसे	PRP
+परमाणु-बिजली	NNP
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0371a>
+यह	PRP
+भी	RP
+ताप	NNC
+विद्युत	NN
+का	PSP
+ही	RP
+एक	QC
+रूप	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0371b>
+परंतु	CC
+इसका	PRP
+स्रोत	NN
+भिन्न	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0371c>
+तथा	CC
+इसके	PRP
+लिए	PSP
+उच्च	JJC
+विकसित	JJ
+तकनीक	NN
+की	PSP
+आवश्यकता	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0372>
+भारत	NNP
+में	PSP
+सन्	NNPC
+1947	NNP
+में	PSP
+प्रति	RP
+व्यक्ति	NN
+बिजली	NN
+की	PSP
+उपलब्धि	NN
+मात्र	RP
+2	QC
+.	SYM
+4	QC
+किलो	NN
+वाट	NN
+प्रति	RP
+घंटे	NN
+थी	VM
+,	SYM
+जो	PRP
+1995-1996	NNP
+के	PSP
+अन्तराल	NN
+में	PSP
+बढकर	VM
+53	QC
+किलो	NN
+वाट	NN
+प्रति	RP
+घंटे	NN
+हो	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0373>
+व्यापक	JJ
+सुधार	NN
+एवं	CC
+उत्पादन	NN
+के	PSP
+बावजूद	PSP
+भी	RP
+बिजली	NN
+की	PSP
+प्रति	PSP
+व्यक्ति	NNC
+उपलब्धता	NN
+विश्व	NN
+के	PSP
+बहुत	QF
+से	RP
+देशों	NN
+की	PSP
+तुलना	PSP
+में	PSP
+काफी	INTF
+कम	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0374>
+भारत	NNP
+में	PSP
+लगभग	RP
+600	QC
+,	SYM
+000	QC
+गाँव	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0375>
+1947	NNP
+में	PSP
+बमुश्किल	RP
+300	QC
+ग्रामों	NN
+में	PSP
+ही	RP
+बिजली	NN
+उपलब्ध	JJ
+थी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0376>
+आज	NN
+बिजली	NN
+करीब	RP
+5	QCC
+लाख	QC
+गाँवों	NN
+में	PSP
+उपलब्ध	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0377a>
+यह	PRP
+इसलिये	PRP
+संभव	JJ
+हो	VM
+सका	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0377b>
+क्योंकि	CC
+1947	NNP
+से	PSP
+2005	NNP
+तक	PSP
+के	PSP
+अन्तराल	NN
+में	PSP
+बिजली	NNC
+उत्पादन	NN
+में	PSP
+85	QC
+गुणा	NN
+की	PSP
+अभिवृद्धि	NN
+हुई	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0378>
+कुल	QF
+संस्थापित	JJ
+उत्पादन	NNC
+क्षमता	NN
+जो	PRP
+947	QC
+में	PSP
+लगभग	RP
+400	QC
+मेगावाट	NN
+थी	VM
+आज	NN
+बढकर	VM
+(	SYM
+31	NNPC
+मार्च	NNPC
+2005	NNP
+तक	PSP
+)	SYM
+1	NNP
+,	SYM
+18	NNP
+,	SYM
+419	QC
+.	SYM
+09	QC
+मेगावाट	NN
+तक	PSP
+हो	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0379>
+इसमें	PRP
+80	QC
+,	SYM
+902	QC
+.	SYM
+45	QC
+मे	PSP
+.	SYM
+वा	SYM
+.	SYM
+ताप	NNC
+विद्युत	NNP
+,	SYM
+30	QC
+.	SYM
+935	QC
+.	SYM
+63	QC
+मे	PSP
+.	SYM
+वा	SYM
+.	SYM
+जल	NNPC
+विद्युत	NNP
+38	QC
+.	SYM
+0	QC
+मे	PSP
+.	SYM
+वा	SYM
+.	SYM
+पवन	NNPC
+ऊर्जा	NNP
+तथा	CC
+2770	QC
+मे	PSP
+.	SYM
+वा	SYM
+.	SYM
+आणविक	JJ
+बिजली	NN
+शामिल	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0380a>
+आइये	VM
+हम	PRP
+सब	PRP
+यह	PRP
+देखें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0380b>
+कि	CC
+विगत	JJ
+पांच	QC
+दशकों	NN
+में	PSP
+विद्युत	NN
+के	PSP
+वास्तविक	JJ
+उत्पादन	NN
+कैसा	WQ
+रहा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0381>
+1950-5	NNP
+में	PSP
+कुल	QF
+विद्युत	NNC
+उत्पादन	NN
+6	QC
+.	SYM
+6	QCC
+अरब	QC
+कि	CC
+.	SYM
+वा	SYM
+.	SYM
+घं	NNP
+.	SYM
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0382>
+जो	PRP
+1995-96	NNP
+तक	PSP
+बढकर	VM
+415	QCC
+अरब	QC
+कि	CC
+.	SYM
+वा	SYM
+.	SYM
+घं	NNP
+.	SYM
+हो	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0383>
+इसमें	PRP
+से	PSP
+380	QCC
+अरब	QC
+कि	CC
+.	SYM
+वा	SYM
+.	SYM
+घं	NNPC
+.	SYM
+की	PSP
+ही	RP
+विस्तृत	JJ
+जानकारी	NN
+उपलब्ध	JJ
+है	VM
+,	SYM
+बाकी	PRP
+के	PSP
+35	QC
+कि	VM
+.	SYM
+वा	SYM
+.	SYM
+घं	NNP
+.	SYM
+उपयोग	NN
+के	PSP
+लिए	PSP
+नहीं	NEG
+'	SYM
+शीर्षक	NN
+में	PSP
+अंकित	JJ
+थे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0384>
+जल	NNC
+विद्युत	NN
+का	PSP
+उत्पादन	NN
+1950-5	NNP
+में	PSP
+2	QC
+.	SYM
+5	QCC
+अरब	QC
+कि	CC
+.	SYM
+वा	SYM
+.	SYM
+घं	NNP
+.	SYM
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0385>
+45	QC
+वर्षों	NN
+में	PSP
+यह	PRP
+बढकर	VM
+72	QC
+.	SYM
+5	NNPC
+अरब	QC
+कि	CC
+.	SYM
+वा	SYM
+.	SYM
+घं	NNP
+.	SYM
+हो	VM
+गया	VAUX
+(	SYM
+1995-96	NNP
+तक	PSP
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0386>
+इसी	DEM
+प्रकार	NN
+ताप	NN
+विद्युत	NN
+का	PSP
+उत्पादन	NN
+भी	RP
+जल	NNC
+विद्युत	NNC
+उत्पादन	NN
+से	PSP
+कोई	PRP
+ज्यादा	QF
+भिन्न	JJ
+नहीं	NEG
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0387>
+ताप	NNC
+विद्युत	NNPC
+उत्पादन	NN
+1950-51	NNP
+में	PSP
+2	QC
+.	SYM
+6	QCC
+अरब	QC
+कि	CC
+.	SYM
+वा	SYM
+.	SYM
+घं	NNP
+.	SYM
+था	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0388>
+यह	PRP
+वर्तमान	JJ
+जल	NNPC
+विद्युत	NNC
+उत्पादन	NN
+की	PSP
+तुलना	PSP
+में	PSP
+चार	QC
+गुना	NN
+से	PSP
+भी	RP
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0389>
+इस	DEM
+अवधि	NN
+में	PSP
+आण्विक	NNPC
+विद्युत	NNC
+उत्पादन	NN
+का	PSP
+कुल	QF
+उत्पादन	NN
+में	PSP
+स्थान	NN
+नगण्य	JJ
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0390>
+आप	PRP
+निम्नलिखित	JJ
+प्रश्नों	NN
+के	PSP
+उत्तर	NN
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0391>
+आप	PRP
+भारत	NNP
+में	PSP
+ऊर्जा	NNC
+संयंत्रों	NN
+के	PSP
+दो	QC
+प्रसिद्ध	JJ
+प्रकारों	NN
+का	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0392>
+उस	DEM
+पारम्परिक	JJ
+ऊर्जा	NNC
+स्रोत	NN
+का	PSP
+नाम	NN
+बताइए	VM
+जो	DEM
+नवीकरणीय	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0393>
+आप	PRP
+तीन	QC
+खनिजों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+जिनका	PRP
+उपयोग	NN
+विद्युत	NNC
+उत्पादन	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0394>
+आप	PRP
+सही	JJ
+विकल्प	NN
+चुनिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0395>
+निम्नलिखित	PRP
+में	PSP
+से	PSP
+किस	WQ
+क्षेत्र	NN
+में	PSP
+पिछले	JJ
+कुछ	QF
+वर्षों	NN
+में	PSP
+बिजली	NN
+के	PSP
+उपयोग	NN
+में	PSP
+तेजी	NN
+से	PSP
+वृद्धि	NN
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0396>
+निम्नलिखित	PRP
+में	PSP
+से	PSP
+कौन	WQ
+सा	RP
+ऊर्जा	NN
+का	PSP
+गैर-परम्परागत	JJ
+प्रकार	NN
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0397>
+निम्नलिखित	QF
+विद्युत	NNC
+ऊर्जा	NNC
+प्रकारों	NN
+में	PSP
+से	PSP
+कौन	WQ
+से	PSP
+प्रकार	NN
+का	PSP
+सर्वाधिक	JJ
+योगदान	NN
+कुल	QF
+विद्युत	NNC
+उत्पादन	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0398>
+ताप	NNC
+विद्युत	NN
+के	PSP
+प्रमुख	JJ
+स्रोत	NN
+कोयला	NN
+,	SYM
+डीजल	NN
+एवं	CC
+प्राकृतिक	JJ
+गैस	NN
+है	VM
+जिनका	PRP
+प्रयोग	NN
+विद्युत	NNC
+उत्पादन	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0399>
+ताप	NNC
+विद्युत	NN
+ही	RP
+देश	NN
+में	PSP
+बिजली	NN
+की	PSP
+आपूर्ति	NN
+में	PSP
+सबसे	INTF
+अधिक	QF
+योगदान	NN
+करती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0400>
+विद्युत	NNC
+उत्पादन	NN
+के	PSP
+अधिष्ठापित	JJ
+संयंत्रों	NN
+से	PSP
+ताप	NN
+विद्युत	NN
+की	PSP
+क्षमता	NN
+,	SYM
+जलविद्युत	NN
+से	PSP
+तीन	QC
+गुना	RP
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0401>
+2004-2005	NNP
+में	PSP
+ताप	NNC
+विद्युत	NN
+का	PSP
+योगदान	NN
+80	QC
+,	SYM
+903	NNP
+मे	PSP
+.	SYM
+वा	SYM
+.	SYM
+रहा	VAUX
+है	VAUX
+जो	PRP
+कि	CC
+देश	NN
+में	PSP
+विद्युत	NNC
+उत्पादन	NN
+(	SYM
+[	SYM
+,	SYM
+8	QC
+,	SYM
+49	QC
+मे	PSP
+.	SYM
+वा	SYM
+.	SYM
+)	SYM
+का	PSP
+लगभग	RP
+60	QC
+प्रतिशत	NN
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0402>
+सन्	NNPC
+1975	NNP
+में	PSP
+राष्ट्रीय	NNPC
+ताप	NNPC
+विद्युत	NNPC
+निगम	NNP
+(	SYM
+एन	NNPC
+.	SYM
+टी	NNPC
+.	SYM
+पी	NNPC
+.	SYM
+सी	NNPC
+.	SYM
+)	SYM
+की	PSP
+स्थापना	NN
+के	PSP
+बाद	NST
+ताप	NNC
+विद्युत	NN
+के	PSP
+योगदान	NN
+में	PSP
+लगातार	RB
+तीव्र	JJ
+वृद्धि	NN
+हो	VM
+रही	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0403>
+वर्तमान	NN
+में	PSP
+एन	NNPC
+.	SYM
+टी	NNPC
+.	SYM
+पी	NNPC
+.	SYM
+सी	VM
+.	SYM
+के	PSP
+अन्तर्गत	PSP
+कोयले	NN
+पर	PSP
+आधारित	JJ
+3	QC
+सुपर	NNC
+ताप	NN
+विद्युत	NNPC
+परियोजनाएँ	NN
+तथा	CC
+7	QC
+गैस	NNC
+/	SYM
+द्रव	NNC
+ईंधन	NN
+पर	PSP
+संचालित	JJ
+संयंत्र	NN
+चल	VM
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0404>
+वर्ष	NN
+2004-2005	NNP
+में	PSP
+एन	NNC
+.	SYM
+टी	NNPC
+.	SYM
+पी	NNPC
+.	SYM
+सी	NNPC
+.	SYM
+ने	PSP
+24	NNP
+,	SYM
+435	QC
+मेगावाट	NN
+ताप	NNC
+विद्युत	NN
+का	PSP
+उत्पादन	NN
+किया	VM
+जो	PRP
+देश	NN
+में	PSP
+उत्पादित	NNC
+ताप	NNC
+विद्युत	NN
+का	PSP
+30	QC
+प्रतिशत	NN
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0405a>
+कोयले	NN
+पर	PSP
+आधारित	JJ
+ताप	NN
+विद्युत	NNC
+संयंत्रों	NN
+की	PSP
+स्थापना	NN
+कोयले	NN
+की	PSP
+खदानों	NN
+के	PSP
+समीपस्थ	JJ
+क्षेत्र	NN
+में	PSP
+की	VM
+गई	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0405b>
+ताकि	CC
+संयंत्र	NN
+तक	PSP
+परिवहन	NNC
+लागत	NN
+बचाई	VM
+जा	VAUX
+सके	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0406>
+विद्युत	NN
+का	PSP
+सम्प्रेषण	NN
+दूरस्थ	JJ
+क्षेत्रों	NN
+में	PSP
+करने	VM
+में	PSP
+भी	RP
+किफायती	JJ
+साबित	JJ
+होता	VM
+है	VAUX
+हालांकि	CC
+संप्रेषण	NN
+में	PSP
+कुछ	QF
+शक्ति	NNC
+ह्रास	NN
+अवश्य	RB
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0407>
+सुपर	NNPC
+ताप	NNPC
+विद्युत	NNC
+संयंत्रों	NN
+की	PSP
+स्थापना	NN
+भी	RP
+कोयले	NN
+की	PSP
+खदानों	NN
+के	PSP
+समीप	NST
+की	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0408>
+ये	DEM
+हैं-सिंगरौली	NNP
+(	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+)	SYM
+,	SYM
+कोरबा	NNP
+(	SYM
+छत्तीसगढ	NNP
+)	SYM
+,	SYM
+रामागुन्डम	NNP
+(	SYM
+आन्श्रप्रदेश	NNP
+)	SYM
+,	SYM
+फरक्का	NNP
+(	SYM
+पश्चिम	NNPC
+बंगाल	NNP
+)	SYM
+,	SYM
+विन्ध्याचल	NNP
+(	SYM
+मध्य	NNPC
+प्रदेश	NNP
+)	SYM
+,	SYM
+रिहन्द	NNP
+(	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+)	SYM
+,	SYM
+कावस	NNP
+(	SYM
+गुजरात	NNP
+)	SYM
+,	SYM
+गांदार	NNP
+(	SYM
+गुजरात	NNP
+)	SYM
+तथा	CC
+तालचेर	NNP
+(	SYM
+उडीसा	NNP
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0409>
+इनमें	PRP
+से	PSP
+अधिकांश	QF
+संयंत्रों	NN
+ने	PSP
+अपनी	PRP
+कार्यदक्षता	NN
+एवं	CC
+लाभांश	NN
+को	PSP
+प्लाण्ट	NNPC
+लोड	NNC
+फैक्टर	NNP
+को	PSP
+प्रोन्नत	JJ
+कर	VM
+बढा	VM
+लिया	VAUX
+है	VAUX
+(	SYM
+राष्ट्रीय	NNPC
+औसत	NN
+63	QC
+%	NN
+की	PSP
+तुलना	PSP
+में	PSP
+78	QC
+%	NN
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0410a>
+रेल	NNC
+विभाग	NNP
+अपनी	PRP
+मुख्य	JJ
+लाइनों	NN
+का	PSP
+विद्युतीकरण	NN
+करने	VM
+की	PSP
+योजना	NN
+कार्यान्वित	JJ
+करना	VM
+चाहता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0410b>
+और	CC
+इसके	PRP
+लिए	PSP
+वह	PRP
+प्रमुख	JJ
+कोयला	NNC
+क्षेत्रों	NN
+के	PSP
+निकट	NST
+अपने	PRP
+सुपर	NNC
+ताप	NNPC
+विद्युत	NNPC
+केन्द्र	NNP
+स्थापित	JJ
+कर	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0411>
+भारतीय	NNPC
+रेल	NN
+ने	PSP
+अपना	PRP
+सुपर	NNC
+ताप	NNPC
+विद्युत	NNPC
+संयंत्र	NNPC
+नेव्हेली	NNP
+(	SYM
+तमिलनाडु	NNP
+)	SYM
+में	PSP
+स्थापित	JJ
+किया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0412>
+इसे	PRP
+कोयले	NN
+की	PSP
+आपूर्ति	NN
+नेव्हेली	NNPC
+लिग्नाइट	NNPC
+कोल	NNC
+क्षेत्र	NN
+से	PSP
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0413>
+कोयला	NN
+पर	PSP
+आधारित	JJ
+ताप	NN
+विद्युत	NNC
+संयंत्रों	NN
+के	PSP
+साथ	NST
+आजकल	NN
+की	PSP
+नवीनतम	JJ
+प्रवृत्ति	NN
+डीजल	NN
+तथा	CC
+प्राकृतिक	JJ
+गैस	NN
+पर	PSP
+आधारित	JJ
+ताप	NNPC
+विद्युत	NNC
+संयंत्र	NNP
+को	PSP
+प्रोत्साहित	JJ
+करना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0414>
+ऐसे	DEM
+संयंत्रों	NN
+को	PSP
+विपणन	NN
+के	PSP
+अथवा	CC
+उपयोग	NN
+के	PSP
+क्षेत्र	NN
+या	CC
+बाजार	NN
+के	PSP
+केन्द्र	NNP
+के	PSP
+पास	NST
+स्थापित	JJ
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0415>
+तेल	NN
+तथा	CC
+गैस	NN
+पर	PSP
+आधारित	JJ
+ताप	NN
+बिजली	NNC
+संयंत्रों	NN
+को	PSP
+लगाने	VM
+व	CC
+चालू	JJ
+करने	VM
+की	PSP
+अवधि	NN
+सामान्यतः	RP
+बहुत	QF
+छोटी	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0416>
+इसके	PRP
+अलावा	PSP
+पेट्रोलियम	NNC
+/	SYM
+गैस	NN
+पर	PSP
+आधारित	JJ
+संयंत्र	NN
+की	PSP
+उत्पादन	NNC
+क्षमता	NN
+भी	RP
+कोयले	NN
+पर	PSP
+आधारित	JJ
+संयंत्रों	NN
+से	PSP
+अच्छी	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0417>
+परन्तु	CC
+इन	DEM
+संयंत्रों	NN
+के	PSP
+कार्यशील	JJ
+रहने	VM
+के	PSP
+लिए	PSP
+पेट्रोलियम	NN
+या	CC
+प्राकृतिक	JJ
+गैस	NN
+को	PSP
+पाइप	NNC
+लाइन	NN
+बिछाकर	VM
+अनवरत	JJ
+आपूर्ति	NN
+करना	VM
+होता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0418a>
+चूँकि	CC
+भारत	NNP
+खनिज	NNPC
+तेल	NNPC
+एवं	NNPC
+प्राकृतिक	JJ
+गैस	NNC
+संसाधनों	NN
+में	PSP
+समृद्ध	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0418b>
+इसलिए	PRP
+भारत	NNP
+को	PSP
+इनका	PRP
+तथा	CC
+नेष्था	NNP
+आदि	RP
+का	PSP
+मध्य-पूर्व	NNPC
+खाडी	NNP
+के	PSP
+देशों	NN
+से	PSP
+आयात	NN
+करना	VM
+पडता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0419>
+महाराष्ट्र	NNP
+के	PSP
+कोंकण	NNPC
+तटवर्ती	NNP
+क्षेत्र	NN
+में	PSP
+इन्हीं	DEM
+आयातित	JJ
+खनिज	NNC
+तेल	NN
+एवं	CC
+अन्य	JJ
+सामग्रियों	NN
+पर	PSP
+आधारित	JJ
+डाभोल	NNPC
+ताप	NNPC
+विद्युत	NNPC
+संयंत्र	NNP
+स्थापित	JJ
+किया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0420>
+खनिज	NNC
+तेल	NN
+पर	PSP
+आधारित	JJ
+अधिकांश	QF
+ताप	NNC
+विद्युत	NNPC
+संयंत्र	NNP
+भारत	NNP
+के	PSP
+उत्तर-पूर्व	NNP
+सुदूर	JJ
+क्षेत्रों	NN
+तथा	CC
+हिमालय	NNP
+क्षेत्र	NN
+में	PSP
+स्थापित	JJ
+किए	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0421a>
+यह	DEM
+ध्यान	NN
+देने	VM
+योग्य	JJ
+तथ्य	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0421b>
+कि	CC
+दक्षिण	NNP
+के	PSP
+कर्नाटक	NNP
+तथा	CC
+केरल	NNP
+राज्यों	NN
+में	PSP
+एक	QC
+भी	RP
+ताप-विद्युत	NNC
+संयंत्र	NN
+की	PSP
+स्थापना	NN
+आज	NN
+तक	PSP
+नहीं	NEG
+की	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0422>
+क्या	WQ
+आप	PRP
+इसका	PRP
+कारण	NN
+समझा	VM
+सकते	VAUX
+हैं	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0423>
+इस	DEM
+संयंत्र	NN
+की	PSP
+स्थापना	NN
+भारत	NNP
+में	PSP
+नई	JJ
+प्रवृत्ति	NN
+का	PSP
+संकेत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0424>
+जल	NNC
+शक्ति	NNPC
+संसाधन	NNPC
+तापशक्ति	NNPC
+संसाधन	NN
+से	PSP
+कई	QF
+तरीकों	NN
+में	PSP
+भिन्न	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0425>
+जल-शक्ति	NN
+के	PSP
+संसाधन	NN
+अक्षय	NNPC
+हैं	VAUX
+,	SYM
+इन्हें	PRP
+जब	PRP
+चाहे	RB
+आवश्यकतानुसार	JJ
+पुनः	RB
+उपयोग	NN
+कर	VM
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0426>
+दूसरे	QO
+,	SYM
+यह	PRP
+संसाधन	NN
+प्रदूषण	NN
+मुक्त	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0427>
+इसकी	PRP
+सालाना	JJ
+आवर्तन	NNC
+लागत	NN
+या	CC
+संसाधन	NN
+के	PSP
+रख-रखाव	NN
+की	PSP
+लागत	NN
+बहुत	INTF
+कम	QF
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0428>
+इसके	PRP
+बावजूद	PSP
+इस	DEM
+संसाधन	NN
+की	PSP
+दो	QC
+प्रमुख	JJ
+कमियां	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0429a>
+जल	NNPC
+विद्युत	NNPC
+संयंत्र	NNP
+की	PSP
+स्थापना	NN
+में	PSP
+प्रारंभिक	JJ
+पूंजी-निवेश	NN
+बहुत	INTF
+अधिक	QF
+होता	VM
+है	VAUX
+,	SYM
+खासकर	RB
+उन	DEM
+क्षेत्रों	NN
+में	PSP
+जहां	PRP
+पूरे	JJ
+वर्ष	NN
+मर	NNPC
+जल	NN
+की	PSP
+सतत	JJ
+आपर्ति	NN
+बनाए	VM
+रखने	VAUX
+के	PSP
+लिए	PSP
+बडे	JJ
+जलाशय	NN
+निर्माण	NN
+कर	VM
+तथा	CC
+एकत्रित	JJ
+कर	VM
+सुरक्षित	JJ
+रखा	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0430>
+दूसरे	QO
+संयंत्रों	NN
+की	PSP
+स्थापना	NN
+में	PSP
+लगी	VM
+पूंजी	NN
+की	PSP
+सगर्भता	NNC
+अवधि	NN
+बहुत	INTF
+लम्बी	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0431>
+काँगो	NNP
+,	SYM
+रूस	NNP
+,	SYM
+कनाडा	NNP
+,	SYM
+संयुक्त	NNPC
+राज्य	NNP
+अमेरिका	NNP
+के	PSP
+बाद	NST
+भारत	NNP
+अपनी	PRP
+संभावित	JJ
+क्षमता	NN
+4	QC
+,	SYM
+000	QC
+मेगावाट	NN
+के	PSP
+साथ	NST
+पाँचवे	QO
+स्थान	NN
+पर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0432>
+जल	NNPC
+विद्युत	NNPC
+शक्ति	NNC
+-भारत	SYM
+में	PSP
+जल	NNC
+विद्युत	NN
+का	PSP
+विकास	NN
+,	SYM
+19वीं	NNPC
+सदी	NN
+के	PSP
+अन्तिम	JJ
+दशक	NN
+में	PSP
+सन्	NNPC
+1897	NNP
+में	PSP
+दार्जिलिंग	NNP
+में	PSP
+बिजली	NN
+की	PSP
+आपूर्ति	NN
+हेतु	PSP
+जल	NNPC
+विद्युत	NNPC
+संयंत्र	NNP
+की	PSP
+स्थापना	NN
+से	PSP
+शुरू	NN
+हुआ	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0433>
+इसके	PRP
+बाद	NST
+1902	NNP
+में	PSP
+कर्नाटक	NNP
+के	PSP
+शिवसमुद्रम	NNP
+में	PSP
+कावेरी	NNP
+नदी	NN
+के	PSP
+जलप्रपात	NN
+पर	PSP
+दूसरे	QO
+जल	NNPC
+विद्युत	NNPC
+संयंत्र	NNP
+की	PSP
+स्थापना	NN
+हुई	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0434>
+बाद	NST
+में	PSP
+पश्चिमी	JJ
+घाट	NN
+पर्वतीय	JJ
+क्षेत्र	NN
+में	PSP
+कुछ	QF
+संयंत्र	NN
+डाले	VM
+गए	VAUX
+जिससे	PRP
+विद्युत	NN
+की	PSP
+आपूर्ति	NN
+मुम्बई	NNP
+को	PSP
+हो	VM
+सके	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0435>
+जल	NNPC
+विद्युत	NNC
+शक्ति	NN
+के	PSP
+कुछ	QF
+संयंत्र	NN
+उत्तर	NNPC
+भारत	NNP
+में	PSP
+उत्तर	NNPC
+प्रदेश	NNP
+,	SYM
+हिमाचल	NNPC
+प्रदेश	NNP
+और	CC
+दक्षिण	NNPC
+भारत	NNP
+में	PSP
+तमिलनाडु	NNP
+एवं	CC
+कर्नाटक	NNP
+में	PSP
+1930	NNP
+के	PSP
+दशक	NN
+में	PSP
+स्थापित	JJ
+किए	VM
+गए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0436>
+इस	DEM
+प्रकार	NN
+से	PSP
+स्थापित	JJ
+संयंत्रों	NN
+से	PSP
+पूरे	JJ
+देश	NN
+में	PSP
+बिजली	NNC
+उत्पादन	NN
+की	PSP
+सकल	NNC
+क्षमता	NN
+1947	NNP
+तक	PSP
+1508	QC
+मेगावाट	NN
+हो	VM
+गई	VAUX
+थी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0437>
+इसके	PRP
+पश्चात्	NST
+देश	NN
+की	PSP
+पंचवर्षीय	JJ
+योजनाओं	NN
+के	PSP
+तहत	PSP
+सघन	JJ
+प्रयास	NN
+किए	VM
+गए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0438a>
+कई	QF
+बहुउद्देश्यीय	JJ
+योजनाओं	NN
+को	PSP
+संचालित	JJ
+किया	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0438b>
+ताकि	CC
+जल	NNC
+विद्युत	NNC
+शक्ति	NN
+का	PSP
+समुचित	JJ
+और	CC
+शीघ्र	RB
+विकास	NN
+हो	VM
+सके	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0439>
+वर्ष	NN
+2000-0	NNP
+के	PSP
+अंत	NN
+तक	PSP
+जल	NNC
+विद्युत	NN
+की	PSP
+स्थापित	JJ
+क्षमता	NN
+बढकर	VM
+25	QC
+,	SYM
+29	QC
+.	SYM
+55	QC
+मेगावाट	NN
+हो	VM
+गई	VAUX
+जो	PRP
+कि	CC
+विद्युत	NN
+की	PSP
+कुल	NN
+स्थापित	JJ
+क्षमता	NN
+के	PSP
+एक-चौथाई	NN
+के	PSP
+करीब	NST
+था	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0440>
+ऊर्जा	NN
+का	PSP
+सस्ता	JJ
+,	SYM
+प्रदूषण	JJC
+मुक्त	JJ
+व	CC
+पुनःचक्रीय	JJ
+स्रोत	NN
+होते	VM
+हुए	VAUX
+भी	RP
+स्वतंत्रता	NN
+के	PSP
+पश्चात्	NST
+इसका	PRP
+महत्व	NN
+घटा	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0441>
+कुल	QF
+ऊर्जा	NNC
+उत्पादन	NN
+में	PSP
+इसका	PRP
+हिस्सा	NN
+1950-5	NNP
+में	PSP
+49	QC
+प्रतिशत	NN
+से	PSP
+घटकर	VM
+2000-01	NNP
+में	PSP
+केवल	RP
+4	QC
+.	SYM
+9	QC
+प्रतिशत	NN
+रह	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0442>
+इसके	PRP
+बाद	NST
+भी	RP
+जल	NNC
+विद्युत	NNPC
+उत्तरी	JJ
+,	SYM
+पश्चिमी	JJ
+व	CC
+दक्षिणी	JJ
+ग्रिड	NNP
+में	PSP
+महत्वपूर्ण	JJ
+भूमिका	NN
+निभाती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0443>
+उत्तर-पूर्वी	JJ
+ग्रिड	NN
+तो	RP
+प्रमुख	JJ
+रूप	NN
+से	PSP
+जल	NNC
+शक्ति	NN
+पर	PSP
+ही	RP
+निर्भर	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0444>
+देश	NN
+में	PSP
+शक्ति	NN
+की	PSP
+कमी	NN
+के	PSP
+संदर्भ	NN
+में	PSP
+जल	NNC
+विद्युत	NNPC
+शक्ति	NN
+केन्द्रीय	JJ
+भूमिका	NN
+निभा	VM
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0445>
+भारतीय	JJ
+नदियाँ	NN
+प्रतिवर्ष	NN
+4677	QCC
+करोड	QC
+घन	NN
+मीटर	NN
+जल	NNC
+सागरों	NN
+में	PSP
+बहा	VM
+देती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0446>
+केन्द्रीय	NNPC
+जल	NNPC
+एवं	NNPC
+ऊर्जा	NNPC
+आयोग	NNP
+ने	PSP
+इन	DEM
+नदियों	NN
+की	PSP
+जल	NNC
+विद्युत	NNC
+क्षमता	NN
+60	QC
+प्रतिशत	NN
+लोड	NNC
+फैक्टर	NNP
+पर	PSP
+लगभग	RP
+40	QCC
+मिलियन	QC
+किलोवाट	NN
+आकलित	JJ
+की	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0447>
+केन्द्रीय	NNPC
+विद्युत	NNPC
+परिषद	NNP
+ने	PSP
+यह	DEM
+क्षमता	NN
+60	QC
+प्रतिशत	NN
+लोड	NNC
+फैक्टर	NNP
+पर	PSP
+84	QC
+,	SYM
+000	QC
+मेगावाट	NN
+आँकी	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0448>
+यह	DEM
+वार्षिक	NNPC
+ऊर्जा	NNC
+उत्पादन	NN
+की	PSP
+लगभग	RP
+450	QCC
+करोड	QC
+इकाई	NN
+के	PSP
+बराबर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0449>
+उत्पादन	NNC
+क्षमता	NN
+'	SYM
+आधारभूत	JJ
+संरचनात्मक	JJ
+विकास	NN
+का	PSP
+बेसिन	NN
+अनुसार	NNC
+वितरण	NNC
+सारिणी	NN
+में	PSP
+दिया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0450>
+उपरोक्त	PRP
+अन्तर्निहित	JJ
+जल	NNC
+विद्युत	NNC
+क्षमता	NN
+कई	QF
+भौतिक	JJ
+एवं	CC
+आर्थिक	JJ
+कारकों	NN
+पर	PSP
+आश्रित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0451a>
+इन	DEM
+कारकों	NN
+में	PSP
+से	PSP
+नदी	NNC
+पथ	NN
+,	SYM
+नदी	NNPC
+जल	NN
+की	PSP
+राशि	NN
+,	SYM
+नदी	NN
+के	PSP
+जल	NNC
+प्रवाह	NN
+में	PSP
+निरंतरता	NN
+(	SYM
+ये	DEM
+सब	QF
+वर्षा	NN
+जल	NN
+के	PSP
+कम	QF
+या	RP
+अधिक	QF
+होने	VM
+पर	PSP
+आश्रित	JJ
+हैं	VM
+)	SYM
+,	SYM
+भौम्याकृति	NNP
+,	SYM
+विद्युत	NNC
+शक्ति	NN
+के	PSP
+अन्य	JJ
+स्रोत	NN
+के	PSP
+उपलब्ध	JJ
+होने	VM
+,	SYM
+स्थानीय	JJ
+आर्थिक	JJ
+विकास	NN
+के	PSP
+स्तर	NN
+(	SYM
+जिस	PRP
+पर	PSP
+विद्युत	NNC
+शक्ति	NN
+की	PSP
+मांग	NN
+निर्भर	JJ
+है	VM
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0451b>
+एवं	CC
+स्थान	NN
+विशेष	JJ
+का	PSP
+प्रौद्योगिकी	NNC
+स्तर	NN
+,	SYM
+इत्यादि	RP
+महत्वपूर्ण	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0452>
+नदी	NN
+में	PSP
+नियमित	JJ
+रूप	NN
+से	PSP
+तीव्र	JJ
+प्रवाह	NN
+के	PSP
+साथ	NST
+पर्याप्त	JJ
+जल	NN
+की	PSP
+राशि	NN
+का	PSP
+मिलते	VM
+रहना	VAUX
+जल-विद्युत	JJ
+शक्ति	NN
+के	PSP
+संयंत्र	NN
+की	PSP
+स्थापना	NN
+के	PSP
+लिए	PSP
+उपयुक्त	JJ
+परिस्थितियां	NN
+प्रदान	NN
+करती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0453>
+स्थान	NN
+विशेष	NN
+पर	PSP
+वर्षा	NN
+जल	NN
+की	PSP
+विशेष	JJ
+उपलब्धता	NN
+तथा	CC
+ढाल	NN
+वाली	PSP
+भूमि	NN
+की	PSP
+आकृतियां	NN
+नदी-बेसिन	NNP
+में	PSP
+जल	NN
+एवं	CC
+प्रवाह	NN
+दोनों	NN
+को	PSP
+प्रभावित	JJ
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0454a>
+चूँकि	CC
+उपर्युक्त	JJ
+कारकों	NN
+के	PSP
+सहित	PSP
+स्थितियां	NN
+पूरे	JJ
+देश	NN
+में	PSP
+असमान	JJ
+रूप	NN
+से	PSP
+विद्यमान	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0454b>
+इसलिए	PRP
+जल-विद्युत	NNC
+शक्ति	NN
+की	PSP
+क्षमता	NN
+का	PSP
+भी	RP
+पूरे	JJ
+देश	NN
+में	PSP
+असमान	JJ
+वितरण	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0455>
+भारत	NNP
+में	PSP
+उत्तरी	JJ
+पर्वतीय	JJ
+श्रेणियों	NN
+से	PSP
+निकलने	VM
+वाली	PSP
+नदियां	NN
+इस	DEM
+सन्दर्भ	NN
+में	PSP
+महत्वपूर्ण	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0456a>
+इन	DEM
+नदियों	NN
+को	PSP
+हिमानियों	NN
+तथा	CC
+हिम	NNP
+क्षेत्रों	NN
+से	PSP
+जल	NN
+प्राप्त	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0456b>
+इसलिए	PRP
+इनमें	PRP
+वर्ष	NN
+भर	RP
+नियमित	NNPC
+जल	NNC
+प्रवाह	NN
+बना	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0457>
+नदी	NN
+के	PSP
+प्रवाह	NNC
+क्षेत्र	NN
+की	PSP
+ऊँची	JJ
+नीची	NN
+,	SYM
+कटाव	JJC
+युक्त	JJ
+भूमि	NNC
+संरचना	NN
+के	PSP
+कारण	PSP
+नदी	NN
+वेगवती	NN
+बन	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0458>
+इसके	PRP
+साथ	NST
+इस	DEM
+क्षेत्र	NN
+में	PSP
+नदी	NNC
+जल	NN
+के	PSP
+अन्य	JJ
+उपयोग	NN
+करने	VM
+की	PSP
+कोई	PRP
+विशेष	JJ
+स्पर्धा	NN
+न	NEG
+होने	VM
+से	PSP
+भी	RP
+जल-प्रवाह	NN
+अवरुद्ध	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0459>
+इस	DEM
+पर्वतीय	JJ
+क्षेत्र	NN
+का	PSP
+उत्तर-पूर्वी	JJ
+भाग	NN
+जिसमें	PRP
+ब्रह्मपुत्र	NNPC
+बेसिन	NNP
+प्रमुख	NN
+है	VM
+,	SYM
+सर्वाधिक	INTF
+जल-विद्युत	NNC
+शक्ति	NNC
+क्षमता	NN
+का	PSP
+बेसिन	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0460>
+दूसरा	QO
+स्थान	NN
+भारत	NNP
+के	PSP
+पश्चिमोत्तर	JJ
+क्षेत्र	NN
+में	PSP
+बहने	VM
+वाली	PSP
+सिंधुनदी	NNP
+का	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0461>
+हिमालय	NNPC
+पर्वत	NNC
+श्रृंखलाओं	NN
+से	PSP
+निकलने	VM
+वाली	PSP
+गंगा	NNP
+की	PSP
+अनेक	QF
+सहायक	JJ
+नदियों	NN
+में	PSP
+संभावित	JJ
+जल-विद्युत	NNC
+शक्ति	NNC
+क्षमता	NN
+कुल	NN
+,	SYM
+11000	QC
+मेगावाट	NN
+की	PSP
+अनुमानित	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0462>
+इस	DEM
+प्रकार	NN
+संभावित	JJ
+सकल	NNC
+जल-विद्युत	NNC
+क्षमता	NN
+का	PSP
+तीन-चौथाई	QC
+भाग	NN
+हिमालय	NNPC
+पर्वत	JJ
+श्रृंखला	NN
+से	PSP
+निकलने	VM
+वाली	PSP
+नदियों	NN
+के	PSP
+बेसिनों	NN
+में	PSP
+सीमित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0463>
+भारत	NNP
+के	PSP
+प्रायद्वीपीय	JJ
+क्षेत्र	NN
+की	PSP
+नदियां	NN
+इस	DEM
+संदर्भ	NN
+में	PSP
+सशक्त	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0464>
+यहां	PRP
+की	PSP
+समस्त	JJ
+नदियां	NN
+वर्षा	NN
+ऋतु	NN
+पर	PSP
+आश्रित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0465a>
+इसलिये	PRP
+इन	DEM
+नदियों	NN
+में	PSP
+जल	NNC
+प्रवाह	NN
+एवं	CC
+वेग	NN
+मानसून	NN
+के	PSP
+समय	PSP
+प्रचण्ड	JJ
+रहता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0465b>
+किन्तु	CC
+वर्षा	NN
+ऋतु	NN
+उपरान्त	PSP
+एक	QC
+लम्बे	JJ
+समय	NN
+तक	PSP
+नदी	NN
+में	PSP
+जल	NN
+की	PSP
+राशि	NN
+एवं	CC
+उसका	PRP
+प्रवाह	NN
+दोनों	QC
+अनिश्चित	JJ
+हो	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0466>
+इन्हीं	DEM
+सब	QF
+कारणों	NN
+से	PSP
+नदी-जल	NN
+का	PSP
+संचय	NN
+करना	VM
+आवश्यक	JJ
+हो	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0467>
+जल	NNPC
+विद्युत	NNC
+शक्ति	NN
+की	PSP
+क्षमता	NN
+का	PSP
+अधिकांश	JJ
+भाग	NNC
+नदियों	NN
+के	PSP
+पर्वतीय	JJ
+क्षेत्रों	NN
+में	PSP
+है	VM
+जो	PRP
+नदियों	NN
+के	PSP
+ऊपरी	JJ
+एंव	CC
+मध्य	NNPC
+प्रवाह	NN
+क्षेत्रों	NN
+में	PSP
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0468>
+इन	DEM
+पर्वतीय	JJ
+क्षेत्रों	NN
+में	PSP
+जमीन	NN
+ऊची-नीची	NN
+व	CC
+ऊबड-खाबड	NN
+होने	VM
+से	PSP
+सिंचाई	NNPC
+हेतु	PSP
+संसाधन	NN
+विकसित	JJ
+करने	VM
+के	PSP
+लिए	PSP
+उपयुक्त	JJ
+नहीं	NEG
+होती	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0469>
+इस	DEM
+कारण	NN
+जल-विद्युत	NNPC
+शक्ति	NNPC
+संयंत्र	NNP
+के	PSP
+स्थापित	JJ
+करने	VM
+में	PSP
+जल	NNC
+संसाधन	NNP
+को	PSP
+किसी	PRP
+प्रकार	NN
+के	PSP
+अन्य	JJ
+प्राथमिकता	NN
+वाले	PSP
+विकास	JJC
+संबंधित	JJ
+विरोध	NN
+का	PSP
+भी	RP
+सामना	NN
+नहीं	NEG
+करना	VM
+पडता	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0470>
+विद्युत	NNPC
+शक्ति	NNC
+उत्पादन	NNC
+क्षमता	NN
+के	PSP
+संभावित	JJ
+क्षेत्र	NN
+ऊपरी	JJ
+नर्मदा	NNPC
+बेसिन	NNP
+,	SYM
+पश्चिमी	JJ
+घाट	NNP
+,	SYM
+उत्तर-पश्चिमी	JJ
+कर्नाटक	NNP
+तथा	CC
+अन्नामलाई	NNP
+पहाडियों	NN
+में	PSP
+विद्यमान	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0471a>
+इसके	PRP
+बावजूद	PSP
+भी	RP
+दक्षिण	NNPC
+भारत	NNP
+के	PSP
+राज्यों	NN
+में	PSP
+जल	NNC
+विद्युत	NNC
+शक्ति	NN
+का	PSP
+उत्पादन	NN
+अपेक्षाकृत	INTF
+ज्यादा	QF
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0471b>
+क्योंकि	CC
+ये	DEM
+क्षेत्र	NN
+प्रमुख	JJ
+कोयला	NNC
+क्षेत्रों	NN
+से	PSP
+बहुत	INTF
+दूर	NST
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0472>
+भारत	NNP
+ने	PSP
+यूरेनियम	NN
+व	CC
+थोरियम	NN
+जैसे	PSP
+परमाणु	NNC
+खनिजों	NN
+से	PSP
+ऊर्जा	NNC
+उत्पादन	NN
+करने	VM
+की	PSP
+प्रौद्योगिकी	NN
+विकसित	JJ
+कर	VM
+ली	VAUX
+थी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0473>
+परमाणु	NNC
+शक्ति	NN
+को	PSP
+उत्पन्न	JJ
+करने	VM
+के	PSP
+लिए	PSP
+परमाणु	NNC
+रिएक्टर	NN
+की	PSP
+स्थापना	NN
+हेतु	PSP
+बहुत	INTF
+बडी	JJ
+मात्रा	NN
+में	PSP
+पूंजी	NNC
+निवेश	NN
+के	PSP
+साथ	NST
+उच्च	JJ
+कोटि	NN
+की	PSP
+तकनीकी	JJ
+सुविज्ञता	NN
+की	PSP
+आवश्यकता	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0474>
+भारत	NNP
+में	PSP
+परमाणु	NNC
+शक्ति	NN
+का	PSP
+कुल	INTF
+उत्पादित	NNC
+शक्ति	NN
+(	SYM
+सभी	QF
+स्रोतों	NN
+से	PSP
+)	SYM
+में	PSP
+2	QC
+प्रतिशत	NN
+का	PSP
+योगदान	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0475>
+आगामी	JJ
+भविष्य	NN
+में	PSP
+परमाणु	NNPC
+शक्ति	NNC
+ऊर्जा	NN
+का	PSP
+उदीयमान	JJ
+स्रोत	NN
+सिद्ध	JJ
+होगा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0476>
+जब	PRP
+भविष्य	NN
+में	PSP
+ऊर्जा	NN
+के	PSP
+अन्य	JJ
+स्रोत	NN
+जैसे	PSP
+कोयला	NN
+,	SYM
+पेट्रोलियम	NNPC
+इत्यादि	RP
+समाप्ति	NN
+की	PSP
+कगार	NN
+पर	PSP
+आ	VM
+जायगें	VAUX
+,	SYM
+यह	PRP
+शक्ति	NN
+के	PSP
+पूरक	JJ
+स्रोत	NN
+के	PSP
+रूप	PSP
+में	PSP
+भी	RP
+कारगर	JJ
+सिद्ध	JJ
+होगा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0477>
+परमाणु	NNPC
+शक्ति	NNC
+कार्यक्रम	NNP
+पिछली	NNPC
+शताब्दी	NN
+के	PSP
+पाँचवें	QO
+दशक	NN
+में	PSP
+प्रारंभ	NN
+किए	VM
+गए	VAUX
+और	CC
+अगस्त	NNPC
+1948	NNP
+में	PSP
+टाटा	NNP
+परमाणु	NNPC
+ऊर्जा	NNPC
+आयोग	NNP
+की	PSP
+स्थापना	NN
+एक	QC
+शीर्ष	JJ
+संस्थान	NN
+के	PSP
+रूप	PSP
+में	PSP
+की	VM
+गई	VAUX
+जो	PRP
+परमाणु	NNC
+कार्यक्रमों	NN
+पर	PSP
+निर्णयात्मक	JJ
+गतिविधि	NN
+का	PSP
+संचालन	NN
+करता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0478>
+परन्तु	CC
+इस	DEM
+दिशा	NN
+में	PSP
+प्रगति	NNC
+परमाणु	NNPC
+ऊर्जा	NNPC
+संस्थान	NNP
+की	PSP
+ट्राम्बे	NNP
+में	PSP
+.	SYM
+954	NNP
+में	PSP
+स्थापना	NN
+के	PSP
+बाद	NST
+ही	RP
+हो	VM
+सकी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0479>
+इसी	DEM
+संस्थान	NN
+को	PSP
+1967	NNP
+में	PSP
+एक	QC
+नया	JJ
+नाम	NN
+“भाभा	NNPC
+परमाणु	NNC
+शोध	NNPC
+केन्द्र”	NNP
+(	SYM
+बार्क	NNP
+)	SYM
+दिया	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0480>
+भारत	NNP
+का	PSP
+सर्वप्रथम	RB
+परमाणु	NNPC
+शक्ति	NNPC
+केन्द्र	NNP
+(	SYM
+20	QC
+मेगावाट	NN
+शक्ति	NN
+)	SYM
+मुम्बई	NNP
+के	PSP
+पास	NST
+तारापुर	NNP
+में	PSP
+1969	NNP
+में	PSP
+स्थापित	JJ
+किया	VM
+गया	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0481>
+इसके	PRP
+बाद	NST
+परमाणु	NNC
+रिएक्टर	NN
+'	SYM
+रावत	NNPC
+भाटा	NNP
+'	SYM
+800	QC
+मेगावाट	NN
+)	SYM
+कोटा	NNP
+(	SYM
+राजस्थान	NNP
+)	SYM
+,	SYM
+कलपक्कम	NNP
+(	SYM
+400	QC
+मेगावाट	NN
+)	SYM
+तमिलनाडु	NNP
+,	SYM
+नरोरा	NNP
+(	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+)	SYM
+,	SYM
+कैगा	NNP
+(	SYM
+कर्नाटक	NNP
+)	SYM
+एवं	CC
+काकरापारा	NNP
+(	SYM
+गुजरात	NNP
+)	SYM
+में	PSP
+भी	RP
+स्थापित	JJ
+हुए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0482>
+इस	DEM
+प्रकार	NN
+वर्तमान	NN
+में	PSP
+छह	QC
+केंद्रों	NN
+पर	PSP
+स्थित	JJ
+दस	QC
+इकाइयों	NN
+से	PSP
+परमाणु	NNC
+शक्ति	NN
+का	PSP
+उत्पादन	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0483>
+परमाणु	NNC
+ईंधन	NN
+एवं	CC
+भारी	JJ
+जल	NN
+की	PSP
+आवश्यकताओं	NN
+की	PSP
+आपूर्ति	NN
+क्रमशः	RB
+“परमाणु	NNPC
+ईंधन	NNPC
+संयंत्र	NNPC
+समूह	NNP
+हैदराबाद	NNP
+(	SYM
+आंध्रप्रदेश	NNP
+)	SYM
+तथा	CC
+'	SYM
+भारी	JJ
+जल	NNPC
+संयंत्र	NNP
+'	SYM
+वडोदरा	NNP
+(	SYM
+गुजरात	NNP
+)	SYM
+से	PSP
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0484>
+2004-05	NNP
+में	PSP
+16	QC
+,	SYM
+707	NNP
+मे	PSP
+.	SYM
+वा	SYM
+.	SYM
+परमाणु	NNC
+शक्ति	NN
+का	PSP
+उत्पादन	NN
+हुआ	VM
+जो	PRP
+कि	CC
+देश	NN
+के	PSP
+कुल	QF
+विद्युत	NNPC
+ऊर्जा	NNC
+उत्पादन	NN
+का	PSP
+एक	QC
+छोटा	JJ
+सा	RP
+अंश	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0485>
+परमाणु	NNPC
+ऊर्जा	NNPC
+विभाग	NNP
+(	SYM
+डी	NNPC
+.	SYM
+ए	NNPC
+.	SYM
+ई	NNPC
+.	SYM
+)	SYM
+के	PSP
+पास	NST
+बहुत	INTF
+ही	RP
+महत्वाकांक्षी	JJ
+परमाणु	NNPC
+शक्ति	NNPC
+योजना	NNP
+है	VM
+जिसका	PRP
+लक्ष्य	NN
+2020	NNP
+तक	PSP
+20	QC
+,	SYM
+000	QC
+मे	PSP
+.	SYM
+वा	SYM
+.	SYM
+को	PSP
+प्राप्त	JJ
+करना	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0486>
+परमाणु	NNC
+शक्ति	NN
+के	PSP
+उत्पादन	NN
+की	PSP
+प्रक्रिया	NN
+जटिल	JJ
+एवं	CC
+जोखिम	NN
+भरी	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0487>
+इसलिये	PRP
+परमाणु	NNC
+शक्ति	NNC
+केन्द्रों	NN
+की	PSP
+सुरक्षा	NN
+के	PSP
+कठोर	JJ
+उपायों	NN
+की	PSP
+नितान्त	JJ
+आवश्यकता	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0488>
+विद्युत	NNC
+उत्पादन	NN
+के	PSP
+स्रोतों	NN
+के	PSP
+आधार	NN
+पर	PSP
+तीन	QC
+प्रमुख	JJ
+क्षेत्रों	NN
+की	PSP
+पहचान	NN
+की	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0489>
+जल-विद्युत	NNPC
+प्रधान	NNC
+क्षेत्र	NN
+:	SYM
+इस	DEM
+क्षेत्र	NN
+के	PSP
+अन्तर्गत	PSP
+शामिल	JJ
+राज्यों	NN
+में	PSP
+कर्नाटक	NNP
+,	SYM
+केरल	NNP
+,	SYM
+हिमाचल	NNPC
+प्रदेश	NNP
+,	SYM
+उत्तराखण्ड	NNP
+,	SYM
+जम्मू-कश्मीर	NNP
+,	SYM
+मेघालय	NNP
+,	SYM
+नागालैंड	NNP
+,	SYM
+त्रिपुरा	NNP
+और	CC
+सिक्किम	NNP
+राज्य	NNP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0490a>
+ये	DEM
+राज्य	NN
+कोयला	NNPC
+खनिज	NNC
+क्षेत्रों	NN
+से	PSP
+काफी	QF
+दूर	NST
+स्थित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0490b>
+परन्तु	CC
+यहां	PRP
+की	PSP
+भौगोलिक	JJ
+परिस्थितियां	NN
+जल-विद्युत	NNC
+शक्ति	NNC
+उत्पादन	NN
+में	PSP
+यथेष्ठ	JJ
+सहायक	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0491>
+ताप-श	NNPC
+क्ति	NNPC
+प्रधान	NNC
+क्षेत्र	NN
+:	SYM
+इस	DEM
+क्षेत्र	NN
+में	PSP
+सम्मिलित	JJ
+राज्य	NN
+हैं-पश्चिम	NNPC
+बंगाल	NNP
+,	SYM
+झारखण्ड	NNP
+,	SYM
+बिहार	NNP
+,	SYM
+छत्तीसगढ	NNP
+,	SYM
+मध्यप्रदेश	NNP
+,	SYM
+गुजरात	NNP
+,	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+,	SYM
+महाराष्ट्र	NNP
+,	SYM
+असाम	NNP
+,	SYM
+दिल्ली	NNP
+,	SYM
+हरियाणा	NNP
+और	CC
+पंजाब	NNP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0492>
+इनमें	PRP
+से	PSP
+अधिकांश	QF
+राज्यों	NN
+में	PSP
+कोयले	NN
+के	PSP
+अपार	JJ
+भण्डार	NN
+हैं	VM
+जिनका	PRP
+उपयोग	NN
+विद्युत	NNC
+ऊर्जा	NN
+के	PSP
+उत्पादन	NN
+में	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0493a>
+पंजाब	NNP
+,	SYM
+हरियाणा	NNP
+,	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+,	SYM
+बिहार	NNP
+में	PSP
+यद्यपि	CC
+कोयला	NNPC
+भण्डार	NNP
+के	PSP
+क्षेत्र	NN
+नहीं	NEG
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0493b>
+फिर	RB
+भी	RP
+इन	DEM
+राज्यों	NN
+को	PSP
+रेलवे	NNC
+लाइनों	NN
+द्वारा	PSP
+सीधी	JJ
+पहुँच	NN
+उपलब्ध	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0494>
+ये	DEM
+राज्य	NN
+आजकल	JJ
+ऊर्जा	NN
+के	PSP
+स्रोतों	NN
+में	PSP
+विविधता	NN
+ला	VM
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0495>
+परमाणु-शक्ति	NNPC
+प्रधान	NNPC
+क्षेत्र	NN
+:	SYM
+राजस्थान	NNP
+ही	RP
+एक	QC
+मात्र	RP
+राज्य	NN
+है	VM
+जो	PRP
+इस	PRP
+के	PSP
+अन्तर्गत	PSP
+आता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0496>
+इस	DEM
+राज्य	NN
+में	PSP
+पचास	QC
+प्रतिशत	NN
+से	PSP
+ज्यादा	QF
+वाणिज्य	NNPC
+ऊर्जा	NNPC
+परमाणु	NNPC
+शक्ति	NN
+पर	PSP
+आधारित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0497>
+यह	PRP
+इसलिए	PRP
+कि	CC
+इस	DEM
+राज्य	NN
+में	PSP
+जल	NN
+तथा	CC
+कोयला	NN
+दोनों	NN
+का	PSP
+अभाव	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0498>
+आप	PRP
+रिक्त	JJ
+स्थानों	NN
+की	PSP
+पूर्ति	NN
+कीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0499>
+आप	PRP
+निम्न	JJ
+प्रश्नों	NN
+के	PSP
+उत्तर	NN
+संक्षेप	NN
+में	PSP
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0500>
+आप	PRP
+जल-विद्युत	NNC
+शक्ति	NN
+के	PSP
+दो	QC
+मुख्य	JJ
+लाभ	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0501>
+जल-विद्युत	NNC
+शक्ति	NNC
+उत्पादन	NNC
+क्षमता	NN
+में	PSP
+भारत	NNP
+का	PSP
+विश्व	NN
+में	PSP
+कौन	WQ
+सा	RP
+स्थान	NN
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0502>
+प्राकृतिक	JJ
+गैस	NN
+पर	PSP
+आधारित	JJ
+दो	QC
+ताप	NNC
+शक्ति	NNC
+संयंत्रों	NNP
+के	PSP
+नाम	NN
+बताइए	VM
+जो	PRP
+उत्तरप्रदेश	NNP
+में	PSP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0503>
+भारत	NNP
+के	PSP
+किस	WQ
+क्षेत्र	NN
+ने	PSP
+अपनी	PRP
+जल-शक्ति	NNC
+क्षमता	NN
+का	PSP
+सबसे	INTF
+अधिक	QF
+विकास	NN
+कर	VM
+लिया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0504>
+ऊर्जा	NN
+के	PSP
+परम्परागत	JJ
+स्रोतों	NN
+में	PSP
+कोयला	NN
+,	SYM
+खनिज	NNC
+तेल	NN
+,	SYM
+गैस	NN
+आदि	RP
+आते	VM
+हैं	VAUX
+जो	PRP
+धीरे-धीरे	RB
+समाप्त	JJ
+होते	VM
+जा	VAUX
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0505>
+जल	NNPC
+विद्युत	NNPC
+ऊर्जा	NN
+भविष्य	NN
+की	PSP
+बढती	VM
+बिजली	NN
+की	PSP
+मांगों	NN
+की	PSP
+आपूर्ति	NN
+अकेले	JJ
+नहीं	NEG
+कर	VM
+सकती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0506>
+इसलिये	PRP
+ऊर्जा	NN
+के	PSP
+अन्य	JJ
+वैकल्पिक	JJ
+स्रोतों	NN
+की	PSP
+खोज	NN
+एवं	CC
+विकास	NN
+करने	VM
+की	PSP
+आवश्यकता	NN
+प्रबल	JJ
+होती	VM
+जा	VAUX
+रही	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0507>
+सूर्य	NNP
+,	SYM
+पवन	NNP
+,	SYM
+ज्वारीय	JJ
+लहरें	NN
+,	SYM
+जैविक	JJ
+अपशिष्ट	NN
+,	SYM
+गरम	JJ
+जल	NN
+के	PSP
+झरने	NN
+ऐसे	PRP
+ही	RP
+कुछ	QF
+महत्वपूर्ण	JJ
+स्रोत	NN
+हैं	VM
+जिन्हें	PRP
+ऊर्जा	NNC
+शक्ति	NN
+के	PSP
+वैकल्पिक	JJ
+स्रोत	NN
+के	PSP
+रूप	PSP
+में	PSP
+विकसित	JJ
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0508>
+इन्हें	PRP
+ही	RP
+ऊर्जा	NN
+के	PSP
+गैर-परम्परागत	JJ
+स्रोत	NN
+कहा	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0509>
+ये	DEM
+सभी	QF
+स्रोत	NN
+प्रदूषणमुक्त	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0510>
+ये	DEM
+सभी	QF
+गैर-परम्परागत	JJ
+स्रोत	NN
+बार-बार	RB
+नवीकृत	JJ
+किए	VM
+जा	VAUX
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0511>
+सौर	NNC
+ऊर्जा	NN
+:	SYM
+पृथ्वी	NN
+के	PSP
+लिए	PSP
+सूर्य	NNP
+ही	RP
+प्राथमिक	JJ
+रूप	NN
+से	PSP
+सभी	QF
+प्रकार	NN
+की	PSP
+ऊर्जा	NN
+का	PSP
+स्रोत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0512>
+सूर्य	NN
+ही	RP
+सर्वाधिक	INTF
+सजीव	JJ
+एवं	CC
+सशक्त	JJ
+एवं	CC
+प्रत्यक्ष	JJ
+रूप	NN
+से	PSP
+उपलब्ध	JJ
+होने	VM
+वाली	PSP
+शक्तियों	NN
+का	PSP
+केन्द्र	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0513>
+भारत	NNP
+वर्ष	NN
+उष्ण	NNPC
+कटिबन्धीय	NNC
+क्षेत्र	NN
+में	PSP
+आने	VM
+वाला	PSP
+विशाल	JJ
+देश	NN
+है	VM
+जहां	PRP
+प्रचुर	JJ
+सौर-प्रकाश	NN
+प्रतिदिन	NN
+लम्बे	JJ
+समय	NN
+तक	PSP
+मिलता	VM
+रहता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0514>
+यहां	PRP
+पर	PSP
+अपरमित	JJ
+संभावनाएं	NN
+हैं	VM
+जिसके	PRP
+अन्तर्गत	PSP
+बहुत	INTF
+कम	QF
+लागत	NN
+में	PSP
+सौर	NNC
+ऊर्जा	NN
+को	PSP
+विद्युत	NNC
+शक्ति	NN
+के	PSP
+रूप	PSP
+में	PSP
+विकसित	JJ
+कर	VM
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0515>
+सौर	NNC
+ऊर्जा	NN
+को	PSP
+सोलर	NNC
+फोटो	NNPC
+वोल्टिक	NNPC
+(	SYM
+एस	NNPC
+.	SYM
+पी	NNPC
+.	SYM
+व्ही	NNP
+.	SYM
+)	SYM
+व्यवस्था	NN
+द्वारा	PSP
+बैटरियों	NN
+में	PSP
+कैद	JJ
+कर	VM
+लिया	VAUX
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0516>
+इस	DEM
+प्रकार	NN
+की	PSP
+बैटरियों	NN
+में	PSP
+समाहित	JJ
+सौर	NNC
+ऊर्जा	NN
+को	PSP
+कई	QF
+प्रकार	NN
+से	PSP
+उपयोग	NN
+में	PSP
+लाया	VM
+जाता	VAUX
+है-जैसे	PSP
+इससे	PRP
+उत्सर्जित	JJ
+तापीय	NNC
+ऊर्जा	NN
+गरम	JJ
+करने	VM
+में	PSP
+(	SYM
+पानी	NN
+गरम	JJ
+करना	VM
+,	SYM
+सोलर	NNC
+कुकर	NN
+में	PSP
+खाना	NN
+पकाना	VM
+,	SYM
+खाद्यान्न	NN
+को	PSP
+सुखाने	VM
+में	PSP
+)	SYM
+प्रयुक्त	JJ
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0517a>
+सौर	NNC
+ऊर्जा	NN
+का	PSP
+विकास	NN
+तो	RP
+पूरे	JJ
+देश	NN
+में	PSP
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0517b>
+परन्तु	CC
+राजस्थान	NNP
+जैसे	PSP
+क्षेत्र	NN
+जो	PRP
+इतने	QF
+गरम	JJ
+,	SYM
+शुष्क	JJ
+एवं	CC
+मेघाच्छादन	NNP
+से	PSP
+मुक्त	JJ
+रहते	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0517c>
+आदर्श	JJ
+क्षेत्र	NN
+है	VM
+जहां	PRP
+सौर	NNC
+ऊर्जा	NN
+अच्छी	JJ
+तरह	NN
+विकसित	JJ
+हो	VM
+सकती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0518>
+पवन	NNPC
+ऊर्जा	NN
+को	PSP
+शक्ति	NN
+के	PSP
+स्रोत	NN
+के	PSP
+रूप	PSP
+में	PSP
+उन	DEM
+क्षेत्रों	NN
+में	PSP
+विकसित	JJ
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+जहां	PRP
+सालभर	NN
+शक्तिशाली	JJ
+तेज	JJ
+रफ्तार	NN
+वाली	PSP
+पवन	NNP
+चलती	VM
+हों	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0519>
+पवन	NNP
+के	PSP
+वेग	NN
+से	PSP
+चलने	VM
+वाली	PSP
+पवनचक्की	NN
+में	PSP
+पवन	NNPC
+ऊर्जा	NN
+का	PSP
+ही	RP
+प्रयोग	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0520a>
+इस	DEM
+चक्की	NN
+से	PSP
+न	NEG
+केवल	RP
+विद्युत	NNC
+शक्ति	NN
+उत्पन्न	JJ
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0520b>
+अपितु	CC
+कई	QF
+जगहों	NN
+में	PSP
+सिंचाई	NN
+के	PSP
+लिए	PSP
+पम्पों	NN
+को	PSP
+संचालित	JJ
+किया	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0521>
+भारत	NNP
+में	PSP
+पवन	NNPC
+ऊर्जा	NN
+की	PSP
+संभावित	JJ
+क्षमता	NN
+45	QC
+,	SYM
+000	QC
+मेगावाट	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0522>
+इस	DEM
+संसाधन	NN
+को	PSP
+विकसित	JJ
+करने	VM
+के	PSP
+उपयुक्त	JJ
+स्थलों	NN
+की	PSP
+पहचान	NN
+की	VM
+गई	VAUX
+हैं	VAUX
+जो	PRP
+तमिलनाडु	NNP
+,	SYM
+गुजरात	NNP
+,	SYM
+आन्ध्र	NNPC
+प्रदेश	NNP
+,	SYM
+कर्नाटक	NNP
+एवं	CC
+केरल	NNP
+के	PSP
+अन्तर्गत	PSP
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0523>
+पवन	NNPC
+ऊर्जा	NNC
+क्षमता	NN
+जो	PRP
+कि	RP
+उपयोग	NN
+की	VM
+जा	VAUX
+सकती	VAUX
+है	VAUX
+13	NNP
+,	SYM
+000	QC
+मेगावाट	NN
+तक	PSP
+सीमित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0524>
+वर्तमान	NN
+में	PSP
+2	QC
+,	SYM
+438	QC
+मेगावाट	NN
+शक्ति	NN
+का	PSP
+उत्पादन	NN
+पवन	NNPC
+ऊर्जा	NNC
+स्रोत	NN
+से	PSP
+भारत	NNP
+में	PSP
+किया	VM
+जा	VAUX
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0525>
+इस	DEM
+प्रकार	NN
+भारत	NNP
+की	PSP
+विश्व	NN
+में	PSP
+स्थिति	NN
+जर्मनी	NNP
+,	SYM
+संयुक्त	NNPC
+राज्य	NNP
+अमेरिका	NNP
+,	SYM
+डेनमार्क	NNP
+और	CC
+स्पेन	NNP
+के	PSP
+बाद	NST
+पाँचवें	QO
+स्थान	NN
+पर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0526T>
+बायो-गैस	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0526a>
+बायोगैस	NNC
+पशुओं	NN
+के	PSP
+गोबर	NN
+से	PSP
+प्राप्त	JJ
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0527>
+ग्रामीण	JJ
+क्षेत्रों	NN
+में	PSP
+आजकल	NN
+घरेलू	JJ
+ईंधन	NN
+के	PSP
+रूप	PSP
+में	PSP
+इसका	PRP
+बहुत	QF
+प्रचलन	NN
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0528>
+इसे	PRP
+पूरे	JJ
+देशभर	NN
+में	PSP
+प्रचलित	JJ
+करने	VM
+के	PSP
+लिए	PSP
+प्रोत्साहनयुक्त	JJ
+प्रयास	NN
+किए	VM
+जा	VAUX
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0529>
+बडे	JJ
+शहरों	NN
+और	CC
+औद्योगिक	JJ
+केन्द्रों	NN
+में	PSP
+शहरी	NN
+व	CC
+औद्योगिक	JJ
+अपशिष्ट	NNC
+बायोगैस	NN
+के	PSP
+अन्य	JJ
+प्रमुख	JJ
+स्त्रोत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0530>
+इन	DEM
+पदार्थों	NN
+का	PSP
+प्रयोग	NN
+विद्युत	NNC
+उत्पादन	NN
+या	CC
+बायोगैस	NN
+हेतु	PSP
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0531>
+इस	DEM
+दिशा	NN
+में	PSP
+कार्य	NN
+अभी	PRP
+प्राथमिक	JJ
+स्तर	NN
+पर	PSP
+ही	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0532>
+दिल्ली	NNP
+और	CC
+कुछ	QF
+अन्य	JJ
+बडे	JJ
+शहरों	NN
+में	PSP
+ऐसे	DEM
+संयंत्रों	NN
+की	PSP
+स्थापना	NN
+की	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0533>
+बायोमास	NNC
+ऊर्जा	NN
+:	SYM
+खेत-खलिहान	NN
+में	PSP
+पडे	VM
+कूडा-करकट	NNC
+अपशिष्ट	NN
+या	CC
+कृषि	JJC
+आधारित	JJ
+औद्योगिक	JJ
+इकाइयों	NN
+से	PSP
+निष्कासित	JJ
+अपशिष्ट	NN
+इत्यादि	RP
+से	PSP
+पैदा	JJ
+की	VM
+गई	VAUX
+ऊर्जा	NN
+को	PSP
+बायोमास	NNC
+ऊर्जा	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0534>
+देश	NN
+में	PSP
+बायोमास	NNC
+ऊर्जा	NN
+की	PSP
+संभावित	JJ
+क्षमता	NN
+19	QC
+,	SYM
+500	QC
+मेगावाट	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0535a>
+अब	PRP
+तक	PSP
+614	QC
+मेगावाट	NN
+क्षमता	NN
+वाले	PSP
+बायोमास	NNC
+शक्ति	NNC
+उत्पादन	NNPC
+संयंत्र	NNP
+स्थापित	JJ
+किए	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0535b>
+और	CC
+643	QC
+मेगावाट	NN
+क्षमता	NN
+के	PSP
+संयंत्र	NN
+स्थापित	JJ
+करने	VM
+की	PSP
+प्रक्रियाएं	NN
+प्रगति	NN
+पर	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0536T>
+ज्वारीय	JJ
+ऊर्जा	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0536a>
+समुद्र	NN
+में	PSP
+जब	PRP
+ऊंची	JJ
+लहरें	NN
+उत्पन्न	JJ
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0536b>
+तो	CC
+उन	DEM
+लहरों	NN
+में	PSP
+समाहित	JJ
+ऊर्जा	NN
+को	PSP
+भी	RP
+विकसित	JJ
+कर	VM
+बिजली	NN
+प्राप्त	JJ
+की	VM
+जा	VAUX
+सकती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0537>
+कुछ	QF
+ऐसे	DEM
+महत्वपूर्ण	JJ
+स्थलों	NN
+की	PSP
+पहचान	NN
+कर	VM
+ली	VAUX
+गई	VAUX
+हैं	VAUX
+जहां	PRP
+ज्वारीय	JJ
+लहरों	NN
+से	PSP
+बिजली	NN
+उत्पन्न	JJ
+की	VM
+जाएगी	VAUX
+,	SYM
+ये	PRP
+हैं--कच्छ	NNP
+की	PSP
+खाडी	NNP
+एवं	CC
+खम्भात	NNP
+(	SYM
+दोनों	QC
+गुजरात	NNP
+में	PSP
+)	SYM
+तथा	CC
+केरल	NNP
+के	PSP
+तटवर्ती	JJ
+क्षेत्र	NN
+50	QC
+मेगावाट	NN
+क्षमता	NN
+का	PSP
+एक	QC
+संयंत्र	NN
+केरल	NNP
+तट	NN
+पर	PSP
+स्थापित	JJ
+किया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0538>
+भूतापीय	NNC
+ऊर्जा	NN
+:	SYM
+भारत	NNP
+में	PSP
+भू-तापीय	NNC
+ऊर्जा	NN
+के	PSP
+स्रोत	NN
+सीमित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0539>
+कुछ	QF
+महत्वपूर्ण	JJ
+स्थलों	NN
+का	PSP
+चयन	NN
+किया	VM
+गया	VAUX
+है	VAUX
+जहां	PRP
+पर	PSP
+भू-तापीय	NNC
+ऊर्जा	NN
+से	PSP
+बिजली	NN
+उत्पन्न	JJ
+की	VM
+जा	VAUX
+सकती	VAUX
+है	VAUX
+,	SYM
+ये	PRP
+हैं	VM
+हिमाचल	NNPC
+प्रदेश	NNP
+(	SYM
+मनिकरन	NNP
+)	SYM
+तथा	CC
+जम्मू	NNP
+एवं	NNPC
+कश्मीर	NNP
+(	SYM
+लद्दाख	NNP
+में	PSP
+पूगा-घाटी	NNP
+)	SYM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0540>
+इसके	PRP
+अलावा	PSP
+हिमाचल	NNPC
+प्रदेश	NNP
+,	SYM
+जम्मू	NNP
+एवं	NNPC
+कश्मीर	NNP
+,	SYM
+उत्तराखण्ड	NNP
+,	SYM
+झारखण्ड	NNP
+तथा	CC
+छत्तीसगढ	NNP
+राज्यों	NN
+में	PSP
+भी	RP
+संभावित	JJ
+स्थलों	NN
+की	PSP
+खोजबीन	NN
+जारी	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0541a>
+जैसा	CCC
+कि	CC
+हम	PRP
+पहले	NST
+चर्चा	NN
+यह	PRP
+कर	VM
+चुके	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0541b>
+कि	CC
+ऊर्जा	NN
+के	PSP
+गैर-पारम्परिक	JJ
+स्रोत	NN
+नवीकृत	JJ
+किए	VM
+जा	VAUX
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0541c>
+तथा	CC
+वे	PRP
+प्रदूषण	JJC
+मुक्त	JJ
+भी	RP
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0542>
+भारत	NNP
+में	PSP
+विषम	JJ
+तथा	CC
+असमान	JJ
+रूप	NN
+में	PSP
+वितरित	JJ
+संसाधनों	NN
+के	PSP
+उपयोग	NN
+में	PSP
+गैर-परंपरागत	JJ
+स्रोत	NN
+से	PSP
+प्राप्त	JJ
+ऊर्जा	NN
+का	PSP
+प्रयोग	NN
+लाभकारी	JJ
+सिद्ध	JJ
+होगा	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0543>
+परन्तु	CC
+ऊर्जा	NN
+के	PSP
+इन	DEM
+स्रोतों	NN
+का	PSP
+विकास	NN
+अभी	PRP
+अत्यन्त	INTF
+धीमी	JJ
+गति	NN
+से	PSP
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0544>
+इसे	PRP
+गति	NN
+प्रदान	NN
+करने	VM
+के	PSP
+लिए	PSP
+अधिक	QF
+अच्छी	JJ
+और	CC
+उनन्नत	JJ
+तकनीक	NN
+जो	PRP
+आर्थिक	JJ
+रूप	NN
+से	PSP
+उचित	JJ
+भी	RP
+हो	VM
+,	SYM
+की	PSP
+आवश्यकता	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0545>
+इन	DEM
+दुविधाओं	NN
+के	PSP
+बावजूद	PSP
+आने	VM
+वाले	PSP
+भविष्य	NN
+में	PSP
+ऊर्जा	NN
+के	PSP
+ये	DEM
+ही	RP
+स्रोत	NN
+यथार्थ	NNC
+रूप	NN
+में	PSP
+विश्वसनीय	JJ
+एवं	CC
+अपरिहार्य	JJ
+रूप	NN
+से	PSP
+शक्ति	NN
+प्राप्त	JJ
+करने	VM
+के	PSP
+स्रोत	NN
+होंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0546>
+भारत	NNP
+के	PSP
+कोने-कोने	NN
+में	PSP
+निर्माण	NNC
+उद्योगों	NN
+व	CC
+कृषि	NN
+का	PSP
+विकास	NN
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0547>
+इसलिए	PRP
+नैसर्गिक	JJ
+रूप	NN
+से	PSP
+गैर	JJC
+परम्परागत	JJ
+स्रोतों	NN
+से	PSP
+प्राप्त	JJ
+ऊर्जा	NN
+की	PSP
+अधिक	QF
+माँग	NN
+होगी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0548>
+आप	PRP
+निम्नलिखित	JJ
+प्रश्नों	NN
+के	PSP
+उत्तर	NN
+संक्षेप	NN
+में	PSP
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0549>
+आप	PRP
+गैर-परम्परागत	JJ
+स्रोतों	NN
+से	PSP
+बिजली	NN
+प्राप्त	JJ
+करने	VM
+के	PSP
+कोई	PRP
+दो	QC
+लाभ	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0550>
+देश	NN
+के	PSP
+कौन	WQ
+से	PSP
+क्षेत्र	NNC
+बायो-गैस	NNC
+संयंत्रों	NN
+के	PSP
+प्रयोग	NN
+से	PSP
+अधिक	QF
+लाभान्वित	JJ
+हो	VM
+रहे	VAUX
+हैं	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0551>
+गुजरात	NNP
+के	PSP
+उन	DEM
+दो	QC
+स्थलों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+जहां	PRP
+ज्वार	NN
+से	PSP
+ऊर्जा	NN
+प्राप्त	JJ
+करने	VM
+की	PSP
+योजना	NN
+बनी	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0552>
+आप	PRP
+सौर-ऊर्जा	NNP
+के	PSP
+दोहन	NN
+की	PSP
+दो	QC
+प्रणालियों	NN
+को	PSP
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0553>
+आप	PRP
+पवन	NNPC
+ऊर्जा	NN
+से	PSP
+प्राप्त	JJ
+शक्ति	NN
+के	PSP
+दो	QC
+मुख्य	JJ
+उपयोग	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0554>
+खनिज	NNPC
+एवं	CC
+ऊर्जा	NNC
+संसाधनों	NN
+की	PSP
+राष्ट्र	NN
+के	PSP
+औद्योगिक	JJ
+विकास	NN
+में	PSP
+महत्वपूर्ण	JJ
+भूमिका	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0555>
+वे	PRP
+औद्योगिक	JJ
+कच्चे	JJ
+माल	NN
+एवं	CC
+ईंधन	NN
+प्रदान	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0556>
+खनिजों	NN
+को	PSP
+धात्विक	JJ
+और	CC
+अधात्विक	JJ
+समूहों	NN
+में	PSP
+वर्गीकृत	JJ
+किया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0557>
+धात्विक	JJ
+खनिज	NN
+के	PSP
+समूह	NN
+को	PSP
+आगे	NST
+लौह	NN
+और	CC
+अलौह	JJ
+खनिजों	NN
+में	PSP
+वर्गीकृत	JJ
+किया	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0558>
+खनिज	NNC
+ईंधन	NN
+होते	VM
+हैं-कोयला	VAUX
+,	SYM
+पेट्रोलियम	NN
+(	SYM
+खनिज	JJ
+तेल	NN
+)	SYM
+एवं	CC
+प्राकृतिक	JJ
+गैस	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0559>
+भारत	NNP
+की	PSP
+स्थिति	NN
+लौहयुक्त	JJ
+धात्विक	JJ
+खनिजों	NN
+में	PSP
+अच्छी	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0560>
+उच्च	JJ
+कोटि	NN
+के	PSP
+लौह	JJ
+अयस्क	NN
+भारत	NNP
+में	PSP
+प्रचुर	JJ
+मात्रा	NN
+में	PSP
+उपलब्ध	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0561>
+भारत	NNP
+में	PSP
+अभ्रक	NN
+एवं	CC
+बाक्साइट	NNC
+खनिजों	NN
+के	PSP
+विशाल	JJ
+निक्षेप	NN
+हैं	VM
+जो	PRP
+अच्छी	JJ
+गुणवत्ता	NN
+के	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0562>
+अभ्रक	NNP
+के	PSP
+मामले	NN
+में	PSP
+भारत	NNP
+पूरेविश्व	NNP
+में	PSP
+अग्रणी	JJ
+उत्पादकों	NN
+में	PSP
+से	PSP
+एक	QC
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0563>
+भारत	NNP
+में	PSP
+कोयला	NNPC
+ऊर्जा	NNC
+शक्ति	NN
+का	PSP
+प्राथमिक	JJ
+स्रोत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0564>
+कोयला	NNPC
+गोन्डवाना	NNP
+समूह	NNP
+के	PSP
+शैल	NNPC
+स्तरों	NN
+में	PSP
+एवं	CC
+टर्शियरी	NNP
+काल	NN
+के	PSP
+शैल	NNP
+स्तरों	NN
+में	PSP
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0565>
+गोन्डवाना	NNPC
+कोयला	NNC
+क्षेत्रों	NN
+में	PSP
+उपलब्ध	JJ
+कोयला	NN
+का	PSP
+भण्डार	NN
+एवं	CC
+उत्पादन	NN
+देश	NN
+के	PSP
+सकल	NNPC
+भण्डार	NN
+एवं	CC
+उत्पादन	NN
+का	PSP
+96	QC
+प्रतिशत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0566>
+पेट्रोलियम	NN
+के	PSP
+भण्डार	NN
+एवं	CC
+उत्पादन	NN
+के	PSP
+मामले	NN
+में	PSP
+भारत	NNP
+की	PSP
+स्थिति	NN
+संतोषप्रद	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0567>
+असाम	NNP
+की	PSP
+पट्टी	NN
+तथा	CC
+गुजरात-खम्भात	NNP
+और	CC
+बाम्बे	NNPC
+हाई	NNP
+ऐसे	DEM
+दो	QC
+महत्वपूर्ण	JJ
+क्षेत्र	NN
+हैं	VM
+जहां	PRP
+से	PSP
+पेट्रोलियम	NN
+का	PSP
+उत्पादन	NN
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0568>
+यूरेनियम	NN
+एवं	CC
+थोरियम	NN
+दो	QC
+मुख्य	JJ
+परमाणु	NNC
+खनिज	NN
+भारत	NNP
+में	PSP
+मिलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0569>
+खनिज	NNC
+संसाधनों	NN
+को	PSP
+जिन	DEM
+बडी	JJ
+समस्याओं	NN
+का	PSP
+सामना	NN
+करना	VM
+पड	VAUX
+रहा	VAUX
+है	VAUX
+उनमें	PRP
+से	PSP
+पहला	QO
+है	VM
+खनिज	NNC
+भण्डारों	NN
+का	PSP
+तेजी	NN
+से	PSP
+ह्वास	NN
+होना	VM
+,	SYM
+पारिस्थितिकीय	JJ
+समस्याएं	NN
+,	SYM
+प्रदूषण	NN
+एवं	CC
+सामाजिक	JJ
+समस्याएं	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0570>
+खनिज	NNC
+संसाधनों	NN
+के	PSP
+संरक्षण	NN
+के	PSP
+लिए	PSP
+कई	QF
+उपाय	NN
+अपनाए	VM
+जा	VAUX
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0571>
+इन	DEM
+उपायों	NN
+में	PSP
+पुनरुद्धार	NN
+करना	VM
+,	SYM
+पुनः	RB
+चक्रीकरण	NN
+,	SYM
+प्रतिस्थापन	NN
+तथा	CC
+अधिक	QF
+दक्षतापूर्ण	JJ
+उपयोग	NN
+आदि	RP
+मुख्य	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0572>
+समुद्री	JJ
+तट	NN
+तथा	CC
+अप	NNPC
+तट	NNC
+क्षेत्रों	NN
+में	PSP
+,	SYM
+हाल	NN
+ही	RP
+में	PSP
+पेट्रोलियम	NNC
+कुओं	NN
+में	PSP
+तेल	NN
+प्राप्त	JJ
+हुए	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0573>
+राजस्थान	NNP
+तथा	CC
+आन्ध्रप्रदेश	NNP
+व	CC
+तमिलनाडु	NNP
+के	PSP
+तटवर्ती	JJ
+क्षेत्रों	NN
+में	PSP
+पेट्रोलियम	NNC
+क्षेत्र	NN
+पाए	VM
+गए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0574>
+प्राकृतिक	JJ
+गैस	NN
+के	PSP
+एक	QC
+महत्वपूर्ण	JJ
+वाणिज्यिक	JJ
+ऊर्जा	NNC
+शक्ति	NN
+के	PSP
+रूप	PSP
+में	PSP
+उभर	VM
+कर	VAUX
+आने	VM
+से	PSP
+,	SYM
+देश	NN
+में	PSP
+इसके	PRP
+उपलब्ध	JJ
+हो	VM
+सकने	VAUX
+वाले	PSP
+संभावित	JJ
+क्षेत्रों	NN
+में	PSP
+जैसे	RB
+पूर्वी	JJ
+समुद्री	JJ
+तट	NN
+में	PSP
+कृष्णा	NNP
+,	SYM
+गोदावरी	NNP
+एवं	CC
+महानदी	NNP
+के	PSP
+मुंहानों	NN
+पर	PSP
+अन्वेषण	NN
+से	PSP
+प्राकृतिक	JJ
+गैस	NN
+के	PSP
+भण्डार	NN
+का	PSP
+पता	NN
+चला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0575>
+ऊर्जा	NN
+एक	QC
+अत्यन्त	INTF
+महत्वपूर्ण	JJ
+ढांचागत	NNC
+संसाधन	NN
+है	VM
+,	SYM
+जिस	PRP
+पर	PSP
+देश	NN
+का	PSP
+आर्थिक	JJ
+विकास	NN
+आधारित	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0576>
+कोयला	NN
+,	SYM
+खनिज	NNC
+तेल	NN
+,	SYM
+प्राकृतिक	JJ
+गैस	NN
+,	SYM
+परमाणु	NNC
+शक्ति	NN
+एवं	CC
+जल-विद्युत	NNC
+शक्ति	NN
+ये	DEM
+सभी	QF
+ऊर्जा	NN
+के	PSP
+प्रमुख	JJ
+स्रोत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0577a>
+इन	DEM
+सभी	QF
+स्रोतों	NN
+को	PSP
+पारम्परिक	JJ
+स्रोत	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0577b>
+क्योंकि	CC
+परम्परागत	NNPC
+ऊर्जा	NNC
+उत्पादन	NN
+इन्हीं	DEM
+स्रोतों	NN
+से	PSP
+हो	VM
+रहा	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0578>
+कोयला	NN
+,	SYM
+पेट्रोलियम	NN
+तथा	CC
+प्राकृतिक	JJ
+गैस	NN
+को	PSP
+प्रयोग	NN
+करने	VM
+से	PSP
+ऊर्जा	NN
+प्राप्त	JJ
+होती	VM
+है	VAUX
+,	SYM
+उसे	PRP
+“ताप	NN
+शक्ति”	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0579>
+ये	DEM
+सभी	QF
+स्रोत	NN
+भविष्य	NN
+में	PSP
+समाप्त	JJ
+हो	VM
+जाएंगे	VAUX
+,	SYM
+इन्हें	PRP
+पुनः	RB
+प्राप्त	JJ
+नहीं	NEG
+किया	VM
+जा	VAUX
+सकता	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0580>
+इसके	PRP
+अलावा	PSP
+इनके	PRP
+प्रयोग	NN
+से	PSP
+विभिन्न	JJ
+प्रकार	NN
+के	PSP
+प्रदूषण	NN
+फैलते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0581>
+जल	NNPC
+विद्युत	NNPC
+शक्ति	NN
+सतत्	JJ
+प्राप्त	JJ
+हो	VM
+सकने	VAUX
+वाला	PSP
+स्रोत	NN
+है	VM
+,	SYM
+जो	PRP
+प्रदूषण	NN
+मुक्त	JJ
+भी	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0582>
+इस	DEM
+स्रोत	NN
+एवं	CC
+ऊर्जा	NNPC
+शक्ति	NNC
+उत्पादन	NN
+में	PSP
+बहुत	INTF
+अधिक	QF
+पूंजी	NN
+का	PSP
+निवेश	NN
+करना	VM
+पडता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0583>
+इसके	PRP
+साथ	NST
+ही	RP
+परमाणु	NNPC
+शक्ति	NNC
+उत्पादन	NN
+में	PSP
+उच्च	JJ
+कोटि	NN
+की	PSP
+प्रौद्योगिक	JJ
+सुविज्ञता	NN
+तथा	CC
+वैज्ञानिक	JJ
+सूझबूझ	NN
+की	PSP
+आवश्यकता	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0584a>
+इस	DEM
+ऊर्जा	NN
+के	PSP
+उत्पादन	NN
+एवं	CC
+विकास	NN
+में	PSP
+बहुत	QF
+सावधानी	NN
+एवं	CC
+सुरक्षित	JJ
+उपायों	NN
+को	PSP
+हमेशा	RB
+प्रयोग	NN
+में	PSP
+लाना	VM
+अनिवार्य	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0584b>
+ताकि	CC
+कोई	PRP
+अप्रत्याशित	JJ
+आकस्मिक	JJ
+दुर्घटना	NN
+न	NEG
+होने	VM
+पाए	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0585>
+ताप-शक्ति	NN
+का	PSP
+योगदान	NN
+सकल	NNPC
+विद्युत	NNC
+उत्पादन	NN
+का	PSP
+70	QC
+प्रतिशत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0586>
+इसके	PRP
+बाद	NST
+जल	NNC
+विद्युत	NNC
+शक्ति	NN
+का	PSP
+योगदान	NN
+आता	VM
+जो	PRP
+26	QC
+प्रतिशत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0587>
+परमाणु	NNPC
+ऊर्जा	NNC
+शक्ति	NN
+का	PSP
+योगदान	NN
+मात्र	RP
+2	QC
+.	SYM
+5	QC
+प्रतिशत	NN
+ही	RP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0588a>
+कोयला	NNPC
+आधारित	JJ
+ताप	NNPC
+विद्युत	NNC
+संयंत्रों	NN
+की	PSP
+स्थापना	NN
+या	CC
+तो	RP
+कोयला	NNC
+क्षेत्रों	NN
+में	PSP
+ही	RP
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0588b>
+अथवा	CC
+उपभोग	NNC
+केन्द्रों	NN
+के	PSP
+समीप	NST
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0589>
+अधिकांश	JJ
+संयंत्रों	NN
+की	PSP
+स्थापना	NN
+मध्य	NNPC
+प्रदेश	NNP
+,	SYM
+छत्तीसगढ	NNP
+,	SYM
+झारखण्ड	NNP
+एवं	CC
+उडीसा	NNP
+राज्य	NN
+में	PSP
+हुई	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0590>
+कुछ	QF
+ताप-विद्युत	NNC
+संयंत्रों	NN
+की	PSP
+स्थापना	NN
+महाराष्ट्र	NNP
+,	SYM
+उत्तर	NNPC
+प्रदेश	NNP
+,	SYM
+आन्ध्र	NNPC
+प्रदेश	NNP
+राज्यों	NN
+की	PSP
+सीमाओं	NN
+पर	PSP
+की	VM
+गई	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0591>
+इन	DEM
+संयंत्रों	NN
+से	PSP
+विद्युत	NN
+की	PSP
+आपूर्ति	NN
+इन	DEM
+राज्यों	NN
+के	PSP
+दूर-दराज	JJ
+क्षेत्रों	NN
+में	PSP
+की	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0592>
+भारत	NNP
+के	PSP
+दक्षिण	JJ
+राज्यों	NN
+में	PSP
+जल-विद्युत	NNC
+शक्त्ति	NN
+का	PSP
+विकास	NN
+सन्तोषप्रद	JJ
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0593>
+भारत	NNP
+ने	PSP
+अपने	PRP
+जल-शक्ति	NN
+की	PSP
+संभावित	JJ
+क्षमता	NN
+का	PSP
+करीब	RP
+50	QC
+प्रतिशत	NN
+विकसित	JJ
+कर	VM
+लिया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0594>
+सौर	NNC
+ऊर्जा	NN
+,	SYM
+पवन	NNP
+,	SYM
+ज्वार	NN
+,	SYM
+गरम	JJ
+झरने	NN
+,	SYM
+बायोगैस	NN
+इत्यादि	RP
+शक्ति	NN
+के	PSP
+वैकल्पिक	JJ
+स्रोत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0595>
+इन्हें	PRP
+ऊर्जा	NN
+के	PSP
+गैर-परम्परागत	NNC
+स्रोत	NN
+के	PSP
+रूप	PSP
+में	PSP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0596>
+इनको	PRP
+पुनः	RB
+सजीव	JJ
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+.	SYM
+ये	DEM
+प्रदूषणमुक्त	JJ
+स्रोत	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0597>
+इनका	PRP
+कम	QF
+लागत	NN
+में	PSP
+उत्पादन	NN
+एवं	CC
+संचालन	NN
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0598>
+उपयुक्त	JJ
+एवं	CC
+आर्थिक	JJ
+रूप	NN
+से	PSP
+व्यवहार्य	JJ
+प्रविधियों	NN
+के	PSP
+अभाव	NN
+में	PSP
+इन	DEM
+गैर-परम्परागत	NNC
+स्रोतों	NN
+की	PSP
+उपयोगिता	NN
+एवं	CC
+उत्पादन	NN
+की	PSP
+रफ्तार	NN
+धीमी	JJ
+चल	VM
+रही	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0599>
+आप	PRP
+खनिज	NNC
+संसाधनों	NN
+में	PSP
+भारत	NNP
+की	PSP
+स्थिति	NN
+का	PSP
+वर्णन	NN
+करें	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0600>
+आप	PRP
+निम्न	JJ
+खनिजों	NN
+एवं	CC
+खनिज	NNC
+तेल	NN
+के	PSP
+वितरण	NN
+एवं	CC
+उत्पादन	NN
+का	PSP
+वर्णन	NN
+कीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0601>
+खनिजों	NN
+के	PSP
+दोहन	NN
+में	PSP
+आने	VM
+वाली	PSP
+समस्याएं	NN
+कौन	WQ
+सी	RP
+हैं	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0602>
+आप	PRP
+खनिज	NNC
+संसाधनों	NN
+के	PSP
+संरक्षण	NN
+के	PSP
+विविध	JJ
+उपायों	NN
+का	PSP
+वर्णन	NN
+कीजिए	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0603>
+आप	PRP
+संक्षेप	NN
+में	PSP
+उत्तर	NN
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0604a>
+ऊर्जा	NN
+के	PSP
+तीन	QC
+महत्वपूर्ण	JJ
+स्रोतों	NN
+के	PSP
+नाम	NN
+लिखिये	VM
+जो	PRP
+नवीकृत	JJ
+नहीं	NEG
+किए	VM
+जा	VAUX
+सकते	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0604b>
+और	CC
+वे	PRP
+प्रदूषण	JJC
+मुक्त	JJ
+भी	RP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0605>
+आप	PRP
+ताप-शक्ति	NN
+,	SYM
+जल-विद्युत	NNC
+शक्ति	NN
+एवं	CC
+परमाणु	NNC
+शक्ति	NN
+के	PSP
+बीच	NST
+अन्तर	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0606>
+आप	PRP
+गैर-परम्परागत	JJ
+स्रोतों	NN
+से	PSP
+ऊर्जा	NN
+प्राप्त	JJ
+करने	VM
+के	PSP
+दो	QC
+मुख्य	JJ
+लाभों	NN
+को	PSP
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_23ch_0607>
+आप	PRP
+ग्रामीण	JJ
+क्षेत्रों	NN
+में	PSP
+ऊर्जा	NN
+की	PSP
+प्राप्ति	NN
+में	PSP
+बायोगैस	NN
+की	PSP
+भूमिका	NN
+का	PSP
+वर्णन	NN
+कीजिए	VM
+।	SYM
+</sent_id>
+
