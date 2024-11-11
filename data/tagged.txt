@@ -317,8 +317,7 @@
 
 <sent_id=Geo_nios_13ch_0015>
 हम	PRP
-प्राय	NNP
-:	SYM
+प्राय:	NN
 इस	DEM
 प्रभाव	NN
 को	PSP
@@ -378,8 +377,7 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0017>
-अत	CC
-:	SYM
+अत:	NNP
 किसी	PRP
 स्थान	NN
 का	PSP
@@ -864,7 +862,8 @@
 <sent_id=Geo_nios_13ch_0035>
 इनके	PRP
 नाम	NN
-हैं-	NNPC
+हैं	VM
+-	SYM
 बसन्त	NNP
 ,	SYM
 ग्रीष्म	NNP
@@ -935,7 +934,8 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0040>
-अतःविषुवतीय	JJ
+अतः	CC
+विषुवतीय	JJ
 प्रदेशों	NN
 में	PSP
 तापमान	NN
@@ -987,8 +987,10 @@
 दो	QC
 ऋतुएँ	NN
 होती	VM
-हैं-लम्बी	PSP
-शीत	JJ
+हैं	VAUX
+-	SYM
+लम्बी	JJ
+शीत	NNPC
 ऋतु	NN
 और	CC
 छोटी	JJ
@@ -1240,8 +1242,7 @@
 लघु	JJ
 अवधि	NN
 (	SYM
-प्राय	NNP
-:	SYM
+प्राय:	JJ
 एक	QC
 दिन	NN
 या	CC
@@ -1841,8 +1842,7 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0082>
-अत	CC
-:	SYM
+अत:	NN
 वहाँ	PRP
 ताप	NN
 परिसर	NN
@@ -2602,9 +2602,8 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0112>
-अत	CC
-:	SYM
-मरुस्थल	NNP
+अत:	NNPC
+मरुस्थल	NN
 दिन	NN
 में	PSP
 गर्म	JJ
@@ -3957,7 +3956,9 @@
 करने	VM
 वाले	PSP
 कारक	NN
-हैं-विषुवत	NNC
+हैं	VM
+-	SYM
+विषुवत	NNPC
 वृत्त	NN
 से	PSP
 दूरी	NN

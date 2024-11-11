@@ -37,10 +37,10 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0003>
-उदाहरण	NN	S
-के	PSP	I
-लिए	PSP	I
-मकान	NN	I
+उदाहरण	NN	O
+के	PSP	O
+लिए	PSP	O
+मकान	NN	S
 जिनमें	PRP	S
 हम	PRP	I
 रहते	VM	I
@@ -317,8 +317,7 @@
 
 <sent_id=Geo_nios_13ch_0015>
 हम	PRP	S
-प्राय	NNP	I
-:	SYM	I
+प्राय:	NN	I
 इस	DEM	I
 प्रभाव	NN	I
 को	PSP	I
@@ -378,9 +377,8 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0017>
-अत	CC	O
-:	SYM	S	I
-किसी	PRP	I
+अत:	NNP	O
+किसी	PRP	S
 स्थान	NN	I
 का	PSP	I
 छोटी	JJ	I
@@ -447,10 +445,10 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0020>
-उदाहरण	NN	S
-के	PSP	I
-लिये	PSP	I
-आप	PRP	I
+उदाहरण	NN	O
+के	PSP	O
+लिये	PSP	O
+आप	PRP	S
 किसी	PRP	I
 दिन	NN	I
 लम्बी	JJ	I
@@ -780,7 +778,7 @@
 होती	VM	I
 हैं	VAUX	E
 और	CC	O
-जो	PRP	S	S
+जो	PRP	S
 पृथ्वी	NNP	I
 के	PSP	I
 अक्ष	NN	I
@@ -836,7 +834,8 @@
 <sent_id=Geo_nios_13ch_0035>
 इनके	PRP	S
 नाम	NN	I
-हैं-	NNPC	I
+हैं	VM	E
+-	SYM	I
 बसन्त	NNP	I
 ,	SYM	I
 ग्रीष्म	NNP	I
@@ -907,7 +906,8 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0040>
-अतःविषुवतीय	JJ	S
+अतः	CC	O
+विषुवतीय	JJ	S
 प्रदेशों	NN	I
 में	PSP	I
 तापमान	NN	I
@@ -921,9 +921,9 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0041>
-इस	DEM	S
-कारण	NN	I
-विषुवतीय	JJ	I
+इस	DEM	O
+कारण	NN	O
+विषुवतीय	JJ	S
 प्रदेशों	NN	I
 में	PSP	I
 कोई	PRP	I
@@ -959,8 +959,10 @@
 दो	QC	I
 ऋतुएँ	NN	I
 होती	VM	I
-हैं-लम्बी	PSP	I
-शीत	JJ	I
+हैं	VAUX	E
+-	SYM	I
+लम्बी	JJ	I
+शीत	NNPC	I
 ऋतु	NN	I
 और	CC	I
 छोटी	JJ	I
@@ -1025,8 +1027,8 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0046>
-उदाहरणार्थ	RB	S
-राजस्थान	NNP	I
+उदाहरणार्थ	RB	O
+राजस्थान	NNP	S
 की	PSP	I
 जलवायु	NN	I
 गर्म	JJ	I
@@ -1122,7 +1124,7 @@
 होती	VM	I
 हैं	VAUX	E
 और	CC	O
-जो	PRP	S	S
+जो	PRP	S
 पृथ्वी	NNP	I
 के	PSP	I
 अक्ष	NN	I
@@ -1208,8 +1210,7 @@
 लघु	JJ	I
 अवधि	NN	I
 (	SYM	I
-प्राय	NNP	I
-:	SYM	I
+प्राय:	JJ	I
 एक	QC	I
 दिन	NN	I
 या	CC	I
@@ -1547,9 +1548,9 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0070>
-इसके	PRP	S
-अतिरिक्त	PSP	I
-तिरछी	JJ	I
+इसके	PRP	O
+अतिरिक्त	PSP	O
+तिरछी	JJ	S
 किरणों	NN	I
 की	PSP	I
 अपेक्षा	PSP	I
@@ -1695,9 +1696,9 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0077>
-इस	DEM	S
-प्रकार	NN	I
-ऊँचाई	NN	I
+इस	DEM	O
+प्रकार	NN	O
+ऊँचाई	NN	S
 बढने	VM	I
 के	PSP	I
 साथ-साथ	PSP	I
@@ -1785,9 +1786,8 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0082>
-अत	CC	O
-:	SYM	S	I
-वहाँ	PRP	I
+अत:	NN	O
+वहाँ	PRP	S
 ताप	NN	I
 परिसर	NN	I
 अधिक	QF	I
@@ -1800,8 +1800,8 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0083>
-उदाहरणार्थ	RB	S
-मुम्बई	NNP	I
+उदाहरणार्थ	RB	O
+मुम्बई	NNP	S
 और	CC	I
 नागपुर	NNP	I
 दोनों	QC	I
@@ -1923,9 +1923,9 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0087>
-इसके	PRP	S
-विपरीत	PSP	I
-शीतकालीन	JJ	I
+इसके	PRP	O
+विपरीत	PSP	O
+शीतकालीन	JJ	S
 मानसून	NN	I
 पवनें	NNPC	I
 स्थल	NN	I
@@ -1998,9 +1998,9 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0091>
-इसके	PRP	S
-विपरीत	PSP	I
-बादलों	NN	I
+इसके	PRP	O
+विपरीत	PSP	O
+बादलों	NN	S
 से	PSP	I
 घिरे	VM	I
 आकाश	NN	I
@@ -2398,10 +2398,10 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0106>
-इसके	PRP	S
-साथ	NST	I
-ही	RP	I
-सूर्य	NN	I
+इसके	PRP	O
+साथ	NST	O
+ही	RP	O
+सूर्य	NN	S
 के	PSP	I
 सम्मुख	NST	I
 पडने	VM	I
@@ -2502,9 +2502,8 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0112>
-अत	CC	O
-:	SYM	S	I
-मरुस्थल	NNP	I
+अत:	NNPC	O
+मरुस्थल	NN	S
 दिन	NN	I
 में	PSP	I
 गर्म	JJ	I
@@ -2828,9 +2827,9 @@
 </sent_id>
 
 <sent_id=Geo_nios_13ch_0127>
-फिर	RB	S
-भी	RP	I
-,	SYM	I
+फिर	RB	O
+भी	RP	O
+,	SYM	S
 यूनानियों	NN	I
 ने	PSP	I
 तापमान	NN	I
@@ -3038,7 +3037,7 @@
 होता	VM	I
 है	VAUX	E
 और	CC	O
-अयन	SYM	S	I
+अयन	SYM	S
 वृत्तों	NN	I
 (	SYM	I
 कर्क	NNP	I
@@ -3825,7 +3824,9 @@
 करने	VM	I
 वाले	PSP	I
 कारक	NN	I
-हैं-विषुवत	NNC	I
+हैं	VM	E
+-	SYM	I
+विषुवत	NNPC	I
 वृत्त	NN	I
 से	PSP	I
 दूरी	NN	I
