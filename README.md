@@ -4,17 +4,12 @@
 2. Run the following command:
     - python3 main.py
  
-# Final and Intermediate output files location
+# Final and Intermediate output files
 
-- 'processed_sentences.txt' file witin data folder has the preprocessed input sentences. 
-    For example, 
-    Input: Geo_nios_13ch_0031	ऋतु वर्ष की वह विशिष्ट अवधि है, जिसमें मौसम की दशायें लगभग समान रहती हैं।
-    Output: Geo_nios_13ch_0031	ऋतु वर्ष की वह विशिष्ट अवधि है , जिसमें मौसम की दशायें लगभग समान रहती हैं ।
-
-- 'tagged_output.txt' file witin data folder has tagged output.
-    For example,
-    Input: Geo_nios_13ch_0031	ऋतु वर्ष की वह विशिष्ट अवधि है , जिसमें मौसम की दशायें लगभग समान रहती हैं ।
-    Output:
+1. 'processed_sentences.txt' file witin data folder has the preprocessed input sentences. 
+    - Geo_nios_13ch_0031	ऋतु वर्ष की वह विशिष्ट अवधि है , जिसमें मौसम की दशायें लगभग समान रहती हैं ।
+    
+2. 'tagged_output.txt' file witin data folder has tagged output.
     <sent_id=Geo_nios_13ch_0031>
     ऋतु	NNC
     वर्ष	NN
@@ -35,30 +30,7 @@
     ।	SYM
     </sent_id>
 
-- 
-
-    Input:
-    <sent_id=Geo_nios_13ch_0031>
-    ऋतु	NNC
-    वर्ष	NN
-    की	PSP
-    वह	PRP
-    विशिष्ट	JJ
-    अवधि	NN
-    है	VM
-    ,	SYM
-    जिसमें	PRP
-    मौसम	NN
-    की	PSP
-    दशायें	NN
-    लगभग	NN
-    समान	JJ
-    रहती	VM
-    हैं	VAUX
-    ।	SYM
-    </sent_id>
-
-    Output:
+3. 'clause_bounded_output.txt' file within data folder has clause bounded data.
     <sent_id=Geo_nios_13ch_0031>
     ऋतु	NNC	S
     वर्ष	NN	I
@@ -78,3 +50,5 @@
     हैं	VAUX	E
     ।	SYM	O
     </sent_id>
+
+4. 'final_output.txt' file within data has the final and post processed output for a given input Hindi sentence.
