@@ -1,4 +1,4 @@
-1. Keep the Hindi Sentences with their IDs separated with tab in sentences.txt file within data folder.
+1. Keep the Hindi Segmented Sentences with their IDs separated with tab in sentences.txt file within data folder.
     - Geo_nios_13ch_0031	ऋतु वर्ष की वह विशिष्ट अवधि है, जिसमें मौसम की दशायें लगभग समान रहती हैं।
 
 2. Run the following command:
@@ -30,7 +30,7 @@
     ।	SYM
     </sent_id>
 
-3. 'clause_bounded_output.txt' file within data folder has clause bounded data.
+3. 'clause_bounded_output.txt' file within data folder has identified clause bounded data.
     <sent_id=Geo_nios_13ch_0031>
     ऋतु	NNC	S
     वर्ष	NN	I
@@ -51,4 +51,4 @@
     ।	SYM	O
     </sent_id>
 
-4. 'final_output.txt' file within data has the final and post processed output for a given input Hindi sentence.
+4. 'final_output.txt' file within data has the final and post processed output for a given input Hindi segmented sentence.
