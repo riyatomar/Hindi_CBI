@@ -53,7 +53,10 @@ def extract_and_modify_tagged_data(filename):
                 # Check the previous word for 'VM' or 'VAUX' if current word is in RELATIVE_PRONOUNS or 'SYM'
                 if i > 0:
                     prev_word_parts = lines[i - 1].split('\t')
-                    if prev_word_parts[1] in ['VM', 'VAUX'] and (parts[0] in RELATIVE_PRONOUNS or parts[1] == 'SYM'):
+                    next_word_parts = lines[i + 1].split('\t') if i + 1 < sentence_length else None
+                    print(next_word_parts)
+                    
+                    if prev_word_parts[1] in ['VM', 'VAUX'] and (not next_word_parts or next_word_parts[0] in RELATIVE_PRONOUNS and parts[1] == 'SYM'):
                         prev_word_parts.append('E')
                         lines[i - 1] = '\t'.join(prev_word_parts)
                         update_previous = True  # Mark that we modified the previous line
@@ -63,7 +66,9 @@ def extract_and_modify_tagged_data(filename):
                     # if parts[0].strip() not in CONNNECTIVES1 and 'CC' not in parts[1]:
                     #     print(parts)
                     #     parts.append('S')
-                    if parts[0].strip() not in CONNNECTIVES1 and 'CC' not in parts[1]:
+                    if parts[0] == 'तो' and 'CC' in parts[1]:
+                        parts.append('S')  # Set tag as 'S' instead of 'O'
+                    elif parts[0].strip() not in CONNNECTIVES1 and 'CC' not in parts[1]: 
                         # Check if there's already a tag at parts[2]
                         if len(parts) < 3 or parts[2] not in ['S', 'O', 'E', 'I']:
                             parts.append('S')
@@ -78,7 +83,7 @@ def extract_and_modify_tagged_data(filename):
                                     break
                     else:
                     # elif parts[0] in CONNNECTIVES1:
-                        print(parts)
+                        # print(parts)
                         parts.append('O')
                         if sentence_length > 1:
                             next_word_parts = lines[i + 1].split('\t')
