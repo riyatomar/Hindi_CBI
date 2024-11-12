@@ -54,13 +54,27 @@ def extract_and_modify_tagged_data(filename):
                 if i > 0:
                     prev_word_parts = lines[i - 1].split('\t')
                     next_word_parts = lines[i + 1].split('\t') if i + 1 < sentence_length else None
-                    print(next_word_parts)
+                    # print(next_word_parts)
                     
-                    if prev_word_parts[1] in ['VM', 'VAUX'] and (not next_word_parts or next_word_parts[0] in RELATIVE_PRONOUNS and parts[1] == 'SYM'):
+                    # if prev_word_parts[1] in ['VM', 'VAUX'] and (not next_word_parts or next_word_parts[0] in RELATIVE_PRONOUNS and parts[1] == 'SYM'):
+                        
+                    #     prev_word_parts.append('E')
+                    #     lines[i - 1] = '\t'.join(prev_word_parts)
+                    #     update_previous = True  # Mark that we modified the previous line
+                    
+                    # Condition to append 'E' if previous word is VM/VAUX and current word is in RELATIVE_PRONOUNS
+                    if prev_word_parts[1] in ['VM', 'VAUX'] and parts[0] in RELATIVE_PRONOUNS:
+                        prev_word_parts.append('E')
+                        lines[i - 1] = '\t'.join(prev_word_parts)
+                        update_previous = True
+                    
+                    # Existing condition for handling 'SYM' when surrounded by certain tags
+                    if prev_word_parts[1] in ['VM', 'VAUX'] and (
+                        not next_word_parts or next_word_parts[0] in RELATIVE_PRONOUNS and parts[1] == 'SYM'):
                         prev_word_parts.append('E')
                         lines[i - 1] = '\t'.join(prev_word_parts)
                         update_previous = True  # Mark that we modified the previous line
-                    
+
                 # Handle the first word in the sentence
                 if i == 0:
                     # if parts[0].strip() not in CONNNECTIVES1 and 'CC' not in parts[1]:
@@ -105,11 +119,15 @@ def extract_and_modify_tagged_data(filename):
                 # Handle middle words in the sentence
                 else:
                     # Check if the word is in RELATIVE_PRONOUNS
-                    if parts[0] in RELATIVE_PRONOUNS and len(parts) < 3:
+                    if parts[0].strip() in RELATIVE_PRONOUNS:
+                        # print(parts)
                         parts.append('S')
                         set_next_vm_vaux_to_e = True
+                        if len(parts) > 3:
+                            parts.pop()
                     
-                    elif parts[1] in ['VAUX']:
+                    elif parts[1].strip() == 'VAUX':
+                        # print(parts[1])
                         if set_next_vm_vaux_to_e:
                             parts.append('E')
                             set_next_vm_vaux_to_e = False
@@ -137,4 +155,5 @@ def extract_and_modify_tagged_data(filename):
 
 
 extract_and_modify_tagged_data("data/tagged.txt")
+
 
