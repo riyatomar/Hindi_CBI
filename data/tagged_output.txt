@@ -1,110 +1,180 @@
-<sent_id=Geo_nios_13ch_0001>
-हमने	PRP
+<sent_id=Geo_nios_15ch_0001>
 पिछले	JJ
-पाठों	NN
-में	PSP
-तापमान	NN
-,	SYM
-वायुमंडलीय	JJ
-दाब	NN
-,	SYM
-पवनों	NN
-और	CC
-वर्षण	NN
-के	PSP
-बारे	PSP
-में	PSP
-अध्ययन	NN
-किया	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0002>
-मौसम	NN
-के	PSP
-इन	DEM
-तत्वों	NN
-का	PSP
-हमारे	PRP
-जीवन	NN
-पर	PSP
-गहरा	JJ
-प्रभाव	NN
-पडता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0003>
-उदाहरण	NN
-के	PSP
-लिए	PSP
-मकान	NN
-जिनमें	PRP
-हम	PRP
-रहते	VM
-हैं	VAUX
-,	SYM
-कपडे	NN
-जो	PRP
-हम	PRP
-अपनी	PRP
-पसन्द	NN
-के	PSP
-पहनते	VM
-हैं	VAUX
-और	CC
-विविध	JJ
-प्रकार	NN
-का	PSP
-अपनी-अपनी	PRP
-पसन्द	NN
-का	PSP
-भोजन	NN
-ये	DEM
-सब	PRP
-मुख्यतया	JJ
-मौसम	NN
-एवं	CC
-जलवायु	NNC
-दशाओं	NN
-द्वारा	PSP
-प्रभावित	JJ
-होते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0004>
-इस	DEM
 पाठ	NN
 में	PSP
-हम	PRP
-मौसम	NN
-,	SYM
-ऋतु	NN
-और	CC
-जलवायु	NN
+आप	PRP
+जैवमंडल	NN
+के	PSP
+विभिन्न	JJ
+रूपों	NN
 में	PSP
-अन्तर	NN
-तथा	CC
-किसी	PRP
-स्थान	NN
+विषय	NN
+में	PSP
+पढ	VM
+चुके	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0002a>
+हमने	PRP
+इस	DEM
+बात	NN
 की	PSP
-जलवायु	NN
-को	PSP
-प्रभावित	JJ
-करने	VM
-वाले	PSP
-कारकों	NN
+भी	RP
+चर्चा	NN
+यह	PRP
+की	VM
+थी	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0002b>
+कि	CC
+जैवमंडल	NN
+के	PSP
+विभिन्न	JJ
+घटक	NN
+कैसे	WQ
+परस्पर	JJ
+क्रिया	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0002c>
+और	CC
+कैसे	WQ
+एक-दूसरे	PRP
+के	PSP
+पूरक	NN
+बनते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0003>
+पृथ्वी	NN
+पर	PSP
+विभिन्न	JJ
+प्रकार	NN
+के	PSP
+जीवन	NN
+के	PSP
+लिए	PSP
+सूर्य	NNP
+एक	QC
+मात्रा	NN
+ऊर्जा	NN
 का	PSP
+स्रोत	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0004>
+परन्तु	CC
+पृथ्वी	NNP
+के	PSP
+धरातल	NN
+पर	PSP
+सौर	NNC
+ऊर्जा	NN
+का	PSP
+वितरण	NN
+विभिन्न	JJ
+कारणों	NN
+से	PSP
+बदल	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0005>
+इन	DEM
+कारणों	NN
+के	PSP
+विषय	NN
+में	PSP
+आप	PRP
+पिछले	JJ
+पाठ	NN
+में	PSP
+पढ	VM
+चुके	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0006a>
+यही	DEM
+कारण	NN
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0006b>
+कि	CC
+गर्म	JJ
+आर्द्र	NN
+से	PSP
+आर्द्र	JJC
+ठंडे	JJ
+शुष्क	JJ
+क्षेत्रों	NN
+के	PSP
+जैविक	JJ
+जीवन	NN
+में	PSP
+बहुत	QF
+अन्तर	NN
+मिलता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0007>
+अतः	CC
+विभिन्न	JJ
+भौगोलिक	JJ
+पर्यावरणों	NN
+में	PSP
+पौधों	NN
+और	CC
+पशु	NN
+जीवन	NN
+का	PSP
+संकलन	NN
+हो	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0008>
+इस	DEM
+संदर्भ	NN
+में	PSP
+हम	PRP
+विविध	JJ
+जैविक	JJ
+जीवनों	NN
+और	CC
+उनकी	PRP
+पारस्परिक	JJ
+क्रियाओं	NN
+के	PSP
+विषय	NN
+में	PSP
 अध्ययन	NN
 करेंगे	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0005>
+<sent_id=Geo_nios_15ch_0009>
 इस	DEM
 पाठ	NN
 का	PSP
@@ -113,20 +183,40 @@
 के	PSP
 पश्चात्	NST
 आप	PRP
-मौसम	NN
-और	CC
-जलवायु	NN
+परिस्थितिकी	NN
+,	SYM
+पारितंत्रा	NNP
+,	SYM
+ऊर्जा	NNC
+प्रवाह	NN
+आदि	RP
+शब्दों	NN
 के	PSP
-विभिन्न	JJ
-अवयवों	NN
+अर्थ	NN
+याद	NN
+कर	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0010>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
 के	PSP
-नाम	NN
+पश्चात्	NST
+आप	PRP
+जीवोम	NN
+की	PSP
+परिभाषा	NN
 बता	VM
 सकेंगे	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0006>
+<sent_id=Geo_nios_15ch_0011>
 इस	DEM
 पाठ	NN
 का	PSP
@@ -135,129 +225,310 @@
 के	PSP
 पश्चात्	NST
 आप	PRP
-मौसम	NN
-,	SYM
-ऋतु	NN
-और	CC
-जलवायु	NN
-में	PSP
-अन्तर	NN
-समझा	VM
-सकेगें	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0007>
-इस	DEM
-पाठ	NN
-का	PSP
-अध्ययन	NN
-करने	VM
-के	PSP
-पश्चात्	NST
-आप	PRP
-मौसम	NN
-के	PSP
-पूर्वानुमान	NN
-की	PSP
-आवश्यकता	NN
-स्पष्ट	JJ
-कर	VM
-सकेगें	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0008>
-इस	DEM
-पाठ	NN
-का	PSP
-अध्ययन	NN
-करने	VM
-के	PSP
-पश्चात्	NST
-आप	PRP
-किसी	PRP
-स्थान	NN
-या	CC
-प्रदेश	NNP
-की	PSP
-जलवायु	NN
-को	PSP
-प्रभावित	JJ
-करने	VM
-वाले	PSP
 विभिन्न	JJ
-कारकों	NN
+प्रकार	NN
+के	PSP
+जीवोमों	NN
+को	PSP
+पहचान	NN
+सकेंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0012>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+विश्व	NNC
+मानचित्र	NN
+पर	PSP
+विभिन्न	JJ
+प्रकार	NN
+के	PSP
+जीवोमों	NN
+को	PSP
+प्रदर्शित	JJ
+कर	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0013>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+इन	DEM
+जीवोमों	NN
 की	PSP
-व्याख्या	NN
-विशिष्ट	JJ
-उदाहरण	NN
-सहित	PSP
+पर्यावरणीय	JJ
+स्थितियों	NN
+का	PSP
+वर्णन	NN
+कर	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0014>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+पौधों	NN
+और	CC
+जानवरों	NN
+के	PSP
+समुदायों	NN
+के	PSP
+बीच	NST
+संबंध	NN
+स्थापित	JJ
+कर	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0015>
+इस	DEM
+पाठ	NN
+का	PSP
+अध्ययन	NN
+करने	VM
+के	PSP
+पश्चात्	NST
+आप	PRP
+उस	DEM
+क्षेत्र	NN
+के	PSP
+जैविक	JJ
+जीवन	NN
+के	PSP
+साथ	NST
+मानवीय	JJ
+अनुक्रियाओं	NN
+की	PSP
+विवेचना	NN
 कर	VM
 सकेंगें	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0009>
-इस	DEM
-पाठ	NN
+<sent_id=Geo_nios_15ch_0016>
+जीवोम	NNP
+शब्द	NN
+जैविक	JJ
+घर	NN
 का	PSP
-अध्ययन	NN
-करने	VM
-के	PSP
-पश्चात्	NST
-आप	PRP
-कोपेन	NNP
-के	PSP
-जलवायु	NNC
-वर्गीकरण	NN
-को	PSP
-बता	VM
-सकेगें	VAUX
+संक्षिप्त	JJ
+रूप	NN
+है	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0010>
-तापमान	NN
+<sent_id=Geo_nios_15ch_0017>
+जहाँ	PRP
+तक	PSP
+जीवोम	NN
+की	PSP
+परिभाषा	NN
+एवं	CC
+वर्गीकरण	NN
+का	PSP
+संबंध	NN
+है	VM
 ,	SYM
-वायुदाब	NN
-,	SYM
-पवन	NNP
-,	SYM
-आर्द्रता	NN
-तथा	CC
-वर्षण	NN
-मौसम	NN
-और	CC
-जलवायु	NN
-के	PSP
-प्रमुख	JJ
-तत्व	NN
+वैज्ञानिक	NN
+इस	DEM
+संदर्भ	NN
+में	PSP
+एक	QC
+मत	NN
+नहीं	NEG
 हैं	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0011>
+<sent_id=Geo_nios_15ch_0018>
+जीवोम	NNP
+को	PSP
+एक	QC
+वृहत	JJ
+प्राकृतिक	JJ
+पारितंत्रा	NN
+के	PSP
+रूप	PSP
+में	PSP
+परिभाषित	JJ
+किया	VM
+जा	VAUX
+सकता	VAUX
+है	VAUX
+,	SYM
+जिसमें	PRP
+हम	PRP
+पौधों	NN
+और	CC
+जानवरों	NN
+के	PSP
+समुदायों	NN
+के	PSP
+कुल	QF
+संकलन	NN
+का	PSP
+अध्ययन	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0019a>
+यहाँ	PRP
+पर	PSP
+सभी	QF
+जीव-जन्तुओं	NN
+में	PSP
+न्यूनतम	JJ
+समान	JJ
+विशेषताएँ	NN
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0019b>
+और	CC
+जीवोमों	NN
+के	PSP
+सभी	QF
+क्षेत्रों	NN
+में	PSP
+प्रायः	RB
+समान	JJ
+पर्यावरणीय	JJ
+परिस्थितियाँ	NN
+पाई	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0020a>
+हालांकि	CC
+जीवोम	NNP
+में	PSP
+पौधे	NN
+और	CC
+जीव	NNC
+प्राणी	NNC
+समुदाय	NN
+दोनों	NN
+सम्मलित	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0020b>
+परंतु	CC
+साधारणतया	RP
+एक	QC
+जीवोम	NN
+को	PSP
+वहाँ	PRP
+की	PSP
+प्रमुख	JJ
+वनस्पति	NN
+के	PSP
+आधार	NN
+पर	PSP
+जाना	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0020c>
+और	CC
+उसी	PRP
+के	PSP
+आधार	NN
+पर	PSP
+उसका	PRP
+नामकरण	NN
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0021>
 ये	DEM
-तत्व	NN
-पवन	NNP
-की	PSP
-दिशा	NN
-एवं	CC
-गति	NN
+वनस्पतियाँ	NN
+वहाँ	PRP
+के	PSP
+भूदृश्य	NN
+को	PSP
+स्पष्टरूप	NN
+से	PSP
+परिलक्षित	JJ
+करने	VM
+वाली	PSP
+घटक	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0022>
+बायोमास	NN
+से	PSP
+हमारा	PRP
+अभिप्राय	NN
+जीवोम	NN
+में	PSP
+पाए	VM
+जाने	VAUX
+वाले	PSP
+सभी	QF
+जीवित-जीवाणुओं	NNC
+-	SYM
+पौधे	NN
+और	CC
+प्राणियों	NN
+के	PSP
+कुल	QF
+भार	NN
+से	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0023>
+बहुत	QF
+से	RP
+कारक	NN
+हैं	VM
+जो	PRP
+जीवोम	NN
+के	PSP
+आकार	NN
 ,	SYM
-सूर्याताप	NNP
-की	PSP
-मात्रा	NN
-मेघाच्छन्नता	NN
-तथा	CC
-वर्षण	NN
-की	PSP
-मात्रा	NN
-,	SYM
-आदि	RP
-वायुमंडलीय	JJ
-दशाओं	NN
+स्थिति	NN
+और	CC
+उसकी	PRP
+विशेषताओं	NN
 को	PSP
 प्रभावित	JJ
 करते	VM
@@ -265,1158 +536,2339 @@
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0012>
-इन	DEM
-वायुमंडलीय	JJ
-तत्वों	NN
-को	PSP
-ही	RP
-मौसम	NN
-और	CC
-जलवायु	NN
-के	PSP
-अवयव	NN
-कहा	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0013>
-इन	DEM
-अवयवों	NN
-का	PSP
-भिन्न-भिन्न	JJ
-स्थानों	NN
-और	CC
-समयों	NN
-पर	PSP
-अलग-अलग	JJ
-प्रभाव	NN
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0014>
-यह	DEM
-प्रभाव	NN
-एक	QC
-सीमित	JJ
-क्षेत्र	NN
-तथा	CC
-छोटी	JJ
-अवधि	NN
-के	PSP
-लिए	PSP
-हो	VM
-सकता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0015>
-हम	PRP
-प्राय:	NN
-इस	DEM
-प्रभाव	NN
-को	PSP
-मौसम	NN
-के	PSP
-रूप	PSP
-में	PSP
-व्यक्त	JJ
-करते	VM
-हैं	VAUX
-,	SYM
-जैसे	CC
-धूपवाला	NNPC
-गर्मी	NN
-,	SYM
-सर्दी	NN
-,	SYM
-वर्षा	NN
-,	SYM
-तूफान	NN
-,	SYM
-आदि	RP
-का	PSP
-मौसम	NN
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0016>
-इनमें	PRP
-से	PSP
-मौसम	NN
-का	PSP
-प्रत्येक	QF
-रूप	NN
-किसी	PRP
-न	RP
-किसी	PRP
-अवयव	NN
+<sent_id=Geo_nios_15ch_0024>
+वर्षण	NN
+जिसके	PRP
+अंतर्गत	PSP
+वर्षण	NN
 की	PSP
-ओर	NST
-संकेत	NN
-करता	VM
-है	VAUX
-,	SYM
-जो	PRP
-किसी	PRP
-स्थान	NN
-और	CC
-समय	NN
-विशेष	NN
-में	PSP
-सर्वाधिक	INTF
-प्रभावशाली	JJ
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0017>
-अत:	NNP
-किसी	PRP
-स्थान	NN
-का	PSP
-छोटी	JJ
-अवधि	NN
-के	PSP
-लिये	PSP
-एक	QC
-या	CC
-एक	QC
-से	PSP
-अधिक	QF
-जलवायु	NNC
-अवयवों	NN
-के	PSP
-संदर्भ	NN
-में	PSP
-वायुमंडल	NN
-की	PSP
-दशा	NN
-,	SYM
-उस	DEM
-स्थान	NN
-का	PSP
-मौसम	NN
-कहलाता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0018>
-एक	QC
-ही	RP
-समय	NN
-में	PSP
-निकट	NST
-स्थित	JJ
-दो	QC
-स्थानों	NN
-पर	PSP
-अलग-अलग	JJ
-मौसम	NN
-हो	VM
-सकता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0019>
-आनेवाले	JJ
-मौसम	NN
-की	PSP
-किसी	PRP
-विधि	NN
-द्वारा	PSP
-पहले	NST
-से	PSP
-जानकारी	NN
-होना	VM
-बहुत	INTF
-ही	RP
-महत्वपूर्ण	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0020a>
-उदाहरण	NN
-के	PSP
-लिये	PSP
-आप	PRP
-किसी	PRP
-दिन	NN
-लम्बी	JJ
-पैदल	JJ
-यात्रा	NN
-पर	PSP
-जाने	VM
-की	PSP
-योजना	NN
-बनाते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0020b>
-परन्तु	CC
-आपको	PRP
-यह	PRP
-मालूम	JJ
-नहीं	NEG
-कि	CC
-उस	DEM
-दिन	NN
-वर्षा	NN
-होगी	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0020c>
-अथवा	CC
-वर्षा	NN
-नहीं	NEG
-होगी	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0021a>
-इसी	DEM
-प्रकार	NN
-किसान	NN
-,	SYM
-नाविक	NN
-,	SYM
-वायुयान	NNC
-चालक	NN
-,	SYM
-पर्यटक	NN
-और	CC
-अन्य	JJ
-बहुत	QF
-से	RP
-लोग	NN
-अपने-अपने	PRP
-हित	NN
-के	PSP
-लिए	PSP
-पहले	NST
-से	PSP
-यह	PRP
-जानने	VM
-में	PSP
-रूचि	NN
-लेते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0021b>
-कि	CC
-आनेवाला	JJ
-मौसम	NN
-कैसा	WQ
-होगा	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0022>
-इसलिए	PRP
-समाचार	NNC
-पत्र	NN
-,	SYM
-मौसम	NN
-का	PSP
-विवरण	NN
-,	SYM
-मौसम	NN
-का	PSP
-पूर्वानुमान	NN
-और	CC
-इस	DEM
-जानकारी	NN
-को	PSP
-दर्शाने	VM
-वाला	PSP
-मानचित्र	NN
-रोजाना	NN
-छापते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0023>
-मौसम	NNC
-उपग्रहों	NN
-की	PSP
-मदद	NN
-से	PSP
-अब	PRP
-मौसम	NN
-के	PSP
-पूर्वानुमान	NN
-की	PSP
-जानकारी	NN
-अधिक	QF
-विश्वसनीय	JJ
-मिल	VM
-रही	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0024>
-दूरदर्शन	NN
-पर	PSP
-मौसम	NN
-की	PSP
-दशाओं	NN
-की	PSP
-जानकारी	NN
-रोज	NN
-दी	VM
-जा	VAUX
-रही	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0025a>
-जब	PRP
-कभी	PRP
-चक्रवात	NN
-या	CC
-खतरनाक	JJ
-मौसम	NN
-के	PSP
-आने	VM
-की	PSP
-सम्भावना	NN
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0025b>
-तो	CC
-रेडियो	NN
-,	SYM
-दूरदर्शन	NNP
-और	CC
-समाचार	NNC
-पत्रों	NN
-द्वारा	PSP
-चेतावनी	NN
-दी	VM
-जाती	VAUX
-है	VAUX
-,	SYM
-जिससे	PRP
-लोग	NN
-मौसम	NN
-के	PSP
-खतरों	NN
-से	PSP
-अपनी	PRP
-जान	NN
-और	CC
-माल	NN
-की	PSP
-रक्षा	NN
-कर	VM
-सकें	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0026>
-मौसम	NNC
-कार्यालय	NN
-सारे	QF
-देश	NN
-में	PSP
-फैली	VM
-अपनी	PRP
-अनेक	QF
-बेधशालाओं	NN
-द्वारा	PSP
-तापमान	NN
-,	SYM
-पवन	NNP
-,	SYM
-मेघाच्छादन	NNP
-,	SYM
-वर्षा	NN
-और	CC
-अन्य	JJ
-वायुमंडलीय	JJ
-घटनाओं	NN
-के	PSP
-बारे	PSP
-में	PSP
-आंकडे	NN
-एकत्र	JJ
-करता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0027>
-इसी	DEM
-प्रकार	NN
-की	PSP
-जानकारी	NN
-गहरे	JJ
-समुद्र	NN
-में	PSP
-चलने	VM
-वाले	PSP
-जलयानों	NN
-से	PSP
-भी	RP
-प्राप्त	JJ
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0028>
-इन	DEM
-आंकडों	NN
-के	PSP
-विश्लेषण	NN
+कुल	QF
+मात्रा	NN
 एवं	CC
-अध्ययन	NN
-द्वारा	PSP
-अगले	JJ
-48	QC
-घंटों	NN
-या	CC
-एक	QC
-सप्ताह	NN
-के	PSP
-मौसम	NN
-के	PSP
-पूर्वानुमान	NN
-की	PSP
-जानकारी	NN
-दी	VM
-जाती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0029>
-यह	DEM
-जानकारी	NN
-यूनाइटेड	NNPC
-किंगडम	NNP
-जैसे	PSP
-देश	NN
-,	SYM
-जहाँ	PRP
-मौसमी	JJ
-परिवर्तन	NN
-बहुत	INTF
-जल्दी-जल्दी	RB
-होते	VM
-हैं	VAUX
-,	SYM
-के	PSP
-लिये	PSP
-अति	INTF
-उपयोगी	JJ
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0030a>
-आप	PRP
-यह	PRP
-जानते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0030b>
-कि	CC
-वायुमंडलीय	JJ
-दशाओं	NN
-में	PSP
-विभिन्नताओं	NN
+समय	NN
+और	CC
+तीव्रता	NN
 के	PSP
 अनुसार	PSP
-वर्ष	NN
-को	PSP
-कई	QF
-ऋषतुओं	NN
-में	PSP
-बॉँटा	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0031>
-ऋतु	NNC
-वर्ष	NN
-की	PSP
-वह	PRP
-विशिष्ट	JJ
-अवधि	NN
-है	VM
-,	SYM
-जिसमें	PRP
-मौसम	NN
-की	PSP
-दशायें	NN
-लगभग	NN
-समान	JJ
-रहती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0032a>
-अतः	CC
-ऋतु	NNP
-वर्ष	NN
-की	PSP
-वह	PRP
-लम्बी	JJ
-अवधि	NN
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0032b>
-जिसमें	PRP
-मौसम	NN
-संबंधी	JJ
-विशिष्ट	JJ
-दशायें	NN
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0032c>
-और	CC
-जो	PRP
-पृथ्वी	NNP
-के	PSP
-अक्ष	NN
-के	PSP
-झुकाव	NN
-और	CC
-उसके	PRP
-द्वारा	PSP
-सूर्य	NN
-का	PSP
-परिक्रमण	NN
-करने	VM
-के	PSP
-परिणाम	NNC
-स्वरूप	NN
-बनती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0033>
-प्रति	RP
-वर्ष	NN
-ऋतुओं	NN
-का	PSP
-एक	QC
-समान	JJ
-चक्र	NN
-दोहराया	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0034>
-शीतोष्ण	JJ
-कटिबन्धीय	JJ
-प्रदेशों	NN
-में	PSP
-तीन-तीन	QC
-माह	NN
-की	PSP
-अवधि	NN
-की	PSP
-चार	QC
-ऋतुएँ	NN
-मानी	VM
-गई	VAUX
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0035>
-इनके	PRP
-नाम	NN
-हैं	VM
--	SYM
-बसन्त	NNP
-,	SYM
-ग्रीष्म	NNP
-,	SYM
-पतझड	NNP
-और	CC
-शीत	JJ
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0036>
-हमारे	PRP
-देश	NN
-में	PSP
-तीन	QC
-प्रमुख	JJ
-ऋतुएँ-शीत	NN
-,	SYM
-ग्रीष्म	NNP
-और	CC
-वर्षा	NN
+इसमें	PRP
+परिवर्तन	NN
+सम्मलित	JJ
 हैं	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0037>
-भारतीय	NNPC
-मौसमविज्ञान	NNPC
-विभाग	NNP
-द्वारा	PSP
-चार	QC
-प्रमुख	JJ
-ऋतुएँ	NN
-मानी	VM
-गई	VAUX
-हैं	VAUX
+<sent_id=Geo_nios_15ch_0025>
+पवन	NNPC
+प्रवाहः	NNPC
+गति	NN
+,	SYM
+दिशा	NN
+,	SYM
+अवधि	NN
+और	CC
+अंतराल	NN
+सम्मलित	JJ
+हैं	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0038>
-उत्तर	NNPC
-भारत	NNP
-में	PSP
-परम्परागत	JJ
-छः	QC
-ऋतुएँ	NN
-मानी	VM
-जाती	VAUX
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0039>
-विषुवत	NNPC
-वृत्त	NN
+<sent_id=Geo_nios_15ch_0026>
+जीवोम	NNP
 के	PSP
-ऊपर	NST
-सूर्य	NN
-की	PSP
-किरणें	NN
-वर्ष	NN
-भर	RP
-लगभग	RP
-लम्बवत्	NN
-पडती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0040>
-अतः	CC
-विषुवतीय	JJ
-प्रदेशों	NN
-में	PSP
-तापमान	NN
-सारे	QF
-वर्ष	NN
-एक	QC
-समान	JJ
-रहता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0041>
-इस	DEM
-कारण	NN
-विषुवतीय	JJ
-प्रदेशों	NN
-में	PSP
-कोई	PRP
-ऋतु	NN
-नहीं	NEG
-होती	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0042>
-तटीय	JJ
-भागों	NN
-में	PSP
-समुद्र	NN
-का	PSP
-प्रभाव	NN
-ऋतुओं	NN
-की	PSP
-भिन्नता	NN
-को	PSP
-कम	QF
-कर	VM
-देता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0043>
-ध्रुवीय	JJ
-प्रदेशों	NN
-में	PSP
-केवल	RP
+वर्गीकरण	NN
+के	PSP
 दो	QC
-ऋतुएँ	NN
-होती	VM
-हैं	VAUX
--	SYM
-लम्बी	JJ
-शीत	NNPC
-ऋतु	NN
-और	CC
-छोटी	JJ
-ग्रीष्म	NNPC
-ऋतु	NN
+प्रमुख	JJ
+आधार	NN
+हैं	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0044>
-किस	WQ
-विस्तृत	JJ
-क्षेत्र	NN
+<sent_id=Geo_nios_15ch_0027>
+इस	DEM
+भाग	NN
 में	PSP
-वर्ष	NN
+हम	PRP
+दो	QC
+वर्गीकरणों	NN
 की	PSP
-विभिन्न	JJ
-ऋतुओं	NN
-की	PSP
-औसत	NN
-मौसमी	JJ
-दशाओं	NN
-को	PSP
-उस	DEM
-क्षेत्र	NN
-की	PSP
-जलवायु	NN
-कहते	VM
+चर्चा	NN
+करेंगे	VM
+जो	PRP
+आसान	JJ
+और	CC
+सब	QF
+जगह	NN
+प्रयोग	NN
+किए	VM
+जाते	VAUX
 हैं	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0045>
-औसत	JJ
-मौसम	NNC
-दशाओं	NN
-की	PSP
-जानकारी	NN
-एक	QC
-बडे	JJ
-क्षेत्र	NN
+<sent_id=Geo_nios_15ch_0028>
+इन	DEM
+दो	QC
+वर्गीकरणों	NN
 के	PSP
-अनेक	QF
-वर्षों	NN
-(	SYM
-लगभग	RP
-35	QC
-वर्ष	NN
-)	SYM
-के	PSP
-एकत्र	JJ
-किये	VM
-आंकडों	NN
+आधार	NN
+और	CC
+इनके	PRP
+विभिन्न	JJ
+प्रकारों	NN
 की	PSP
-गणना	NN
+चर्चा	NN
+नीचे	NST
+की	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0029>
+जलवायु	NN
 के	PSP
 आधार	NN
 पर	PSP
-की	VM
-जाती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0046>
-उदाहरणार्थ	RB
-राजस्थान	NNP
-की	PSP
-जलवायु	NN
-गर्म	JJ
-और	CC
-शुष्क	JJ
-है	VM
-,	SYM
-केरल	NNP
-की	PSP
-उष्ण	JJ
-कटिबन्धीय	JJ
-वर्षा	NN
-वाली	PSP
-जलवायु	NN
-है	VM
-,	SYM
-ग्रीनलैंड	NNP
-की	PSP
-शीत	JJ
-मरुस्थली	NNP
-जलवायु	NN
-हैं	VM
-,	SYM
-और	CC
-मध्य	NNPC
-एशिया	NNP
-की	PSP
-जलवायु	JJC
-शीतोष्ण	JJ
-महाद्वीपीय	JJ
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0047>
-किसी	PRP
-प्रदेश	NN
-की	PSP
-जलवायु	NN
-अपेक्षाकृत	RB
-स्थाई	JJ
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0048>
-किसी	PRP
-स्थान	NN
-के	PSP
-तापमान	NN
-,	SYM
-वायुदाब	NN
-,	SYM
-पवन	NNP
-,	SYM
-आर्द्रता	NN
-,	SYM
-वर्षण	NN
-,	SYM
-धूप	NN
-,	SYM
-मेघाच्छादन	NN
-आदि	RP
-के	PSP
-संदर्भ	NN
-में	PSP
-थोडे	QF
-समय	NN
-की	PSP
-वायुमंडलीय	JJ
-दशा	NN
-को	PSP
-उस	DEM
-स्थान	NN
-का	PSP
-मौसम	NN
-कहते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0049a>
-वर्ष	NN
-की	PSP
-वह	PRP
-अवधि	NN
 जिसमें	PRP
-मौसम	NNC
-दशायें	NN
-लगभग	RP
-समान	JJ
-होती	VM
-हैं	VAUX
+आर्द्रता	NN
+की	PSP
+उपलब्धता	NN
+पर	PSP
+विशेष	JJ
+बल	NN
+दिया	VM
+गया	VAUX
+है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0049b>
-और	CC
-जो	PRP
-पृथ्वी	NNP
+<sent_id=Geo_nios_15ch_0030>
+इस	DEM
+आधार	NN
 के	PSP
-अक्ष	NN
-के	PSP
-झुकाव	NN
-और	CC
-उसके	PRP
-द्वारा	PSP
-सूर्य	NN
+अनुसार	PSP
+जीवोम	NNP
 का	PSP
-परिक्रमण	NN
-करने	VM
+निर्धारण	NN
+आर्द्रता	NN
+की	PSP
+उपलब्ध	JJ
+मात्रा	NN
 के	PSP
-परिणाम	NNC
-स्वरूप	NN
-बनती	VM
-हैं	VAUX
-,	SYM
-को	PSP
-ऋतु	NN
-कहते	VM
-हैं	VAUX
+अनुसार	PSP
+किया	VM
+जाता	VAUX
+है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0050>
-किसी	PRP
-बडे	JJ
-क्षेत्र	NN
-के	PSP
-पिछले	JJ
-अनेक	QF
-वर्षों	NN
-के	PSP
-औसत	JJ
-मौसम	NN
-की	PSP
-दशाए	NN
-,	SYM
-जो	PRP
-अपेक्षाकृत	JJ
-स्थाई	JJ
+<sent_id=Geo_nios_15ch_0031a>
+जहाँ	PRP
+आर्द्रता	NN
+प्रचुर	JJ
+मात्रा	NN
+में	PSP
+उपलब्ध	JJ
 होती	VM
 हैं	VAUX
-,	SYM
-को	PSP
-उस	DEM
-क्षेत्र	NN
+वहाँ	PRP
+वन	NNC
+जीवोम	NNP
 की	PSP
-जलवायु	NN
-कहते	VM
+प्रधानता	NN
+रहती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0031b>
+और	CC
+जहाँ	PRP
+आर्द्रता	NN
+कम	QF
+होती	VM
+है	VAUX
+वहाँ	PRP
+मरुस्थलीय	JJ
+जीवोम	NN
+की	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0032>
+परंतु	CC
+प्रत्येक	QF
+जीवोम	NN
+में	PSP
+तापमान	NN
+की	PSP
+दशाएँ	NN
+भिन्न	JJ
+उच्चावचों	NN
+और	CC
+भिन्न	JJ
+अक्षाशों	NN
+के	PSP
+मध्य	JJC
+भिन्न	JJ
+भिन्न	JJ
+होती	VM
 हैं	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0051>
-मौसम	NN
-और	CC
-जलवायु	NN
-के	PSP
-अन्तर	NN
+<sent_id=Geo_nios_15ch_0033>
+परिणामस्वरूप	PSP
+प्रत्येक	QF
+जीवोम	NN
 को	PSP
-निम्नलिखित	JJ
-तालिका	NN
-द्वारा	PSP
-स्पष्ट	JJ
+उप	JJ
+विभागों	NN
+में	PSP
+बांटने	VM
+की	PSP
+आवश्यकता	NN
+पडती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0034>
+इस	DEM
+वर्गीकरण	NN
+के	PSP
+अनुसार	PSP
+जीवोम	NNP
+के	PSP
+चार	QC
+प्रमुख	JJ
+प्रकार	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0035a>
+इस	DEM
+वर्गीकरण	NN
+का	PSP
+तर्क	NN
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0035b>
+कि	CC
+पौधों	NN
+और	CC
+प्राणी	NN
+जातियों	NN
+के	PSP
+विश्व	NNPC
+वितरण	NNPC
+प्रतिरूप	NN
+का	PSP
+विश्व	NN
+के	PSP
+जलवायु	NNC
+प्रकारों	NN
+से	PSP
+घनिष्ट	JJ
+संबंध	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0036>
+अतः	CC
+इस	DEM
+संबंध	NN
+के	PSP
+आधार	NN
+पर	PSP
+विश्व	NN
+को	PSP
+विभिन्न	JJ
+जीवोमों	NN
+में	PSP
+विभाजित	JJ
 किया	VM
 गया	VAUX
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0052>
-मौसम	NN
-में	PSP
-किसी	PRP
-सीमित	JJ
-क्षेत्र	NN
-की	PSP
-वायुमण्डलीय	JJ
-दशाओं	NN
-की	PSP
-लघु	JJ
-अवधि	NN
-(	SYM
-प्राय:	JJ
-एक	QC
-दिन	NN
-या	CC
-एक	QC
-सप्ताह	NN
-)	SYM
+<sent_id=Geo_nios_15ch_0037a>
+जीवोमों	NN
 का	PSP
-अध्ययन	NN
-किया	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0053>
-मौसम	NN
-वायुमंडलीय	NNC
-तत्त्वों	NN
-,	SYM
-जैसे	PSP
-तापमान	NN
-अथवा	CC
-आर्द्रता	NN
-में	PSP
-से	PSP
-किसी	PRP
-एक	QC
-से	PSP
-भी	RP
-प्रभावित	JJ
-हो	VM
-सकता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0054>
-मौसम	NN
-अक्सर	PRP
-बदलता	VM
-रहता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0055>
-इसका	PRP
-प्रभाव	NN
-किसी	PRP
-देश	NN
-के	PSP
-छोटे	NN
-से	PSP
-भाग	NN
-में	PSP
-अनुभव	NN
-किया	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0056>
-किसी	PRP
-स्थान	NN
-पर	PSP
-वर्ष	NN
-में	PSP
-विभिन्न	JJ
-प्रकार	NN
-के	PSP
-मौसमों	NN
-का	PSP
-अनुभव	NN
-किया	VM
-जा	VAUX
-सकता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0057>
-जलवायु	NN
-में	PSP
-,	SYM
-बडे	JJ
-क्षेत्र	NN
-की	PSP
-लम्बी	JJ
-अवधि	NN
-की	PSP
-मौसम	JJC
-संबंधी	JJ
-दशाओं	NN
-के	PSP
-औसत	NN
-का	PSP
-अध्ययन	NN
-किया	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0058>
-जलवायु	NNC
-वायुमण्डल	NN
-के	PSP
-विभिन्न	JJ
-तत्त्वों	NN
-के	PSP
-संयुक्त	JJ
-प्रभाव	NN
-की	PSP
-देन	NN
+सबसे	INTF
+प्रमुख	JJ
+घटक	NN
+वनस्पति	NN
 है	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0059>
-यह	PRP
-लगभग	NN
-स्थायी	JJ
+<sent_id=Geo_nios_15ch_0037b>
+क्योंकि	CC
+वनस्पति	NN
+और	CC
+जलवायु	NN
+का	PSP
+घनिष्ट	JJ
+संबंध	NN
 है	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0060>
-जलवायु	NN
-के	PSP
-प्रभाव	NN
+<sent_id=Geo_nios_15ch_0038>
+इसीलिए	PRP
+विश्व	NN
 को	PSP
-किसी	PRP
-महाद्वीप	NN
+जलवायु	NN
 के	PSP
-विशाल	JJ
-क्षेत्र	NN
+अनुसार	PSP
+विभिन्न	JJ
+जीवोमों	NN
 में	PSP
-देखा	VM
-जा	VAUX
-सकता	VAUX
+बांटा	VM
+जाता	VAUX
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0061>
-किसी	PRP
-स्थान	NN
-पर	PSP
-एक	QC
-ही	RP
-प्रकार	NN
-की	PSP
+<sent_id=Geo_nios_15ch_0039>
+पुनः	RB
+इन	DEM
 जलवायु	NN
+आधारित	JJ
+जीवोमों	NN
+को	PSP
+वनस्पति	NN
+के	PSP
+आधार	NN
+पर	PSP
+विभिन्न	JJ
+उप	NNC
+विभागों	NN
+में	PSP
+बाँटा	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0040>
+आप	PRP
+नीचे	NST
+दी	VM
+गई	VAUX
+सारणी	NNC
+संख्या	NN
+15	QC
+.	SYM
+1	QC
+देखिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0041a>
+सारणी	NN
+15	QC
+.	SYM
+1	QC
+से	PSP
+यह	PRP
+बिल्कुल	RB
+स्पष्ट	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0041b>
+कि	CC
+विश्व	NN
+के	PSP
+विभिन्न	JJ
+भागों	NN
+में	PSP
+बहुत	QF
+से	RP
+जीवोम	NN
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0042>
+विस्तृत	JJ
+अध्ययन	NN
+के	PSP
+लिए	PSP
+तीन	QC
+जीवोम	NN
+अर्थात्	CC
+प्रत्येक	QF
+जलवायविक	JJ
+कटिबन्ध	NN
+से	PSP
+एक	QC
+जीवोम	NN
+को	PSP
+चुना	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0043>
+वे	PRP
+तीन	QC
+जीवोम	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0044>
+यह	PRP
+जीवोम	NN
+विषुवत	NNPC
+वृत्त	NN
+के	PSP
+दोनों	QC
+ओर	NST
+10°	QO
+अक्षांश	NN
+तक	PSP
+विस्तृत	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0045>
+इसके	PRP
+अंतर्गत	PSP
+दक्षिण	NNPC
+अमेरिका	NNP
+की	PSP
+अमेजन	NNPC
+बेसिन	NNP
+की	PSP
+निम्न	JJ
+भूमि	NN
+,	SYM
+विषुवतीय	JJ
+अफ्रीका	NNP
+का	PSP
+कांगो	NNPC
+बेसिन	NN
+और	CC
+दक्षिण	NNPC
+पूर्वी	NNPC
+एशिया	NNP
+के	PSP
+द्वीपों	NN
+(	SYM
+सुमात्रा	NNP
+से	PSP
+न्यूगिनी	NNP
+तक	PSP
+)	SYM
+के	PSP
+क्षेत्र	NN
+सम्मिलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0046>
+ये	DEM
+क्षेत्र	NN
+चित्र	NN
+15	QC
+.	SYM
+2	QC
+में	PSP
+दिखाए	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0047a>
+इस	DEM
+क्षेत्र	NN
+में	PSP
+वर्ष	NN
+भर	RP
+तापमान	NN
+ऊँचा	JJ
+रहता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0047b>
+तथा	CC
+वार्षिक	JJ
+ताप	NN
+परिसर	NN
+20	QC
+सेल्सियस	NN
+तक	PSP
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0048>
+यहॉं	PRP
+दैनिक	NNPC
+ताप	NNPC
+परिसर	NNPC
+वार्षिक	JJ
+ताप	NNC
+परिसर	NN
+की	PSP
+अपेक्षा	NN
+अधिक	QF
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0049>
+इस	DEM
+क्षेत्र	NN
+में	PSP
+भारी	JJ
+वर्षा	NN
+150	QC
+सें	VM
+.	SYM
+मी	SYM
+.	SYM
+से	PSP
+250	QC
+सें	VAUX
+.	SYM
+मी	SYM
+.	SYM
+के	PSP
+बीच	NST
 होती	VM
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0062>
-आप	PRP
-निम्न	PRP
-में	PSP
-से	PSP
-प्रत्येक	NN
+<sent_id=Geo_nios_15ch_0050>
+वर्षा	NN
+वर्ष	NN
+भर	RP
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0051>
+वर्षा	NN
+प्रायः	RB
+प्रतिदिन	NN
+दोपहर	NN
 के	PSP
-सामने	NST
-कोष्ठकों	NN
+बाद	NST
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0052a>
+अधिक	QF
+तापमान	NN
+के	PSP
+कारण	PSP
+अधिक	QF
+मात्रा	NN
 में	PSP
-दिए	VM
+जलवाष्प	NN
+वायुमंडल	NN
+में	PSP
+पहुँच	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0052b>
+इसलिए	PRP
+यहाँ	PRP
+अधिक	QF
+वर्षा	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0053a>
+यह	DEM
+क्षेत्र	NN
+सम	SYM
+जलवायु	NN
+वाला	PSP
+क्षेत्र	NN
+समझा	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0053b>
+क्योंकि	CC
+तापमान	NN
+और	CC
+वर्षा	NN
+दोनों	QC
+ही	RP
+पूरे	JJ
+वर्ष	NN
+अधिक	QF
+रहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0054>
+गर्मी	NN
+और	CC
+आर्द्रता	NN
+के	PSP
+संयोजन	NN
+ने	PSP
+इस	DEM
+जीवोम	NN
+को	PSP
+अनेक	QF
+प्रकार	NN
+के	PSP
+पौधों	NN
+और	CC
+पशु	JJ
+प्रजातियों	NN
+के	PSP
+लिए	PSP
+एक	QC
+आदर्श	JJ
+पर्यावरण	NN
+प्रदान	NN
+किया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0055a>
+पौधों	NN
+की	PSP
+प्रजातियों	NN
+की	PSP
+विभिन्नता	NN
+इस	DEM
+तथ्य	NN
+से	PSP
+पता	NN
+यह	PRP
+चलती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0055b>
+कि	CC
+एक	QC
+वर्ग	NNC
+किलोमीटर	NN
+के	PSP
+क्षेत्र	NN
+में	PSP
+पौधों	NN
+की	PSP
+लगभग	RP
+एक	QCC
+हजार	QC
+प्रजातियाँ	NN
+मिलती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0056>
+अधिकतर	JJ
+वृक्षों	NN
+के	PSP
+तने	NN
+चिकने	JJ
+,	SYM
+उथली	JJ
+जडें	NN
+एवं	CC
+चैडी	NN
+सदाबहार	JJ
+पत्तियाँ	NN
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0057>
+सदाहरित	JJ
+वर्षावनों	NN
+को	PSP
+तीन	QC
+स्तरों	NN
+में	PSP
+बाँटा	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0058>
+छतरी	NN
+अथवा	CC
+ऊपरी	JJ
+स्तर	NN
+जहाँ	PRP
+पर	PSP
+वृक्ष	NN
+लगभग	RP
+20	QC
+से	PSP
+50	QC
+मीटर	NN
+तक	PSP
+ही	RP
+ऊँचे	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0059>
+इनमें	PRP
+अधिकतर	JJ
+वृक्ष	NN
+कठोर	JJ
+लकडी	NN
+वाले	PSP
+होते	VM
+हैं	VAUX
+जैसे	RB
+एबोनी	NNP
+,	SYM
+महोगनी	NN
+,	SYM
+रोजवुड	NN
+,	SYM
+संदलवुड	NNP
+,	SYM
+सिनकोना	NNP
+आदि	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0060>
+मध्यवर्ती	JJ
+भाग	NN
+का	PSP
+द्वितीय	JJ
+स्तर	NN
+जहाँ	PRP
+पर	PSP
+वृक्ष	NN
+लगभग	RP
+10	QC
+मीटर	NN
+से	PSP
+20	QC
+मीटर	NN
+तक	PSP
+ऊँचे	JJ
+होते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0061>
+इस	DEM
+समूह	NN
+का	PSP
+सबसे	INTF
+महत्वपूर्ण	JJ
+वृक्ष	NN
+ताड	NN
+का	PSP
+वृक्ष	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0062>
+ताड	NN
+के	PSP
+वृक्षों	NN
+के	PSP
+अतिरिक्त	PSP
+इस	DEM
+परत	NN
+में	PSP
+अधिपादप	NN
+और	CC
+परजीवी	NNC
+पौधे	NN
+भी	RP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0063>
+तीसरा	QO
+अथवा	CC
+निम्न	JJ
+स्तर	NN
+पर	PSP
+वृक्षों	NN
+की	PSP
+ऊँचाई	NN
+धरातल	NN
+से	PSP
+लगभग	RP
+10	QC
+मीटर	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0064>
+इस	DEM
+वर्ग	NN
+के	PSP
+अंतर्गत	PSP
+विभिन्न	JJ
+प्रकार	NN
+के	PSP
+पौधे	NN
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+जैसे	PSP
+आर्किड	NN
+,	SYM
+पर्णांण	NNP
+,	SYM
+जडी-बूटी	NN
+,	SYM
+केले	NN
+तथा	CC
+अनन्नास	NN
+आदि	RP
+के	PSP
+पौधे	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0065>
+ऊँचे	JJ
+तथा	CC
+चैडी	JJ
+पत्ती	NN
+वाले	PSP
+घने	JJ
+वृक्षों	NN
+के	PSP
+कारण	PSP
+सूर्य	NN
+की	PSP
+रोशनी	NN
+निम्न	JJ
+स्तर	NN
+अर्थात	SYM
+धरातल	NN
+तक	PSP
+नहीं	NEG
+पहुँच	VM
+पाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0066>
+इस	DEM
+स्तर	NN
+पर	PSP
+प्रकाश	NNC
+संश्लेषण	NN
+की	PSP
+प्रक्रिया	NN
+कम	QF
+होने	VM
+के	PSP
+कारण	PSP
+पौधों	NN
+की	PSP
+प्रजातियाँ	NN
+की	PSP
+संख्या	NN
+बहुत	INTF
+कम	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0067>
+वनस्पति	NN
+की	PSP
+तरह	PSP
+सदाहरित	JJ
+वर्षा	NN
+वनों	NN
+में	PSP
+असंख्य	JJ
+पक्षी	NN
+,	SYM
+स्तनधारी	JJ
+जीव	NN
+,	SYM
+कीट-पतंगे	NN
+आदि	RP
+रहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0068>
+इस	DEM
+जीवोम	NN
+के	PSP
+कुछ	QF
+महत्वपूर्ण	JJ
+प्राणी	NN
+हैं	VM
+-	SYM
+जगुआर	NN
+,	SYM
+लैमूर	NNP
+,	SYM
+ओरांग	NNPC
+उटान	NNP
+,	SYM
+हाथी	NN
+आदि	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0069>
+मकाऊ	NNPC
+तोता	NN
+,	SYM
+शाखालंबी	NN
+और	CC
+टूकन	NNP
+इस	DEM
+क्षेत्र	NN
+के	PSP
+कुछ	QF
+महत्वपूर्ण	JJ
+पक्षी	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0070>
+अधिकतर	JJ
+पक्षी	NN
+चटकीले	JJ
+रंग	NN
+के	PSP
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0071>
+विषुवतीय	JJ
+क्षेत्रों	NN
+के	PSP
+जलीय	JJ
+भाग	NN
+प्राणि	NN
+जीवन	NN
+में	PSP
+धनी	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0072>
+यहाँ	PRP
+पर	PSP
+कछुए	NN
+,	SYM
+घडियाल	NN
+,	SYM
+मछलियाँ	NN
+,	SYM
+मेंढक	NN
+,	SYM
+दरियाई	JJ
+घोडा	NN
+आदि	RP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0073>
+निचले	JJ
+भाग	NN
+में	PSP
+घनी	JJ
+वनस्पति	NN
+और	CC
+अप्रवेश्य	JJ
+होने	VM
+के	PSP
+कारण	PSP
+अधिकतर	JJ
+कीट	NN
+पतंगे	NN
+,	SYM
+और	CC
+प्राणी	NN
+वृक्षों	NN
+की	PSP
+शाखाओं	NN
+पर	PSP
+रहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0074>
+सामान्यता	NN
+ये	DEM
+धरातल	NN
+पर	PSP
+नीचे	NST
+नहीं	NEG
+आते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0075>
+उष्ण	NNC
+कटिबन्धीय	JJ
+वर्षा	NN
+वनों	NN
+में	PSP
+उत्पादकता	NN
+विश्व	NN
+के	PSP
+सभी	QF
+प्रकार	NN
+के	PSP
+जीवोमों	NN
+से	PSP
+अधिक	QF
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0076a>
+वर्षावन	NNPC
+जीवोम	NNPC
+विश्व	NNP
+के	PSP
+कुल	QF
+भौगोलिक	JJ
+क्षेत्रफल	NN
+के	PSP
+केवल	RP
+13	QC
+प्रतिशत	NN
+भाग	NN
+पर	PSP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+;	CC
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0076b>
+परंतु	CC
+ये	DEM
+जीवोम	NN
+विश्व	NN
+की	PSP
+कुल	QF
+उत्पादकता	NN
+के	PSP
+40	QC
+प्रतिशत	NN
+के	PSP
+लिए	PSP
+जिम्मेदार	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0077>
+मानव	NN
+ने	PSP
+विभिन्न	JJ
+विकासात्मक	JJ
+अनुक्रियाओं	NN
+द्वारा	PSP
+जैविक	JJ
+रूप	NN
+से	PSP
+धनी	JJ
+इस	DEM
+पारितंत्रा	NN
+को	PSP
+भी	RP
+क्षति	NN
+पहुँचानी	VM
+प्रारंभ	NN
+कर	VM
+दी	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0078a>
+इन	DEM
+अनुक्रियाओं	NN
+में	PSP
+विशाल	JJ
+बाँधों	NN
+,	SYM
+जलाशयों	NN
+,	SYM
+सडकों	NN
+और	CC
+राजमार्गों	NN
+का	PSP
+बनना	VM
+,	SYM
+इमारती	JJ
+लकडी	NN
+के	PSP
+लिए	PSP
+जंगलों	NN
+का	PSP
+काटना	VM
+,	SYM
+घास	NN
+मैदानों	NN
+और	CC
+फसलां	NN
+के	PSP
+लिए	PSP
+वनों	NN
+को	PSP
+साफ	JJ
+करना	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0078b>
+तथा	CC
+भूमिहीन	JJ
+किसानों	NN
+द्वारा	PSP
+वनों	NN
+की	PSP
+सफाई	NN
+करके	VM
+जबरदस्ती	RB
+भूमि	NN
+कब्जाना	NN
+आदि	RP
+सम्मलित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0079a>
+पारिस्थितिकी	NNC
+विज्ञानी	NN
+यह	PRP
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0079b>
+कि	CC
+अगर	CC
+वनों	NN
+का	PSP
+सफाया	NN
+इसी	DEM
+दर	NN
+से	PSP
+होता	VM
+रहा	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0079c>
+तो	CC
+विश्व	NN
+के	PSP
+वर्षा	NN
+वनों	NN
+के	PSP
+सन्	NN
+2020	NNP
+तक	PSP
+गायब	JJ
+हो	VM
+जाने	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0079d>
+अथवा	CC
+नष्ट	JJ
+हो	VM
+जाने	VAUX
+की	PSP
+संभावना	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0080>
+इससे	PRP
+जैविक	JJ
+संपत्ति	NN
+की	PSP
+अपूर्णनीय	JJ
+क्षति	NN
+होगी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0081>
+वर्षा	NN
+वनों	NN
+में	PSP
+पौधों	NN
+और	CC
+पशुओं	NN
+की	PSP
+सम्पूर्ण	JJ
+ज्ञात	JJ
+प्रजातियों	NN
+का	PSP
+40	QC
+प्रतिशत	NN
+भाग	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0082>
+वर्षा	NN
+वनों	NN
+के	PSP
+सफाये	NN
+से	PSP
+मूल्यवान	JJ
+प्राकृतिक	JJ
+संसाधनों	NN
+जैसे	PSP
+कठोर	JJ
+लकडी	NN
+के	PSP
+वृक्ष	NN
+और	CC
+वृक्ष	NNC
+उत्पाद	NN
+जैसे	PSP
+कुनैन	NN
+,	SYM
+रबड	NN
+,	SYM
+वनस्पतिक	JJ
+गोंद	NN
+आदि	RP
+नहीं	NEG
+मिल	VM
+सकेंगे	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0083>
+यह	DEM
+क्षति	NN
+केवल	RP
+पारिस्थिक	NN
+ही	RP
+नहीं	NEG
+बल्कि	CC
+इससे	PRP
+बडे	JJ
+पर्यावर्णीय	JJ
+दुष्परिणाम	NN
+होंगे	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0084>
+सदाहरित	NNPC
+वन	NNPC
+भूमंडलीय	JJ
+मौसम	NNC
+प्रतिरूपों	NN
+को	PSP
+नियंत्रित	JJ
+करके	VM
+विविध	JJ
+पर्यावरणीय	JJ
+सेवाएँ	NN
+प्रदान	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0085a>
+प्रमाण	NN
+यह	PRP
+सिद्ध	JJ
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0085b>
+कि	CC
+उष्ण	JJ
+कटिबन्धीय	JJ
+वननाशन	NNP
+ने	PSP
+एक	QC
+महत्वपूर्ण	JJ
+कार्बन	NNC
+सिंक	NN
+को	PSP
+हटाकर	VM
+हरित	JJ
+गृह	NNC
+प्रभाव	NN
+और	CC
+भूमंडलीय	JJ
+तापन	NN
+को	PSP
+पैदा	JJ
+किया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0086>
+आप	PRP
+एक	QC
+वाक्य	NN
+में	PSP
+उत्तर	NN
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0087>
+उत्तरी	JJ
+एवं	CC
+दक्षिणी	JJ
+गोलाद्र्धों	NN
+में	PSP
+उष्णकटिबन्धीय	JJ
+सदाहरित	JJ
+वनों	NN
+का	PSP
+अक्षांशीय	JJ
+विस्तार	NN
+क्या	WQ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0088>
+उष्णकटिबन्धीय	JJ
+सदाहरित	JJ
+वनों	NN
+में	PSP
+दिन	NN
+के	PSP
+किस	WQ
+भाग	NN
+के	PSP
+दौरान	NST
+अधिकांश	QF
+वर्षा	NN
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0089>
+उष्ण	NNC
+कटिबन्धीय	NNPC
+सदाहरित	JJ
+वन	NNP
+जीवोम	NNP
+में	PSP
+पौधों	NN
+की	PSP
+प्रजातियों	NN
+को	PSP
+किन	WQ
+तीन	QC
+स्तरों	NN
+में	PSP
+क्रमबद्ध	JJ
+किया	VM
+है	VAUX
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0090>
+आप	PRP
+उष्णकटिबन्धीय	JJ
+सदाहरित	JJ
+वनों	NN
+में	PSP
+वननाशन	NN
+के	PSP
+लिए	PSP
+उत्तरदायी	JJ
+किन्हीं	JJ
+तीन	QC
+कारकों	NN
+को	PSP
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0091>
+उष्णकटिबन्धीय	JJ
+सदाहरति	NNP
+वनों	NN
+में	PSP
+वननाशन	NNP
+के	PSP
+दो	QC
+मुख्य	JJ
+पर्यावर्णीय	JJ
+दुष्परिणाम	NN
+कौन	WQ
+से	PSP
+हैं	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0092>
+शीतोष्ण	JJ
+कटिबन्धीय	NN
+घासभूमियाँ	NNP
+दो	QC
+विशिष्ट	JJ
+स्थानों	NN
+पर	PSP
+स्थित	JJ
+हैं-	NNP
+उत्तरी	JJ
+गोलार्द्ध	NNP
+में	PSP
+महाद्वीपों	NN
+के	PSP
+आंतरिक	JJ
+भागों	NN
+में	PSP
+और	CC
+दक्षिणी	JJ
+गोलार्द्ध	NNP
+में	PSP
+महाद्वीपों	NN
+के	PSP
+सीमांत	JJ
+प्रदेशों	NN
+में	PSP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0093a>
+इसलिए	PRP
+दक्षिणी	JJ
+गोलार्द्ध	NN
+की	PSP
+शीतोष्ण	JJ
+कटिबन्धीय	JJ
+घासभूमियों	NN
+की	PSP
+जलवायु	NN
+उत्तरी	JJ
+गोलार्द्ध	NNP
+की	PSP
+घासभूमियों	NN
+की	PSP
+अपेक्षा	NN
+संतुलित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0093b>
+क्योंकि	CC
+इनके	PRP
+तट	NN
+के	PSP
+समीप	NST
+होने	VM
+के	PSP
+कारण	PSP
+इन	PRP
+पर	PSP
+समुद्री	JJ
+प्रभाव	NN
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0094>
+उत्तरी	JJ
+गोलार्द्ध	NNP
+की	PSP
+घासभूमियों	NN
+की	PSP
+विशेषता	NN
+उनकी	PRP
+महाद्वीपीय	JJ
+जलवायु	NN
+है	VM
+,	SYM
+जहाँ	PRP
+पर	PSP
+गर्मियों	NN
+में	PSP
+अधिक	QF
+तापमान	NN
+और	CC
+शीत	NN
+ऋतु	NN
+में	PSP
+तापमान	NN
+हिमांक	NNC
+बिन्दु	NN
+से	PSP
+नीचे	NST
+चला	VM
+जाता	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0095a>
+हालांकि	CC
+दक्षिणी	JJ
+गोलार्द्ध	NNP
+की	PSP
+घासभूमियाँ	NNPC
+तट	NN
+के	PSP
+साथ	NST
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0095b>
+परन्तु	CC
+ये	PRP
+ऊँचे	JJ
+तटवर्ती	JJ
+पर्वतों	NN
+के	PSP
+वृष्टि	NN
+छाया	NNC
+क्षेत्रों	NN
+में	PSP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0096>
+इसलिए	PRP
+यहाँ	PRP
+पर	PSP
+वर्षा	NN
+बहुत	INTF
+कम	QF
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0097>
+ये	DEM
+घासभूमियाँ	NN
+सभी	QF
+महाद्वीपों	NN
+में	PSP
+पाई	VM
+जाती	VAUX
+हैं	VAUX
+,	SYM
+जो	PRP
+भिन्न-भिन्न	JJ
+नामों	NN
+से	PSP
+जानी	VM
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0098>
+उत्तरी	JJ
+गोलार्द्ध	NNP
+में	PSP
+ये	DEM
+घासभूमियाँ	NN
+काफी	QF
+विस्तृत	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0099>
+यूरेशिया	NNP
+महाद्वीप	NN
+में	PSP
+इन्हें	PRP
+स्टेपी	NNP
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0100>
+ये	DEM
+काला	JJ
+सागर	NNP
+के	PSP
+तट	NN
+से	PSP
+पूर्व	NST
+की	PSP
+ओर	NST
+चीन	NNP
+में	PSP
+मंचूरिया	NNP
+के	PSP
+मैदान	NN
+तक	PSP
+विस्तृत	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0101a>
+उत्तरी	JJ
+अमेरिका	NNP
+में	PSP
+ये	DEM
+घासभूमियाँ	NN
+काफी	QF
+बडे	JJ
+क्षेत्र	NN
+पर	PSP
+फैली	VM
+हुई	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0101b>
+तथा	CC
+इन्हें	PRP
+यहाँ	PRP
+प्रेयरी	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0102>
+ये	DEM
+क्षेत्र	NN
+राकी	NNPC
+पर्वत	NNP
+और	CC
+महान	JJ
+झीलों	NN
+के	PSP
+बीच	NST
+विस्तृत	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0103>
+दक्षिणी	JJ
+गोलार्द्ध	NNP
+में	PSP
+ये	DEM
+घासभूमियाँ	NN
+उतनी	QF
+विस्तृत	JJ
+नहीं	NEG
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0104>
+अर्जेन्टीना	NNP
+और	CC
+उरूग्वे	NNP
+में	PSP
+इन	DEM
+घासभूमियों	NN
+को	PSP
+पम्पास	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0105a>
+दक्षिण	NNPC
+अफ्रीका	NNP
+में	PSP
+ये	DEM
+घासभूमियाँ	NN
+ड्रेकन्सबर्ग	NNPC
+पर्वत	NN
+और	CC
+कालाहारी	NNPC
+मरुस्थल	NN
+के	PSP
+बीच	NST
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0105b>
+तथा	CC
+इन्हें	PRP
+यहाँ	PRP
+वेल्ड	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0106a>
+आस्ट्रेलिया	NNP
+में	PSP
+इन	DEM
+घासभूमियों	NN
+को	PSP
+डाउन्स	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0106b>
+तथा	CC
+ये	DEM
+दक्षिण	NNPC
+आस्ट्रेलिया	NNP
+में	PSP
+मरे-डार्लिंग	NNP
+नदियों	NN
+की	PSP
+द्रोणी	NN
+में	PSP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0107a>
+ये	DEM
+सभी	QF
+घासभूमियाँ	NN
+शीतोष्ण	JJ
+कटिबन्ध	NN
+में	PSP
+स्थित	JJ
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0107b>
+इसलिए	PRP
+इन्हें	PRP
+शीतोष्ण	JJ
+कटिबन्धीय	JJ
+घासभूमियाँ	NN
+भी	RP
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0108a>
+यहाँ	PRP
+पर	PSP
+वर्षा	NN
+की	PSP
+मात्रा	NN
+इतनी	INTF
+कम	QF
+यह	PRP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0108b>
+कि	CC
+पेड	NN
+नहीं	NEG
+उग	VM
+सकते	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0108c>
+परंतु	CC
+वर्षा	NN
+की	PSP
+मात्रा	NN
+घास	NN
+उगने	VM
+के	PSP
+लिए	PSP
+पर्याप्त	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0109>
+इसलिए	PRP
+इन	DEM
+प्रदेशों	NN
+की	PSP
+प्राकृतिक	JJ
+वनस्पति	NNC
+वृक्ष	NN
+रहित	JJ
+घासभूमियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0110>
+वृक्ष	NN
+केवल	RP
+पहाडी	JJ
+ढलानों	NN
+पर	PSP
+दिखाई	VM
+देते	VAUX
+हैं	VAUX
+,	SYM
+जहाँ	PRP
+पर	PSP
+वर्षा	NN
+की	PSP
+मात्रा	NN
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0111>
+वर्षा	NN
+की	PSP
+मात्रा	NN
+और	CC
+मृदा	NN
+के	PSP
+उपजाऊपन	NN
+के	PSP
+अनुसार	PSP
+घास	NN
+की	PSP
+ऊँचाई	NN
+स्थान-स्थान	NN
+पर	PSP
+भिन्न-भिन्न	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0112>
+स्टेपी	NNP
+घासभूमियों	NN
+की	PSP
+छोटी	JJ
+एवं	CC
+पौष्टिक	JJ
+घास	NN
+विशेष	JJ
+रूप	NN
+से	PSP
+उल्लेखनीय	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0113>
+इन	DEM
+प्रदेशों	NN
+में	PSP
+घास	NN
+के	PSP
+उगने	VM
+का	PSP
+समय	NN
+ऋतुओं	NN
+के	PSP
+अनुसार	PSP
+भिन्न-भिन्न	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0114>
+वसन्त	NNPC
+ऋतु	NNP
+प्रारंभ	NN
+होते	VM
+ही	RP
+छोटी	JJ
+घास	NN
+हरी	JJ
+भरी	VM
+,	SYM
+ताजी	JJ
+तथा	CC
+छोटे-छोटे	JJ
+विभिन्न	JJ
+रंगों	NN
+के	PSP
+फूलों	NN
+से	PSP
+सुन्दर	JJ
+दिखायी	NN
+देने	VAUX
+लगती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0115a>
+ग्रीष्म	NNPC
+ऋतु	NN
+में	PSP
+अधिक	QF
+तापमान	NN
+और	CC
+अधिक	QF
+वाष्पीकरण	NN
+होने	VM
+के	PSP
+कारण	PSP
+हरी	JJ
+घास	NN
+बिल्कुल	RB
+मुरझाकर	VM
+समाप्त	JJ
+हो	VM
+जाती	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0115b>
+लेकिन	CC
+इस	DEM
+घास	NN
+की	PSP
+जडें	NN
+धरातल	NN
+में	PSP
+जिन्दा	JJ
+रहती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0115c>
+और	CC
+पूरी	JJ
+शीत	NNC
+ऋतु	NN
+में	PSP
+निष्क्रिय	JJ
+पडी	VM
+रहती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0116>
+जैसे	RB
+ही	RP
+बसन्त	NNPC
+ऋतु	NNP
+प्रारंभ	NN
+होती	VM
+है	VAUX
+,	SYM
+ये	PRP
+फिर	RB
+हरी	JJ
+भरी	VM
+हो	VAUX
+जाती	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0117>
+ये	DEM
+घासभूमियाँ	NN
+विभिन्न	JJ
+प्रकार	NN
+के	PSP
+जीवों	NN
+के	PSP
+प्राकृतिक	JJ
+आवास	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0118>
+इनमें	PRP
+से	PSP
+प्रमुख	NN
+हैं	VM
+हिरण	NN
+,	SYM
+जंगली	JJ
+गधे	NN
+,	SYM
+घोडे	NN
+,	SYM
+भेडिया	NN
+,	SYM
+कंगारू	NNP
+,	SYM
+ऐमू	NNP
+तथा	CC
+डिंमू	NNP
+अथवा	CC
+जंगली	JJ
+कुत्ता	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0119>
+कोई	PRP
+अन्य	JJ
+जीवोम	NN
+इतने	QF
+परिवर्तनों	NN
+से	PSP
+नहीं	NEG
+गुजरा	VM
+जितना	PRP
+कि	CC
+शीतोष्ण	JJ
+कटिबन्धीय	JJ
+घासभूमि	NNP
+जीवोम	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0120>
+यह	DEM
+सब	PRPC
+कुछ	QF
+मानवीय	JJ
+अनुक्रियाओं	NN
+के	PSP
+कारण	PSP
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0121>
+अधिकतर	JJ
+घासभूमियों	NN
+को	PSP
+कृषि	NNC
+भूमियों	NN
+में	PSP
+बदल	VM
+दिया	VAUX
+गया	VAUX
+है	VAUX
+,	SYM
+जो	PRP
+अब	PRP
+विश्व	NN
+के	PSP
+प्रसिद्ध	JJ
+अनाज	NNC
+भंडार	NN
+बन	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0122>
+दूसरा	QO
+निर्णायक	JJ
+कारक	NN
+जो	PRP
+इस	PRP
+अछूती	VM
+भूमि	NN
+को	PSP
+बदलने	VM
+के	PSP
+लिए	PSP
+उत्तरदायी	JJ
+है	VM
+वह	PRP
+है-	JJ
+पशुचारण	NN
+अथवा	CC
+पशुपालन	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0123>
+आज	NN
+इस	DEM
+तरह	NN
+की	PSP
+अछूती	VM
+घासभूमि	NN
+मुश्किल	NN
+से	PSP
+देखने	VM
+को	PSP
+मिलती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0124a>
+बडे	JJ
+पैमाने	NN
+पर	PSP
+जानवरों	NN
+के	PSP
+शिकार	NN
+करने	VM
+के	PSP
+कारण	PSP
+कुछ	QF
+जानवरों	NN
+की	PSP
+संख्या	NN
+बहुत	INTF
+कम	QF
+हो	VM
+गई	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0124b>
+और	CC
+कुछ	QF
+जीव	NN
+विलुप्त	JJ
+हो	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0125>
+उदाहरण	NN
+के	PSP
+लिए	PSP
+बहुत	QF
+से	RP
+जानवरों	NN
+की	PSP
+प्रजातियाँ	NN
+जैसे	RB
+हिरण	NN
+,	SYM
+जेबरा	NN
+,	SYM
+शेर	NN
+,	SYM
+तेंदुआ	NNP
+आदि	RP
+यूरोपियन	JJ
+अप्रवासियों	NN
+द्वारा	PSP
+बडे	JJ
+पैमाने	NN
+पर	PSP
+शिकार	NN
+करने	VM
+के	PSP
+कारण	PSP
+अफ्रीकन	NNPC
+वेल्ड	NN
+से	PSP
+गायब	JJ
+हो	VM
+गए	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0126>
+यहाँ	PRP
+पर	PSP
+प्राणी	NN
+और	CC
+पौधों	NN
+की	PSP
+नई	JJ
+प्रजातियों	NN
+के	PSP
+प्रारंभ	NN
+करने	VM
+से	PSP
+देसी	JJ
+वनस्पति	NN
+का	PSP
+संघटन	NN
+बिल्कुल	RB
+परिवर्तित	JJ
+हो	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0127>
+उदाहरण	NN
+के	PSP
+लिए	PSP
+आस्ट्रेलिया	NNP
+में	PSP
+यूरोपियन	JJ
+लोगों	NN
+द्वारा	PSP
+भेड	NN
+पालन	NN
+शुरू	NN
+करने	VM
+के	PSP
+कारण	PSP
+वनस्पति	NNC
+संघटन	NN
+बदल	VM
+गया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0128>
+पहले	NST
+की	PSP
+वनस्पति	NN
+यहाँ	PRP
+के	PSP
+देसी	JJ
+धानी	NNP
+प्राणियों	NN
+के	PSP
+लिए	PSP
+उपयुक्त	JJ
+थी	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0129>
+इसी	DEM
+तरह	NN
+आस्ट्रेलिया	NNP
+की	PSP
+शीतोष्ण	JJ
+कटिबन्धीय	JJ
+घासभूमियों	NN
+में	PSP
+फलीदार	JJ
+वृक्षों	NN
+की	PSP
+खेती	NN
+प्रारंभ	NN
+करने	VM
+के	PSP
+कारण	PSP
+देसी	JJ
+सदाबहारी	JJ
+घासों	NN
+की	PSP
+सैकडों	QC
+प्रजातियाँ	NN
+दबकर	VM
+रह	VM
+गई	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0130>
+आप	PRP
+कोष्ठक	NN
+में	PSP
+दिये	VM
+गए	VAUX
 शब्दों	NN
 में	PSP
 से	PSP
-उचित	JJ
+उपयुक्त	JJ
 शब्द	NN
 चुनकर	VM
 रिक्त	JJ
@@ -1425,2854 +2877,1842 @@
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0063>
-संसार	NN
-के	PSP
-विभिन्न	JJ
-प्रदेशों	NN
+<sent_id=Geo_nios_15ch_0131a>
+यह	PRP
+वास्तव	NN
 में	PSP
-तापमान	NN
-,	SYM
-आर्द्रता	NN
-एवं	CC
-वर्षण	NN
-में	PSP
-अन्तर	NN
-पाया	VM
-जाता	VAUX
+एक	QC
+ठंडा	JJ
+मरुस्थल	NN
+है	VM
+जिसमें	PRP
+वायुमंडलीय	JJ
+नमी	NN
+नगण्य	JJ
+होती	VM
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0064a>
-आप	PRP
+<sent_id=Geo_nios_15ch_0131b>
+और	CC
+ग्रीष्म	NNPC
+ऋतु	NN
+इतनी	QF
+छोटी	JJ
+और	CC
+ठंडी	NN
 यह	PRP
-जानते	VM
-हैं	VAUX
+होती	VM
+है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0064b>
+<sent_id=Geo_nios_15ch_0131c>
 कि	CC
-ये	DEM
-अन्तर	NN
-विभिन्न	JJ
-जलवायु	NNC
-दशाओं	NN
+वृक्ष	NN
+अपने	PRP
+आपको	PRP
+बनाए	VM
+रखने	VAUX
 में	PSP
-रहने	VM
-वाले	PSP
-लोगों	NN
-के	PSP
-रहन-सहन	NN
-के	PSP
-तौर-तरीकों	NN
-को	PSP
-प्रभावित	JJ
-करते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0065a>
-विभिन्न	JJ
-जलवायु	NNC
-दशाओं	NN
-को	PSP
-समझने	VM
-से	PSP
-पूर्व	NST
-हमारे	PRP
-लिये	PSP
-यह	PRP
-जरूरी	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0065b>
-कि	CC
-हम	PRP
-उन	DEM
-सभी	QF
-कारकों	NN
-को	PSP
-जानें	VM
-जो	PRP
-किसी	PRP
-स्थान	NN
-या	CC
-प्रदेश	NNP
-की	PSP
-जलवायु	NN
-को	PSP
-प्रभावित	JJ
-करते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0066>
-विषुवत	NNPC
-वृत्त	NN
-के	PSP
-निकटवर्ती	JJ
-स्थान	NN
-दूरस्थ	JJ
-स्थानों	NN
-की	PSP
-अपेक्षा	NN
-अधिक	QF
-गर्म	JJ
+असमर्थ	JJ
 होते	VM
 हैं	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0067>
-इसका	PRP
-प्रमुख	JJ
-कारण	NN
-विषुवत्	NNPC
-वृत्त	NN
-पर	PSP
-सूर्य	NN
-की	PSP
-किरणें	NN
-हमेशा	RB
-लगभग	RP
-लम्बवत्	NN
-पडती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0068>
-शीतोष्ण	NN
-और	CC
-ध्रुवीय	JJ
-कटिबन्धों	NN
-में	PSP
-सूर्य	NN
-की	PSP
-किरणें	NN
-तिरछी	VM
-पडती	VAUX
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0069a>
-हम	PRP
-पहले	NST
+<sent_id=Geo_nios_15ch_0132>
 यह	PRP
-पढ	VM
-चुके	VAUX
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0069b>
-कि	CC
-किसी	PRP
-भी	RP
-क्षेत्र	NN
-में	PSP
-लम्बवत्	JJ
-किरणें	NN
-तिरछी	JJ
-किरणों	NN
-की	PSP
-अपेक्षा	NN
-अधिक	QF
-सकेन्द्रिक	NN
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0070>
-इसके	PRP
-अतिरिक्त	PSP
-तिरछी	JJ
-किरणों	NN
-की	PSP
-अपेक्षा	PSP
-लम्बवत्	JJ
-किरणों	NN
-को	PSP
-धरातल	NN
-पर	PSP
-पहुँचने	VM
-में	PSP
-वायुमण्डल	NN
-की	PSP
-कम	QF
-दूरी	NN
-तय	JJ
-करनी	VM
-पडती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0071a>
-यही	DEM
-कारण	NN
-यह	PRP
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0071b>
-कि	CC
-निम्न	JJ
-अक्षांशों	NN
-में	PSP
-उच्च	JJ
-अक्षांशों	NN
-की	PSP
-अपेक्षा	NN
-तापमान	NN
-ऊँचा	JJ
-रहता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0072>
-विषुवत्	NNPC
-वृत्त	NN
-के	PSP
-निकट	NST
-होने	VM
-के	PSP
-कारण	PSP
-मलेशिया	NNP
-में	PSP
-इंग्लैंड	NNP
-(	SYM
-विषुवत	NNPC
-वृत्त	NN
-से	PSP
-दूर	NST
-)	SYM
-की	PSP
-अपेक्षा	NN
-अधिक	QF
-गर्मी	NN
-पडती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0073a>
-हम	PRP
-सब	PRPC
-यह	PRP
-जानते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0073b>
-कि	CC
-पर्वतों	NN
-पर	PSP
-मैदानों	NN
-की	PSP
-अपेक्षा	NN
-अधिक	QF
-ठण्ड	NN
-रहती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0074>
-शिमला	NNP
-अधिक	QF
-ऊँचाई	NN
-पर	PSP
-स्थित	JJ
-होने	VM
-के	PSP
-कारण	PSP
-ही	RP
-जालन्धर	NNP
-की	PSP
-अपेक्षा	NN
-अधिक	QF
-ठण्डा	JJ
-है	VM
-यद्यपि	CC
-दोनों	QC
-नगर	NN
-एक	QC
-ही	RP
-अक्षांश	NN
-पर	PSP
-स्थित	JJ
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0075>
-तापमान	NNC
-ऊँचाई	NN
-बढने	VM
-के	PSP
-साथ	NST
-घटता	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0076>
-प्रत्येक	QF
-165	QC
-मीटर	NN
-की	PSP
-ऊँचाई	NN
-पर	PSP
-औसतन	RP
-1°	QC
-सेल्सियस	NN
-तापमान	NN
-कम	QF
-हो	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0077>
-इस	DEM
-प्रकार	NN
-ऊँचाई	NN
-बढने	VM
-के	PSP
-साथ-साथ	PSP
-तापमान	NN
-निरन्तर	RB
-कम	QF
-होता	VM
-रहता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0078a>
-जल	NN
-बहुत	QF
-देर	NN
-में	PSP
-गर्म	JJ
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0078b>
-और	CC
-बहुत	QF
-देर	NN
-में	PSP
-ठंडा	JJ
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0079>
-समुद्र	NNC
-तट	NN
-के	PSP
-निकटवर्ती	JJ
-स्थानों	NN
-की	PSP
-जलवायु	NN
-सम	SYM
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0080>
-समुद्र	NN
-के	PSP
-इस	DEM
-समकारी	JJ
-प्रभाव	NN
-के	PSP
-कारण	PSP
-तट	NN
-के	PSP
-निकट	NST
-के	PSP
-स्थानों	NN
-का	PSP
-ताप	NN
-परिसर	NN
-कम	QF
-और	CC
-आरद्रता	NN
-अधिक	QF
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0081>
-महाद्वीपों	NN
-के	PSP
-आन्तरिक	JJ
-भाग	NN
-समुद्र	NN
-के	PSP
-इस	DEM
-समकारी	JJ
-प्रभाव	NN
-से	PSP
-वंचित	JJ
-रहते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0082>
-अत:	NN
-वहाँ	PRP
-ताप	NN
-परिसर	NN
-अधिक	QF
-और	CC
-आर्द्रता	NN
-कम	QF
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0083a>
-उदाहरणार्थ	RB
-मुम्बई	NNP
-और	CC
-नागपुर	NNP
-दोनों	QC
-नगर	NN
-लगभग	RP
-एक	QC
-ही	RP
-अक्षांश	NN
-पर	PSP
-स्थित	JJ
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0083b>
-परन्तु	CC
-समुद्र	NN
-के	PSP
-प्रभाव	NN
-के	PSP
-कारण	PSP
-मुम्बई	NNP
-में	PSP
-नागपुर	NNP
-की	PSP
-अपेक्षा	PSP
-नीचे	NST
-तापमान	NN
-रहते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0083c>
-और	CC
-अधिक	QF
-वर्षा	NN
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0084a>
-समुद्र	NN
-की	PSP
-ओर	NST
-से	PSP
-आने	VM
-वाली	PSP
-पवनें	NNP
-(	SYM
-अभितट	NNPC
-पवनें	NN
-)	SYM
-नमी	NN
-से	PSP
-युक्त	JJ
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0084b>
-और	CC
-वे	PRP
-अपने	PRP
-मार्ग	NN
-में	PSP
-पडने	VM
-वाले	PSP
-क्षेत्रों	NN
-में	PSP
-वर्षा	NN
-करती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0085a>
-महाद्वीपों	NN
-के	PSP
-आन्तरिक	JJ
-भागों	NN
-से	PSP
-समुद्र	NN
-की	PSP
-ओर	NST
-आने	VM
-वाली	PSP
-पवनें	NN
-(	SYM
-अपतट	JJ
-पवनें	NN
-)	SYM
-शुष्क	JJ
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0085b>
-और	CC
-वे	PRP
-वाष्पीकरण	NN
-में	PSP
-सहायक	JJ
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0086>
-भारत	NNP
-में	PSP
-ग्रीष्म	NNPC
-कालीन	JJ
-मानसून	NNC
-पवनें	NNPC
-समुद्र	NN
-से	PSP
-आती	VM
-हैं	VAUX
-,	SYM
-अतः	CC
-वे	PRP
-देश	NN
-के	PSP
-अधिकांश	QF
-क्षेत्र	NN
-पर	PSP
-वर्षा	NN
-करती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0087>
-इसके	PRP
-विपरीत	PSP
-शीतकालीन	JJ
-मानसून	NN
-पवनें	NNPC
-स्थल	NN
-भाग	NN
-से	PSP
-आने	VM
-के	PSP
-कारण	PSP
-सामान्यतया	RB
-शुष्क	JJ
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0088>
-मेघ	NNPC
-विहीन	JJ
-मरुस्थलीय	JJ
-भागों	NN
-में	PSP
-दिन	NN
-के	PSP
-समय	PSP
-वायु	NN
-के	PSP
-अत्यधिक	INTF
-गर्म	JJ
-होने	VM
-के	PSP
-कारण	PSP
-छाया	NN
-में	PSP
-भी	RP
-ऊँचे	JJ
-तापमान	NN
-पाये	VM
-जाते	VAUX
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0089>
-रात	NN
-के	PSP
-समय	PSP
-यह	PRP
-गर्मी	NN
-धरातल	NN
-द्वारा	PSP
-शीघ्र	RB
-विकिरित	JJ
-हो	VM
-जाती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0090>
-अतः	CC
-मरुस्थलों	NN
-में	PSP
-दैनिक	JJ
-ताप	NNC
-परिसर	NN
-अधिक	QF
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0091>
-इसके	PRP
-विपरीत	PSP
-बादलों	NN
-से	PSP
-घिरे	VM
-आकाश	NN
-और	CC
-भारी	JJ
-वर्षा	NN
-के	PSP
-कारण	PSP
-तिरुवनन्तपुरम	NNP
-में	PSP
-ताप	NN
-परिसर	NN
-बहुत	INTF
-कम	QF
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0092>
-समुद्री	JJ
-जल	NN
-में	PSP
-तापमान	NN
-और	CC
-घनत्व	NN
-की	PSP
-समानता	NN
-बनाये	VM
-रखने	VAUX
-में	PSP
-समुद्र	NN
-का	PSP
-जल	NN
-एक	QC
-स्थान	NN
-से	PSP
-दूसरे	QO
-स्थान	NN
-को	PSP
-गतिमान	JJ
-रहता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0093>
-समुद्री	NNC
-धाराएं	NN
-जल	NN
-की	PSP
-गतियाँ	NN
-हैं	VM
-जो	PRP
-उच्च	JJ
-तापमान	NN
-से	PSP
-निम्न	JJ
-तापमान	NN
-तथा	CC
-निम्न	JJ
-तापमान	NN
-से	PSP
-उच्च	JJ
-तापमान	NN
-की	PSP
-ओर	NST
-एक	QC
-निश्चित	JJ
-दिशा	NN
-में	PSP
-बहती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0094a>
-गर्म	JJ
-धाराएं	NN
-तटवर्ती	JJ
-भागों	NN
-के	PSP
-तापमान	NN
-को	PSP
-बढाकर	VM
-कभी-कभी	PRP
-वर्षा	NN
-में	PSP
-सहायक	JJ
-होती	VM
-हैं	VAUX
-;	CC
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0094b>
-जबकि	CC
-ठण्डी	JJ
-समुद्री	JJ
-धाराएं	NN
-तटवर्ती	JJ
-भागों	NN
-का	PSP
-तापमान	NN
-कम	QF
-कर	VM
-,	SYM
-कोहरा	NN
-उत्पन्न	JJ
-करती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0095a>
+जीवोम	NN
 उत्तरी	JJ
-अटलांटिक	NNPC
-महासागर	NNP
-में	PSP
-बर्जन	NNP
-नामक	JJ
-बन्दरगाह	NN
-(	SYM
-नार्वे	NNP
-)	SYM
-गर्म	JJ
-उत्तरी	NNPC
-अंध	JJ
-महासागरीय	JJ
-प्रवाह	NN
-के	PSP
-कारण	PSP
-जाडे	NN
-में	PSP
-बर्फ	NN
-के	PSP
-जमने	VM
-से	PSP
-बचा	VM
-रहता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0095b>
-जबकि	CC
-कनाडा	NNP
-का	PSP
-क्यूबैक	NNPC
-बन्दरगाह	NNPC
-जाडे	NNP
-के	PSP
-महीनों	NN
-में	PSP
-ठण्डी	JJ
-लैब्राडोर	NNP
-धारा	NN
-के	PSP
-प्रभाव	NN
-में	PSP
-आकर	VM
-बर्फ	NN
-से	PSP
-जम	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0096>
-यद्यपि	CC
-क्यूबैक	NNP
-बन्दरगाह	NNP
-अपेक्षाकृत	RB
-निम्न	JJ
-अक्षांशों	NN
-में	PSP
-स्थित	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0097a>
-समुद्र	NN
-की	PSP
-ओर	NST
-से	PSP
-आने	VM
-वाली	PSP
-पवन	NNP
-गर्म	JJ
-धारा	NN
-के	PSP
-ऊपर	NST
-से	PSP
-गुजरते	VM
-समय	PSP
-गर्म	JJ
-हो	VM
-जाती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0097b>
-और	CC
-आन्तरिक	JJ
-भागों	NN
-के	PSP
-तापमान	NN
-को	PSP
-ऊँचा	JJ
-कर	VM
-देती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0098>
-इसी	DEM
-प्रकार	NN
-ठण्डी	JJ
-धाराओं	NN
-के	PSP
-ऊपर	NST
-से	PSP
-गुजरने	VM
-वाली	PSP
-पवनें	NN
-ठण्डी	JJ
-होकर	VM
-आन्तरिक	JJ
-भागो	NN
-में	PSP
-तापमान	NN
-को	PSP
-कम	QF
-करके	VM
-,	SYM
-कोहरा	NN
-और	CC
-धुंध	NN
-उत्पन्न	JJ
-करती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0099>
-पर्वत	NNC
-मालायें	NNPC
-हवाओं	NN
-के	PSP
-रास्ते	NN
-में	PSP
-प्राकृतिक	JJ
-अवरोध	NN
-का	PSP
-कार्य	NN
-करती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0100>
-समुद्र	NN
-की	PSP
-ओर	NST
-से	PSP
-आने	VM
-वाली	PSP
-पवनें	NNP
-मार्ग	NN
-में	PSP
-पर्वतों	NN
-के	PSP
-आने	VM
-पर	PSP
-ऊपर	NST
-चढने	VM
-को	PSP
-बाध्य	JJ
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0101a>
-ऊपर	NST
-चढने	VM
-पर	PSP
-तापमान	NN
-गिरने	VM
-लगता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0101b>
-और	CC
-पवनाभिमुख	JJ
-ढालों	NN
-पर	PSP
-भारी	JJ
-वर्षा	NN
-करती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0102a>
-महान	JJ
-हिमालय	NNP
-वाष्प	NN
-युक्त	JJ
-मानसूनी	JJ
-पवनों	NN
-को	PSP
-तिब्बत	NNP
-जाने	VM
-में	PSP
-रूकावट	NN
-पैदा	JJ
-करते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0102b>
-और	CC
-उत्तर	NNP
-की	PSP
-ओर	NST
-से	PSP
-आने	VM
-वाली	PSP
-ठण्डी	JJ
-हवाओं	NN
-को	PSP
-भारत	NNP
-में	PSP
-आने	VM
-से	PSP
-रोकते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0103a>
-इसी	DEM
-कारण	NN
-से	PSP
-भारत	NNP
+गोलार्द्ध	NNP
 के	PSP
 उत्तरी	JJ
-मैदानों	NN
+भागों	NN
 में	PSP
-भारी	JJ
-वर्षा	NN
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0103b>
-जबकि	CC
-तिब्बत	NNP
-,	SYM
-एक	QC
-स्थायी	JJ
-वृष्टि	NN
-छाया	NN
-प्रदेश	NNP
-बना	VM
+फैला	VM
 हुआ	VAUX
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0104>
-भूमि	NN
-के	PSP
-मन्द	JJ
-ढाल	NN
-पर	PSP
-सूर्य	NNP
-की	PSP
-किरणों	NN
-का	PSP
-संकेन्द्रण	NN
-होने	VM
-के	PSP
-कारण	PSP
-ऊपर	NST
-की	PSP
-वायु	NN
-का	PSP
-तापमान	NN
-बढ	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0105>
-तीव्र	JJ
-ढाल	NN
-पर	PSP
-किरणों	NN
-के	PSP
-फैलने	VM
-के	PSP
-कारण	PSP
-तापमान	NN
-कम	QF
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0106>
+<sent_id=Geo_nios_15ch_0133>
 इसके	PRP
-साथ	NST
-ही	RP
-सूर्य	NN
+अंतर्गत	PSP
+अलास्का	NNP
 के	PSP
-सम्मुख	NST
-पडने	VM
-वाले	PSP
-पर्वतीय	JJ
-ढाल	NN
-विमुख	JJ
-ढाल	NN
-वाले	PSP
-क्षेत्रों	NN
-से	PSP
-अपेक्षाकृत	INTF
-गर्म	JJ
-होते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0107>
-हिमालय	NNPC
-पर्वतमाला	NNP
-के	PSP
-दक्षिणी	JJ
-ढाल	NN
-उत्तरी	JJ
-ढालों	NN
-की	PSP
-अपेक्षा	NN
-अधिक	QF
-गर्म	JJ
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0108>
-मिट्टी	NN
-का	PSP
-गठन	NN
+कुछ	QF
+भाग	NN
 ,	SYM
-संरचना	NN
-एवं	CC
-संघटन	NN
-उसकी	PRP
-प्रकृति	NN
-को	PSP
-बताते	VM
-हैं	VAUX
+कनाडा	NNP
+के	PSP
+उत्तरी	JJ
+भाग	NN
+,	SYM
+ग्रीनलैंड	NNP
+के	PSP
+तटवर्ती	JJ
+भाग	NN
+और	CC
+रूस	NNP
+के	PSP
+आर्कटिक	NNPC
+समुद्रतटीय	JJ
+क्षेत्र	NN
+तथा	CC
+उत्तरी	JJ
+साइबेरिया	NNP
+सम्मलित	JJ
+हैं	VM
+)	SYM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0109>
-ये	DEM
-गुण	NN
-अलग-अलग	JJ
-मिट्टियों	NN
+<sent_id=Geo_nios_15ch_0134>
+यहाँ	PRP
+के	PSP
+पौधों	NN
+के	PSP
+आवरण	NN
 में	PSP
-बदलते	VM
+इनकी	PRP
+बहुत	INTF
+सी	RP
+प्रजातियों	NN
+का	PSP
+मिश्रण	NN
+सम्मिलित	JJ
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0135>
+इनमें	PRP
+से	PSP
+बहुत	QF
+सी	RP
+प्रजातियाँ	NN
+बौने	JJ
+आकार	NN
+की	PSP
+हैं	VAUX
+जैसे	RB
+घास	NN
+,	SYM
+मॉस	NN
+,	SYM
+लिचिन	NNP
+,	SYM
+फूलदार	JJ
+औषधीय	JJ
+वनस्पति	NN
+और	CC
+जहाँ-तहाँ	RB
+फैली	VM
+हुई	VAUX
+छोटी	JJ
+झाडियाँ	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0136>
+ये	DEM
+सभी	QF
+पौधे	NN
+सघन	JJ
+रूप	NN
+से	PSP
+धरातल	NN
+को	PSP
+ढके	VM
 रहते	VAUX
 हैं	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0110a>
-पथरीली	NN
-या	CC
-रेतीली	JJ
-मिट्टी	NN
-गर्मी	NN
-की	PSP
-सुचालक	NN
-होती	VM
-हैं	VAUX
-;	CC
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0110b>
-जबकि	CC
-काली	JJ
-चिकनी	JJ
-मिट्टी	NN
-गर्मी	NN
-को	PSP
-जल्दी	NST
-सोख	VM
-लेती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0111>
-वनस्पति	JJC
-विहीन	JJ
-मिट्टियों	NN
-से	PSP
-विकिरण	NN
-तेजी	NN
-से	PSP
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0112>
-अत:	NNPC
-मरुस्थल	NN
-दिन	NN
-में	PSP
-गर्म	JJ
-और	CC
-रात	NN
-में	PSP
-ठंडे	JJ
-होते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0113>
-वन	JJC
-विहीन	JJ
-क्षेत्रों	NN
-की	PSP
-तुलना	PSP
-में	PSP
-वनों	NN
-से	PSP
-ढके	VM
-क्षेत्रों	NN
-में	PSP
-ताप	NNC
-परिसर	NN
-कम	QF
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0114>
-किसी	PRP
-स्थान	NN
-या	CC
-क्षेत्र	NN
-की	PSP
-जलवायु	NN
-को	PSP
-प्रभावित	JJ
-करने	VM
-वाले	PSP
-कारक	NN
-हैं	VM
--	SYM
-अक्षांश	NN
-या	CC
-विषुवत	NNP
-वृत्त	NN
-से	PSP
-दूरी	NN
-,	SYM
-समुद्र	NNC
-तल	NN
-से	PSP
-ऊँचाई	NN
-,	SYM
-महाद्वीपीयता	NN
-या	CC
-समुद्र	NN
-से	PSP
-दूरी	NN
-,	SYM
-प्रचलित	JJ
-पवनों	NN
-का	PSP
-स्वरूप	NN
-,	SYM
-मेघाच्छादन	NNP
-,	SYM
-समुद्री	JJ
-धाराएँ	NN
-,	SYM
-पर्वतमालाओं	NN
-की	PSP
-स्थिति	NN
-,	SYM
-भूमि	NN
-का	PSP
-ढाल	NN
-एवं	CC
-अभिमुखता	NN
-,	SYM
-मिट्टी	NN
-की	PSP
-प्रकृति	NN
-और	CC
-वनस्पति	NNC
-आवरण	NN
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0115a>
-निम्नलिखित	JJ
-कथनों	NN
-में	PSP
-से	PSP
-कुछ	QF
-कथन	NN
-गलत	JJ
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0115b>
-निम्नलिखित	JJ
-कथनों	NN
-में	PSP
-से	PSP
-कुछ	QF
-कथन	NN
-सही	JJ
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0116>
-आप	PRP
-सही	JJ
-कथनों	NN
-पर	PSP
-चिन्ह	NN
-लगाइये	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0117>
-अक्षांश	NN
-जितना	PRP
-उच्च	JJ
-होगा	VM
-तापमान	NN
-उतना	INTF
-कम	QF
-होगा	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0118>
-ऊँचाई	NN
-बढने	VM
-के	PSP
-साथ-साथ	PSP
-तापमान	NN
-गिरता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0119>
-समुद्र	NNC
-तट	NN
-के	PSP
-निकट	NST
-ताप	NNC
-परिसर	NN
-कम	QF
-रहता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0120>
-महाद्वीपों	NN
-के	PSP
-आन्तरिक	JJ
-भागों	NN
-में	PSP
-ताप	NNC
-परिसर	NN
-कम	QF
-रहता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0121>
-ठण्डी	JJ
-जल	NNC
-धाराएँ	NN
-तटीय	JJ
-भागों	NN
-के	PSP
-तापमान	NN
-को	PSP
-कम	QF
-करती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0122>
-मौसम	NN
-के	PSP
-प्रमुख	JJ
-तत्वों	NN
-के	PSP
-विभिन्न	JJ
-प्रभाव	NN
-तथा	CC
-पृथ्वी	NNP
-के	PSP
-धरातल	NN
-के	PSP
-विभिन्न	JJ
-स्वरूपों	NN
-के	PSP
-कारण	PSP
-संसार	NN
-के	PSP
-विभिन्न	JJ
-भागों	NN
-में	PSP
-विभिन्न	JJ
-प्रकार	NN
-की	PSP
-जलवायु	NN
-पाई	VM
-जाती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0123>
-अतः	CC
-जलवायु	NN
-के	PSP
-प्रकारों	NN
-की	PSP
-संख्या	NN
-बहुत	INTF
-ही	RP
-अधिक	QF
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0124a>
-संसार	NN
-के	PSP
-इन	DEM
-विविध	JJ
-जलवायु	NNC
-प्रकारों	NN
-को	PSP
-आसानी	NN
-से	PSP
-समझने	VM
-के	PSP
-लिये	PSP
-उन्हें	PRP
-कुछ	QF
-प्रमुख	JJ
-जलवायु	NNC
-समूहों	NN
-में	PSP
-वर्गीकृत	JJ
-किया	VM
-गया	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0124b>
-और	CC
-प्रत्येक	QF
-जलवायु	NNC
-समूह	NN
-में	PSP
-कुछ	QF
-प्रमुख	JJ
-सामान्य	JJ
-विशेषतायें	NN
-पाई	VM
-जाती	VAUX
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0125>
-यद्यपि	CC
-वैज्ञानिकों	NN
-द्वारा	PSP
-संसार	NN
-के	PSP
-प्रमुख	JJ
-जलवायु	NNC
-प्रकारों	NN
-के	PSP
-उचित	JJ
-अध्ययन	NN
-के	PSP
-लिये	PSP
-उनके	PRP
-वर्गीकरण	NN
-के	PSP
-कई	QF
-प्रयास	NN
-किये	VM
-गये	VAUX
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0126a>
-चूँकि	CC
-जलवायु	NNC
-मौसम	NN
-की	PSP
-विभिन्न	JJ
-दशाओं	NN
-का	PSP
-सम्मिलित	JJ
-और	CC
-सामान्य	JJ
-रूप	NN
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0126b>
-अतः	CC
-कोई	PRP
-भी	RP
-वर्गीकरण	NNC
-आदर्श	NN
-नहीं	NEG
-माना	VM
-जाता	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0127>
-फिर	RB
-भी	RP
-,	SYM
-यूनानियों	NN
-ने	PSP
-तापमान	NN
-और	CC
-सूर्यातप	NN
-के	PSP
-वितरण	NN
-के	PSP
-आधार	NN
-पर	PSP
-संसार	NN
-की	PSP
-जलवायु	NN
-को	PSP
-वर्गीकृत	JJ
-करने	VM
-का	PSP
-प्रथम	QO
-प्रयास	NN
-किया	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0128>
-उन्होंने	PRP
-संसार	NN
-को	PSP
-पाँच	QC
-अक्षांशीय	NNC
-ताप	NN
-कटिबन्धों	NN
-में	PSP
-बाँटा	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0129>
-इन	DEM
-ताप	NN
-कटिबंधों	NN
-की	PSP
-सीमाओं	NN
-का	PSP
-निर्धारण	NN
-पृथ्वी	NN
-पर	PSP
-सूर्य	NNP
-की	PSP
-किरणों	NN
-से	PSP
-बनने	VM
-वाले	PSP
-कोण	NN
-के	PSP
-आधार	NN
-पर	PSP
-किया	VM
-गया	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0130>
-पाँच	QC
-ताप	NN
-कटिबंध	NN
-निम्नलिखित	JJ
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0131>
-ताप	NN
-कटिबंधों	NN
-में	PSP
-उष्ण	JJ
-कटिबंध	NN
-सबसे	INTF
-अधिक	QF
-विस्तृत	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0132>
-यह	PRP
-पृथ्वी	NN
-की	PSP
-सतह	NN
-के	PSP
-लगभग	RP
-आधे	QF
-भाग	NN
-को	PSP
-घेरे	VM
-हुए	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0133>
-उष्ण	JJ
-कटिबंध	NNPC
-कर्क	NNPC
-वृत्त	NNP
-(	SYM
-23½0	NNP
-उ	SYM
-.	SYM
-)	SYM
-और	CC
-मकर	NNPC
-वृत	NN
-(	SYM
-23½0	NNPC
-द	VM
-.	SYM
-)	SYM
-के	PSP
-मध्य	NST
-में	PSP
-स्थित	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0134>
-इस	DEM
-ताप	NNC
-कटिबंध	NN
-में	PSP
-वर्ष	NN
-भर	RP
-सूर्य	NN
-की	PSP
-किरणें	NN
-लगभग	RP
-लम्बवत्	NN
-पडती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0135>
-उष्ण	JJ
-कटिबंध	NN
-के	PSP
-विषुव	NNP
-कालों	NN
-में	PSP
-अर्थात	CC
-21	NNPC
-मार्च	NNP
-और	CC
-23	NNPC
-सितम्बर	NNP
-की	PSP
-तिथियों	NN
-को	PSP
-मध्यान्ह	NNPC
-कालीन	JJ
-सूर्य	NNPC
-विषुवत	NNPC
-वृत्त	NNP
-पर	PSP
-ठीक	JJ
-सिर	NN
-के	PSP
-ऊपर	NST
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0136>
-सूर्य	NNP
-21	NNPC
-जून	NNP
-को	PSP
-कर्क	NNP
-वृत्त	NN
-पर	PSP
-और	CC
-22	NNPC
-दिसम्बर	NNP
-को	PSP
-मकर	NNPC
-वृत्त	NN
-पर	PSP
-भी	RP
-लम्बवत्	NN
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0137a>
-विषुवत	NNPC
-वृत्त	NN
-पर	PSP
-ताप	NN
-परिसर	NN
-सबसे	INTF
-कम	QF
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0137b>
-और	CC
-अयन	SYM
-वृत्तों	NN
-(	SYM
-कर्क	NNP
-और	CC
-मकर	NNPC
-वृत्त	NN
-)	SYM
-की	PSP
-ओर	NST
-बढता	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0138>
-शीतोष्ण	JJ
-कटिबंध	NN
-उष्ण	JJ
-कटिबंध	NN
-के	PSP
-दोनों	QC
-ओर	NST
-स्थित	JJ
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0139>
-उत्तरी	JJ
-शीतोष्ण	JJ
-कटिबंध	NN
-कर्क	NNPC
-वृत्त	NNP
-(	SYM
-23½0	NNP
-उ	SYM
-.	SYM
-)	SYM
-से	PSP
-आर्कटिक	NNP
-वृत्त	NNP
-या	CC
-उत्तर	NNPC
-ध्रुवीय	NNPC
-वृत्त	NNP
-(	SYM
-66½0	NNP
-उ	SYM
-.	SYM
-)	SYM
-के	PSP
-बीच	NST
-स्थित	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0140>
-दक्षिणी	NNPC
-शीतोष्ण	JJ
-कटिबंध	NNP
-की	PSP
-स्थिति	NN
-मकर	NNPC
-वृत्त	NN
-(	SYM
-23½0	NNPC
-द	VM
-.	SYM
-)	SYM
-और	CC
-अन्टार्कटिक	NNP
-वृत्त	NN
-या	CC
-दक्षिण	NNPC
-ध्रुवीय	NNPC
-वृत्त	NNP
-(	SYM
-66½0	NNPC
-द	VM
-.	SYM
-)	SYM
-के	PSP
-बीच	NST
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0141>
-इस	DEM
-कटिबंध	NN
-में	PSP
-सूर्य	NN
-की	PSP
-स्थिति	NN
-ठीक	JJ
-सिर	NN
-के	PSP
-ऊपर	NST
-कभी	PRP
-नहीं	NEG
-होती	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0142a>
-यहाँ	PRP
-शीत	JJ
-ऋतु	NN
-में	PSP
-रात	NN
-की	PSP
-अवधि	NN
-दिन	NN
-की	PSP
-अवधि	NN
-से	PSP
-लम्बी	JJ
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0142b>
-और	CC
+<sent_id=Geo_nios_15ch_0137>
+छोटी	JJ
+सी	RP
 ग्रीष्म	NNPC
 ऋतु	NNP
 में	PSP
+ये	DEM
+पौधे	NN
+अपने	PRP
+वार्षिक	JJ
+चक्र	NN
+को	PSP
+जल्दी	RB
+से	PSP
+पूरा	JJ
+कर	VM
+लेते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0138a>
+इस	DEM
+छोटी	JJ
+सी	RP
+ग्रीष्म	NNPC
+ऋतु	NN
+में	PSP
+धरातल	NN
+अक्सर	RB
+नमीयुक्त	NN
+तथा	CC
+जलाक्रांत	JJ
+होता	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0138b>
+क्योंकि	CC
+धरातलीय	JJ
+अपवाह	NN
+ठीक	JJ
+नहीं	NEG
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0139>
+इस	DEM
+जीवोम	NN
+में	PSP
+पशुओं	NN
+को	PSP
+दो	QC
+वर्गों	NN
+में	PSP
+वर्गीकृत	JJ
+किया	VM
+जा	VAUX
+सकता	VAUX
+है-आवासी	NNP
+,	SYM
+अप्रवासी	JJ
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0140>
+आवासी	NN
+जैसे	PSP
+टारमिगन	NNP
+बदलती	VM
+हुई	VAUX
+जलवायविक	JJ
+दशाओं	NN
+के	PSP
+अनुरूप	PSP
+अपने	PRP
+आपको	PRP
+ढाल	VM
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0141>
 इसके	PRP
 विपरीत	PSP
-होती	VM
-हैं	VAUX
-ध्रुवीय	JJ
-वृत्तों	NN
-की	PSP
-ओर	NST
-जाने	VM
-पर	PSP
-दिन	NN
-और	CC
-रात	NN
-की	PSP
-अवधि	NN
-का	PSP
-अन्तर	NN
-बढता	VM
-जाता	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0143>
-ध्रुवीय	JJ
-वृत्तों	NN
-पर	PSP
-ग्रीष्म	NNPC
-ऋतु	NNP
-में	PSP
-दिन	NN
-की	PSP
-अवधि	NN
-(	SYM
-सूर्य	NN
-के	PSP
-प्रकाश	NN
-की	PSP
-अवधि	NN
-)	SYM
-24	QC
-घंटे	NN
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0144a>
-जब	PRP
-उत्तरी	JJ
-गोलार्थ	NNP
-में	PSP
-ग्रीष्म	NNPC
+अप्रवासी	JJ
+जीव	NN
+शीत	NNPC
 ऋतु	NN
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0144b>
-तो	CC
-दक्षिणी	JJ
-गोलार्ध	NNP
-में	PSP
-शीत	JJ
-ऋतु	NN
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0145>
-शीतोष्ण	JJ
-कटिबंध	NN
-के	PSP
-समान	PSP
+प्रारंभ	NN
+होते	VM
 ही	RP
-शीत	JJ
-कटिबन्ध	NN
-भी	RP
-दोनों	QC
-गोलार्धों	NN
-में	PSP
-हैं	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0146>
-उत्तरी	JJ
-शीत	NNPC
-कटिबंध	NNP
-उत्तर	NNPC
-ध्रुवीय	NNPC
-वृत्त	NNP
-(	SYM
-66½0	NNP
-उ	SYM
-.	SYM
-)	SYM
-और	CC
-उत्तर	NNPC
-ध्रुव	NNP
-(	SYM
-900	QC
-उ	SYM
-.	SYM
-)	SYM
-के	PSP
-बीच	NST
-स्थित	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0147>
-दक्षिणी	JJ
-शीत	NNPC
-कटिबन्ध	NNP
-दक्षिण	NNPC
-ध्रुवीय	NNPC
-वृत्त	NNP
-(	SYM
-66½0	NNPC
-द	VM
-.	SYM
-)	SYM
-से	PSP
-दक्षिण	NNPC
-ध्रुव	NNP
-(	SYM
-900	QC
-द	VM
-.	SYM
-)	SYM
-तक	PSP
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0148a>
-शीत	NNC
-कटिबन्ध	NN
-में	PSP
-सूर्य	NN
-की	PSP
-किरणें	NN
-हमेशा	RB
-तिरछी	JJ
-पडती	VAUX
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0148b>
-और	CC
-उनका	PRP
-आपतन	JJ
-कोण	NN
-बहुत	INTF
-छोटा	JJ
-होता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0149>
-यह	DEM
-कटिबन्ध	NN
-संसार	NN
-का	PSP
-सबसे	INTF
-ठंडा	JJ
-प्रदेश	NN
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0150>
-यहाँ	PRP
-धरातल	NN
-पर	PSP
-सदैव	RB
-हिम	NN
-की	PSP
-मोटी	JJ
-तह	NN
-जमी	VM
-रहती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0151>
-सूर्यातप	NN
-एवं	CC
-तापमान	NN
-के	PSP
-वितरण	NN
-के	PSP
-आधार	NN
-पर	PSP
-पृथ्वी	NNP
-की	PSP
-पाँच	QC
-तप	NNC
-कटिबन्धों	NN
-में	PSP
-बाँटा	VM
-गया	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0152>
-पाँच	QC
-ताप	NN
-कटिबंधों	NN
-के	PSP
-नाम	NN
-हैं	VM
--	SYM
-उष्ण	JJ
-कटिबंध	NNP
-,	SYM
-उत्तरी	JJ
-शीतोष्ण	NNPC
-कटिबन्ध	NN
-,	SYM
-दक्षिणी	JJ
-शीतोष्ण	NNPC
-कटिबन्ध	NN
-,	SYM
-उत्तरी	JJ
-शीत	NNPC
-कटिबन्ध	NN
-तथा	CC
-दक्षिणी	JJ
-शीत	JJ
-कटिबन्ध	NNP
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0153>
-आप	PRP
-रिक्त	JJ
+गर्म	JJ
 स्थानों	NN
 की	PSP
-पूर्ति	NN
-उचित	JJ
-शब्दों	NN
-द्वारा	PSP
-कीजिए	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0154>
-ताप	NN
-कटिबंधों	NN
-की	PSP
-संकल्पना	NN
-सैद्धान्तिक	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0155>
-यह	DEM
-पृथ्वी	NN
-तल	NN
-पर	PSP
-सूर्यातप	NN
-के	PSP
-वितरण	NNC
-मात्र	NN
-का	PSP
-ही	RP
-वर्णन	NN
-करती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0156a>
-यह	PRP
-आप	PRP
-पहले	NST
-ही	RP
-जान	VM
-चुके	VAUX
+ओर	NST
+चले	VM
+जाते	VAUX
 हैं	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0156b>
-कि	CC
-सूर्य	NNP
-की	PSP
-किरणों	NN
+<sent_id=Geo_nios_15ch_0142a>
+उदाहरण	NN
 के	PSP
-आपतन	JJ
-कोण	NN
-के	PSP
-अतिरिक्त	JJ
-और	QF
-भी	RP
-कई	QF
-कारक	NN
-किसी	PRP
-स्थान	NN
-की	PSP
-जलवायु	NN
+लिए	PSP
+पक्षी	NN
+जैसे	PSP
+मुदगाबी	NNP
+,	SYM
+बत्तख	NN
+,	SYM
+हंस	NNP
+,	SYM
+गीज	NNP
+आदि	RP
 को	PSP
-प्रभावित	JJ
+शरद	NNPC
+ऋतु	NNP
+के	PSP
+प्रारंभ	NN
+में	PSP
+ही	RP
+अपने	PRP
+मूल	JJ
+स्थान	NN
+को	PSP
+छोडकर	VM
+चले	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0142b>
+तथा	CC
+अगले	JJ
+बसन्त	NNP
+अथवा	CC
+ग्रीष्म	NNP
+ऋतु	NN
+के	PSP
+प्रारंभ	NN
+में	PSP
+लौटते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0143a>
+मच्छर	NN
+,	SYM
+मक्खियाँ	NN
+तथा	CC
+अन्य	JJ
+कीट	NNC
+पतंगे	NN
+छोटी	JJ
+सी	RP
+गर्म	JJ
+ऋतु	NN
+में	PSP
+बहुत	INTF
+अधिक	QF
+संख्या	NN
+में	PSP
+उत्पन्न	JJ
+हो	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0143b>
+तथा	CC
+अंडे	NN
+देते	VM
+हैं	VAUX
+जो	PRP
+कठोर	JJ
+शीत	JJ
+ऋतु	NN
+में	PSP
+भी	RP
+जीवित	JJ
+रह	VM
+सकते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0144>
+अन्य	JJ
+प्रकार	NN
+के	PSP
+जीवों	NN
+की	PSP
+यहाँ	PRP
+कमी	NN
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0145>
+स्तनधारी	JJ
+जीवों	NN
+की	PSP
+कुछ	QF
+प्रजातियाँ	NN
+और	CC
+मीठे	JJ
+जल	NN
+की	PSP
+मछलियों	NN
+के	PSP
+पाए	VM
+जाने	VAUX
+के	PSP
+अतिरिक्त	PSP
+यहाँ	PRP
+पर	PSP
+रेंगने	VM
+वाले	PSP
+जीव	NN
+अथवा	CC
+उभयचर	NN
+बिल्कुल	RB
+नहीं	NEG
+पाए	VM
+जाते	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0146>
+इनके	PRP
+अतिरिक्त	PSP
+रेंडियर	NN
+,	SYM
+भेडिया	NN
+,	SYM
+लोमडियाँ	NN
+,	SYM
+कस्तूरी	NNPC
+बैल	NN
+,	SYM
+आर्कटिक	NNPC
+खरगोश	NN
+,	SYM
+सील	NN
+तथा	CC
+लेमिंग्स	NNP
+आदि	RP
+जानवर	NN
+भी	RP
+यहाँ	PRP
+रहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0147>
+टुण्ड्रा	NNP
+जीवोम	NNP
+में	PSP
+उत्पादकता	NN
+बहुत	INTF
+कम	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0148>
+स्वयंपोशी	NNPC
+प्राथमिक	JJ
+उत्पादकों	NN
+द्वारा	PSP
+प्रति	NNPC
+यूनिट	NNC
+क्षेत्र	NN
+और	CC
+प्रति	RP
+यूनिट	NN
+समय	NN
+में	PSP
+जमा	JJ
+की	VM
+गई	VAUX
+कुल	QF
+ऊर्जा	NN
+की	PSP
+मात्रा	NN
+को	PSP
+उत्पादकता	NN
+कहते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0149>
+निम्न	JJ
+उत्पादकता	NN
+के	PSP
+कारण	PSP
+हैं-	NNC
+न्यूनतम	JJ
+सूर्य	NNPC
+प्रकाश	NNP
+और	CC
+सूर्यातप	NN
+,	SYM
+भूमि	NN
+में	PSP
+पोषक	JJ
+तत्वों	NN
+जैसे	PSP
+नाइट्रोजन	NN
+और	CC
+फास्फोरस	NN
+की	PSP
+कमी	NN
+अथवा	CC
+बिल्कुल	RB
+न	NEG
+होना	VM
+,	SYM
+कम	QF
+विकसित	JJ
+मृदा	NNC
+मृदा	NN
+में	PSP
+नमी	NN
+की	PSP
+कमी	NN
+,	SYM
+धरातल	NN
+का	PSP
+स्थाई	JJ
+रूप	NN
+से	PSP
+बर्फ	NN
+से	PSP
+ढके	VM
+रहना	VAUX
+,	SYM
+बहुत	INTF
+छोटा	JJ
+वर्धन	JJ
+काल	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0150a>
+ग्रीष्म	NNPC
+ऋतु	NN
+में	PSP
+बर्फ	NN
+के	PSP
+पिघलते	VM
+ही	RP
+टुण्ड्रा	NNP
+में	PSP
+जीवन	NN
+फिर	RB
+लौट	VM
+आता	VAUX
+है	VAUX
+,	SYM
+इस	DEM
+समय	NN
+फूलों	NN
+वाले	PSP
+पौधे	NN
+मच्छरों	NN
+और	CC
+मक्खियों	NN
+की	PSP
+बहुत	INTF
+बडी	JJ
+संख्या	NN
+को	PSP
+आश्रय	NN
+देते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0150b>
+और	CC
+बदले	NN
+में	PSP
+ये	PRP
+बहुत	INTF
+बडी	JJ
+संख्या	NN
+में	PSP
+अप्रवासी	JJ
+मुर्गाबियों	NN
+को	PSP
+भोजन	NN
+प्रदान	NN
 करते	VM
 हैं	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0157>
-तापमान	NN
-और	CC
-वर्षा	NN
+<sent_id=Geo_nios_15ch_0151>
+यहाँ	PRP
 के	PSP
-संयुक्त	JJ
-प्रभाव	NN
-और	CC
-इनके	PRP
-वितरण	NN
-को	PSP
-प्रभावित	JJ
-करने	VM
-वाले	PSP
-अन्य	JJ
-कारकों	NN
-को	PSP
-ध्यान	NN
+कठोर	JJ
+वातावरण	NN
 में	PSP
-रखते	VM
-हुये	VAUX
-आधुनिक	JJ
-वैज्ञानिकों	NN
-ने	PSP
-जलवायु	NNC
-प्रकारों	NN
-के	PSP
-कई	QF
-वर्गीकरण	NN
-किये	VM
+बहुत	INTF
+कम	QF
+लोग	NN
+रह	VM
+पाते	VAUX
 हैं	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0158>
-डब्ल्यू	NNPC
-.	SYM
-कोपेन	NNP
-(	SYM
-1846-1940	NNP
-)	SYM
-का	PSP
-जलवायु	NNC
-वर्गीकरण	NN
-अपने	PRP
-विविध	JJ
-रूपान्तरित	JJ
-प्रकारों	NN
-के	PSP
-रूप	PSP
+<sent_id=Geo_nios_15ch_0152a>
+यूरेशियन	NNP
+टुण्ड्रा	NNP
 में	PSP
-सबसे	INTF
-ज्यादा	QF
-प्रयुक्त	JJ
-एवं	CC
-लोकप्रिय	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0159>
-कोपेन	NNP
-का	PSP
-वर्गीकरण	NN
-तापमान	NN
+सेमोयड्स	NN
 ,	SYM
-वर्षण	NN
+लैप्स	NN
+,	SYM
+फिन्स	NNP
 तथा	CC
-उनकी	PRP
-ऋतुवत्	JJ
-विशेषताओं	NN
-पर	PSP
-आधारित	JJ
-है	VM
+याकूत	NNP
+जनजातियाँ	NN
+तथा	CC
+कनाडा	NNP
+और	CC
+अलास्का	NNP
+के	PSP
+एस्कीमो	NNP
+लोग	NN
+यहाँ	PRP
+के	PSP
+मूल	JJ
+निवासी	NN
+हैं	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0160>
-इसमें	PRP
-उन्होंने	PRP
-जलवायु	NN
+<sent_id=Geo_nios_15ch_0152b>
 और	CC
-प्राकृतिक	JJ
-वनस्पति	NN
-के	PSP
-बीच	NST
-दृश्य	NNC
-संबंधों	NN
+सदियों	NN
+से	PSP
+चलवासी	JJ
+जीवन	NN
+व्यतीत	NN
+कर	VM
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0153>
+ये	DEM
+जातियाँ	NN
+अब	PRP
+स्थाई	JJ
+अथवा	CC
+अर्द्धचलवासी	JJ
+जीवन	NN
+व्यतीत	NN
+कर	VM
+रही	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0154>
+इन्होंने	PRP
+नई	JJ
+तकनीकों	NN
 को	PSP
-भी	RP
-जोडा	VM
+अपना	PRP
+लिया	VAUX
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0161>
-कोपेन	NNP
+<sent_id=Geo_nios_15ch_0155>
+उदाहरण	NN
+के	PSP
+लिए	PSP
+घातक	JJ
+राइफलों	NN
 ने	PSP
-अपने	PRP
-वर्गीकरण	NN
-में	PSP
-संसार	NN
-को	PSP
-पाँच	QC
-वृहद	JJ
-जलवायु	NNC
-वर्गों	NN
+परम्परागत	JJ
 और	CC
-उनको	PRP
-भी	RP
-तेरह	QC
-उपवर्गों	NN
+पुराने	JJ
+हारपून	NN
+का	PSP
+स्थान	NN
+ले	VM
+लिया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0156>
+अतः	CC
+नवीनतम	JJ
+तकनीक	NN
+से	PSP
+लैस	JJ
+आधुनिक	JJ
+एस्किमो	NNP
+आज	NN
+टुण्ड्रा	NNP
+पारितंत्रा	NNP
+को	PSP
+नष्ट	JJ
+करने	VM
+के	PSP
+लिए	PSP
+उसी	DEM
+स्थिति	NN
 में	PSP
-विभाजित	JJ
+हैं	VM
+जिसमें	PRP
+तकनीकी	JJ
+रूप	NN
+से	PSP
+विकसित	JJ
+मानव	NN
+ने	PSP
+अन्य	JJ
+जीवोमो	NN
+में	PSP
 किया	VM
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0162>
-आप	PRP
+<sent_id=Geo_nios_15ch_0157>
+यूरेशियन	NNPC
+टुण्ड्रा	NNP
+के	PSP
+सेमोयड्स	NN
+तथा	CC
+अन्य	JJ
+जातियों	NN
+ने	PSP
+नई	JJ
+जीवन	NNC
+शैली	NN
+को	PSP
+अपना	PRP
+लिया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0158>
 इनमें	PRP
 से	PSP
 कुछ	QF
-जलवायु	NNC
-प्रकारों	NN
-की	PSP
-प्रमुख	JJ
-विशेषतायें	NN
-आगे	NST
-के	PSP
-पाठों	NN
-,	SYM
-जो	PRP
-निम्न	JJ
-अक्षांशों	NN
-,	SYM
-मध्य	JJ
-अक्षांशों	NN
-और	CC
-उच्च	JJ
-अक्षांशों	NN
-में	PSP
-रहने	VM
-वाले	PSP
-लागों	NN
-के	PSP
-जीवन	NN
+स्थाई	JJ
+रूप	NN
 से	PSP
-संबंधित	JJ
-हैं	VM
-,	SYM
-में	PSP
-अध्ययन	NN
-करेंगे	VM
+एक	QC
+स्थान	NN
+पर	PSP
+रह	VM
+रहे	VAUX
+हैं	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0163>
-डब्लू	NNPC
-.	SYM
-कोपेन	NNP
-का	PSP
-जलवायु	JJ
-वर्गीकरण	NNC
-तापमान	NN
+<sent_id=Geo_nios_15ch_0159a>
+ये	DEM
+रेंडियर	NN
+और	CC
+फरवाले	NNP
+अन्य	JJ
+जानवरों	NN
+को	PSP
+पालते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0159b>
+और	CC
+साइबेरियन	JJ
+टुण्ड्रा	NNP
+में	PSP
+खाद्य	JJ
+फसलों	NN
+में	PSP
+मुख्यतः	JJ
+गेहूँ	NN
+की	PSP
+खेती	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0160>
+हाल	NN
+के	PSP
+वर्षों	NN
+में	PSP
+खनिजों	NN
+की	PSP
+खोज	NN
+जैसे	PSP
+अलास्का	NNP
+में	PSP
+सोना	NN
+और	CC
+खनिज	NNC
+तेल	NN
 ,	SYM
-वर्षण	NN
+लेब्राडोर	NN
+में	PSP
+लौह	NNPC
+अयस्क	NN
+,	SYM
+साइबेरिया	NNP
+में	PSP
+निकिल	NNP
+ने	PSP
+खनन	NNC
+बस्तियों	NN
+की	PSP
+स्थापना	NN
+और	CC
+यातायात	NN
+के	PSP
+साधनों	NN
+के	PSP
+विकास	NN
+को	PSP
+प्रोत्साहित	JJ
+किया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0161>
+परन्तु	CC
+खनन	NNC
+क्रियाओं	NN
+ने	PSP
+यहाँ	PRP
+प्रदूषण	NN
 तथा	CC
-उनकी	PRP
-ऋतुवत	JJ
-विशेषताओं	NN
-पर	PSP
-आधारित	JJ
+इस	DEM
+कमजोर	JJ
+पारितंत्रा	NN
+के	PSP
+लिए	PSP
+अन्य	JJ
+पर्यावरणीय	JJ
+समस्याएँ	NN
+पैदा	JJ
+की	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0162>
+आप	PRP
+निम्नलिखित	JJ
+प्रश्नों	NN
+का	PSP
+संक्षेप	NN
+में	PSP
+उत्तर	NN
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0163>
+आप	PRP
+टुण्ड्रा	NNPC
+प्रदेश	NNP
+में	PSP
+पाए	VM
+जाने	VAUX
+वाले	PSP
+किन्हीं	JJ
+तीन	QC
+जानवरों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0164>
+टुण्ड्रा	NNP
+प्रदेशों	NN
+में	PSP
+पाए	VM
+जाने	VAUX
+वाले	PSP
+तीन	QC
+प्रमुख	JJ
+खनिज	NNC
+पदार्थ	NN
+कौन-कौन	WQ
+से	PSP
+हैं	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0165>
+टुण्ड्रा	NNPC
+प्रदेश	NNP
+में	PSP
+उत्पादकता	NN
+कम	QF
+क्यों	WQ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0166>
+आप	PRP
+कोई	PRP
+दो	QC
+कारण	NN
+दीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0167>
+आप	PRP
+टुण्ड्रा	NNPC
+प्रदेश	NNP
+में	PSP
+पाई	VM
+जाने	VAUX
+वाली	PSP
+किन्हीं	JJ
+दो	QC
+जनजातियों	NN
+के	PSP
+नाम	NN
+बताइए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0168>
+जीवोम	NNP
+शब्द	NN
+जैविक	JJ
+घर	NN
+का	PSP
+संक्षिप्त	JJ
+रूप	NN
 है	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0164>
-इस	DEM
+<sent_id=Geo_nios_15ch_0169>
+जीवोम	NNP
+एक	QC
+वृहत	JJ
+प्राकृतिक	JJ
+पारितंत्रा	NN
+है	VM
+जिसमें	PRP
+हम	PRP
+पौधों	NN
+और	CC
+प्राणियों	NN
+के	PSP
+समूहों	NN
+के	PSP
+कुल	QF
+समुच्चय	NN
+का	PSP
+अध्ययन	NN
+करते	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0170a>
+यहाँ	PRP
+सभी	QF
+प्रकार	NN
+के	PSP
+जीवों	NN
+में	PSP
+न्यूनतम	JJ
+साझा	JJ
+विशेषताएँ	NN
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0170b>
+और	CC
+सभी	QF
+जीवोमों	NN
+में	PSP
+कमोवेश	RB
+एक	QC
+सी	RP
+पर्यावरणीय	JJ
+दशाएँ	NN
+होती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0171>
+जीवोम	NN
+के	PSP
+आकार	NN
+,	SYM
+स्थिति	NN
+और	CC
+उसकी	PRP
+विशेषताओं	NN
+को	PSP
+प्रभावित	JJ
+करने	VM
+वाले	PSP
+विविध	JJ
+कारक	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0172>
+ये	DEM
+कारक	NN
+हैं	VM
+दिन	NN
+के	PSP
+प्रकाश	NN
+और	CC
+अंधेरे	NN
+की	PSP
+अवधि	NN
+,	SYM
+औसत	JJ
+तापमान	NN
+,	SYM
+वर्धन	JJ
+काल	NN
+का	PSP
+समय	NN
+,	SYM
+वर्षण	NN
+,	SYM
+पवन	NNPC
+प्रवाह	NNP
+,	SYM
+मृदा	NNC
+प्रकार	NN
+,	SYM
+ढाल	NN
+,	SYM
+अपवाह	NN
+आदि	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0173>
+जीवोम	NNP
+के	PSP
 वर्गीकरण	NN
 के	PSP
-अनुसार	PSP
-संसार	NN
+दो	QC
+प्रमुख	JJ
+आधार	NN
+हैं-	NNPC
+जलवायु	NN
+का	PSP
+आधार	NN
+जिसमें	PRP
+नमी	NN
+या	CC
+आर्द्रता	NN
+की	PSP
+उपलब्धता	NN
+पर	PSP
+विशेष	JJ
+बल	NN
+दिया	VM
+जाता	VAUX
+हैऔर	RP
+जलवायु	NN
+तथा	CC
+वनस्पति	NN
+का	PSP
+आधार	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0174>
+प्रत्येक	QF
+जलवायविक	JJ
+कटिबन्ध	NN
+से	PSP
+एक-एक	QC
+जीवोम	NN
 को	PSP
-पाँच	QC
-वृहद	JJ
-जलवायु	NNC
-वर्गों	NN
-और	CC
-तेरह	QC
-जलवायु	NNC
-प्रकारों	NN
-में	PSP
-उपविभाजित	JJ
-किया	VM
+गहन	JJ
+अध्ययन	NN
+के	PSP
+लिए	PSP
+चुना	VM
 गया	VAUX
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0165>
-नीचे	NST
-स्तम्भ	NN
-'	SYM
-क	SYM
-'	SYM
-की	PSP
-प्रत्येक	QF
-मद	NN
-का	PSP
-स्तम्भ	NN
-'	SYM
-ख	NNP
-'	SYM
-की	PSP
-प्रत्येक	QF
-मद	NN
-के	PSP
-साथ	NST
-सही	JJ
-जोडा	VM
-बनाइये	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0166>
-मौसम	NN
-,	SYM
-ऋतु	NN
-और	CC
-जलवायु	NN
-में	PSP
-प्रमुख	JJ
-अन्तर	NNC
-अवधि	NN
-,	SYM
-प्रभाव	NNC
-क्षेत्र	NN
-का	PSP
-विस्तार	NN
-और	CC
-स्थायित्व	NN
-के	PSP
-संदर्भ	NN
-में	PSP
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0167>
-किसी	PRP
-स्थान	NN
-पर	PSP
-मौसम	NN
-उसके	PRP
-किसी	PRP
-एक	QC
-या	CC
-एक	QC
-से	PSP
-अधिक	QF
-अवयवों	NN
-के	PSP
-संदर्भ	NN
-में	PSP
-किसी	PRP
-समय	NN
-विशेष	JJ
-में	PSP
-वायुमंडलीय	JJ
-दशा	NN
-का	PSP
-बोध	NN
-कराता	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0168>
-यह	PRP
-स्थाई	JJ
-नहीं	NEG
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0169>
-ऋतु	NNC
-वर्ष	NN
-की	PSP
-वह	PRP
-लम्बी	JJ
-अवधि	NN
-हैं	VM
-जिसमें	PRP
-मौसम	NN
-संबंधी	JJ
-विशिष्ट	JJ
-दशायें	NN
-होती	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0170>
-यह	PRP
-मुख्यतया	RB
-पृथ्वी	NNP
-के	PSP
-अक्ष	NN
-के	PSP
-झुकाव	NN
-और	CC
-पृथ्वी	NNP
-की	PSP
-सूर्य	NNC
-परिक्रमा	NN
-के	PSP
-कारण	PSP
-बनती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0171>
-जलवायु	NN
-एक	QC
-विस्तृत	JJ
-क्षेत्र	NN
-के	PSP
-गत	JJ
-अनेक	QF
-वर्षों	NN
-के	PSP
-मौसम	NN
-का	PSP
-औसत	NN
-होती	VM
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0172>
-किसी	PRP
-स्थान	NN
-या	CC
-प्रदेश	NNP
-की	PSP
-जलवायु	NN
-को	PSP
-प्रभावित	JJ
-करने	VM
-वाले	PSP
-कारक	NN
-हैं	VM
--	SYM
-विषुवत	NNPC
+<sent_id=Geo_nios_15ch_0175>
+सदाहरित	JJ
+वर्षावन	NNPC
+जीवोम	NNPC
+विषुवत	NNP
 वृत्त	NN
-से	PSP
-दूरी	NN
-,	SYM
-समुद्रतल	NN
-से	PSP
-ऊँचाई	NN
-,	SYM
-समुद्र	NN
-से	PSP
-दूरी	NN
-,	SYM
-प्रचलित	JJ
-पवनें	NNP
-,	SYM
-मेघाच्छादन	NNP
-,	SYM
-समुद्री	JJ
-धाराएँ	NN
-,	SYM
-पर्वतों	NN
-की	PSP
-स्थिति	NN
-,	SYM
-भूमि	NN
-का	PSP
-ढाल	NN
-एवं	CC
-अभिमुखता	NN
-,	SYM
-मिट्टी	NN
-की	PSP
-प्रकृति	NN
-एवं	CC
-वनस्पति	NNC
-आवरण	NN
+के	PSP
+दोनों	QC
+ओर	NST
+100	QC
+अक्षांश	NN
+तक	PSP
+विस्तृत	JJ
+हैं	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0173>
-यूनानियों	NN
-ने	PSP
+<sent_id=Geo_nios_15ch_0176>
+इस	DEM
+क्षेत्र	NN
+में	PSP
+उच्च	JJ
 तापमान	NN
 और	CC
-सूर्यातप	NN
-के	PSP
-वितरण	NN
-के	PSP
-आधार	NN
-पर	PSP
-सर्वप्रथम	NNPC
-पृथ्वी	NNP
-को	PSP
-उष्ण	JJ
-,	SYM
-शीतोष्ण	JJ
-एवं	CC
-शीत	JJ
-कटिबन्धों	NN
-में	PSP
-बाँटा	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0174>
-उष्ण	JJ
-कटिबन्ध	NN
-सबसे	INTF
-गर्म	JJ
-,	SYM
-शीत	JJ
-कटिबंध	NN
-सबसे	INTF
-ठंडा	JJ
-और	CC
-शीतोष्ण	JJ
-कटिबन्ध	NN
-इन	DEM
-दोनों	NN
-के	PSP
-बीच	NST
-में	PSP
-न	NEG
-ज्यादा	QF
-गर्म	JJ
-और	CC
-न	NEG
-ज्यादा	QF
-ठंडा	JJ
-है	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0175>
-सूर्य	NNP
-के	PSP
-प्रकाश	NN
-की	PSP
-अवधि	NN
-विषुवत	NNPC
-वृत्त	NNP
-से	PSP
-ध्रुवों	NN
-की	PSP
-ओर	NST
-बढती	VM
-जाती	VAUX
-है	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0176>
-विषुवत	NNPC
-वृत्त	NN
-पर	PSP
-दिन	NN
-और	CC
-रात	NN
-की	PSP
-अवधि	NN
-बराबर	JJ
+अधिक	QF
+वर्षा	NN
+पूरे	JJ
+वर्ष	NN
 होती	VM
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0177a>
+<sent_id=Geo_nios_15ch_0177>
+तापमान	NN
+और	CC
+वर्षा	NN
+के	PSP
+संयोजन	NN
+ने	PSP
+इस	DEM
+जीवोम	NN
+को	PSP
+अनेकानेक	QF
+पौधों	NN
+और	CC
+जीवों	NN
+की	PSP
+प्रजातियों	NN
+के	PSP
+लिए	PSP
+आदर्श	NNPC
+पर्यावरण	NN
+प्रदान	NN
+किया	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0178>
+इस	DEM
+क्षेत्र	NN
+में	PSP
+पाए	VM
+जाने	VAUX
+वाले	PSP
+प्रमुख	JJ
+वृक्ष	NN
+हैं	VM
+-	SYM
+एबोनी	NN
+,	SYM
+महोगनी	NN
+,	SYM
+रोजवुड	NN
+,	SYM
+संदलवुड	NNP
+आदि	RP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0179>
+ये	DEM
+अधिकतर	JJ
+कठोर	JJ
+लकडी	NN
+के	PSP
+वृक्ष	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0180>
+पौधों	NN
+के	PSP
+साथ	NST
+बहुत	QF
+प्रकार	NN
+के	PSP
+आर्किड	NN
+,	SYM
+फर्न	NN
+,	SYM
+मॉस	NNP
+,	SYM
+औषधीय	JJ
+पौधे	NN
+धरातलीय	JJ
+स्तर	NN
+पर	PSP
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0181>
+वनस्पति	NN
+की	PSP
+तरह	PSP
+ही	RP
+सदाहरित	JJ
+वर्षा	NN
+वनों	NN
+में	PSP
+अनेकानेक	QF
+पक्षियों	NN
+,	SYM
+स्तनधारी	JJ
+जीवों	NN
+और	CC
+कीट	NN
+पतंगों	NN
+का	PSP
+वास	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0182>
+उष्ण	NNC
+कटिबन्धीय	JJ
+वर्षा	NN
+वन	NNPC
+जीवोम	NNP
+में	PSP
+उत्पादकता	NN
+अन्य	JJ
+सभी	QF
+जीवोमों	NN
+से	PSP
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0183>
+आज	NN
+मानव	NN
+ने	PSP
+विविध	JJ
+विकासात्मक	JJ
+कार्यकलापों	NN
+द्वारा	PSP
+जैविक	JJ
+रूप	NN
+से	PSP
+धनी	JJ
+इस	DEM
+पारितंत्रा	NN
+को	PSP
+भी	RP
+नष्ट	JJ
+करना	VM
+प्रारंभ	NN
+कर	VM
+दिया	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0184>
+इसके	PRP
+परिणामस्वरूप	PSP
+बहुत	QF
+सी	RP
+पारिस्थितिक	JJ
+तथा	CC
+पर्यावरणीय	JJ
+समस्याएँ	NN
+पैदा	JJ
+हो	VM
+गई	VAUX
+हैं	VAUX
+जैसे	RB
+हरित	JJ
+गृह	NNC
+प्रभाव	NN
+और	CC
+भूमंडलीय	JJ
+तापन	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0185>
+शीतोष्ण	JJ
+कटिबन्धीय	JJ
+घासभूमियों	NN
+की	PSP
+दो	QC
+अनोखी	JJ
+अवस्थितियॉं	NN
+हैं	VM
+-	SYM
+उत्तरी	JJ
+गोलार्द्ध	NNP
+में	PSP
+महाद्वीपों	NN
+के	PSP
+आन्तरिक	JJ
+भाग	NN
+और	CC
+दक्षिणी	JJ
+गोलार्द्ध	NNP
+में	PSP
+महाद्वीपो	NNP
+के	PSP
+सीमान्त	NN
+प्रदेश	NNP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0186>
+दोनो	QC
+ही	RP
+अवस्थितियों	NN
+में	PSP
+वर्षा	NN
+बहुत	INTF
+कम	QF
+होती	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0187>
+इन	DEM
+घासभूमियों	NN
+को	PSP
+विश्व	NN
+के	PSP
+भिन्न-भिन्न	JJ
+भागों	NN
+में	PSP
+भिन्न-भिन्न	JJ
+नामों	NN
+से	PSP
+जाना	VM
+जाता	VAUX
+है-	VAUX
+यूरेशिया	NNP
+में	PSP
+स्टेपी	NNP
+,	SYM
+उत्तरी	JJ
+अमेरिका	NNP
+में	PSP
+प्रेयरी	NNP
+,	SYM
+आस्ट्रेलिया	NNP
+में	PSP
+डाउन्स	NNP
+और	CC
+दक्षिणी	JJ
+अफ्रीका	NNP
+में	PSP
+वेल्ड	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0188>
+इन	DEM
+प्रदेशों	NN
+की	PSP
+प्राकृतिक	JJ
+वनस्पति	NNC
+वृक्ष	NN
+रहित	JJ
+घासभूमियाँ	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0189>
+वृक्ष	NN
+केवल	RP
+पर्वतीय	JJ
+ढलानों	NN
+पर	PSP
+दिखाई	VM
+देते	VAUX
+हैं	VAUX
+जहाँ	PRP
+वर्षा	NN
+की	PSP
+मात्रा	NN
+अधिक	QF
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0190>
+इन	DEM
+घासभूमियों	NN
+में	PSP
+हिरण	NN
+,	SYM
+जंगली	JJ
+गधा	NN
+,	SYM
+घोडे	NN
+,	SYM
+भेडिया	NN
+,	SYM
+कंगारू	NNP
+,	SYM
+ऐमू	NNP
+और	CC
+डिंगो	NNP
+अथवा	CC
+जंगली	JJ
+कुत्ते	NN
+पाए	VM
+जाते	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0191>
+किसी	PRP
+भी	RP
+जीवोम	NN
+में	PSP
+इतने	QF
+परिवर्तन	NN
+नहीं	NEG
+हुए	VM
+जितने	PRP
+कि	CC
+शीतोष्ण	JJ
+कटिबन्धीय	JJ
+घासभूमि	NN
+जीवोम	NNP
+में	PSP
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0192>
+ये	PRP
+मानव	NN
+के	PSP
+विभिन्न	JJ
+कार्यकलापों	NN
+के	PSP
+कारण	PSP
+हुआ	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0193>
+आर्कटिक	NNPC
+टुण्ड्रा	NNP
+आवश्यक	JJ
+रूप	NN
+से	PSP
+एक	QC
+ठंडा	JJ
+मरुस्थल	NN
+है	VM
+,	SYM
+जिसमें	PRP
+वायुमंडलीय	JJ
+नमी	NN
+न	NN
+के	PSP
+बराबर	PSP
+है	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0194>
+यहाँ	PRP
 ग्रीष्म	NNPC
 ऋतु	NN
-में	PSP
-दिन	NN
-बडे	JJ
-और	CC
-रातें	NN
 छोटी	JJ
+और	CC
+ठंडी	JJ
 होती	VM
-हैं	VAUX
+है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0177b>
-तथा	CC
-शीत	JJ
-ऋतु	NN
-में	PSP
-रातें	NN
-बडी	JJ
-तथा	CC
-दिन	NN
-छोटे	JJ
-होते	VM
-हैं	VAUX
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0178>
-जलवायु	NN
-प्रकार	NN
-प्रदेशों	NN
+<sent_id=Geo_nios_15ch_0195>
+यह	PRP
+जीवोम	NN
+उत्तरी	JJ
+गोलार्द्ध	NNP
 के	PSP
-अनुसार	PSP
-बने	VM
-जलवायु	JJ
-वर्गों	NN
+उत्तरी	JJ
+सीमा	NN
 के	PSP
-आधार	NN
-पर	PSP
+साथ-साथ	PSP
+विस्तृत	JJ
 है	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0179>
-डब्लू	NNPC
-.	SYM
-कोपेन	NNP
-ने	PSP
-संसार	NN
+<sent_id=Geo_nios_15ch_0196>
+पौधों	NN
+और	CC
+प्राणियों	NN
+की	PSP
+प्रजातियाँ	NN
+यहाँ	PRP
+कम	QF
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0197>
+यहाँ	PRP
+का	PSP
+धरातल	NN
+बहुत	QF
+सी	RP
+प्रजातियों	NN
+के	PSP
+मिश्रण	NN
+से	PSP
+भरा	VM
+हुआ	VAUX
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0198>
+यहाँ	PRP
+की	PSP
+बहुत	QF
+सी	RP
+वनस्पति	NNC
+प्रजातियाँ	NN
+बौने	JJ
+आकार	NN
+की	PSP
+हैं	VAUX
+जैसे	RB
+घास	NN
+,	SYM
+मॉस	NN
+,	SYM
+लिचेन	NNP
+,	SYM
+फूलों	NN
+वाली	PSP
+जडी	NN
+बूटी	NN
+और	CC
+छितरी	VM
+हुई	VAUX
+छोटी	JJ
+झाडियाँ	NN
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0199>
+इस	DEM
+जीवोम	NN
+के	PSP
+जानवरों	NN
 को	PSP
-पाँच	QC
-जलवायु	NNC
+दो	QC
 वर्गों	NN
 में	PSP
 विभाजित	JJ
 किया	VM
+जा	VAUX
+सकता	VAUX
 है	VAUX
+आवासी	NN
+और	CC
+अप्रवासी	NN
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0180>
-उनका	PRP
-यह	DEM
-वर्गीकरण	NN
-तापमान	NN
+<sent_id=Geo_nios_15ch_0200>
+रेंडियर	NN
 ,	SYM
-वर्षण	NN
+भेडिया	NN
+,	SYM
+लोमडी	NN
+,	SYM
+कस्तूरी	NNPC
+बैल	NN
+,	SYM
+आर्कटिक	NNPC
+खरगोश	NN
+,	SYM
+सील	NN
 और	CC
-उनकी	PRP
-ऋतुवत्	JJ
-भिन्नताओं	NN
-पर	PSP
-आधारित	JJ
+लेमिंग्स	NNP
+यहाँ	PRP
+के	PSP
+प्रमुख	JJ
+जीव	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0201>
+कठोर	JJ
+पर्यावरण	NN
+के	PSP
+कारण	PSP
+यहाँ	PRP
+की	PSP
+जनसंख्या	NN
+कम	QF
 है	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0181>
-उन्होंने	PRP
-इन	DEM
-पाँच	QC
-जलवायु	NNC
-वर्गों	NN
-को	PSP
-13	QC
-जलवायु	NNC
-प्रकारों	NN
+<sent_id=Geo_nios_15ch_0202a>
+यूरेशिया	NNP
 में	PSP
-उपविभाजित	JJ
+सेमोयड्स	NNP
+,	SYM
+लैप्स	NN
+,	SYM
+फिन्स	NNP
+और	CC
+याकूत	NNP
+जनजातियाँ	NN
+,	SYM
+कनाडा	NNP
+और	CC
+अलास्का	NNP
+के	PSP
+ऐस्कीमो	NNP
+यहाँ	PRP
+के	PSP
+मूल	JJ
+निवासी	NN
+हैं	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0202b>
+और	CC
+सदियों	NN
+से	PSP
+चलवासी	JJ
+जीवन	NN
+व्यतीत	NN
+कर	VM
+रहे	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0203>
+इन्होंने	PRP
+शिकार	NN
+करके	VM
+टुण्ड्रा	NNP
+के	PSP
+जीवों	NN
+को	PSP
+नष्ट	JJ
 किया	VM
 है	VAUX
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0182>
-आप	PRP
-किसी	PRP
-स्थान	NN
+<sent_id=Geo_nios_15ch_0204>
+अब	PRP
+इनमें	PRP
+से	PSP
+बहुत	QF
+सी	RP
+जनजातियाँ	NN
+स्थाई	JJ
+जीवन	NN
+व्यतीत	NN
+करती	VM
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0205>
+हाल	NN
+के	PSP
+वर्षों	NN
+में	PSP
+खनिज	NNC
+पदार्थों	NN
 की	PSP
-जलवायु	NN
+खोज	NN
+से	PSP
+खनन	NNC
+बस्तियों	NN
+के	PSP
+विकास	NN
 को	PSP
-प्रभावित	JJ
-करने	VM
-वाले	PSP
-कारकों	NN
+प्रोत्साहन	NN
+मिला	VM
+है	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0206>
+लेकिन	CC
+खनन	NNC
+क्रियाओं	NN
+ने	PSP
+प्रदूषण	NN
+और	CC
+यहाँ	PRP
+के	PSP
+कमजोर	JJ
+पारितंत्रा	NN
+के	PSP
+लिए	PSP
+पर्यावरणीय	JJ
+समस्याएँ	NN
+खडी	JJ
+कर	VM
+दी	VAUX
+हैं	VAUX
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0207>
+जीवोम	NN
+क्या	WQ
+है	VM
+?	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0208>
+आप	PRP
+जलवायु	NN
+और	CC
+वनस्पति	NN
+के	PSP
+आधार	NN
+पर	PSP
+जीवोम	NNP
+के	PSP
+वर्गीकरण	NN
+का	PSP
+वर्णन	NN
+कीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0209>
+आप	PRP
+सदाहरित	JJ
+वर्षावन	NNPC
+जीवोम	NNP
+की	PSP
+अवस्थिति	NN
+,	SYM
+जलवायु	NN
+,	SYM
+प्राकृतिक	JJ
+वनस्पति	NN
+तथा	CC
+प्राणि	NN
+जीवन	NN
 की	PSP
 व्याख्या	NN
 कीजिए	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0183a>
+<sent_id=Geo_nios_15ch_0210>
 आप	PRP
-ताप	NN
-कटिबन्धों	NN
+जीवोम	NN
+के	PSP
+आकार	NN
+,	SYM
+अवस्थिति	NN
+और	CC
+विशेषताओं	NN
 को	PSP
-दर्शाने	VM
-वाला	PSP
-एक	QC
-चित्र	NN
-बनाइये	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0183b>
-और	CC
-आप	PRP
-प्रत्येक	QF
-ताप	NN
-कटिबन्ध	NN
-की	PSP
-प्रमुख	JJ
-विशेषताएं	NN
-लिखिये	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0184>
-आप	PRP
-मौसम	NN
-और	CC
-जलवायु	NN
-के	PSP
-बीच	NST
-पाँच	QC
-अन्तर	NN
-स्पष्ट	JJ
-करिये	VM
-।	SYM
-</sent_id>
-
-<sent_id=Geo_nios_13ch_0185a>
-आप	PRP
-कोपेन	NNP
-द्वारा	PSP
-जलवायु	NN
-के	PSP
-वर्गीकरण	NN
+प्रभावित	JJ
 करने	VM
-के	PSP
-तीन	QC
-प्रमुख	JJ
-आधारों	NN
-के	PSP
-नाम	NN
-बताइये	VM
+वाले	PSP
+विविध	JJ
+कारकों	NN
+का	PSP
+वर्णन	NN
+कीजिए	VM
 ।	SYM
 </sent_id>
 
-<sent_id=Geo_nios_13ch_0185b>
-और	CC
+<sent_id=Geo_nios_15ch_0211>
+‘‘कोई	NNP
+अन्य	JJ
+जीवोम	NN
+इतने	QF
+परिवर्तनों	NN
+से	PSP
+नहीं	NEG
+गुजरा	VM
+जितना	PRP
+कि	CC
+शीतोंष्ण	NNP
+कटिबन्धीय	JJ
+घासभूमि	NN
+जीवोम’’	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0212>
 आप	PRP
-साथ	NST
-ही	RP
-पाँच	QC
-जलवायु	NNC
-वर्ग	NN
-और	CC
-जलवायु	NN
-प्रकारों	NN
+उपयुक्त	JJ
+तर्कों	NN
+द्वारा	PSP
+इस	DEM
+कथन	NN
+की	PSP
+पुष्टि	NN
+कीजिए	VM
+।	SYM
+</sent_id>
+
+<sent_id=Geo_nios_15ch_0213>
+आप	PRP
+टुण्ड्रा	NNPC
+प्रदेश	NNP
 में	PSP
-उनके	PRP
-उपविभागों	NN
+पौधों	NN
+और	CC
+जानवरों	NN
 के	PSP
-नाम	NN
-बताइये	VM
+जीवन	NN
+पर	PSP
+जलवायु	NN
+के	PSP
+प्रभाव	NN
+की	PSP
+विवेचना	NN
+कीजिए	VM
 ।	SYM
 </sent_id>
 

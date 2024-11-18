@@ -1,0 +1,27 @@
+1	राम	rAma	NNP	k7p	18	['19:B', '25:whole', '27:op1', '27:op']
+2	और	Ora	CC	k7p	18	-
+3	मोहन	mohana	NNPC	pof__cn	4	20:B
+4	लाल	lAla	NNP	k7p	18	['20:I', '25:part', '26:whole', '27:op2', '27:op']
+5	भारत	BArawa	NNPC	pof__cn	6	20:I
+6	सेवाश्रम	sevASrama	NNP	k7p	18	['20:I', '26:part', '27:op3', '27:op']
+7	में	meM	PSP	lwg__psp	6	-
+8	सुबह	subaha	NN	k7t	12	24:start
+9	से	se	PSP	lwg__psp	8	-
+10	शाम	SAma	NN	k7t	12	24:end
+11	तक	waka	PSP	lwg__psp	10	-
+12	नाचते	nAcawe	VM	rvks	13	21:B
+13	हूये	hUye	NN	k2	18	['21:I', '22:verbalizer_B']
+14	माता	mAwA	NNPC	pof__cn	15	21:I
+15	देवी	xevI	NNP	k2	17	21:I
+16	का	kA	PSP	lwg__psp	15	-
+17	भजन	Bajana	NN	pof	18	23:kriyAmUla
+18	किया	kiyA	VM	main	0	23:verbalizer_B
+19	[ne_1]	[ne_1]	-	-	-	-
+20	[ne_1]	[ne_1]	-	-	-	-
+21	[ne_1]	[ne_1]	-	-	-	['22:kriyAmUla', '23:kriyAmUla']
+22	[cp_1]	[cp_1]	-	-	-	-
+23	[cp_2]	[cp_2]	-	-	-	-
+24	[span_1]	[span_1]	-	-	-	-
+25	[spatial_1]	[spatial_1]	-	-	-	-
+26	[spatial_2]	[spatial_2]	-	-	-	-
+27	[conj_1]	[conj_1]	-	-	-	-
