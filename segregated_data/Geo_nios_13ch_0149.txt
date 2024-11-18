@@ -1,0 +1,9 @@
+यह	DEM	S
+कटिबन्ध	NN	I
+संसार	NN	I
+का	PSP	I
+सबसे	INTF	I
+ठंडा	JJ	I
+प्रदेश	NN	I
+है	VM	E
+।	SYM	O

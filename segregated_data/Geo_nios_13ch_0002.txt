@@ -1,0 +1,13 @@
+मौसम	NN	S
+के	PSP	I
+इन	DEM	I
+तत्वों	NN	I
+का	PSP	I
+हमारे	PRP	I
+जीवन	NN	I
+पर	PSP	I
+गहरा	JJ	I
+प्रभाव	NN	I
+पडता	VM	I
+है	VAUX	E
+।	SYM	O

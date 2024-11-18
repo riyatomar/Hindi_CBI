@@ -1,0 +1,14 @@
+विषुवत	NNPC	S
+वृत्त	NN	I
+के	PSP	I
+निकटवर्ती	JJ	I
+स्थान	NN	I
+दूरस्थ	JJ	I
+स्थानों	NN	I
+की	PSP	I
+अपेक्षा	NN	I
+अधिक	QF	I
+गर्म	JJ	I
+होते	VM	I
+हैं	VAUX	E
+।	SYM	O

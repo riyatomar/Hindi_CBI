@@ -1,0 +1,17 @@
+निम्नलिखित	JJ	S
+कथनों	NN	I
+में	PSP	I
+से	PSP	I
+कुछ	QF	I
+कथन	NN	I
+गलत	JJ	I
+हैं	VM	E
+निम्नलिखित	JJ	S
+कथनों	NN	I
+में	PSP	I
+से	PSP	I
+कुछ	QF	I
+कथन	NN	I
+सही	JJ	I
+हैं	VM	E
+।	SYM	O

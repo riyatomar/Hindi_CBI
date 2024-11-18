@@ -1,0 +1,10 @@
+वनस्पति	JJC	S
+विहीन	JJ	I
+मिट्टियों	NN	I
+से	PSP	I
+विकिरण	NN	I
+तेजी	NN	I
+से	PSP	I
+होता	VM	I
+है	VAUX	E
+।	SYM	O

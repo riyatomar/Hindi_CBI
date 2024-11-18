@@ -1,0 +1,14 @@
+कोपेन	NNP	S
+का	PSP	I
+वर्गीकरण	NN	I
+तापमान	NN	I
+,	SYM	I
+वर्षण	NN	I
+तथा	CC	I
+उनकी	PRP	I
+ऋतुवत्	JJ	I
+विशेषताओं	NN	I
+पर	PSP	I
+आधारित	JJ	I
+है	VM	E
+।	SYM	O

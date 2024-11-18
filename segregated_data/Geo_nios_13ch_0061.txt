@@ -1,0 +1,11 @@
+किसी	PRP	S
+स्थान	NN	I
+पर	PSP	I
+एक	QC	I
+ही	RP	I
+प्रकार	NN	I
+की	PSP	I
+जलवायु	NN	I
+होती	VM	I
+है	VAUX	E
+।	SYM	O

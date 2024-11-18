@@ -1,0 +1,15 @@
+शीतोष्ण	JJ	S
+कटिबन्धीय	JJ	I
+प्रदेशों	NN	I
+में	PSP	I
+तीन-तीन	QC	I
+माह	NN	I
+की	PSP	I
+अवधि	NN	I
+की	PSP	I
+चार	QC	I
+ऋतुएँ	NN	I
+मानी	VM	I
+गई	VAUX	I
+हैं	VAUX	E
+।	SYM	O

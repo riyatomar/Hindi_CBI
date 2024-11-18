@@ -1,0 +1,11 @@
+समुद्र	NNC	S
+तट	NN	I
+के	PSP	I
+निकटवर्ती	JJ	I
+स्थानों	NN	I
+की	PSP	I
+जलवायु	NN	I
+सम	SYM	I
+होती	VM	I
+हैं	VAUX	E
+।	SYM	O

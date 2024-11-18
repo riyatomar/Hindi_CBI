@@ -1,0 +1,17 @@
+ऋतु	NNC	S
+वर्ष	NN	I
+की	PSP	I
+वह	PRP	I
+विशिष्ट	JJ	I
+अवधि	NN	I
+है	VM	E
+,	SYM	O
+जिसमें	PRP	S
+मौसम	NN	I
+की	PSP	I
+दशायें	NN	I
+लगभग	NN	I
+समान	JJ	I
+रहती	VM	I
+हैं	VAUX	E
+।	SYM	O

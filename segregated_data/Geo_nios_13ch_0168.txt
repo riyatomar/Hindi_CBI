@@ -1,0 +1,5 @@
+यह	PRP	S
+स्थाई	JJ	I
+नहीं	NEG	I
+है	VM	E
+।	SYM	O

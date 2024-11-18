@@ -1,0 +1,12 @@
+यहाँ	PRP	S
+धरातल	NN	I
+पर	PSP	I
+सदैव	RB	I
+हिम	NN	I
+की	PSP	I
+मोटी	JJ	I
+तह	NN	I
+जमी	VM	I
+रहती	VAUX	I
+है	VAUX	E
+।	SYM	O

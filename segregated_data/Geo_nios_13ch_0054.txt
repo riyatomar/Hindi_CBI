@@ -1,0 +1,6 @@
+मौसम	NN	S
+अक्सर	PRP	I
+बदलता	VM	I
+रहता	VAUX	I
+है	VAUX	E
+।	SYM	O

@@ -1,0 +1,10 @@
+अतः	CC	O
+मरुस्थलों	NN	S
+में	PSP	I
+दैनिक	JJ	I
+ताप	NNC	I
+परिसर	NN	I
+अधिक	QF	I
+होता	VM	I
+है	VAUX	E
+।	SYM	O

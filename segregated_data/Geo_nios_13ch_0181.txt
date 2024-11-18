@@ -1,0 +1,14 @@
+उन्होंने	PRP	S
+इन	DEM	I
+पाँच	QC	I
+जलवायु	NNC	I
+वर्गों	NN	I
+को	PSP	I
+13	QC	I
+जलवायु	NNC	I
+प्रकारों	NN	I
+में	PSP	I
+उपविभाजित	JJ	I
+किया	VM	I
+है	VAUX	E
+।	SYM	O

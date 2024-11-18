@@ -1,0 +1,12 @@
+हमारे	PRP	S
+देश	NN	I
+में	PSP	I
+तीन	QC	I
+प्रमुख	JJ	I
+ऋतुएँ-शीत	NN	I
+,	SYM	I
+ग्रीष्म	NNP	I
+और	CC	I
+वर्षा	NN	I
+हैं	VM	E
+।	SYM	O

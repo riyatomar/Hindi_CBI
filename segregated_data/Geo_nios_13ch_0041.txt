@@ -1,0 +1,10 @@
+इस	DEM	O
+कारण	NN	O
+विषुवतीय	JJ	S
+प्रदेशों	NN	I
+में	PSP	I
+कोई	PRP	I
+ऋतु	NN	I
+नहीं	NEG	I
+होती	VM	E
+।	SYM	O

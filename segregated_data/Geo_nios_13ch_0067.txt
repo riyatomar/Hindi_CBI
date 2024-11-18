@@ -1,0 +1,15 @@
+इसका	PRP	S
+प्रमुख	JJ	I
+कारण	NN	I
+विषुवत्	NNPC	I
+वृत्त	NN	I
+पर	PSP	I
+सूर्य	NN	I
+की	PSP	I
+किरणें	NN	I
+हमेशा	RB	I
+लगभग	RP	I
+लम्बवत्	NN	I
+पडती	VM	I
+हैं	VAUX	E
+।	SYM	O

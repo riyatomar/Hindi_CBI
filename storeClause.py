@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Define the set of verb POS tags
-VERB_POS_TAGS = {'VB', 'VBP', 'VBZ', 'VBD', 'VBG', 'VBN', 'VM', 'VAUX'}
+VERB_POS_TAGS = {'VM', 'VAUX'}
 
 def read_sentence(file_path):
     """
@@ -181,10 +181,10 @@ def process_sentences(input_dir, clauses_output_dir, invalid_dir, review_dir):
 
 def main():
     # Define directories
-    input_directory = "/home/riya/Hindi_CBI/data/segregated_data"
-    clauses_output_directory = "clause_output_2"
-    invalid_sentences_directory = "invalid_sentences_2"
-    review_sentences_directory = "review_sentences_2"
+    input_directory = "/home/riya/Hindi_CBI/segregated_data"
+    clauses_output_directory = "clause_output"
+    invalid_sentences_directory = "invalid_labelled_data"
+    review_sentences_directory = "review_sentences"
     
     # Process the sentences
     process_sentences(

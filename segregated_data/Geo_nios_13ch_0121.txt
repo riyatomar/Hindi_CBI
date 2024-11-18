@@ -1,0 +1,12 @@
+ठण्डी	JJ	S
+जल	NNC	I
+धाराएँ	NN	I
+तटीय	JJ	I
+भागों	NN	I
+के	PSP	I
+तापमान	NN	I
+को	PSP	I
+कम	QF	I
+करती	VM	I
+हैं	VAUX	E
+।	SYM	O

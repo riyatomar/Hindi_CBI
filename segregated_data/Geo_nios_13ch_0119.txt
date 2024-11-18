@@ -1,0 +1,10 @@
+समुद्र	NNC	S
+तट	NN	I
+के	PSP	I
+निकट	NST	I
+ताप	NNC	I
+परिसर	NN	I
+कम	QF	I
+रहता	VM	I
+है	VAUX	E
+।	SYM	O

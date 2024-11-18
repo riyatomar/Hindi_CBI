@@ -1,0 +1,13 @@
+जलवायु	NN	S
+प्रकार	NN	I
+प्रदेशों	NN	I
+के	PSP	I
+अनुसार	PSP	I
+बने	VM	I
+जलवायु	JJ	I
+वर्गों	NN	I
+के	PSP	I
+आधार	NN	I
+पर	PSP	I
+है	VM	E
+।	SYM	O

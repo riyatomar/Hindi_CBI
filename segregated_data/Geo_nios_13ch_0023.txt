@@ -1,0 +1,17 @@
+मौसम	NNC	S
+उपग्रहों	NN	I
+की	PSP	I
+मदद	NN	I
+से	PSP	I
+अब	PRP	I
+मौसम	NN	I
+के	PSP	I
+पूर्वानुमान	NN	I
+की	PSP	I
+जानकारी	NN	I
+अधिक	QF	I
+विश्वसनीय	JJ	I
+मिल	VM	I
+रही	VAUX	I
+है	VAUX	E
+।	SYM	O

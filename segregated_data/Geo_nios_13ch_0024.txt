@@ -1,0 +1,13 @@
+दूरदर्शन	NN	S
+पर	PSP	I
+मौसम	NN	I
+की	PSP	I
+दशाओं	NN	I
+की	PSP	I
+जानकारी	NN	I
+रोज	NN	I
+दी	VM	I
+जा	VAUX	I
+रही	VAUX	I
+है	VAUX	E
+।	SYM	O

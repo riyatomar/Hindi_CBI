@@ -1,0 +1,14 @@
+डब्लू	NNPC	S
+.	SYM	I
+कोपेन	NNP	I
+ने	PSP	I
+संसार	NN	I
+को	PSP	I
+पाँच	QC	I
+जलवायु	NNC	I
+वर्गों	NN	I
+में	PSP	I
+विभाजित	JJ	I
+किया	VM	I
+है	VAUX	E
+।	SYM	O

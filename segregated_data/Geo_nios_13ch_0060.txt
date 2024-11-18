@@ -1,0 +1,15 @@
+जलवायु	NN	S
+के	PSP	I
+प्रभाव	NN	I
+को	PSP	I
+किसी	PRP	I
+महाद्वीप	NN	I
+के	PSP	I
+विशाल	JJ	I
+क्षेत्र	NN	I
+में	PSP	I
+देखा	VM	I
+जा	VAUX	I
+सकता	VAUX	I
+है	VAUX	E
+।	SYM	O

@@ -1,0 +1,9 @@
+अक्षांश	NN	S
+जितना	PRP	S
+उच्च	JJ	I
+होगा	VM	I
+तापमान	NN	I
+उतना	INTF	I
+कम	QF	I
+होगा	VM	E
+।	SYM	O

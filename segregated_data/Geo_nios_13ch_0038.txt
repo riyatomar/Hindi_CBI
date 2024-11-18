@@ -1,0 +1,10 @@
+उत्तर	NNPC	S
+भारत	NNP	I
+में	PSP	I
+परम्परागत	JJ	I
+छः	QC	I
+ऋतुएँ	NN	I
+मानी	VM	I
+जाती	VAUX	I
+हैं	VAUX	E
+।	SYM	O

@@ -1,0 +1,17 @@
+यही	DEM	S
+कारण	NN	I
+यह	PRP	I
+है	VM	E
+कि	CC	O
+निम्न	JJ	S
+अक्षांशों	NN	I
+में	PSP	I
+उच्च	JJ	I
+अक्षांशों	NN	I
+की	PSP	I
+अपेक्षा	NN	I
+तापमान	NN	I
+ऊँचा	JJ	I
+रहता	VM	I
+है	VAUX	E
+।	SYM	O

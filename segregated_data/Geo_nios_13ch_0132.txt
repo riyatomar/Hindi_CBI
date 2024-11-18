@@ -1,0 +1,13 @@
+यह	PRP	S
+पृथ्वी	NN	I
+की	PSP	I
+सतह	NN	I
+के	PSP	I
+लगभग	RP	I
+आधे	QF	I
+भाग	NN	I
+को	PSP	I
+घेरे	VM	I
+हुए	VAUX	I
+है	VAUX	E
+।	SYM	O

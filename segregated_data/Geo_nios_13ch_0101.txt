@@ -1,0 +1,16 @@
+ऊपर	NST	S
+चढने	VM	I
+पर	PSP	I
+तापमान	NN	I
+गिरने	VM	I
+लगता	VAUX	I
+है	VAUX	E
+और	CC	O
+पवनाभिमुख	JJ	S
+ढालों	NN	I
+पर	PSP	I
+भारी	JJ	I
+वर्षा	NN	I
+करती	VM	I
+हैं	VAUX	E
+।	SYM	O

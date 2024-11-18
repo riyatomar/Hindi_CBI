@@ -1,0 +1,16 @@
+संसार	NN	S
+के	PSP	I
+विभिन्न	JJ	I
+प्रदेशों	NN	I
+में	PSP	I
+तापमान	NN	I
+,	SYM	I
+आर्द्रता	NN	I
+एवं	CC	I
+वर्षण	NN	I
+में	PSP	I
+अन्तर	NN	I
+पाया	VM	I
+जाता	VAUX	I
+है	VAUX	E
+।	SYM	O
