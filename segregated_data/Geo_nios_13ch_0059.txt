@@ -1,5 +1,0 @@
-यह	PRP	S
-लगभग	NN	I
-स्थायी	JJ	I
-है	VM	E
-।	SYM	O

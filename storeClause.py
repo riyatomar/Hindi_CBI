@@ -165,7 +165,7 @@ def process_sentences(input_dir, clauses_output_dir, invalid_dir, review_dir):
         
         if not rule_1:
             # Mark the filename with '*' and move to invalid directory
-            invalid_filename = f"*{filename}"
+            invalid_filename = f"{filename}"
             invalid_file_path = os.path.join(invalid_dir, invalid_filename)
             shutil.copy(file_path, invalid_file_path)
             continue  # Skip further processing
@@ -175,7 +175,7 @@ def process_sentences(input_dir, clauses_output_dir, invalid_dir, review_dir):
         
         # Save the clauses and the original sentence to the clauses_output_dir
         sentence_id = os.path.splitext(filename)[0]
-        clause_filename = f"{sentence_id}_clause.txt"
+        clause_filename = f"{sentence_id}.txt"
         clause_file_path = os.path.join(clauses_output_dir, clause_filename)
         save_clauses(clauses, clause_file_path, word_infos)
 
@@ -193,7 +193,7 @@ def main():
         invalid_dir=invalid_sentences_directory,
         review_dir=review_sentences_directory
     )
-    print("Processing completed.")
+    # print("Processing completed.")
 
 if __name__ == "__main__":
     main()

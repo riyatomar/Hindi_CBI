@@ -1,9 +1,0 @@
-तापमान	NNC	S
-ऊँचाई	NN	I
-बढने	VM	I
-के	PSP	I
-साथ	NST	I
-घटता	VM	I
-जाता	VAUX	I
-है	VAUX	E
-।	SYM	O

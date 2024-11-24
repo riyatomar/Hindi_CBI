@@ -1,7 +1,0 @@
-आप	PRP	S
-सही	JJ	I
-कथनों	NN	I
-पर	PSP	I
-चिन्ह	NN	I
-लगाइये	VM	E
-।	SYM	O

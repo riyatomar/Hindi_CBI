@@ -1,8 +1,0 @@
-ऊँचाई	NN	S
-बढने	VM	I
-के	PSP	I
-साथ-साथ	PSP	I
-तापमान	NN	I
-गिरता	VM	I
-है	VAUX	E
-।	SYM	O

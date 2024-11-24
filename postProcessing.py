@@ -8,7 +8,7 @@ def read_file(file_path):
 def extract_sentences(data):
     """Extracts sentence IDs and content, returning a dictionary with combined sentences by base ID."""
     sentences = {}
-    matches = re.findall(r'<sent_id=(Geo_nios_[0-9]*ch_[0-9]*[a-z]?)>\n(.*?)\n</sent_id>', data, re.DOTALL)
+    matches = re.findall(r'<sent_id=(Geo_nios_[0-9]*ch_[0-9]*[a-zA-Z]?)>\n(.*?)\n</sent_id>', data, re.DOTALL)
 
     for sent_id, content in matches:
         base_id = re.match(r'(Geo_nios_[0-9]*ch_[0-9]*)', sent_id).group(1)

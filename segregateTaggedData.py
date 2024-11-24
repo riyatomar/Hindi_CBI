@@ -24,4 +24,4 @@ for sentence in sentences:
         with open(output_file_path, 'w', encoding='utf-8') as output_file:
             output_file.write(sentence_content)
 
-print(f"Sentences successfully saved in '{output_folder}' folder.")
+# print(f"Sentences successfully saved in '{output_folder}' folder.")

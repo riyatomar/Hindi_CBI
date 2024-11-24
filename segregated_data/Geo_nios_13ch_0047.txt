@@ -1,9 +1,0 @@
-किसी	PRP	S
-प्रदेश	NN	I
-की	PSP	I
-जलवायु	NN	I
-अपेक्षाकृत	RB	I
-स्थाई	JJ	I
-होती	VM	I
-है	VAUX	E
-।	SYM	O
