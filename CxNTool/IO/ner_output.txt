@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "annotation": [
+                {
+                    "annotation": "B-PER",
+                    "word": "राम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "और"
+                },
+                {
+                    "annotation": "B-PER",
+                    "word": "मोहन"
+                },
+                {
+                    "annotation": "I-PER",
+                    "word": "लाल"
+                },
+                {
+                    "annotation": "I-LOC",
+                    "word": "भारत"
+                },
+                {
+                    "annotation": "I-LOC",
+                    "word": "सेवाश्रम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "में"
+                },
+                {
+                    "annotation": "O",
+                    "word": "सुबह"
+                },
+                {
+                    "annotation": "O",
+                    "word": "से"
+                },
+                {
+                    "annotation": "O",
+                    "word": "शाम"
+                },
+                {
+                    "annotation": "O",
+                    "word": "तक"
+                },
+                {
+                    "annotation": "O",
+                    "word": "नाचते"
+                },
+                {
+                    "annotation": "O",
+                    "word": "हूये"
+                },
+                {
+                    "annotation": "O",
+                    "word": "माता"
+                },
+                {
+                    "annotation": "O",
+                    "word": "देवी"
+                },
+                {
+                    "annotation": "O",
+                    "word": "का"
+                },
+                {
+                    "annotation": "O",
+                    "word": "भजन"
+                },
+                {
+                    "annotation": "O",
+                    "word": "किया"
+                }
+            ],
+            "project_id": "102",
+            "sentence": "राम और मोहन लाल भारत सेवाश्रम में सुबह से शाम तक नाचते हूये माता देवी का भजन किया",
+            "sentence_id": "2"
+        }
+    ],
+    "response_for": "USR"
+}
