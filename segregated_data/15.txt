@@ -1,0 +1,12 @@
+लाईट	NN	S
+जलाने	VM	I
+के	PSP	I
+लिए	PSP	I
+या	CC	I
+उनके	PRP	I
+लिए	PSP	I
+पानी	NN	I
+लाने	VM	I
+के	PSP	I
+लिए	PSP	E
+।	SYM	O

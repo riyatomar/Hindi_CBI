@@ -1,0 +1,10 @@
+मैं	PRP	S
+डेटा	NN	I
+दिखाने	VM	I
+के	PSP	I
+लिए	PSP	I
+नहीं	NEG	I
+जा	VM	I
+रहा	VAUX	I
+हूँ	VAUX	E
+।	SYM	O

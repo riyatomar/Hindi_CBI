@@ -1,0 +1,16 @@
+इसकी	PRP	S
+बजाए	PSP	I
+पहले	NST	I
+से	PSP	I
+ही	RP	I
+ज्यादा	QF	I
+माल	NN	I
+भाडै	NN	I
+में	PSP	I
+तीन	QC	I
+फीसदी	NN	I
+वृद्धि	NN	I
+की	VM	I
+गई	VAUX	I
+है	VAUX	E
+।	SYM	O

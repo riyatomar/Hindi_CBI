@@ -1,0 +1,14 @@
+सन्	NNPC	S
+1860	NNP	I
+और	CC	I
+1908	NNP	I
+के	PSP	I
+बीच	NST	I
+के	PSP	I
+20	QC	I
+वर्ष	NN	I
+अकाल	NNP	I
+के	PSP	I
+वर्ष	NN	I
+रहे	VM	E
+।	SYM	O

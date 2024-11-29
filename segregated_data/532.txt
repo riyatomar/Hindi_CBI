@@ -1,0 +1,16 @@
+कार	NN	S
+को	PSP	I
+दिन	NN	I
+के	PSP	I
+उजाले	NN	I
+में	PSP	I
+पूरी	JJ	I
+तरह	NN	I
+जाँचिए	VM	E
+और	CC	O
+चलाकर	VM	S
+उसे	PRP	I
+टैस्ट	NNC	I
+ड्राईव	NN	I
+कीजिए	VM	E
+।	SYM	O

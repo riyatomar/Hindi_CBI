@@ -1,0 +1,15 @@
+किन्तु	CC	O
+उसकी	PRP	S
+इच्छा	NN	I
+पूरी	JJ	I
+नहीं	NEG	I
+हुई	VM	I
+…	SYM	I
+<	VAUX	I
+s	SYM	I
+>	SYM	I
+मुझमें	PRP	I
+काफ़ी	QF	I
+ताक़त	NN	I
+है	VM	E
+।	SYM	O

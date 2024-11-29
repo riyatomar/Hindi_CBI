@@ -1,0 +1,15 @@
+इस्लाम	NNP	S
+में	PSP	I
+हिन्दू	NNC	I
+धर्म	NN	I
+के	PSP	I
+समान	JJ	I
+समय	NN	I
+के	PSP	I
+परिपत्र	NN	I
+होने	VM	I
+की	PSP	I
+अवधारणा	NN	I
+नहीं	NEG	I
+है	VM	E
+।	SYM	O

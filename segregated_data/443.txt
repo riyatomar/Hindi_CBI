@@ -1,0 +1,17 @@
+स्वतंत्रता	NNC	S
+संग्राम	NN	I
+में	PSP	I
+प्राण	NN	I
+न्यौछावर	NNP	I
+करनेवालों	VM	I
+के	PSP	I
+परिवार	NN	I
+के	PSP	I
+सदस्यों	NN	I
+को	PSP	I
+महापालिका	NNP	I
+में	PSP	I
+नौकरी	NN	I
+मिलने	VM	I
+लगी	VAUX	E
+।	SYM	O

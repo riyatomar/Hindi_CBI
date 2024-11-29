@@ -1,0 +1,14 @@
+इस	DEM	O
+प्रकार	NN	O
+वास्तविक	JJ	S
+कार्यकारी	NNC	I
+शक्ति	NNC	I
+मंत्रिपरिषद्	NN	I
+में	PSP	I
+निहित	JJ	I
+है	VM	E
+जिसका	PRP	S
+प्रमुख	JJ	I
+प्रधानमंत्री	NNP	I
+है	VM	E
+।	SYM	O

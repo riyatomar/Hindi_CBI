@@ -1,0 +1,16 @@
+पहले	NST	S
+भारत	NNP	I
+ने	PSP	I
+अपने	PRP	I
+सीमापार	JJ	I
+क्षेत्रों	NN	I
+से	PSP	I
+काफी	QF	I
+संख़्या	NN	I
+में	PSP	I
+रबड	NN	I
+का	PSP	I
+आयात	NN	I
+किया	VM	I
+था	VAUX	E
+।	SYM	O

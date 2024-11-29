@@ -1,0 +1,13 @@
+अगर	CC	O
+मैं	PRP	S
+इस	DEM	I
+चक्की	NN	I
+को	PSP	I
+घुमाऊं	VM	E
+तो	CC	S
+छोटा	JJ	I
+वाला	PSP	I
+तेजी	NN	I
+से	PSP	I
+घूमेगा	VM	E
+।	SYM	O

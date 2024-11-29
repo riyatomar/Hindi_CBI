@@ -1,0 +1,14 @@
+सिद्धार्थ	NNP	S
+ने	PSP	I
+दो	QC	I
+ब्राह्मणों	NN	I
+के	PSP	I
+साथ	NST	I
+अपने	PRP	I
+प्रश्नों	NN	I
+के	PSP	I
+उत्तर	NN	I
+ढूंढने	VM	I
+शुरू	NN	I
+किये	VM	E
+।	SYM	O

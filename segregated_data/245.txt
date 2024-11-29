@@ -1,0 +1,16 @@
+लडके	NN	S
+को	PSP	I
+जो	DEM	S
+सबसे	INTF	I
+अच्छी	JJ	I
+किताब	NN	I
+लगी	VM	I
+,	SYM	I
+उसमें	PRP	I
+मशहूर	JJ	I
+कीमियागरों	NN	I
+की	PSP	I
+कहानी	NN	I
+वर्णित	JJ	I
+थी	VM	E
+।	SYM	O

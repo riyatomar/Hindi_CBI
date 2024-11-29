@@ -1,0 +1,16 @@
+किंतु	CC	O
+शीघ्र	RB	S
+ही	RP	I
+वह	PRP	I
+यह	PRP	I
+जान	VM	I
+गए	VAUX	E
+कि	CC	O
+वह	PRP	S
+समाजवाद	NN	I
+के	PSP	I
+अनुयायी	NN	I
+बन	VM	I
+गए	VAUX	I
+है	VAUX	E
+।	SYM	O

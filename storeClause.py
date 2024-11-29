@@ -181,7 +181,7 @@ def process_sentences(input_dir, clauses_output_dir, invalid_dir, review_dir):
 
 def main():
     # Define directories
-    input_directory = "/home/riya/Hindi_CBI/segregated_data"
+    input_directory = "segregated_data"
     clauses_output_directory = "clause_output"
     invalid_sentences_directory = "invalid_labelled_data"
     review_sentences_directory = "review_sentences"

@@ -1,0 +1,11 @@
+मैं	PRP	S
+प्रति	RP	I
+1000	QC	I
+इंटरनेट	NNC	I
+उपयोगकर्ता	NN	I
+को	PSP	I
+दिखाकर	VM	I
+समाप्त	JJ	I
+करना	VM	I
+चाहूँगा	VM	E
+।	SYM	O

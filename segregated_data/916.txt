@@ -1,0 +1,7 @@
+और	CC	O
+उनका	PRP	S
+ख़र्च	NN	I
+आप	PRP	I
+नहीं	NEG	I
+देते	VM	E
+।	SYM	O

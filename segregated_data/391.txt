@@ -1,0 +1,10 @@
+आदेश	NN	S
+देते	VM	I
+समय	PSP	I
+कोर्ट	NNPC	I
+फ़ाइन	NN	I
+भी	RP	I
+कर	VM	I
+सकता	VAUX	I
+है	VAUX	E
+।	SYM	O

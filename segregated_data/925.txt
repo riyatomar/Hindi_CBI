@@ -1,0 +1,15 @@
+आयु	NN	S
+बढने	VM	I
+के	PSP	I
+साथ	NST	I
+हृदय	NN	I
+की	PSP	I
+क्षमता	NN	I
+में	PSP	I
+भी	RP	I
+धीरे-धीरे	RB	I
+कमी	NN	I
+आती	VM	I
+जाती	VAUX	I
+है	VAUX	E
+।	SYM	O

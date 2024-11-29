@@ -1,0 +1,12 @@
+विश्व	NN	S
+के	PSP	I
+100	QC	I
+सर्वोच्च	JJ	I
+शिखरों	NN	I
+में	PSP	I
+हिमालय	NNP	I
+की	PSP	I
+अनेक	QF	I
+चोटियाँ	NN	I
+हैं	VM	E
+।	SYM	O

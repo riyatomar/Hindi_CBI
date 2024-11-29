@@ -1,0 +1,15 @@
+वे	PRP	S
+बहुधा	RB	I
+उनसे	PRP	I
+मिलने	VM	I
+की	PSP	I
+तीव्र	JJ	I
+इच्छा	NN	I
+के	PSP	I
+बारे	PSP	I
+में	PSP	I
+भी	RP	I
+हमें	PRP	I
+बताया	VM	I
+करते	VAUX	E
+।	SYM	O

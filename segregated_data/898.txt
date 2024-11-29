@@ -1,0 +1,15 @@
+उन्होंने	PRP	S
+निम्बार्क	NNPC	I
+मध्व	NNP	I
+और	CC	I
+विष्णुस्वामी	NNP	I
+के	PSP	I
+आदर्शों	NN	I
+को	PSP	I
+सामने	NST	I
+रखकर	VM	I
+श्रीकृष्ण	NNP	I
+का	PSP	I
+प्रचार	NN	I
+किया	VM	E
+।	SYM	O

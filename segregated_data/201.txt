@@ -1,0 +1,16 @@
+“	NN	S
+मैं	PRP	I
+यहां	PRP	I
+इस	DEM	I
+नखलिस्तान	NN	I
+में	PSP	I
+न	NEG	I
+जाने	VM	I
+कब	WQ	I
+से	PSP	I
+तुम्हारा	PRP	I
+इंतजार	NN	I
+कर	VM	I
+रही	VAUX	I
+थी	VAUX	E
+।	SYM	O

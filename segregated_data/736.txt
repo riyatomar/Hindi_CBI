@@ -1,0 +1,12 @@
+और	CC	O
+उसने	PRP	S
+भूगोलशास्त्री	NNP	I
+के	PSP	I
+उपग्रह	NN	I
+में	PSP	I
+चारों	QC	I
+ओर	NST	I
+अपनी	PRP	I
+निगाह	NN	I
+दौडायी	VM	E
+।	SYM	O

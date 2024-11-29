@@ -1,0 +1,16 @@
+अगर	CC	O
+हम	PRP	S
+चाहते	VM	E
+तो	CC	S
+अपनी	PRP	I
+बात	NN	I
+मनवाकर	VM	I
+पाकिस्तान	NNP	I
+को	PSP	I
+उस	PRP	I
+पर	PSP	I
+राजी	JJ	I
+करवा	VM	I
+सकते	VAUX	I
+थे	VAUX	E
+।	SYM	O

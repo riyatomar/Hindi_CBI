@@ -1,0 +1,17 @@
+समामेलन	NN	S
+की	PSP	I
+दिशा	NN	I
+में	PSP	I
+दूसरा	QO	I
+कदम	NN	I
+देश	NN	I
+भर	RP	I
+में	PSP	I
+एक	QC	I
+समान	JJ	I
+विधि	NNC	I
+प्रणाली	NN	I
+स्थापित	JJ	I
+करना	VM	I
+था	VAUX	E
+।	SYM	O

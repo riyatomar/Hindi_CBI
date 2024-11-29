@@ -1,0 +1,13 @@
+कत्थक	NNC	S
+नृत्य	NN	I
+का	PSP	I
+प्रारम्भ	NN	I
+6-7वीं	NNPC	I
+शताब्दी	NNP	I
+में	PSP	I
+उत्तर	NNPC	I
+भारत	NNP	I
+में	PSP	I
+हुआ	VM	I
+था	VAUX	E
+।	SYM	O

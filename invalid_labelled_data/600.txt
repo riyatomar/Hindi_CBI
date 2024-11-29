@@ -1,0 +1,24 @@
+द्रौपदी	NNP	S
+स्वयंवर	NN	I
+से	PSP	I
+पूर्व	NST	I
+विदुर	NNP	I
+को	PSP	I
+छोडकर	VM	I
+सभी	QF	I
+पाण्डवों	NN	I
+को	PSP	I
+मृत	JJ	I
+समझने	VM	I
+लगे	VAUX	E
+और	CC	O	O
+इस	DEM	O
+कारण	NN	I
+धृतराष्ट्र	NNP	I
+ने	PSP	I
+दुर्योधन	NNP	I
+को	PSP	I
+युवराज	NN	I
+बना	VM	I
+दिया	VAUX	E
+।	SYM	O

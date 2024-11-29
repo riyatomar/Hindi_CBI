@@ -1,0 +1,17 @@
+2	QC	S
+जब	PRP	S
+ट्रैफीक	NN	I
+रुक	VM	I
+जाये	VAUX	E
+तो	CC	S
+सडक	NN	I
+पार	NN	I
+करीये	VM	E
+लेकिन	CC	O
+तब	PRP	S
+भी	RP	I
+आजुबाजु	NNP	I
+देखीये	VM	E
+और	CC	O
+सुनीये	VM	S	E
+।	SYM	O

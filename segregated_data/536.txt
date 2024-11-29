@@ -1,0 +1,17 @@
+1960	NNP	S
+के	PSP	I
+युवा	JJ	I
+वामपंथी	JJ	I
+क्रान्तिकारियों	NN	I
+ने	PSP	I
+यूरोप	NNP	I
+के	PSP	I
+पुराने	JJ	I
+दक्षिण	JJ	I
+पंथ	NN	I
+का	PSP	I
+अमेरिकन	JJ	I
+संस्करण	NN	I
+प्रस्तुत	JJ	I
+किया	VM	E
+।	SYM	O

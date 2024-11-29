@@ -1,0 +1,15 @@
+पर	PSP	S
+सामान्यत	NNC	I
+:	SYM	I
+आप	PRP	I
+ख़रीदी	VM	I
+हुई	VAUX	I
+वस्तुएँ	NN	I
+घर	NN	I
+ले	VM	I
+जाकर	VAUX	I
+उन्हें	PRP	I
+आजमा	VM	I
+सकते	VAUX	I
+हैं	VAUX	E
+।	SYM	O

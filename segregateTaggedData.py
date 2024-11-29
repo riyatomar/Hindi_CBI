@@ -1,6 +1,6 @@
 import os
 
-input_file = '/home/riya/Hindi_CBI/data/final_output.txt' 
+input_file = 'data/final_output.txt' 
 output_folder = 'segregated_data' 
 
 # Create the output folder if it doesn't exist

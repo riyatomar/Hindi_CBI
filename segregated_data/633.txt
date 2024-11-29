@@ -1,0 +1,12 @@
+सेल्युकस	NNPC	S
+नेक्टर	NNPC	I
+सिकन्दर	NNP	I
+के	PSP	I
+सबसे	INTF	I
+शक्तिशाली	JJ	I
+उत्तराधिकारियों	NN	I
+में	PSP	I
+से	PSP	I
+एक	QC	I
+था	VM	E
+।	SYM	O

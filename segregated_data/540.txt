@@ -1,0 +1,17 @@
+कपोत	NNC	S
+स्तर	NNPC	I
+उभारदार	NN	I
+कुदु	NNPC	I
+मॉटिफ	NNP	I
+से	PSP	I
+,	SYM	I
+विशेषकर	CC	I
+हर	QF	I
+दिशा	NN	I
+के	PSP	I
+मध्य	NST	I
+में	PSP	I
+अलंकृत	JJ	I
+होते	VM	I
+हैं	VAUX	E
+।	SYM	O

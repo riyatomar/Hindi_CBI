@@ -1,0 +1,16 @@
+पिक्सेल	NN	S
+की	PSP	I
+संख्या	NN	I
+क्रॉप	UNK	I
+करने	VM	I
+के	PSP	I
+बाद	NST	I
+छवि	NN	I
+के	PSP	I
+बाईं	NNC	I
+ओर	NST	I
+padd	SYM	I
+करने	VM	I
+के	PSP	I
+लिए	PSP	E
+।	SYM	O

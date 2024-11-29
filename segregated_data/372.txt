@@ -1,0 +1,4 @@
+पृष्ठ	NN	S
+21	NNP	I
+देखें	VM	E
+।	SYM	O

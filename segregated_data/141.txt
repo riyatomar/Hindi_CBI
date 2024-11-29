@@ -1,0 +1,17 @@
+इसी	DEM	S
+कारण	NN	I
+पौधों	NN	I
+का	PSP	I
+विकास	NN	I
+पृथक	JJ	I
+रूप	NN	I
+में	PSP	I
+होकर	VM	I
+उनके	PRP	I
+बाह्य	JJ	I
+रूप	NN	I
+भिन्न	JJ	I
+हो	VM	I
+जाते	VAUX	I
+हैं	VAUX	E
+।	SYM	O

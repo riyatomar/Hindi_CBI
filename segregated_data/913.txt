@@ -1,0 +1,16 @@
+अगर	CC	O
+आप	PRP	S
+पर	PSP	I
+कोई	PRP	I
+खतरा	NN	I
+थोपा	VM	I
+जाता	VAUX	I
+हैं	VAUX	I
+जैसे	CCC	I
+कि	CC	I
+आतंकवाद	NN	I
+एक	QC	I
+अच्छा	JJ	I
+उदहारण	NN	I
+हैं	VM	E
+।	SYM	O

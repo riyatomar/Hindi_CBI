@@ -1,0 +1,13 @@
+#कुछ	QF	S
+इसे	PRP	I
+आर्यों	NN	I
+की	PSP	I
+पूर्ववर्ती	JJ	I
+शाखा	NN	I
+कहते	VM	I
+हैं	VAUX	E
+तो	RP	S
+कुछ	PRP	I
+इसे	PRP	I
+द्रविड	NNP	I
+।	SYM	O

@@ -1,0 +1,19 @@
+आपको	PRP	S
+इसके	PRP	I
+बाद	NST	I
+तय	JJ	I
+यह	PRP	I
+करना	VM	I
+चाहिए	VAUX	E
+कि	CC	O
+क्या	WQ	S
+आपको	PRP	I
+सबसे	INTF	I
+उत्तम	JJ	I
+सौदा	NN	I
+मिल	VM	I
+रहा	VAUX	I
+है	VAUX	E
+या	CC	O
+नहीं	NEG	S	E
+।	SYM	O

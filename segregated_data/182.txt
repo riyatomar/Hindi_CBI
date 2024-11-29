@@ -1,0 +1,13 @@
+अपने	PRP	S
+पुलिस	NN	I
+के	PSP	I
+कर्तव्यों	NN	I
+के	PSP	I
+अतिरिक्त	JJ	I
+कोतवाल	NN	I
+को	PSP	I
+कुछ	QF	I
+न्यायिक	JJ	I
+शक्तियां	NN	I
+थीं	VM	E
+।	SYM	O

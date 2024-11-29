@@ -1,0 +1,16 @@
+भारत	NNP	S
+गुटनिरपेक्ष	NNPC	I
+आन्दोलन	NNP	I
+तथा	CC	I
+संयुक्त	NNPC	I
+राष्ट्र	NNPC	I
+संघ	NNP	I
+के	PSP	I
+संस्थापक	JJ	I
+सदस्य	NNC	I
+देशों	NN	I
+में	PSP	I
+से	PSP	I
+एक	QC	I
+है	VM	E
+।	SYM	O

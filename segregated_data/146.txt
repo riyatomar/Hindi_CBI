@@ -1,0 +1,9 @@
+Proszę	SYM	S
+wpisać	SYM	I
+nazwę	SYM	I
+i	NNPC	I
+hasło	SYM	I
+dla	SYM	I
+tworzonej	SYM	I
+sieci	SYM	I
+।	SYM	O

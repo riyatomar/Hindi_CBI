@@ -1,0 +1,12 @@
+गुजरात	NNP	S
+के	PSP	I
+खेतों	NN	I
+में	PSP	I
+तो	RP	I
+आनुवंशिक	JJ	I
+लडई	NN	I
+लडी	VM	I
+जा	VAUX	I
+रही	VAUX	I
+है	VAUX	E
+।	SYM	O

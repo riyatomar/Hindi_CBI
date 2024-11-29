@@ -1,0 +1,16 @@
+लेकिन	CC	O
+बाद	NST	S
+में	PSP	I
+अंग्रेजों	NN	I
+का	PSP	I
+पगडा	NN	I
+भारी	JJ	I
+पडा	VAUX	I
+और	CC	I
+दोनो	QC	I
+फौजो	NN	I
+को	PSP	I
+पिछे	NST	I
+हटना	VM	I
+पडा	VAUX	E
+।	SYM	O

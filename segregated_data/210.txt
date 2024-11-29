@@ -1,0 +1,15 @@
+इस	DEM	S
+कॉम्प्लेक्स	NN	I
+को	PSP	I
+घेरे	VM	I
+है	VM	I
+विशाल	JJ	I
+300	QC	I
+वर्ग	NN	I
+मीटर	NN	I
+का	PSP	I
+चारबाग	NNP	I
+एक	QC	I
+मुगल	JJ	I
+बाग	NN	E
+।	SYM	O

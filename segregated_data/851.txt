@@ -1,0 +1,11 @@
+वस्तुतया	NN	S
+यह	DEM	I
+संपर्क	NN	I
+मेरे	PRP	I
+जीवन	NN	I
+का	PSP	I
+सबसे	INTF	I
+बडा	JJ	I
+गौरव	NN	I
+है	VM	E
+।	SYM	O

@@ -1,0 +1,15 @@
+उसके	PRP	S
+पुत्र	NN	I
+जहांगीर	NNP	I
+द्वारा	PSP	I
+उसके	PRP	I
+सम्मान	NN	I
+में	PSP	I
+लाहौर	NNP	I
+में	PSP	I
+एक	QC	I
+मस्जिद	NN	I
+बनवायी	VM	I
+गई	VAUX	I
+थी	VAUX	E
+।	SYM	O

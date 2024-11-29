@@ -1,0 +1,7 @@
+ऐसे	DEM	S
+ही	RP	I
+दिन	NN	I
+गुजरते	VM	I
+गएं	VAUX	I
+…	SYM	I
+।	SYM	O

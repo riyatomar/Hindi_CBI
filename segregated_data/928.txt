@@ -1,0 +1,14 @@
+घोडों	NN	S
+को	PSP	I
+नियमित	JJ	I
+समय	NN	I
+पर	PSP	I
+पर्याप्त	JJ	I
+मात्रा	NN	I
+में	PSP	I
+ताजा	JJ	I
+जल	NN	I
+दिया	VAUX	I
+जाना	VAUX	I
+चाहिए	VAUX	E
+।	SYM	O

@@ -1,0 +1,3 @@
+#कुछ	PRP	S
+नहीं	NEG	I
+।	SYM	O

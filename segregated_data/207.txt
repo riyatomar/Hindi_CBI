@@ -1,0 +1,17 @@
+67	QC	S
+और	CC	I
+33	QC	I
+के	PSP	I
+अनुपात	NN	I
+से	PSP	I
+अमेरिका	NNP	I
+के	PSP	I
+मुसलमान	NN	I
+यह	PRP	I
+सोचते	VM	I
+हैं	VAUX	E
+कि	CC	O
+अमेरिका	NNP	S
+अनैतिक	JJ	I
+है	VM	E
+।	SYM	O

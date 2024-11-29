@@ -1,0 +1,16 @@
+भले	RB	S
+ही	RP	I
+कार्लचऋ	NN	I
+के	PSP	I
+नियमानुसार	PSP	I
+आप	PRP	I
+इसके	PRP	I
+कतिपय	QF	I
+सिद्धांतों	NN	I
+एवं	CC	I
+उपदेशों	NN	I
+को	PSP	I
+नकार	VM	I
+दें-	VAUX	E
+
+।	SYM	O

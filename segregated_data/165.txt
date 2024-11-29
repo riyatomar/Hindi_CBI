@@ -1,0 +1,12 @@
+संसार	NN	S
+की	PSP	I
+अधिकाश	JJ	I
+ऊँची	JJ	I
+पर्वत	NN	I
+चोटियाँ	NN	I
+हिमालय	NNP	I
+में	PSP	I
+ही	RP	I
+स्थित	JJ	I
+हैं	VM	E
+।	SYM	O

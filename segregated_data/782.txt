@@ -1,0 +1,13 @@
+उन्होंने	PRP	S
+गड्ढा	NN	I
+खोदकर	VM	I
+आग	NN	I
+जलाई	VM	E
+ताकि	CC	O
+उसकी	PRP	S
+रोशनी	NN	I
+देखी	VM	I
+न	NEG	I
+जा	VM	I
+सके	VAUX	E
+।	SYM	O

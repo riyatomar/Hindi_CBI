@@ -1,0 +1,15 @@
+कुरान	NNP	S
+की	PSP	I
+शैली	NN	I
+के	PSP	I
+कारण	PSP	I
+अरब	QC	I
+के	PSP	I
+भाषा	NN	I
+ज्ञानियों	NN	I
+ने	PSP	I
+अपने	PRP	I
+घुटने	NN	I
+टेक	VM	I
+दिए	VAUX	E
+।	SYM	O

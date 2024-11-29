@@ -1,0 +1,16 @@
+इतना	QF	S
+सबकुछ	PRP	I
+होने	VM	I
+के	PSP	I
+बावजूद	PSP	I
+गंगा	NNP	I
+के	PSP	I
+अस्तित्व	NN	I
+पर	PSP	I
+संकट	NN	I
+के	PSP	I
+बादल	NN	I
+छाए	VM	I
+हुए	VAUX	I
+हैं	VAUX	E
+।	SYM	O

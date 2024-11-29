@@ -1,0 +1,13 @@
+आप	PRP	S
+और	CC	I
+एल	NNPC	I
+ई	NNPC	I
+ए	NNP	I
+दोनों	NN	I
+ही	RP	I
+उन	PRP	I
+से	PSP	I
+प्रश्न	NN	I
+पूछ	VM	I
+सकेंगे	VAUX	E
+।	SYM	O

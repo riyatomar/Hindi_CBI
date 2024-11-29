@@ -1,0 +1,11 @@
+परिसर	NN	S
+में	PSP	I
+एमस्टरडम	NNP	I
+की	PSP	I
+तरह	PSP	I
+आंतरिक	JJ	I
+परिवहन	NN	I
+की	PSP	I
+व्यवस्था	NN	I
+है	VM	E
+।	SYM	O

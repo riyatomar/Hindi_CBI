@@ -1,0 +1,3 @@
+“ % s” पहले तर्क को “any” , “summary” , या “description” , या “location” , या “attendee” , या “organizer” , या“classification” में से किसी रूप में आशा करता है ।
+
+“ % s” पहले तर्क को “any” , “summary” , या “description” , या “location” , या “attendee” , या “organizer” , या“classification” में से किसी रूप में आशा करता है

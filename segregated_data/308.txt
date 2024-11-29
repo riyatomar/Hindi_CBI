@@ -1,0 +1,11 @@
+>	SYM	S
+पर	CC	I
+आप	PRP	I
+खुद	PRP	I
+ही	RP	I
+भारत	NNP	I
+आने	VM	I
+की	PSP	I
+नहीं	NEG	I
+सोचेंगे	VM	E
+।	SYM	O

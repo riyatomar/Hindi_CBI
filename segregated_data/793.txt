@@ -1,0 +1,16 @@
+1928	NNP	S
+में	PSP	I
+कांग्रेस	NNP	I
+का	PSP	I
+वार्षिक	JJ	I
+अधिवेशन	NN	I
+पंडित	NNC	I
+मोतीलाल	NNPC	I
+नेहरू	NNP	I
+की	PSP	I
+अध्यक्षता	NN	I
+में	PSP	I
+कोलकाता	NNP	I
+में	PSP	I
+हुआ	VM	E
+।	SYM	O

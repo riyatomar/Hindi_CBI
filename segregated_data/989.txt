@@ -1,0 +1,10 @@
+मीडिया	NNC	S
+उद्योग	NN	I
+भी	RP	I
+यहां	PRP	I
+का	PSP	I
+एक	QC	I
+बडा	JJ	I
+नियोक्ता	NN	I
+है	VM	E
+।	SYM	O

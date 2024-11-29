@@ -1,0 +1,14 @@
+मां	NN	S
+अपने	PRP	I
+बढते	VM	I
+हुए	VAUX	I
+सदा-भूखे	JJ	I
+बच्चों	NN	I
+के	PSP	I
+लिए	PSP	I
+ही	RP	I
+अधिकाधिक	QF	I
+मांस	NN	I
+निगलती	VM	I
+है	VAUX	E
+।	SYM	O

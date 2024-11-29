@@ -1,0 +1,17 @@
+कुल	QF	S
+मिलाकर	VM	I
+ये	DEM	I
+दवाइयां	NN	I
+शरीर	NN	I
+की	PSP	I
+इंसुलिन	NN	I
+को	PSP	I
+और	QF	I
+भी	RP	I
+अच्छा	JJ	I
+कार्य	NN	I
+करने	VM	I
+योग़्य	VAUX	I
+बनाती	VM	I
+हैं	VAUX	E
+।	SYM	O

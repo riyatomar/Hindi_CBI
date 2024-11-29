@@ -1,0 +1,16 @@
+नेपाल	NNP	S
+की	PSP	I
+राजभाषा	NN	I
+नेपाली	JJ	I
+है	VM	E
+और	CC	O
+नेपाल	NNP	S
+के	PSP	I
+लोगों	NN	I
+को	PSP	I
+भी	RP	I
+नेपाली	JJ	I
+कहा	VM	I
+जाता	VAUX	I
+है	VAUX	E
+।	SYM	O

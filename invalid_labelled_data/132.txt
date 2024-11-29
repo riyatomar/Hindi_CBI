@@ -1,0 +1,15 @@
+खेल	NN	S
+के	PSP	I
+रिवाज	NN	I
+का	PSP	I
+प्रयोग	NN	I
+करके	VM	E
+जो	DEM	S
+खेल	NN	I
+आप	PRP	I
+खेलना	VM	I
+चाहते	VM	I
+हें	VAUX	E
+उसे	PRP	I
+चुनें	VM	E
+।	SYM	O

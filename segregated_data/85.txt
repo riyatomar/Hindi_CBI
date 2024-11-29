@@ -1,0 +1,13 @@
+तब	PRP	S
+आरंभिक	JJ	I
+बीसवीं	NNPC	I
+शताब्दी	NN	I
+में	PSP	I
+यहां	PRP	I
+सबसे	INTF	I
+पुरानी	JJ	I
+फिल्म	NN	I
+प्रसारित	JJ	I
+हुयी	VM	I
+थी	VAUX	E
+।	SYM	O

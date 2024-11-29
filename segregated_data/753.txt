@@ -1,0 +1,16 @@
+जिस	DEM	S
+आदमी	NN	I
+का	PSP	I
+निधन	NN	I
+हुआ	VM	I
+है	VAUX	I
+उस	PRP	I
+के	PSP	I
+मालमत्ता	NN	I
+से	PSP	I
+ञुनेरल्	VM	I
+फय्मेन्ट्स्	VM	I
+लिया	VM	I
+जाता	VAUX	I
+है	VAUX	E
+।	SYM	O

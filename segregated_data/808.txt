@@ -1,0 +1,17 @@
+विजेट	NN	S
+के	PSP	I
+चौडाई	NN	I
+निवेदन	NN	I
+पर	PSP	I
+अध्यारोहित	JJ	I
+करें	VM	E
+या	CC	O
+-1	SYM	S
+अगर	CC	I
+प्राकृतिक	JJ	I
+आग्रह	NNC	I
+प्रयोग	NN	I
+किया	VM	I
+जाता	VAUX	I
+है	VAUX	E
+।	SYM	O

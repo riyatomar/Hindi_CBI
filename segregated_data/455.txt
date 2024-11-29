@@ -1,0 +1,12 @@
+कमरे	NN	S
+की	PSP	I
+खिडकियों	NN	I
+पर	PSP	I
+सूर्य	NNP	I
+की	PSP	I
+सीधी	JJ	I
+किरणें	NN	I
+नहीं	NEG	I
+पडनी	VM	I
+चाहिएं	VAUX	E
+।	SYM	O

@@ -1,0 +1,15 @@
+ढाई	QCC	O
+लाख	QC	S
+-	SYM	I
+कम	QF	I
+से	RP	I
+कम	QF	I
+इतनो	NN	I
+के	PSP	I
+बारे	PSP	I
+में	PSP	I
+हम	PRP	I
+जानते	VM	I
+हैं	VAUX	I
+-	SYM	I
+।	SYM	O

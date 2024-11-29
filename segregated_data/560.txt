@@ -1,0 +1,17 @@
+इस	DEM	S
+साल	NN	I
+दो	QC	I
+विमान	NN	I
+शामिल	JJ	I
+करने	VM	I
+के	PSP	I
+पहले	NST	I
+इसके	PRP	I
+बेडै	NN	I
+में	PSP	I
+बस	NN	I
+23	QC	I
+विमान	NN	I
+बचे	VM	I
+थे	VAUX	E
+।	SYM	O

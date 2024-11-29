@@ -1,0 +1,17 @@
+यह	PRP	S
+देखने	VM	I
+के	PSP	I
+लिए	PSP	I
+जाँच	NN	I
+करे	VM	E
+कि	CC	O
+पुनःआरंभ	NN	S
+के	PSP	I
+पश्चात	NST	I
+पहले	NST	I
+की	PSP	I
+तरह	PSP	I
+ही	RP	I
+रिजोलुशन	NN	I
+है	VM	E
+।	SYM	O

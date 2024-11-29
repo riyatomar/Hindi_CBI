@@ -1,0 +1,15 @@
+मीडिया	NN	S
+बाहर	NST	I
+करने	VM	I
+में	PSP	I
+विफल	JJ	I
+;	SYM	I
+मीडिया	NN	I
+पर	PSP	I
+एक	QC	I
+या	CC	I
+अधिक	QF	I
+वाल्यूम	NN	I
+व्यस्त	JJ	I
+है	VM	E
+।	SYM	O

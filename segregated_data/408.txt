@@ -1,0 +1,15 @@
+“	NNP	S
+यह	PRP	I
+एक	QC	I
+पारस	NNC	I
+-	SYM	I
+पत्यर	NN	I
+है	VM	E
+और	CC	O
+यह	DEM	S
+द्रव्य	NN	I
+जीवन	NN	I
+का	PSP	I
+अमृत	NN	I
+है	VM	E
+।	SYM	O

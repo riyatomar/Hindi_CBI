@@ -1,0 +1,14 @@
+मुहतसिब	NNP	S
+अपने	PRP	I
+कर्तव्यों	NN	I
+की	PSP	I
+पूर्ति	NN	I
+के	PSP	I
+लिए	PSP	I
+दबाव	NN	I
+,	SYM	I
+और	CC	I
+सख्ती	NN	I
+बरत	VM	I
+सकता	VAUX	E
+।	SYM	O

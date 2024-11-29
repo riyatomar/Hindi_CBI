@@ -1,0 +1,12 @@
+यह	DEM	S
+पाबंदी	NN	I
+जरूरी	JJ	I
+है	VM	I
+,	SYM	I
+नहीं	NEG	I
+तो	RP	I
+जमींदारियां	NN	I
+दुबारा	RB	I
+बन	VM	I
+जायेंगी	VAUX	E
+।	SYM	O

@@ -1,0 +1,12 @@
+आखिर	NN	S
+में	PSP	I
+मैंने	PRP	I
+उनसे	PRP	I
+दो-एक	QC	I
+दिन	NN	I
+में	PSP	I
+आने	VM	I
+का	PSP	I
+वादा	NN	I
+किया	VM	E
+।	SYM	O

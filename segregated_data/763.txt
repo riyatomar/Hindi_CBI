@@ -1,0 +1,15 @@
+दायें-से-बायें	NNC	S
+क्रम	NN	I
+का	PSP	I
+उपयोग	NN	I
+तुकान्त	JJ	I
+शब्दों	NN	I
+को	PSP	I
+पास-पास	NST	I
+लाने	VM	I
+के	PSP	I
+लिया	VM	I
+किया	VM	I
+जाता	VAUX	I
+है	VAUX	E
+।	SYM	O

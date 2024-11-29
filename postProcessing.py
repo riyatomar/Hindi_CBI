@@ -5,18 +5,45 @@ def read_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
+# def extract_sentences(data):
+#     """Extracts sentence IDs and content, returning a dictionary with combined sentences by base ID."""
+#     sentences = {}
+#     matches = re.findall(r'<sent_id=(Geo_nios_[0-9]*ch_[0-9]*[a-zA-Z]?)>\n(.*?)\n</sent_id>', data, re.DOTALL)
+
+#     for sent_id, content in matches:
+#         # base_id = re.match(r'(Geo_nios_[0-9]*ch_[0-9]*)', sent_id).group(1)
+#         base_id = re.match(r'\d+[a-zA-Z]?', sent_id).group(0)
+#         if base_id in sentences:
+#             sentences[base_id] += " " + '\n' + content
+#         else:
+#             sentences[base_id] = content
+#     return sentences/
+
 def extract_sentences(data):
-    """Extracts sentence IDs and content, returning a dictionary with combined sentences by base ID."""
+    """
+    Extracts sentence IDs and their content from the input data.
+    Groups sentences by their base IDs, combining their content.
+    
+    Base IDs are numeric with optional trailing alphabetic characters (e.g., 1002a, 45, 999b).
+    Sentences with the same numeric part are grouped together.
+    """
     sentences = {}
-    matches = re.findall(r'<sent_id=(Geo_nios_[0-9]*ch_[0-9]*[a-zA-Z]?)>\n(.*?)\n</sent_id>', data, re.DOTALL)
+    # Adjusted regex for numeric base IDs with optional trailing characters
+    matches = re.findall(r'<sent_id=(\d+[a-zA-Z]?)>\n(.*?)\n</sent_id>', data, re.DOTALL)
 
     for sent_id, content in matches:
-        base_id = re.match(r'(Geo_nios_[0-9]*ch_[0-9]*)', sent_id).group(1)
-        if base_id in sentences:
-            sentences[base_id] += " " + '\n' + content
-        else:
-            sentences[base_id] = content
+        # Extract the numeric base ID (e.g., "1002" from "1002a")
+        base_id_match = re.match(r'(\d+)', sent_id)
+        if base_id_match:
+            base_id = base_id_match.group(1)
+            # Combine content for sentences with the same base ID
+            if base_id in sentences:
+                sentences[base_id] += " \n" + content
+            else:
+                sentences[base_id] = content
+
     return sentences
+
 
 def clean_intermediate_sym(content):
     """
@@ -53,3 +80,5 @@ def main(input_file, output_file):
     
 # Run the main function
 main('data/clause_bounded_output.txt', 'data/final_output.txt')
+ 
+

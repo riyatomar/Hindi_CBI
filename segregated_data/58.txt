@@ -1,0 +1,4 @@
+#	NNPC	S
+ERROR	NNC	E
+!	SYM	O
+।	SYM	O

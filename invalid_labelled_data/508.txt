@@ -1,0 +1,9 @@
+विटामिन	NNPC	S
+के	PSP	I
+(	SYM	I
+K	SYM	I
+)	SYM	I
+(	SYM	I
+Hindi	SYM	I
+)	SYM	I
+।	SYM	O

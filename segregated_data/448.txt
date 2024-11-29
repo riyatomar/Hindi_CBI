@@ -1,0 +1,14 @@
+यहाँ	PRP	S
+हमें	PRP	I
+एक	QC	I
+परिवार	NN	I
+मिलता	VM	I
+है	VAUX	E
+जो	PRP	S
+करीब	RP	I
+3	QC	I
+डॉलर	NN	I
+प्रतिदिन	NN	I
+कमाता	VM	I
+है	VAUX	E
+।	SYM	O

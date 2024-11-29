@@ -1,0 +1,16 @@
+पहले	NST	S
+पैरिस	NNP	I
+और	CC	I
+लन्दन	NNP	I
+और	CC	I
+न्यू	NNPC	I
+योर्क	NNP	I
+दुनिया	NN	I
+के	PSP	I
+सबसे	INTF	I
+बडे	JJ	I
+शहर	NN	I
+हुआ	VM	I
+करते	VAUX	I
+थे	VAUX	E
+।	SYM	O

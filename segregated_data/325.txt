@@ -1,0 +1,14 @@
+अलमौवदी	NNP	S
+ने	PSP	I
+जिन	DEM	S
+विशेष	JJ	I
+अपराधों	NN	I
+को	PSP	I
+स्वीकार	NN	I
+किया	VM	I
+है	VAUX	E
+वे	PRP	I
+इस	DEM	I
+प्रकार	NN	I
+हैं-	VM	E
+।	SYM	O

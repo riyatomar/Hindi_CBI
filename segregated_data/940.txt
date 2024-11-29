@@ -1,0 +1,17 @@
+हकीकतः	NNP	S
+दुष्प्रचार	NN	I
+यह	PRP	I
+किया	VM	I
+जा	VAUX	I
+रहा	VAUX	I
+हौ	VAUX	E
+कि	CC	O
+यह	DEM	S
+बात	NN	I
+सही	JJ	I
+है	VM	E
+पर	CC	O
+ऐसा	PRP	S
+है	VM	I
+नहीं	NEG	E
+।	SYM	O

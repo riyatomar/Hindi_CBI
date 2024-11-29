@@ -1,0 +1,16 @@
+राणा	NNP	S
+प्रधानमन्त्री	NNP	I
+चन्द्र	NNPC	I
+सम्सेर	NNP	I
+ने	PSP	I
+अपने	PRP	I
+साथ	NST	I
+राजा	NNC	I
+त्रिभुवनका	NNP	I
+नाम	NN	I
+जोडके	VM	I
+इस	DEM	I
+कैंपसका	JJ	I
+नाम	NN	I
+रखाथा	VM	E
+।	SYM	O

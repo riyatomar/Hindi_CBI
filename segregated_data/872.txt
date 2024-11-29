@@ -1,0 +1,17 @@
+या	CC	O
+बस	NN	S
+ये	PRP	I
+महसूस	JJ	I
+करना	VM	I
+चाहें	VM	I
+के	PSP	I
+आपने	PRP	I
+अभी	PRP	I
+एक	QC	I
+अच्छे	JJ	I
+चाकलेट	NN	I
+का	PSP	I
+पूरा	JJ	I
+पैकेट	NN	I
+खाया	VM	E
+।	SYM	O

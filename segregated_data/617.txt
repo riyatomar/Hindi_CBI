@@ -1,0 +1,15 @@
+कि	CC	O
+खिलौने	NN	S
+के	PSP	I
+साथ	NST	I
+बच्च	NN	I
+सबसे	INTF	I
+अच्छा	JJ	I
+काम	NN	I
+उसे	PRP	I
+तोड	VM	I
+कर	VAUX	I
+ही	RP	I
+करता	VM	I
+है	VAUX	E
+।	SYM	O

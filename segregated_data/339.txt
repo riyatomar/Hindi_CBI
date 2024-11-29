@@ -1,0 +1,16 @@
+रंग-बिरंगी	JJ	S
+फुलझडियाँ	NN	I
+आतिशबाजियाँ	NN	I
+व	CC	I
+अनारों	NN	I
+के	PSP	I
+जलने	VM	I
+का	PSP	I
+आनंद	NN	I
+प्रत्येक	QF	I
+आयु	NN	I
+के	PSP	I
+लोग	NN	I
+लेते	VM	I
+हैं	VAUX	E
+।	SYM	O

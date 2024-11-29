@@ -1,0 +1,16 @@
+व	CC	O
+वे	DEM	S
+तथ्य	NN	I
+उनके	PRP	I
+द्वारा	PSP	I
+प्रस्तुत	JJ	I
+साक्ष्यों	NN	I
+से	PSP	I
+भी	RP	I
+सर्वोच्च	JJ	I
+न्यायालय	NN	I
+को	PSP	I
+मान्य	JJ	I
+नहीं	NEG	I
+रहे	VM	E
+।	SYM	O

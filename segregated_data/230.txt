@@ -1,0 +1,12 @@
+मैं	PRP	S
+रहूं	VM	E
+या	CC	O
+न	NEG	S
+रंअं	VM	I
+,	SYM	I
+खालिस्तान	NNP	I
+का	PSP	I
+दर्शन	NN	I
+जारी	JJ	I
+रहेगा	VM	E
+।	SYM	O

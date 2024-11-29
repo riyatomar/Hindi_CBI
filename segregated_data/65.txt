@@ -1,0 +1,11 @@
+युवा	JJ	S
+और	CC	I
+अनुभवहीन	JJ	I
+उपभोक्ताओं	NN	I
+के	PSP	I
+लिए	PSP	I
+इसमें	PRP	I
+ज्यादा	QF	I
+ख़तरे	NN	I
+हैं	VM	E
+।	SYM	O

@@ -1,0 +1,12 @@
+भोपाल	NNP	S
+घोषणापत्र	NN	I
+के	PSP	I
+पीछे	NST	I
+मुय	JJ	I
+प्रेरणा	NN	I
+दलित	JJ	I
+लेखक	NN	I
+चंद्रभान	NNPC	I
+प्रसाद	NNP	I
+हैं	VM	E
+।	SYM	O

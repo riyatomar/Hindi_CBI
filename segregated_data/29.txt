@@ -1,0 +1,12 @@
+फिर	RB	O
+भी	RP	O
+मैं	PRP	S
+एक	QC	I
+बात	NN	I
+से	PSP	I
+चिंतित	JJ	I
+हूँ	VM	E
+हालाँकि	CC	O
+बहुत	QF	S
+नहीं	NEG	E
+।	SYM	O

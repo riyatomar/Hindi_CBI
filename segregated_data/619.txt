@@ -1,0 +1,17 @@
+उन्होंने	PRP	S
+सवालों	NN	I
+की	PSP	I
+झडी	NN	I
+लगा	VM	I
+दी	VAUX	E
+जिनका	PRP	S
+जवाब	NN	I
+गांधी	NNPC	I
+जी	NNP	I
+अपने	PRP	I
+स्वाभवगत	JJ	I
+धैर्य	NN	I
+से	PSP	I
+देते	VM	I
+रहे	VAUX	E
+।	SYM	O

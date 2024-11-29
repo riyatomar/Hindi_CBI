@@ -1,0 +1,13 @@
+यह	PRP	S
+सही	JJ	I
+है	VM	E
+कि	CC	O
+राज्य	NNC	S
+सरकार	NN	I
+ने	PSP	I
+बडै	NNPC	I
+पैमाने	NN	I
+पर	PSP	I
+पुनर्निर्माण	NN	I
+करवाया	VM	E
+।	SYM	O

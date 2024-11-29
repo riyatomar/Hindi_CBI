@@ -1,0 +1,16 @@
+पंच-पदीय	JJ	S
+छंद	NN	I
+में	PSP	I
+पांचवां	QO	I
+पद	NN	I
+तीसरे	QO	I
+और	CC	I
+चौथे	QO	I
+पाद	NN	I
+के	PSP	I
+बीच	NST	I
+में	PSP	I
+रखा	VM	I
+जाता	VAUX	I
+है	VAUX	E
+।	SYM	O

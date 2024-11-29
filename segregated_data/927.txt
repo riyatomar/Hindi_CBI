@@ -1,0 +1,15 @@
+अगर	CC	O
+आपको	PRP	S
+क्रेडिट	NN	I
+मिलना	VM	I
+ठुकरा	VM	I
+दिया	VAUX	I
+जाता	VAUX	I
+है	VAUX	I
+,	SYM	I
+तो	CC	I
+आपको	PRP	I
+कुछ	QF	I
+अधिकार	NN	I
+हैं	VM	E
+।	SYM	O

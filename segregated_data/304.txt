@@ -1,0 +1,16 @@
+तो	CC	S
+मुझे	PRP	I
+ये	PRP	I
+बार-बार	RB	I
+आमदनी	NN	I
+वाली	PSP	I
+बात	NN	I
+ही	RP	I
+बचपन	NN	I
+में	PSP	I
+ही	RP	I
+सीखने	VM	I
+को	PSP	I
+मिल	VM	I
+गयी	VAUX	E
+।	SYM	O

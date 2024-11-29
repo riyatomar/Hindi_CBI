@@ -1,0 +1,15 @@
+ताकि	CC	O
+कोई	PRP	S
+बच्चा	NN	I
+जा	VM	I
+सके	VAUX	E
+और	CC	O
+वह	DEM	S
+कोर्स	NN	I
+देख	VM	I
+सके	VAUX	I
+,	SYM	I
+उससे	PRP	I
+सीख	VM	I
+सके	VAUX	E
+।	SYM	O

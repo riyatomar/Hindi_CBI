@@ -1,0 +1,13 @@
+तीसरी:	NN	S
+ये	PRP	I
+हमारी	PRP	I
+फ़ैक्ट्री	NN	I
+के	PSP	I
+पास	NST	I
+की	PSP	I
+एक	QC	I
+अपेक्षाकृत	INTF	I
+बेहतर	JJ	I
+सडक	NN	I
+है	VM	E
+।	SYM	O

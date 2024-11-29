@@ -1,0 +1,12 @@
+कुछ	QF	S
+ऋण	NN	I
+केवल	RP	I
+आपके	PRP	I
+घर	NN	I
+को	PSP	I
+सिक्योरिटी	NN	I
+मानकर	VM	I
+दिए	VM	I
+जाते	VAUX	I
+हैं	VAUX	E
+।	SYM	O

@@ -1,0 +1,14 @@
+प्राय	NNC	S
+:	SYM	I
+अनाज	NN	I
+देने	VM	I
+से	PSP	I
+पहले	NST	I
+घोडे	NN	I
+को	PSP	I
+सूखी	JJ	I
+घास	NN	I
+खिलायी	VM	I
+जाती	VAUX	I
+है	VAUX	E
+।	SYM	O

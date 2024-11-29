@@ -1,0 +1,16 @@
+अन्य	JJ	S
+पर्वतों	NN	I
+की	PSP	I
+अपेक्षा	PSP	I
+यह	PRP	I
+काफी	QF	I
+नया	JJ	I
+है	VM	E
+तथा	CC	O
+अभी	PRP	S
+भी	RP	I
+विकसित	JJ	I
+हो	VM	I
+रहा	VAUX	I
+है	VAUX	E
+।	SYM	O

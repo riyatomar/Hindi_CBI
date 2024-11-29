@@ -1,0 +1,15 @@
+सन्	NNPC	S
+1985	NNP	I
+में	PSP	I
+,	SYM	I
+इनका	PRP	I
+हिस्सा	NN	I
+34	QC	I
+प्रतिशत	NN	I
+था	VM	E
+जो	PRP	S
+अभी	PRP	I
+ठीक	JJ	I
+ही	RP	I
+था	VM	E
+।	SYM	O

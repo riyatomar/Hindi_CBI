@@ -1,0 +1,8 @@
+महसूस	JJ	S
+करने	VM	E
+पर	CC	O
+आपके	PRP	S
+स्तन	NN	I
+सामान्य	JJ	I
+हों	VM	E
+।	SYM	O

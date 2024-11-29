@@ -1,0 +1,15 @@
+इसलिए	PRP	O
+यह	PRP	S
+स्वभाविक	JJ	I
+ही	RP	I
+था	VM	E
+कि	CC	O
+वे	PRP	S
+साधारण	JJ	I
+जन	NN	I
+की	PSP	I
+भाषा	NN	I
+का	PSP	I
+इस्तेमाल	NN	I
+करते	VM	E
+।	SYM	O

@@ -1,0 +1,8 @@
+माधुर्य	NNC	S
+भाव	NN	I
+के	PSP	I
+अंतर्गत	PSP	I
+गोपी-लीला	NNP	I
+मुख्य	JJ	I
+है	VM	E
+।	SYM	O

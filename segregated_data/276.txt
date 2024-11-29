@@ -1,0 +1,17 @@
+उसने	PRP	S
+ईर्ष्यावश	NNPC	I
+राजा	NN	I
+के	PSP	I
+कान	NN	I
+भरे	VM	E
+और	CC	O
+सुनीती	NNP	S
+को	PSP	I
+पुत्र	NN	I
+सहित	PSP	I
+राज्य	NN	I
+के	PSP	I
+बाहर	NST	I
+निकलवा	VM	I
+दिया	VAUX	E
+।	SYM	O

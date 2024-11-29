@@ -1,0 +1,15 @@
+तब	PRP	S
+अकबर	NNP	I
+ने	PSP	I
+उसकी	PRP	I
+बहन	NN	I
+और	CC	I
+पुत्रबधू	NN	I
+को	PSP	I
+बलपूर्वक	RB	I
+अपने	PRP	I
+हरम	NN	I
+में	PSP	I
+डाल	VM	I
+दिया	VAUX	E
+।	SYM	O

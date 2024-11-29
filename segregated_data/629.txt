@@ -1,0 +1,16 @@
+अधिकांश	QF	S
+पूराण	NNPC	I
+विष्णु	NNP	I
+के	PSP	I
+नाम	NN	I
+से	PSP	I
+हैं	VM	I
+और	CC	I
+कुछ	QF	I
+ब्रह्मा	NNP	I
+या	CC	I
+शिव	NNP	I
+के	PSP	I
+नाम	NN	I
+से	PSP	E
+।	SYM	O

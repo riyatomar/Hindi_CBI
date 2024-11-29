@@ -1,0 +1,15 @@
+#हिन्दुओं	NN	S
+का	PSP	I
+कोई	PRP	I
+केन्द्रीय	JJ	I
+चर्च	NN	I
+या	CC	I
+धर्मसंगठन	NN	I
+नहीं	NEG	I
+है	VM	E
+और	CC	O
+न	NEG	S
+ही	RP	I
+कोई	PRP	I
+पोप	NN	I
+।	SYM	O

@@ -1,0 +1,16 @@
+उन	DEM	S
+पहले	NST	I
+लोगों	NN	I
+में	PSP	I
+से	PSP	I
+एक	QC	I
+है	VM	I
+जिसने	PRP	I
+इसके	PRP	I
+बारे	PSP	I
+मे	PSP	I
+ट्वीटर	NN	I
+पर	PSP	I
+मजाक	NN	I
+किया	VM	E
+।	SYM	O

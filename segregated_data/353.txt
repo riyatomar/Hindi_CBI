@@ -1,0 +1,13 @@
+संस्कृत	NN	S
+हिन्द-यूरोपीय	NNPC	I
+भाषा-परिवार	NNP	I
+की	PSP	I
+हिन्द-ईरानी	NNC	I
+शाखा	NN	I
+की	PSP	I
+हिन्द-आर्य	JJ	I
+उपशाखा	NN	I
+में	PSP	I
+शामिल	JJ	I
+है	VM	E
+।	SYM	O

@@ -1,0 +1,16 @@
+और	CC	O
+बहुत	QF	S
+उत्साहित	JJ	I
+हुई	VM	E
+जो	PRP	S
+भी	RP	I
+जी-8	NNP	I
+के	PSP	I
+साथ	NST	I
+हुआ	VM	I
+,	SYM	I
+उसे	PRP	I
+देख	VM	I
+कर	VAUX	E
+-	SYM	I
+।	SYM	O

@@ -1,0 +1,16 @@
+इस	DEM	S
+चरण	NN	I
+में	PSP	I
+कुछ	QF	I
+भाग	NN	I
+इधर	NST	I
+उधर	NST	I
+कर	VM	I
+भौगोलिक	JJ	I
+और	CC	I
+सामाजिक	JJ	I
+त्रुटि	NN	I
+भी	RP	I
+सुधारी	VM	I
+गया	VAUX	E
+।	SYM	O

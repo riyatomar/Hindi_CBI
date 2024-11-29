@@ -1,0 +1,17 @@
+वर्ल्ड	NNPC	S
+गैजेटियर	NNP	I
+द्वारा	PSP	I
+2008	NNP	I
+में	PSP	I
+किये	VM	I
+गये	VAUX	I
+गणना	NNC	I
+कार्यक्रम	NN	I
+के	PSP	I
+अनुसार	PSP	I
+मुंबई	NNP	I
+की	PSP	I
+जनसंख्या	NN	I
+13662885	QC	I
+थी	VM	E
+।	SYM	O

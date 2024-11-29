@@ -1,0 +1,11 @@
+नेपाल	NNP	S
+की	PSP	I
+संस्कृति	NN	I
+तिब्बत	NNP	I
+एवं	CC	I
+भारत	NNP	I
+से	PSP	I
+मिलती	VM	I
+जुलती	VAUX	I
+है	VM	E
+।	SYM	O

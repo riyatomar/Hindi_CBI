@@ -1,0 +1,17 @@
+किशोर	NNP	S
+लडका	NN	I
+वास्तविक	JJ	I
+विरोधी	JJ	I
+था	VM	E
+क्योंकि	CC	O
+वह	PRP	S
+फिल्म	NN	I
+में	PSP	I
+हमेशा	RB	I
+अपनी	PRP	I
+मां	NN	I
+से	PSP	I
+झगडता	VM	I
+रहता	VAUX	I
+था	VAUX	E
+।	SYM	O

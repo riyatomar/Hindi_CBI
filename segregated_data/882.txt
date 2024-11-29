@@ -1,0 +1,16 @@
+भेड	NN	S
+का	PSP	I
+दूध	NN	I
+पीले	JJ	I
+रंग	NN	I
+का	PSP	I
+होता	VM	I
+है	VAUX	E
+और	CC	O
+वसा	NN	S
+की	PSP	I
+गोलिकाएं	NN	I
+बडी	JJ	I
+होती	VM	I
+हैं	VAUX	E
+।	SYM	O

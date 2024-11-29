@@ -1,0 +1,11 @@
+देवर	NN	S
+भाभी	NNP	I
+के	PSP	I
+संबंधों	NN	I
+को	PSP	I
+लेकर	VM	I
+भी	RP	I
+गीत	NN	I
+परंपरित	JJ	I
+है	VM	E
+।	SYM	O

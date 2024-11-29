@@ -1,0 +1,11 @@
+आप	PRP	S
+चाहे	RB	I
+जो	DEM	S
+सोच	NN	I
+कर	VAUX	E
+उसे	PRP	I
+खरीद	VM	I
+रहे	VAUX	I
+थे	VAUX	I
+-	SYM	I
+।	SYM	O

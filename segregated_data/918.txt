@@ -1,0 +1,16 @@
+भगवान	NNC	S
+शिव	NNP	I
+को	PSP	I
+समर्पित	JJ	I
+यह	DEM	I
+मंदिर	NN	I
+प्रतिवर्ष	NN	I
+हजारों	QC	I
+देशी-विदेशी	JJ	I
+श्रद्धालुओं	NN	I
+को	PSP	I
+अपनी	PRP	I
+ओर	NST	I
+खींचता	VM	I
+है	VAUX	E
+।	SYM	O

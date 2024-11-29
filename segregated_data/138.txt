@@ -1,0 +1,15 @@
+शरियत	NN	S
+की	PSP	I
+निति	NN	I
+को	PSP	I
+नींव	NN	I
+बना	VM	I
+कर	VAUX	I
+न्यायशास्त्र	NN	I
+के	PSP	I
+अध्य्यन	NN	I
+को	PSP	I
+फिक़ह	NN	I
+कहते	VM	I
+हैं	VAUX	E
+।	SYM	O

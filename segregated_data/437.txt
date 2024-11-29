@@ -1,0 +1,17 @@
+मुयमंत्री	NNP	S
+के	PSP	I
+लिए	PSP	I
+भी	RP	I
+यह	PRP	I
+फायदेमंद	JJ	I
+हा	SYM	I
+क्योंकि	CC	I
+उनका	PRP	I
+निर्वाचन	NNC	I
+क्षेत्र	NN	I
+गंजाम	NNP	I
+जिले	NN	I
+में	PSP	I
+पडेता	VM	I
+है	VM	E
+।	SYM	O

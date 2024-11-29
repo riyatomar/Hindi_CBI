@@ -1,0 +1,17 @@
+सत्यापित	JJ	S
+करें:	VM	I
+-Xen	SYM	I
+मेजबान	NN	I
+कर्नेल	NN	I
+बूट	UNK	I
+किया	VM	I
+गया	VAUX	I
+था	VAUX	I
+-Xen	SYM	I
+सेवा	NN	I
+शुरू	NN	I
+कर	VM	I
+दिया	VAUX	I
+गया	VAUX	I
+है	VAUX	E
+।	SYM	O

@@ -1,0 +1,15 @@
+अगला	JJ	S
+मण्डप	NN	I
+है	VM	I
+दीवान-ए-खास	NNP	I
+जो	PRP	S
+राजा	NNP	I
+का	PSP	I
+मुक्तहस्त	NN	I
+से	PSP	I
+सुसज्जित	JJ	I
+निजी	JJ	I
+सभा	NN	I
+कक्ष	NN	I
+था	VM	E
+।	SYM	O

@@ -1,0 +1,14 @@
+मसलन	RB	S
+,	SYM	I
+कोका	NNPC	I
+कोल	NNC	I
+कंपनी	NNP	I
+अब	PRP	I
+सार्वजनिक	JJ	I
+निर्गम	NN	I
+लने	VM	I
+से	PSP	I
+छूट	NN	I
+चाहती	VM	I
+है	VAUX	E
+।	SYM	O

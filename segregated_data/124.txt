@@ -1,0 +1,7 @@
+मोहम्मद	NNP	S
+की	PSP	I
+प्रतिमाओं	NN	I
+को	PSP	I
+ध्वस्त	JJ	I
+करना	VM	E
+।	SYM	O

@@ -1,0 +1,17 @@
+इन्होंने	PRP	S
+बहुमूल्य	JJ	I
+पत्थर	NN	I
+एवं	CC	I
+रत्न	NN	I
+तथा	CC	I
+लैपिज	NNPC	I
+लजूली	NNP	I
+को	PSP	I
+खोद	VM	I
+कर	VAUX	I
+दीवारों	NN	I
+से	PSP	I
+निकाल	VM	I
+लिया	VAUX	I
+था	VAUX	E
+।	SYM	O

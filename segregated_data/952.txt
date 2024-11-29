@@ -1,0 +1,17 @@
+इस	DEM	S
+काल	NN	I
+के	PSP	I
+अंत	NN	I
+तक	PSP	I
+गैस	NNC	I
+लाइट	NN	I
+,	SYM	I
+रेलवे	NN	I
+और	CC	I
+टेलीग्राफ	NNP	I
+देश	NN	I
+में	PSP	I
+प्रारंभ	NN	I
+किए	VM	I
+गए	VAUX	E
+।	SYM	O

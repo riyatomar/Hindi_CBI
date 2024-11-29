@@ -1,0 +1,14 @@
+वर्तमान	JJ	S
+पृष्ठ	NN	I
+पर	PSP	I
+एक्सटेंशन	NN	I
+के	PSP	I
+कार्य	NN	I
+कर	VM	I
+सकने	VAUX	E
+पर	CC	O
+यह	DEM	S
+आइकन	NN	I
+दृश्यमान	JJ	I
+होगा	VM	E
+।	SYM	O

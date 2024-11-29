@@ -1,0 +1,16 @@
+और	CC	O
+मेरी	PRP	S
+माँ	NN	I
+आखिरकार	RB	I
+मुझसे	PRP	I
+कहती	VM	I
+हैं	VAUX	I
+,	SYM	I
+“मैं	CC	I
+जानती	VM	I
+थी	VAUX	I
+,	SYM	I
+मैं	PRP	I
+जानती	VM	I
+थी	VAUX	E
+।	SYM	O

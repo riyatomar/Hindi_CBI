@@ -1,0 +1,17 @@
+इसके	PRP	S
+जवाब	NN	I
+में	PSP	I
+उन्होंने	PRP	I
+यह	PRP	I
+कहा	VM	E
+कि	CC	O
+हां	RB	S
+पुराना	JJ	I
+आलोक	NN	I
+चला	VM	I
+जाएगा	VAUX	I
+नए	NN	I
+का	PSP	I
+आगमन	NN	I
+होगा	VM	E
+।	SYM	O

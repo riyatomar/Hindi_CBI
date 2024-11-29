@@ -1,0 +1,13 @@
+दैनिक	NNPC	S
+जागरण	NN	I
+की	PSP	I
+सफलता	NN	I
+का	PSP	I
+कारण	NN	I
+इस	DEM	I
+पत्र	NN	I
+का	PSP	I
+जनोन्मुखी	JJ	I
+होना	VM	I
+है	VAUX	E
+।	SYM	O

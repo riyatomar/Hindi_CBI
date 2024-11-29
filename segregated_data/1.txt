@@ -1,0 +1,13 @@
+सूचनाएं	NN	S
+भेजना	VM	I
+चाहता	VM	I
+है	VAUX	E
+लेकिन	CC	O
+आपको	PRP	S
+Chrome	NNP	I
+में	PSP	I
+साइन	NN	I
+इन	PRP	I
+होना	VM	I
+होगा	VAUX	E
+।	SYM	O

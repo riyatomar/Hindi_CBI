@@ -1,0 +1,3 @@
+% { BEGIN _ BOLD } Applications > System Preferences > Network > Advanced > Proxies % { END _ BOLD } पर जाएं और चयनित प्रॉक्सी को अचयनित करें ।
+
+% { BEGIN _ BOLD } Applications > System Preferences > Network > Advanced > Proxies % { END _ BOLD } पर जाएं और चयनित प्रॉक्सी को अचयनित करें

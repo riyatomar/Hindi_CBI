@@ -1,0 +1,15 @@
+शहर	NN	S
+में	PSP	I
+लोक	NNC	I
+सभा	NN	I
+की	PSP	I
+छः	QC	I
+व	CC	I
+महाराष्ट्र	NNPC	I
+विधान	NNC	I
+सभा	NNP	I
+की	PSP	I
+चौंतीस	QC	I
+सीटें	NN	I
+हैं	VM	E
+।	SYM	O

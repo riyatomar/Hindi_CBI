@@ -1,0 +1,17 @@
+अंदरुनी	JJ	S
+साज-सज्जा	NN	I
+(	SYM	I
+रंग	NN	I
+और	CC	I
+वाल	NNC	I
+पेपर	NN	I
+लगवाना	VM	I
+)	SYM	I
+मुआवजा	NN	I
+प्राप्त	JJ	I
+करने	VM	I
+योग्य	JJ	I
+सुदार	JJ	I
+नहीं	NEG	I
+हैं	VM	E
+।	SYM	O

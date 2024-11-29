@@ -1,0 +1,14 @@
+घंटों	NN	S
+मुंह	NN	I
+औंधा	VM	I
+किए	VM	I
+वह	PRP	I
+लेटी	VM	I
+रहती	VAUX	I
+,	SYM	I
+आँसुओं	NN	I
+से	PSP	I
+तकिया	NN	I
+भीगता	VM	I
+रहता	VAUX	E
+।	SYM	O

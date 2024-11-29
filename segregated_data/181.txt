@@ -1,0 +1,17 @@
+सरकार	NN	S
+ने	PSP	I
+उसके	PRP	I
+उत्पादन	NN	I
+का	PSP	I
+बडा	JJ	I
+अंश	NN	I
+लगान	NN	I
+और	CC	I
+अन्य	JJ	I
+करों	NN	I
+के	PSP	I
+रूप	PSP	I
+में	PSP	I
+ले	VM	I
+लिया	VAUX	E
+।	SYM	O

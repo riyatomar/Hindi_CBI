@@ -1,0 +1,17 @@
+टूल	NNC	S
+बार	NN	I
+मे	PSP	I
+कमान्ड	NN	I
+के	PSP	I
+सबसेट	NN	I
+होते	VM	I
+है	VAUX	E
+जो	PRP	S
+मेनू	NNC	I
+बार	NN	I
+को	PSP	I
+नियन्त्रित	JJ	I
+करके	VM	I
+रखते	VM	I
+है	VAUX	E
+।	SYM	O

@@ -1,0 +1,14 @@
+तो	CC	S
+यह	PRP	I
+पथ	NN	I
+रेखाएं	NN	I
+दर्शाती	VM	I
+हैं	VAUX	E
+कि	CC	O
+हमारी	PRP	S
+अपेक्षा	NN	I
+में	PSP	I
+लोग	NN	I
+कैसे	WQ	I
+जियेंगे	VM	E
+।	SYM	O

@@ -1,0 +1,13 @@
+वैदिक	NNPC	S
+साहित्य	NN	I
+:	SYM	I
+महर्षि	NNPC	I
+वैदिक	NNPC	I
+विश्वविद्यालय	NNP	I
+-	SYM	I
+पी	NNPC	I
+डी	NNPC	I
+एफ़	NNP	I
+प्रारूप	NN	I
+देवनागरी	NNP	E
+।	SYM	O

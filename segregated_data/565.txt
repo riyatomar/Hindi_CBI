@@ -1,0 +1,12 @@
+ग्रिड	NNC	S
+कोशिकाओं	NN	I
+की	PSP	I
+कुल	QF	I
+क्रिया	NN	I
+मस्तिस्क	NN	I
+के	PSP	I
+एक	QC	I
+खास	JJ	I
+हिस्से	NN	I
+पर	PSP	E
+।	SYM	O

@@ -1,0 +1,8 @@
+शिकायतों	NN	S
+को	PSP	I
+ठीक	JJ	I
+प्रकार	NN	I
+से	PSP	I
+न	NEG	I
+देखना	VM	E
+।	SYM	O

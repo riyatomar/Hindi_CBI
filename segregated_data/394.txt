@@ -1,0 +1,12 @@
+”	NNP	S
+उनके	PRP	I
+पास	NST	I
+…	SYM	I
+<	VAUX	I
+s	SYM	I
+>	SYM	I
+वे	PRP	I
+तेरेजीन	NNP	I
+में	PSP	I
+हैं	VM	E
+।	SYM	O

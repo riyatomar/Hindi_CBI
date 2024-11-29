@@ -1,0 +1,14 @@
+इसके	PRP	S
+चलते	PSP	I
+सुप्रीम	NNPC	I
+कोर्ट	NNP	I
+ने	PSP	I
+खुद	PRP	I
+कुछ	QF	I
+बन्धन	NN	I
+इनके	PRP	I
+प्रयोग	NN	I
+पे	PSP	I
+लगाये	VM	I
+है	VAUX	E
+।	SYM	O

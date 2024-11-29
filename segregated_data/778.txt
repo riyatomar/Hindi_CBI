@@ -1,0 +1,15 @@
+इनके	PRP	S
+अलावा	PSP	I
+पारसी	NNPC	I
+जैन	NNP	I
+एवं	CC	I
+ईसाई	NNPC	I
+धर्म	NN	I
+के	PSP	I
+मूल	JJ	I
+विचारों	NN	I
+को	PSP	I
+भी	RP	I
+सम्मिलित	JJ	I
+किया	VM	E
+।	SYM	O

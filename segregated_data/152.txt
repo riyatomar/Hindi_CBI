@@ -1,0 +1,13 @@
+लेकिन	CC	O
+इससे	PRP	S
+भी	RP	I
+बडी	JJ	I
+विपत्ति	NN	I
+इस	DEM	I
+उद्योग	NN	I
+पर	PSP	I
+अभी	PRP	I
+आने	VM	I
+वाली	VAUX	I
+थी	VAUX	E
+।	SYM	O

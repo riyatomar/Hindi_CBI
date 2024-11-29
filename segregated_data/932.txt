@@ -1,0 +1,17 @@
+बीस	QC	S
+से	PSP	I
+तीस	QC	I
+बैलों	NN	I
+को	PSP	I
+खास	JJ	I
+निर्मित	JJ	I
+गाडियों	NN	I
+में	PSP	I
+जोतकर	VM	I
+शिलाखण्डों	NN	I
+को	PSP	I
+यहाँ	PRP	I
+लाया	VM	I
+गया	VAUX	I
+था	VAUX	E
+।	SYM	O

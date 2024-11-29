@@ -1,0 +1,15 @@
+ढाका	NNP	S
+की	PSP	I
+मलमल	NN	I
+लगातार	RB	I
+शताब्दियों	NN	I
+तक	PSP	I
+संसार	NN	I
+भर	RP	I
+की	PSP	I
+ईर्ष्या	NN	I
+का	PSP	I
+कारण	NN	I
+बनी	VM	I
+रही	VAUX	E
+।	SYM	O

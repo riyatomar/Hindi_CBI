@@ -1,0 +1,9 @@
+उत्तरी	JJ	S
+अंडमान	NNPC	I
+दिगलीपुर	NNP	I
+उत्तरी	JJ	I
+अंडमान	NNP	I
+का	PSP	I
+मुख्यालय	NN	I
+है	VM	E
+।	SYM	O

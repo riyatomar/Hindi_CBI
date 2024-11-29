@@ -1,0 +1,13 @@
+1947	NNP	S
+में	PSP	I
+भारतीय	JJ	I
+स्वतंत्रता	NN	I
+के	PSP	I
+उपरांत	PSP	I
+यह	PRP	I
+बॉम्बे	NNPC	I
+राज्य	NN	I
+की	PSP	I
+राजधानी	NN	I
+बना	VM	E
+।	SYM	O

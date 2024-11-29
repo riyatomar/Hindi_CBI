@@ -1,0 +1,15 @@
+सम्राट	NNP	S
+का	PSP	I
+न्यायालय	NNC	I
+सर्वोच्च	NNPC	I
+अपीली	JJ	I
+न्यायालय	NNP	I
+था	VM	I
+,	SYM	I
+वह	PRP	I
+देश	NN	I
+का	PSP	I
+सर्वोच्च	NNC	I
+अधिकरण	NN	I
+था	VM	E
+।	SYM	O

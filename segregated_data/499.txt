@@ -1,0 +1,16 @@
+वह	PRP	S
+मुख़्य	JJ	I
+गलियारे	NN	I
+को	PSP	I
+अंडों	NN	I
+से	PSP	I
+निकलने	VM	I
+वाले	PSP	I
+लार्वों	NN	I
+के	PSP	I
+लिए	PSP	I
+काम	NN	I
+में	PSP	I
+लाती	VM	I
+है	VAUX	E
+।	SYM	O

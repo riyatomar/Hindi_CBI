@@ -1,0 +1,16 @@
+ये	DEM	S
+ईमेल	NN	I
+आपके	PRP	I
+अकाउंट	NN	I
+में	PSP	I
+आ	VM	I
+सकती	VAUX	I
+है	VAUX	E
+या	CC	O
+कुछ	QF	S
+और	QF	I
+इंतजाम	NN	I
+हो	VM	I
+सकता	VAUX	I
+है	VAUX	E
+।	SYM	O

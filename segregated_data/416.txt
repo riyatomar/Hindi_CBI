@@ -1,0 +1,17 @@
+यह	PRP	S
+तो	RP	I
+स्पष्ट	JJ	I
+है	VM	E
+कि	CC	O
+अपनी	PRP	S
+पृथ्वी	NN	I
+पर	PSP	I
+हम	PRP	I
+अपनी	PRP	I
+ज्वालामुखियों	NN	I
+की	PSP	I
+सफ़ाई	NN	I
+नहीं	NEG	I
+कर	VM	I
+पाते	VAUX	E
+।	SYM	O

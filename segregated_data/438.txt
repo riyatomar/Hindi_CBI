@@ -1,0 +1,13 @@
+एक	QC	S
+अधिकारी	NN	I
+की	PSP	I
+तरक्की	NN	I
+को	PSP	I
+दूसरे	PRP	I
+का	PSP	I
+हक	NN	I
+मारना	VM	I
+माना	VM	I
+जाता	VAUX	I
+है	VAUX	E
+।	SYM	O

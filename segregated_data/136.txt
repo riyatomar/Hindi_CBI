@@ -1,0 +1,17 @@
+धातुखंड	NN	S
+पर	CC	I
+टकसाल	NNP	I
+की	PSP	I
+मोहर	NN	I
+होने	VM	I
+से	PSP	I
+ही	RP	I
+बाहर	NST	I
+उसकी	PRP	I
+सिक़्के	NNP	I
+के	PSP	I
+रूप	PSP	I
+में	PSP	I
+स्वीकृति	NN	I
+है	VM	E
+।	SYM	O

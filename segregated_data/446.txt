@@ -1,0 +1,11 @@
+और	CC	O
+कुछ	QF	S
+एल्गोरिदम	NN	I
+जो	PRP	S
+उन्हें	PRP	I
+खोजने	VM	I
+के	PSP	I
+लिए	PSP	I
+क्रमादेशित	JJ	I
+हैं	VM	E
+।	SYM	O

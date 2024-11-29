@@ -1,0 +1,12 @@
+कबीर	NNP	S
+के	PSP	I
+राम	NNPC	I
+इस्लाम	NNP	I
+के	PSP	I
+एकेश्वरवादी	JJ	I
+एकसत्तावादी	JJ	I
+खुदा	NN	I
+भी	RP	I
+नहीं	NEG	I
+हैं	VM	E
+।	SYM	O

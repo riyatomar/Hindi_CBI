@@ -1,0 +1,11 @@
+श्रीमद्भगवद्गीता	NNP	S
+हिन्दू	NNPC	I
+धर्म	NNP	I
+के	PSP	I
+पवित्रतम	JJ	I
+ग्रन्थों	NN	I
+में	PSP	I
+से	PSP	I
+एक	QC	I
+है	VM	E
+।	SYM	O

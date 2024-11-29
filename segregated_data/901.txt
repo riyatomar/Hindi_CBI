@@ -1,0 +1,16 @@
+मैंने	PRP	S
+वास्तव	NN	I
+में	PSP	I
+ईरा	NNPC	I
+ग्लास	NNP	I
+,	SYM	I
+जो	PRP	S
+शो	NN	I
+के	PSP	I
+मेजबान	NN	I
+है	VM	I
+,	SYM	I
+उनका	PRP	I
+साक्षात्कार	NN	I
+किया	VM	E
+।	SYM	O

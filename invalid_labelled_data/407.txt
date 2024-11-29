@@ -1,0 +1,16 @@
+उसका	PRP	S
+नाम	NN	I
+है	VM	I
+नलिनी-	NNP	I
+एक	QC	I
+ऐसा	DEM	I
+नाम	NN	I
+जो	PRP	S
+रवीन्द्रनाथ	NNP	I
+के	PSP	I
+लिए	PSP	I
+सदैव	RB	I
+प्रिय	JJ	I
+बना	VM	I
+रहा	VAUX	E
+।	SYM	O

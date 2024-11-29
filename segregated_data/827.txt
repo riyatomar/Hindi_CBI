@@ -1,0 +1,12 @@
+काम	NN	S
+के	PSP	I
+दौरान	NST	I
+स्थानीय	JJ	I
+लोगों	NN	I
+और	CC	I
+नियोजकों	NN	I
+से	PSP	I
+भेंट	NN	I
+कर	VM	I
+सकेंगे	VAUX	E
+।	SYM	O

@@ -154,6 +154,6 @@ def extract_and_modify_tagged_data(filename):
         output_file.write(result_data)
 
 
-extract_and_modify_tagged_data("data/tagged.txt")
+extract_and_modify_tagged_data("data/tagged_output.txt")
 
 

@@ -1,0 +1,17 @@
+बर्मा	NNP	S
+और	CC	I
+सीलोन	NNP	I
+पर	PSP	I
+वह	PRP	I
+जब	PRP	S
+तक	PSP	I
+हो	VM	I
+सकता	VAUX	E
+हैं	VAUX	I
+,	SYM	I
+अपना	PRP	I
+कब्जा	NN	I
+बनाये	VM	I
+रखना	VAUX	I
+चाहता	VM	E
+।	SYM	O

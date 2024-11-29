@@ -1,0 +1,16 @@
+वे	PRP	S
+सफल	JJ	I
+नहीं	NEG	I
+हुए	VM	E
+और	CC	O
+इसी	PRP	S
+के	PSP	I
+साथ	NST	I
+उनका	PRP	I
+कांग्रेस	NNP	I
+से	PSP	I
+संपर्क	NN	I
+समाप्त	JJ	I
+हो	VM	I
+गया	VAUX	E
+।	SYM	O

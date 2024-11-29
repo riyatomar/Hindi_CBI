@@ -1,0 +1,16 @@
+काफी	QF	S
+हद	NN	I
+तक	PSP	I
+उसे	PRP	I
+निष्पक्षता	NN	I
+की	PSP	I
+वही	DEM	I
+भूमिका	NN	I
+निभानी	VM	I
+होती	VM	I
+है	VAUX	E
+जो	PRP	S
+अध्यक्ष	NN	I
+निभाता	VM	I
+है	VAUX	E
+।	SYM	O

@@ -1,0 +1,17 @@
+किसी	PRP	S
+गरम	JJ	I
+और	CC	I
+उमसभरी	JJ	I
+रात	NN	I
+में	PSP	I
+आसन्न	JJ	I
+वर्षा	NN	I
+से	PSP	I
+पहले	NST	I
+यह	DEM	I
+झुंडों	NN	I
+में	PSP	I
+उडान	NN	I
+भरता	VM	I
+है	VAUX	E
+।	SYM	O

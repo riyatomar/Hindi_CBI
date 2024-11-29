@@ -1,0 +1,12 @@
+इसी	DEM	S
+प्रयास	NN	I
+में	PSP	I
+सितंबर	NNP	I
+2000में	QO	I
+चारमीनार	NNPC	I
+हेरिटेज	NNPC	I
+वाक	NNPC	I
+आयोजित	JJ	I
+की	VM	I
+गई	VAUX	E
+।	SYM	O

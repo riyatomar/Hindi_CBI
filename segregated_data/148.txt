@@ -1,0 +1,15 @@
+कभी	PRP	S
+कभी	PRP	I
+आंखें	NN	I
+और	CC	I
+नाक	NN	I
+पीले	JJ	I
+रंग	NN	I
+के	PSP	I
+पनीले	JJ	I
+स्राव	NN	I
+से	PSP	I
+ढंप	VM	I
+जाती	VAUX	I
+हैं	VAUX	E
+।	SYM	O

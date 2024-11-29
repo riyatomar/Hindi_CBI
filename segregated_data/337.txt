@@ -1,0 +1,16 @@
+भारत	NNP	S
+का	PSP	I
+संविधान	NN	I
+भारत	NNP	I
+को	PSP	I
+एक	QC	I
+सार्वभौमिक	JJ	I
+समाजवादी	NNPC	I
+धर्मनिरपेक्ष	JJ	I
+लोकतान्त्रिक	JJ	I
+गणराज्य	NNP	I
+की	PSP	I
+उपाधि	NN	I
+देता	VM	I
+है	VAUX	E
+।	SYM	O

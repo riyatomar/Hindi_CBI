@@ -1,0 +1,16 @@
+हनुमान	NNP	S
+ने	PSP	I
+अशोकवाटिका	NN	I
+का	PSP	I
+विध्वंस	NN	I
+करके	VM	I
+रावण	NNP	I
+के	PSP	I
+पुत्र	NN	I
+अक्षय	NNPC	I
+कुमार	NNP	I
+का	PSP	I
+वध	NN	I
+कर	VM	I
+दिया	VAUX	E
+।	SYM	O

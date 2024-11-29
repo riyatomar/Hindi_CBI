@@ -1,0 +1,16 @@
+सन्क्षेप	NN	S
+में	PSP	I
+इस्लाम	NNPC	I
+धर्म	NN	I
+और	CC	I
+अच्छे	JJ	I
+अमेरिकी	JJ	I
+नागरिक	NN	I
+के	PSP	I
+मध्य	NST	I
+कोई	PRP	I
+अंतर्निहित	JJ	I
+विरोध	NN	I
+नहीं	NEG	I
+है	VM	E
+।	SYM	O

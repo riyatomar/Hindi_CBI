@@ -1,0 +1,17 @@
+अधीनस्थ	JJ	S
+न्यायपालिका	NN	I
+की	PSP	I
+दशा	NN	I
+न्यायिक	JJ	I
+संरचना	NN	I
+की	PSP	I
+रीढ	NN	I
+,	SYM	I
+अधीनस्थ	JJ	I
+न्यायपालिका	NN	I
+,	SYM	I
+की	PSP	I
+दशा	NN	I
+शोचनीय	JJ	I
+है	VM	E
+।	SYM	O

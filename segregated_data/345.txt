@@ -1,0 +1,16 @@
+वह	PRP	S
+मुकदमों	NN	I
+का	PSP	I
+निर्णय	NN	I
+तभी	PRP	I
+कर	VM	I
+सकता	VAUX	I
+था	VAUX	E
+जबकि	CC	O
+प्रतिवादी	JJ	S
+आरोप	NN	I
+को	PSP	I
+स्वीकार	NN	I
+कर	VM	I
+ले	VAUX	E
+।	SYM	O

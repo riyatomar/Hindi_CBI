@@ -1,0 +1,14 @@
+जिंदा	JJ	S
+रहने	VM	I
+के	PSP	I
+लिए	PSP	I
+जूँ	NN	I
+किसी	PRP	I
+जीव	NN	I
+के	PSP	I
+सम्पर्क	NN	I
+में	PSP	I
+रहना	VM	I
+आवश्यक	JJ	I
+है	VM	E
+।	SYM	O

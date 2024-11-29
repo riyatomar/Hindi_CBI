@@ -1,0 +1,17 @@
+भारतीय	JJ	S
+कोयला	NNC	I
+सबसे	INTF	I
+सस्ता	JJ	I
+था	VM	E
+परंतु	CC	O
+इसकी	PRP	S
+गुणवत्ता	NN	I
+को	PSP	I
+देखते	VM	I
+हुए	VAUX	I
+यह	PRP	I
+अधिक	QF	I
+लाभप्रद	JJ	I
+नहीं	NEG	I
+था	VM	E
+।	SYM	O

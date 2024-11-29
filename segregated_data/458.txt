@@ -1,0 +1,14 @@
+कंप्यूटर	NNC	S
+प्रोग्राम	NN	I
+खरीदने	VM	E
+और	CC	O
+उसे	PRP	S
+पुराने	JJ	I
+टाइपराइटर	NN	I
+पर	PSP	I
+चलने	VM	I
+की	PSP	I
+उमीद	NN	I
+बेमानी	JJ	I
+है	VM	E
+।	SYM	O

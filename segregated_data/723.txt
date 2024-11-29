@@ -1,0 +1,11 @@
+यह	PRP	S
+इसलिये	PRP	I
+है	VM	E
+क्योंकि	CC	O
+पूर्णता	NN	S
+के	PSP	I
+कई	QF	I
+पृथक	JJ	I
+मत	NEG	I
+हैं	VM	E
+।	SYM	O

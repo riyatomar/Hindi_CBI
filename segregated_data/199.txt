@@ -1,0 +1,17 @@
+वह	PRP	S
+इतना	QF	I
+व्यस्त	JJ	I
+था	VM	E
+कि	CC	O
+छोटे	JJ	S
+राजकुमार	NNP	I
+के	PSP	I
+आने	VM	E
+पर	CC	O
+उसने	PRP	S
+अपना	PRP	I
+सिर	NN	I
+तक	PSP	I
+न	NEG	I
+उठाया	VM	E
+।	SYM	O

@@ -1,0 +1,14 @@
+उनके	PRP	S
+पिता	NN	I
+श्री	NNPC	I
+गोविंद	NNPC	I
+प्रसाद	NNPC	I
+वर्मा	NNP	I
+भागलपुर	NNP	I
+के	PSP	I
+एक	QC	I
+कॉलेज	NN	I
+में	PSP	I
+प्राध्यापक	NN	I
+थे	VM	E
+।	SYM	O

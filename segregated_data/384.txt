@@ -1,0 +1,17 @@
+पहला	QO	S
+दूसरे	NN	I
+को	PSP	I
+कुछ	QF	I
+दही	NN	I
+दे	VM	I
+दे	VAUX	I
+,	SYM	I
+और	CC	I
+दूसरा	QO	I
+पहले	NST	I
+को	PSP	I
+कुछ	QF	I
+चावल	NN	I
+दे	VM	I
+दे	VAUX	E
+।	SYM	O

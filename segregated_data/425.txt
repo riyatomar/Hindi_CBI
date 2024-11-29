@@ -1,0 +1,13 @@
+सामान्यतः	RB	S
+हम	PRP	I
+किसी	PRP	I
+भी	RP	I
+समस्या	NN	I
+को	PSP	I
+टालने	VM	I
+की	PSP	I
+पूरी	JJ	I
+कोशिष	NN	I
+करते	VM	I
+है	VAUX	E
+।	SYM	O

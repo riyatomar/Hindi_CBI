@@ -1,0 +1,16 @@
+देश	NN	S
+के	PSP	I
+कई	QF	I
+शहरी	JJ	I
+क्षेत्रों	NN	I
+में	PSP	I
+सडकें	NN	I
+अवैध	JJ	I
+अतिक्रमण	NN	I
+से	PSP	I
+संकडी	NN	I
+गलियां	NN	I
+बन	VM	I
+गई	VAUX	I
+हैं	VAUX	E
+।	SYM	O

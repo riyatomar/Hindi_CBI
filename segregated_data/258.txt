@@ -1,0 +1,9 @@
+क्या	WQ	S
+क़ानून	NN	I
+कुछ	QF	I
+और	QF	I
+कर	VM	I
+सकता	VAUX	I
+है	VAUX	E
+?	SYM	O
+।	SYM	O

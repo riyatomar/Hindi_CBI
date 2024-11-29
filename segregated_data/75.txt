@@ -1,0 +1,17 @@
+बकरी	NN	S
+के	PSP	I
+दूध	NN	I
+की	PSP	I
+विशेष	JJ	I
+गन्ध	NN	I
+के	PSP	I
+कारण	PSP	I
+अनेक	QF	I
+लोगों	NN	I
+में	PSP	I
+इसके	PRP	I
+प्रति	PSP	I
+अरुचि	NN	I
+होती	VM	I
+है	VAUX	E
+।	SYM	O

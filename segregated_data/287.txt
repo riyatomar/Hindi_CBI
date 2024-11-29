@@ -1,0 +1,17 @@
+इसके	PRP	S
+तुरंत	RP	I
+बाद	NST	I
+ही	RP	I
+,	SYM	I
+शिकागो	NNPC	I
+विश्वविद्यालय	NNP	I
+ने	PSP	I
+उन्हें	PRP	I
+अपने	PRP	I
+यहां	PRP	I
+व्याख्यान	NN	I
+के	PSP	I
+लिए	PSP	I
+आमंत्रित	JJ	I
+किया	VM	E
+।	SYM	O

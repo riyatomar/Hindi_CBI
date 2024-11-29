@@ -1,0 +1,13 @@
+हम	PRP	S
+वहां	PRP	I
+कुछ	QF	I
+ही	RP	I
+प्रजातियों	NN	I
+के	PSP	I
+जीवन	NN	I
+की	PSP	I
+अपेक्षा	NN	I
+कर	VM	I
+सकते	VAUX	I
+हैं	VAUX	E
+।	SYM	O

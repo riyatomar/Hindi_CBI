@@ -1,0 +1,17 @@
+यह	DEM	S
+ईमेल	NN	I
+या	CC	I
+इंस्टैंट	NNC	I
+मैसेजिंग	NN	I
+जैसे	PSP	I
+साधनों	NN	I
+में	PSP	I
+प्रयुक्त	JJ	I
+पुश	NNC	I
+तकनलाजी	NN	I
+से	PSP	I
+ठीक	JJ	I
+उलट	VM	I
+युक्ति	NN	I
+है	VM	E
+।	SYM	O

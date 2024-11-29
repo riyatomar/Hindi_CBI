@@ -1,0 +1,10 @@
+पंद्रह	QC	S
+दिन	NN	I
+बाद	NST	I
+एक	QC	I
+संगीन	JJ	I
+बगावत	NN	I
+चांगशा	NNP	I
+में	PSP	I
+हुई	VM	E
+।	SYM	O

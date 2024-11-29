@@ -1,0 +1,11 @@
+इन्हीं	DEM	S
+विकल्पों	NN	I
+के	PSP	I
+साथ	NST	I
+हम	PRP	I
+ईराक	NNP	I
+की	PSP	I
+ओर	NST	I
+लौटते	VM	I
+हैं-	VAUX	E
+।	SYM	O

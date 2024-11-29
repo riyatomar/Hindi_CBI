@@ -1,0 +1,13 @@
+आपने	PRP	S
+ध्यान	NN	I
+दिया	VM	I
+होगा	VAUX	I
+,	SYM	I
+कनाडा	NNP	I
+में	PSP	I
+चुनाव	NN	I
+सिर्फ़	RP	I
+एक	QC	I
+मजाक	NN	I
+है	VM	E
+।	SYM	O

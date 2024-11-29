@@ -1,0 +1,15 @@
+गंगाजल	NNP	S
+को	PSP	I
+पवित्र	JJ	I
+समझा	VM	I
+जाता	VAUX	I
+है	VAUX	E
+तथा	CC	O
+समस्त	JJ	S
+संस्कारों	NN	I
+में	PSP	I
+उसका	PRP	I
+होना	VM	I
+आवश्यक	JJ	I
+है	VM	E
+।	SYM	O

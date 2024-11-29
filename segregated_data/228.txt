@@ -1,0 +1,14 @@
+थोडी	QF	S
+अवधि	NN	I
+के	PSP	I
+बाद	NST	I
+मुर्गे	NN	I
+बदलकर	VM	I
+यह	DEM	I
+दोष	NN	I
+दूर	NST	I
+किया	VM	I
+जा	VAUX	I
+सकता	VAUX	I
+है	VAUX	E
+।	SYM	O

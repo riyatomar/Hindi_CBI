@@ -1,0 +1,16 @@
+तात्कालिक	JJ	S
+जब	PRP	S
+कार्यवाई	NN	I
+की	PSP	I
+जरूरत	NN	I
+है	VM	I
+,	SYM	I
+तब	PRP	I
+द्रुतगामी	NN	I
+के	PSP	I
+कारणतात्कालिक	JJ	I
+प्रत्युत्तर	NN	I
+प्राप्त	JJ	I
+होता	VM	I
+है	VAUX	E
+।	SYM	O

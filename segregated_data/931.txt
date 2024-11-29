@@ -1,0 +1,15 @@
+किन्तु	CC	O
+ये	PRP	S
+वर्तमान	JJ	I
+समय	NN	I
+में	PSP	I
+गंगा	NNP	I
+से	PSP	I
+पृथक	JJ	I
+होकर	VM	I
+वर्षाकालीन	JJ	I
+नदियाँ	NN	I
+बन	VM	I
+गई	VAUX	I
+हैं	VAUX	E
+।	SYM	O

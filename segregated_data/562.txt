@@ -1,0 +1,16 @@
+एक	QC	S
+और	QF	I
+चुनौती	NN	I
+राहदारी	NNC	I
+शुल्क	NN	I
+कम	QF	I
+करने	VM	I
+के	PSP	I
+लिए	PSP	I
+राजनैतिक	JJ	I
+दबाव	NN	I
+के	PSP	I
+रूप	PSP	I
+में	PSP	I
+है	VM	E
+।	SYM	O

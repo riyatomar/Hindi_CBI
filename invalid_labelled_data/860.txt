@@ -1,0 +1,15 @@
+एक	QC	S
+युद्ध	NN	I
+था	VM	I
+,	SYM	I
+भारतीय	NNPC	I
+सेना	NN	I
+,	SYM	I
+जो	PRP	S
+हम	PRP	I
+नहीं	NEG	I
+चाहते	VM	I
+की	PSP	I
+अक्सर	RB	I
+हो	VM	E
+।	SYM	O

@@ -1,0 +1,11 @@
+कांग्रेस	NNP	S
+अभी	PRP	I
+किसी	PRP	I
+मुद्दे	NN	I
+पर	PSP	I
+ओस	NNC	I
+रवैया	NN	I
+नहीं	NEG	I
+अपना	VM	I
+पाई	VAUX	E
+।	SYM	O

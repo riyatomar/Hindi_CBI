@@ -1,0 +1,12 @@
+आमतौर	NN	S
+पर	PSP	I
+दूसरा	QO	I
+या	CC	I
+तीसरा	QO	I
+सबसे	INTF	I
+अच्छा	JJ	I
+पूर्वानुमान	NN	I
+सही	JJ	I
+जवाब	NN	I
+था	VM	E
+।	SYM	O

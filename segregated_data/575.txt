@@ -1,0 +1,12 @@
+क़्या	SYM	S
+उनमें	PRP	I
+पैतृक-रक्षण	NN	I
+किसी	PRP	I
+स्तर	NN	I
+पर	PSP	I
+संवेगात्मक	JJ	I
+रंग	NN	I
+नहीं	NEG	I
+अपनाता	VM	E
+?	SYM	O
+।	SYM	O

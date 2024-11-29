@@ -1,0 +1,17 @@
+अमेरिका	NNP	S
+में	PSP	I
+आतंकवादी	JJ	I
+हमलं	NNP	I
+के	PSP	I
+बाद	NST	I
+भारतीय	JJ	I
+मदद	NN	I
+की	PSP	I
+पेशकश	NN	I
+पर	PSP	I
+आपका	PRP	I
+क्या	WQ	I
+नजरिया	NN	I
+है	VM	E
+?	SYM	O
+।	SYM	O

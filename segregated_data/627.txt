@@ -1,0 +1,12 @@
+और	CC	O
+उनमें	PRP	S
+से	PSP	I
+एक	QC	I
+मेरे	PRP	I
+पास	NST	I
+अगली	JJ	I
+सुबह	NN	I
+आया	VM	E
+और	CC	O
+बोला	VM	S	E
+।	SYM	O

@@ -1,0 +1,17 @@
+उनके	PRP	S
+कार्यकलपों	NN	I
+पर	PSP	I
+कडी	JJ	I
+प्रतिक्रिया	NN	I
+होती	VM	I
+है	VAUX	E
+और	CC	O
+उन्हें	PRP	S
+वाहवाही	NN	I
+मिलती	VM	I
+रही	VAUX	I
+है	VAUX	E
+या	CC	O
+खासी	JJ	S
+निंदा	NN	E
+।	SYM	O

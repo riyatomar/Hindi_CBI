@@ -1,0 +1,15 @@
+पहले	NST	S
+दो	QC	I
+को	PSP	I
+अविश्वसनीय	JJ	I
+मानकर	VM	I
+बाकी	JJ	I
+पांच	QC	I
+मुखबिरों	NN	I
+के	PSP	I
+आधार	NN	I
+पर	PSP	I
+मुकदमा	NN	I
+चलाया	VM	I
+गया	VAUX	E
+।	SYM	O

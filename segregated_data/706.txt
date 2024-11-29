@@ -1,0 +1,16 @@
+सरकार	NN	S
+इस	PRP	I
+हेतु	PSP	I
+एकमुश्त	JJ	I
+धन	NN	I
+और	CC	I
+दो	QC	I
+वर्षों	NN	I
+तक	PSP	I
+कुछ	QF	I
+आवर्ती	JJ	I
+राशि	NN	I
+उपलब्ध	JJ	I
+कराती	VM	I
+है	VAUX	E
+।	SYM	O

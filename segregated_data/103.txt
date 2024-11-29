@@ -1,0 +1,11 @@
+आश्विन	NNPC	S
+शुक्ल	NNPC	I
+दशमी	NNP	I
+को	PSP	I
+विजयादशमी	NNP	I
+का	PSP	I
+त्यौहार	NN	I
+मनाया	VM	I
+जाता	VAUX	I
+है	VAUX	E
+।	SYM	O

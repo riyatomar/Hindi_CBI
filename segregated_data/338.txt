@@ -1,0 +1,5 @@
+अधिक	QF	S
+जानकारी	NN	I
+के	PSP	I
+लिए	PSP	E
+।	SYM	O

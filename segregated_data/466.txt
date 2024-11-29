@@ -1,0 +1,16 @@
+पहले	NST	S
+,	SYM	I
+उन्हें	PRP	I
+सियासी	JJ	I
+ताकतों	NN	I
+के	PSP	I
+पास	NST	I
+जाकर	VM	I
+देश	NN	I
+को	PSP	I
+मेल-मिलप	NN	I
+के	PSP	I
+जरिए	PSP	I
+सहलना	VM	I
+होगा	VAUX	E
+।	SYM	O

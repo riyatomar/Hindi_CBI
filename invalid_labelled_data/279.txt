@@ -1,0 +1,14 @@
+इसके	PRP	S
+अनेक	QF	I
+लक्षण	NN	I
+ऐसे	PRP	I
+होते	VM	I
+हैं	VAUX	E
+जो	PRP	S
+बडे	JJ	I
+होने	VM	I
+में	PSP	I
+पाये	VM	I
+जाते	VAUX	E
+हैं	VAUX	E
+।	SYM	O

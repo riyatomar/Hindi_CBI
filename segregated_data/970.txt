@@ -1,0 +1,12 @@
+ये	DEM	S
+अपवाद	NN	I
+ही	RP	I
+नयी	JJ	I
+जीव	NN	I
+वैज्ञानिक	JJ	I
+खोजों	NN	I
+के	PSP	I
+स्रोत	NN	I
+होते	VM	I
+हैं	VAUX	E
+।	SYM	O

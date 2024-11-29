@@ -1,0 +1,11 @@
+आखिरकार	RB	S
+राजनीति	NN	I
+में	PSP	I
+हमदर्दी	NN	I
+जीतना	VM	I
+जिंदगी-या	JJ	I
+मौत-का	JJ	I
+सवाल	NN	I
+होता	VM	I
+है	VAUX	E
+।	SYM	O

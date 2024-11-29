@@ -1,0 +1,15 @@
+इन	DEM	S
+मुलाकातों	NN	I
+की	PSP	I
+सभी	QF	I
+सूचनाएँ	NN	I
+मिटा	VM	I
+दी	VAUX	I
+जाएँगी	VAUX	E
+और	CC	O
+फिर	RB	S
+सहेजी	VM	I
+नहीं	NEG	I
+जा	VAUX	I
+सकेगी	VAUX	E
+।	SYM	O

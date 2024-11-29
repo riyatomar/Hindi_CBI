@@ -1,0 +1,7 @@
+क्या	WQ	S
+इससे	PRP	I
+तकलीफ	NN	I
+होती	VM	I
+है	VAUX	E
+?	SYM	O
+।	SYM	O

@@ -1,0 +1,13 @@
+द्रोण	NNP	S
+:	SYM	I
+हस्तिनापुर	NNP	I
+के	PSP	I
+राजकुमारों	NN	I
+को	PSP	I
+शस्त्र	NNC	I
+विद्या	NN	I
+देने	VM	I
+वाले	PSP	I
+ब्राह्मण	NN	I
+गुरु	NNP	E
+।	SYM	O

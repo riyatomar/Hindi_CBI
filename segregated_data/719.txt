@@ -1,0 +1,16 @@
+स्वयं	PRP	S
+बदरूद्दीन	NNP	I
+को	PSP	I
+अंग्रजी	NNPC	I
+शिक्षा	NN	I
+के	PSP	I
+शुरू	NN	I
+होने	VM	I
+से	PSP	I
+पहले	NST	I
+ये	DEM	I
+सारी	QF	I
+भाषाएं	NN	I
+सीखनी	VM	I
+पडी	VAUX	E
+।	SYM	O

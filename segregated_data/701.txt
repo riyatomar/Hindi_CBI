@@ -1,0 +1,16 @@
+आपको	PRP	S
+उन	DEM	I
+बडी	JJ	I
+बातों	NN	I
+के	PSP	I
+लिए	PSP	I
+अपने	PRP	I
+को	PSP	I
+तैयार	JJ	I
+करना	VM	I
+होगा	VAUX	E
+,	SYM	O
+जो	PRP	S
+आगे	NST	I
+आयेंगी	VM	E
+।	SYM	O

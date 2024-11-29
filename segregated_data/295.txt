@@ -1,0 +1,16 @@
+उत्तर	NNP	S
+में	PSP	I
+पहाड	NN	I
+और	CC	I
+दक्षिण	NNP	I
+में	PSP	I
+विशाल	JJ	I
+झील	NN	I
+इसकी	PRP	I
+सुंदरता	NN	I
+में	PSP	I
+चार	QC	I
+चांद	NN	I
+लगाते	VM	I
+हैं	VAUX	E
+।	SYM	O

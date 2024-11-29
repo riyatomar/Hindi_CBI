@@ -1,0 +1,15 @@
+महादेवी	NNPC	S
+शेटटी	NNP	I
+नामक	JJ	I
+कलिंग	NNP	I
+(	SYM	I
+आधुनिक	JJ	I
+ओडिसा	NNP	I
+)	SYM	I
+का	PSP	I
+व्यापारी	NN	I
+भी	RP	I
+एक	QC	I
+भक़्त	NN	I
+था	VM	E
+।	SYM	O

@@ -1,0 +1,13 @@
+संक्षिप्त	JJ	S
+सामान्य	JJ	I
+सेना	NNC	I
+न्यायालय	NNP	I
+में	PSP	I
+कम	QF	I
+से	RP	I
+कम	QF	I
+तीन	QC	I
+अधिकारी	NN	I
+होते	VM	I
+हैं	VAUX	E
+।	SYM	O

@@ -1,0 +1,17 @@
+इस	DEM	S
+अवसर	NN	I
+पर	PSP	I
+दिए	VM	I
+गए	VAUX	I
+उनके	PRP	I
+भाषण	NN	I
+में	PSP	I
+उनके	PRP	I
+इस	DEM	I
+गुण	NN	I
+को	PSP	I
+देखा	VM	I
+जा	VAUX	I
+सकता	VAUX	I
+है	VAUX	E
+।	SYM	O

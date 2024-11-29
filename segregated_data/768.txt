@@ -1,0 +1,16 @@
+उपचार	NN	S
+निर्भर	JJ	I
+यह	PRP	I
+करता	VM	I
+है	VAUX	E
+कि	CC	O
+ऊपर	NST	S
+दिये	VM	I
+गये	VAUX	I
+किस	WQ	I
+कारण	NN	I
+से	PSP	I
+पानी	NN	I
+बहता	VM	I
+है	VAUX	E
+।	SYM	O

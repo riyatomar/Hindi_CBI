@@ -1,0 +1,16 @@
+भारत	NNP	S
+में	PSP	I
+,	SYM	I
+विशेषकर	JJ	I
+मुसलमानों	NN	I
+में	PSP	I
+,	SYM	I
+पुरूषों	QC	I
+और	CC	I
+महिलाओं	NN	I
+की	PSP	I
+दुनिया	NN	I
+अलग-	INTF	I
+अलग	JJ	I
+थी	VM	E
+।	SYM	O

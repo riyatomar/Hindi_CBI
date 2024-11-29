@@ -1,0 +1,16 @@
+शर्मीली	JJ	S
+और	CC	I
+आर्द्र	NN	I
+,	SYM	I
+बचकाने	JJ	I
+विस्मय	NN	I
+से	PSP	I
+भरी	VM	I
+हुई	VAUX	I
+,	SYM	I
+वे	PRP	I
+आँखें	NN	I
+सचमुच	RB	I
+ख़ूबसूरत	JJ	I
+थीं	VM	E
+।	SYM	O

@@ -1,0 +1,15 @@
+खालिद	NNPC	S
+बल्ख	NNP	I
+में	PSP	I
+एक	QC	I
+बौद्ध	NNC	I
+मठ	NN	I
+के	PSP	I
+मठाधीश	NN	I
+(	SYM	I
+बरमक	NNP	I
+)	SYM	I
+का	PSP	I
+पुत्र	NN	I
+था	VM	E
+।	SYM	O

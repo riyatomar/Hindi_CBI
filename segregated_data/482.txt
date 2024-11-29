@@ -1,0 +1,17 @@
+यह	DEM	S
+शब्द	NN	I
+फारसी	NNP	I
+शब्द	NN	I
+पारिदाइजा	NN	I
+से	PSP	I
+बना	VM	I
+शब्द	NN	I
+है	VM	E
+जिसका	PRP	S
+अर्थ	NN	I
+है	VM	I
+एक	QC	I
+भीत्त	NN	I
+रक्षित	JJ	I
+बाग	NNP	E
+।	SYM	O

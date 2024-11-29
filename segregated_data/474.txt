@@ -1,0 +1,15 @@
+तो	RP	S
+किसी	PRP	I
+भी	RP	I
+समस्या	NN	I
+के	PSP	I
+लिये	PSP	I
+,	SYM	I
+यदि	CC	I
+आप	PRP	I
+संपूर्ण	JJ	I
+जटिलता	NN	I
+को	PSP	I
+स्वीकार	NN	I
+करेंगे	VM	E
+।	SYM	O

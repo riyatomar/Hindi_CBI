@@ -1,0 +1,15 @@
+आपका	PRP	S
+डाक्टर	NNC	I
+आपको	PRP	I
+एन	NNPC	I
+एच	NNPC	I
+एस	NNPC	I
+चिरोपॉडिस्ट	NNP	I
+के	PSP	I
+संपर्क	NN	I
+में	PSP	I
+लाने	VM	I
+में	PSP	I
+योग्य	JJ	I
+होगा	VM	E
+।	SYM	O

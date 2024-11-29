@@ -1,0 +1,16 @@
+यही	PRP	S
+नही	NEG	I
+जो	DEM	S
+नाम	NN	I
+प्रचलित	JJ	I
+नहीं	NEG	I
+रहे	VM	I
+उनका	PRP	I
+प्रयोग	NN	I
+करने	VM	E
+पर	CC	O
+आप	PRP	S
+मूर्ख	JJ	I
+दिखाई	VM	I
+पडेंगे	VAUX	E
+।	SYM	O

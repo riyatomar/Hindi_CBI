@@ -1,0 +1,16 @@
+सुनिश्चित	JJ	S
+यह	PRP	I
+कीजिए	VM	E
+कि	CC	O
+वापस	JJ	S
+लिए	VM	I
+जाने	VAUX	I
+तक	PSP	I
+आप	PRP	I
+उनको	PRP	I
+अच्छी	JJ	I
+हालत	NN	I
+में	PSP	I
+रखते	VM	I
+हैं	VAUX	E
+।	SYM	O

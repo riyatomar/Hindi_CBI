@@ -57,7 +57,8 @@ for input_folder in input_folders:
             continue
 
         # Construct a unique output file path
-        output_file_name = f"{os.path.basename(input_folder)}_{input_filename}"
+        # output_file_name = f"{os.path.basename(input_folder)}_{input_filename}"
+        output_file_name = f"{input_filename}"
         output_file_path = os.path.join(output_folder_path, output_file_name)
 
         # Read the input file
@@ -75,4 +76,3 @@ for input_folder in input_folders:
         with open(output_file_path, "w", encoding="utf-8") as file:
             file.write(sentence)
 
-        # print(f"Processed '{input_file_path}' -> '{output_file_path}'")

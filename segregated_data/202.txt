@@ -1,0 +1,13 @@
+क्या	WQ	S
+टूलबार	NNC	I
+मद	NN	I
+दिख	VM	I
+रहा	VAUX	I
+है	VAUX	E
+जब	PRP	S
+टूलबार	NNC	I
+लंबबत	NNP	I
+अभिमुखन	NNP	I
+में	PSP	I
+है	VM	E
+।	SYM	O

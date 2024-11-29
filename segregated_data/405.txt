@@ -1,0 +1,16 @@
+कुल	QF	S
+निर्यात	NNC	I
+वऋ-ऊण्श्छ्ष्-यापार	NNP	I
+के	PSP	I
+प्रतिशत	NN	I
+रूप	NN	I
+में	PSP	I
+जूट	NNC	I
+सामान	NN	I
+के	PSP	I
+निर्यात	NN	I
+में	PSP	I
+निरंतर	JJ	I
+गिरावट	NN	I
+रही	VM	E
+।	SYM	O

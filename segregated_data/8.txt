@@ -1,0 +1,17 @@
+लोकसभा	NN	S
+की	PSP	I
+कार्यावधि	NN	I
+5	QC	I
+वर्ष	NN	I
+है	VM	I
+पर्तु	NN	I
+इसे	PRP	I
+समय	NN	I
+से	PSP	I
+पूर्व	NST	I
+भंग	JJ	I
+किया	VM	I
+जा	VAUX	I
+सकता	VAUX	I
+है	VAUX	E
+।	SYM	O

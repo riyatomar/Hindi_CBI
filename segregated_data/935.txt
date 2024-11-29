@@ -1,0 +1,17 @@
+आरंभिक	JJ	S
+काल	NN	I
+से	PSP	I
+ही	RP	I
+,	SYM	I
+पंचायतों	NN	I
+के	PSP	I
+निर्णयों	NN	I
+को	PSP	I
+बाध्यकारी	JJ	I
+मानकर	VM	I
+स्वीकार	NN	I
+किया	VM	I
+जाता	VAUX	I
+रहा	VAUX	I
+है	VAUX	E
+।	SYM	O
